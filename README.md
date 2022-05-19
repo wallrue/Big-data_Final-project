@@ -14,7 +14,7 @@ This is repository for final project of Big data analysis course. Topic of final
 
   <strong>* Overview Dataset</strong>: The organized dataset is described as below image.
   
-  <img src="https://github.com/wallrue/NTUST_Big-data_Final-project/dataset/orgaized_dataset/dataset_img.png" alt="1" width = auto height = auto>
+  <img src="dataset/organized_dataset/dataset_img.png" alt="1" width = auto height = auto>
 
 ## Architecture
 1. <strong>Problem definition:</strong>
@@ -24,11 +24,12 @@ This is repository for final project of Big data analysis course. Topic of final
 2. <strong>Methodology:</strong> 
   
   From organized dataset, we manipulate some pre-processing steps to get sentences which are corresponding to each email. Then, each sentence will be taken to model for classify unsupervisedly. 
-  <img src="https://github.com/wallrue/NTUST_Big-data_Final-project/materials/architecture.png" alt="1" width = auto height = auto>
+  
+  <img src="materials/architecture.png" alt="1" width = auto height = auto>
   
 ## Task division:
   
-  <img src="https://github.com/wallrue/NTUST_Big-data_Final-project/materials/workload.png" alt="1" width = auto height = auto>
+  <img src="materials/workload.png" alt="1" width = auto height = auto>
   
   * **Vo Van Truc**: Data handling (review data, organise data, clean dataset)
   * **洪郡澤 (Nick)**: Explore dataset, process data for training (topic analysis)
