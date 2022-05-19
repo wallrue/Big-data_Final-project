@@ -26,6 +26,7 @@ This is repository for final project of Big data analysis course. Topic of final
 ## Task division:
   
   <img src="https://github.com/wallrue/NTUST_Big-data_Final-project/materials/workload.png" alt="1" width = auto height = auto>
+  
   * Vo Van Truc: Data handling (review data, organise data, clean dataset)
   * 洪郡澤 (Nick): Explore dataset, process data for training (topic analysis)
   * Trinh TT Quynh: Propose Idea, Train LDA model for training, Experiment
