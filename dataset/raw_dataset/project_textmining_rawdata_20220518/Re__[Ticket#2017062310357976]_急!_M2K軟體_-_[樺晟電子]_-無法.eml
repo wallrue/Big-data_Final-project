@@ -1,0 +1,270 @@
+X-M2K-MATCHED-RULE: SPAM_FILTER-InADB
+X-M2K-MATCHED-RESULT: Mail Header From In ADB/m2k_noc@openfind.com.tw
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 220.130.127.159
+	by ms1.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(28003:1:AUTH_NONE)
+	(envelope-from <prvs=1342A56F26=m2k_noc@openfind.com.tw>); Fri, 23 Jun 2017 10:51:55 +0800 (CST)
+Return-Path: <prvs=1342A56F26=m2k_noc@openfind.com.tw>
+X-M2K-MSG-ID: AI0PKC7RTTJD1LNH
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(22163:0:AUTH_RELAY)
+	(envelope-from <prvs=1342A56F26=m2k_noc@openfind.com.tw>); Fri, 23 Jun 2017 10:51:54 +0800 (CST)
+Return-Path: <prvs=1342A56F26=m2k_noc@openfind.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: By OpenMail Mailer;Fri, 23 Jun 2017 10:51:53 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(2667:0:AUTH_NONE)
+	(envelope-from <prvs=1342A56F26=m2k_noc@openfind.com.tw>); Fri, 23 Jun 2017 10:51:42 +0800 (CST)
+Return-Path: <prvs=1342A56F26=m2k_noc@openfind.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(2945:1:AUTH_NONE)
+	(envelope-from <prvs=1342A56F26=m2k_noc@openfind.com.tw>); Fri, 23 Jun 2017 10:51:40 +0800 (CST)
+Return-Path: <prvs=1342A56F26=m2k_noc@openfind.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)(audit_rules:rules.audit_
+	out1311132448.system#,,,aDELIVER,R/m2k_service@mail2000.com.tw,4,ou)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=openfind.com.tw;
+	s=MailGates; t=1498186300;
+	bh=7kexRivWTlKY9ztiOTeBKlUgS25Mp+zEDVMZkZwC/dM=; l=8654;
+	h=MIME-Version:Subject:Date:Message-ID:To:From;
+	b=Ick6n4qBlyBfAiXrPFoTyWhMtybeu7QonyKOVkrCWduKK8h0+qbDT3t6K+9VS0Aun
+	 BTiOqzk+7S5gd10tCEZBEACSFzHN6rheMnJtABJj6ejS3W73hlz5tUFDJacbMr3l2m
+	 wsMez64Y6cGUH/sgCnW7u7OJQbSpiNuobrsvvAzY=
+X-MGADT: rules.audit_out1311132448.system#,R/m2k_service@mail2000.com.tw
+Received: from 172.16.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V5.0(24818:0:AUTH_RELAY)
+	(envelope-from <m2k_noc@openfind.com.tw>); Fri, 23 Jun 2017 10:48:45 +0800 (CST)
+Return-Path: <m2k_noc@openfind.com.tw>
+Received: from 172.16.1.200
+	by mail2.office.openfind.com.tw with Mail2000 ESMTPSA Server V7.00(2829:0:AUTH_LOGIN)
+	(envelope-from <m2k_noc@openfind.com.tw>)
+	(version=TLSv1/SSLv3 cipher=AES256-GCM-SHA384 bits=256/256); Fri, 23 Jun 2017 10:48:37 +0800 (CST)
+Return-Path: <m2k_noc@openfind.com.tw>
+X-M2KPolicyIP: 172.16.1.200 (#NOT FOUND)
+MIME-Version: 1.0
+CC: m2k_service@mail2000.com.tw
+Subject: Re: [Ticket#2017062310357976] =?UTF-8?Q?=E6=80=A5?=! M2K
+ =?UTF-8?Q?=E8=BB=9F=E9=AB=94=20?=- [=?UTF-8?Q?=E6=A8=BA=E6=99=9F=E9=9B=BB=E5=AD=90?=]
+ - =?UTF-8?Q?=E7=84=A1=E6=B3=95=E7=99=BB=E5=85=A5=E4=BF=A1=E7=AE=B1=20?=Internal
+ Server Error
+X-Powered-BY: OTRS - Open Ticket Request System (http://otrs.org/)
+X-Mailer: OTRS Mail Service (3.3.3)
+Date: Fri, 23 Jun 2017 10:48:37 +0800
+Message-ID: <1498186117.467323.361022396.358131.16@deliver.office.openfind.com.tw>
+To: kate_lin@openfind.com.tw
+Organization: Openfind
+From: =?UTF-8?Q?=E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A=E6=8A=80=E8=A1=93=E6=9C=8D=E5=8B=99=E4=BF=A1=E7=AE=B1=20?=<m2k_noc@openfind.com.tw>
+In-Reply-To: <B8BB42A4D2734B9EA836099451E0408F@tp.office.openfind.com.tw>
+References: <B8BB42A4D2734B9EA836099451E0408F@tp.office.openfind.com.tw>
+Content-Type: multipart/alternative; boundary="----------=_1498186117-26034-0"
+
+This is a multi-part message in MIME format...
+
+------------=_1498186117-26034-0
+Content-Type: text/plain; charset="utf-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+
+Dear Kate,
+
+=E6=82=A8=E5=A5=BD=EF=BC=8C
+=E5=B7=B2=E6=8E=92=E9=99=A4=E5=95=8F=E9=A1=8C=E4=B8=A6=E9=9B=BB=E8=A9=B1=E5=
+=9B=9E=E8=A6=86=EF=BC=8C=E8=AC=9D=E8=AC=9D=E6=82=A8=E7=9A=84=E8=BD=89=E9=81=
+=94=E3=80=82
+
+=E8=8B=A5=E9=82=84=E6=9C=89=E4=BB=BB=E4=BD=95=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=
+=B9=9F=E8=AB=8B=E6=82=A8=E8=B7=9F=E6=88=91=E5=80=91=E8=81=AF=E7=B5=A1=EF=BC=
+=8C=E8=AC=9D=E8=AC=9D=EF=BC=81
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D
+=E2=97=86=E6=9C=8D=E5=8B=99=E4=BF=A1=E7=AE=B1=E3=80=80=E3=80=80=E3=80=80=E3=
+=80=80=C2=A0 m2k_noc@openfind.com.tw
+=E2=97=86=E6=8A=80=E8=A1=93=E6=94=AF=E6=8F=B4=E5=B7=A5=E7=A8=8B=E5=B8=AB=E3=
+=80=80=E3=80=80=E8=A8=B1=E7=9D=BF=E5=BB=B7 Charly Hsu=C2=A0
+=E2=97=86Openfind=E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A =C2=A0=C2=A0[1]http:/=
+/www.openfind.com/
+=E2=97=86Mail2000=E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1=C2=A0=C2=A0[2]http://=
+www.mail2000.com.tw/
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D
+
+2017.06.23 09:15 - =E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A/=E6=9E=97=E5=86=A0=
+=E4=BC=B6 =E5=AF=AB=E9=81=93: =C2=A0
+   =E6=82=A8=E5=A5=BD=EF=BC=8C
+ =C2=A0
+ =E6=A8=BA=E6=99=9F=E9=9B=BB=E5=AD=90
+ =E9=99=B3=E5=85=88=E7=94=9F
+ 0928534200
+ [3]johnny_chen@high-tek.com.tw
+ =C2=A0
+ =E5=95=8F=E9=A1=8C=EF=BC=9A
+ =E6=89=80=E6=9C=89=E5=B8=B3=E8=99=9F=E9=83=BD=E7=84=A1=E6=B3=95=E7=99=BB=
+=E5=85=A5=E4=BF=A1=E7=AE=B1=EF=BC=8C
+ =E5=87=BA=E7=8F=BE=E7=9A=84=E9=8C=AF=E8=AA=A4=E8=A8=8A=E6=81=AF=E6=98=AF I=
+nternal Server Error=EF=BC=8C
+ =E9=99=B3=E5=85=88=E7=94=9F=E8=AA=AA=E5=BE=88=E7=B7=8A=E6=80=A5=EF=BC=8C
+ =E8=AB=8B=E6=82=A8=E7=9B=A1=E5=BF=AB=E5=B9=AB=E5=BF=99=E8=99=95=E7=90=86=
+=E3=80=82
+
+ =E8=AB=8B=E6=82=A8=E5=8D=94=E5=8A=A9=EF=BC=8C=E6=84=9F=E8=AC=9D=E3=80=82
+
+Best Regards,
+Kate
+
+=E6=9E=97=E5=86=A0=E4=BC=B6 Kate Lin
+=E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A=E8=BB=9F=E9=AB=94=E8=82=A1=E4=BB=BD=E6=
+=9C=89=E9=99=90=E5=85=AC=E5=8F=B8 / =E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99
+Online Service Dept., Openfind Information Technology, Inc.
+=E5=8F=B0=E5=8C=97=E5=B8=82=E5=A4=A7=E5=90=8C=E5=8D=80=E9=87=8D=E6=85=B6=E5=
+=8C=97=E8=B7=AF=E4=BA=8C=E6=AE=B5 243 =E8=99=9F 7 =E6=A8=93
+Email: kate_lin@openfind.com.tw
+TEL:+886 2 25532000 ext.745
+
+=E7=B6=B2=E6=93=8E=E4=BC=81=E6=A5=AD=E9=83=B5=E4=BB=B6=E4=BB=A3=E7=AE=A1 [4=
+]http://www.mailasp.com.tw/
+Mail2000 =E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1 [5]http://mail2000.com.tw/
+Openfind =E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A [6]http://www.openfind.com/
+
+
+
+[1] http://www.openfind.com/
+[2] http://www.mail2000.com.tw/
+[3] mailto:johnny_chen@high-tek.com.tw
+[4] http://www.mailasp.com.tw/
+[5] http://mail2000.com.tw/
+[6] http://www.openfind.com/
+
+------------=_1498186117-26034-0
+Content-Type: text/html; charset="utf-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3Dutf-8"/></head><body style=3D"font-family:Geneva,Helvetic=
+a,Arial,sans-serif; font-size: 16px;"><p><span style=3D"font-family:arial,h=
+elvetica,sans-serif"><span style=3D"font-size:16px">Dear </span></span><spa=
+n style=3D"color:rgb(0, 0, 0); font-family:=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=
+=BB=91=E9=AB=94">Kate</span><span style=3D"font-family:arial,helvetica,sans=
+-serif">,</span></p>
+
+<p><br />
+<font face=3D"arial, helvetica, sans-serif">=E6=82=A8=E5=A5=BD=EF=BC=8C<br =
+/>
+=E5=B7=B2=E6=8E=92=E9=99=A4=E5=95=8F=E9=A1=8C=E4=B8=A6=E9=9B=BB=E8=A9=B1=E5=
+=9B=9E=E8=A6=86=EF=BC=8C=E8=AC=9D=E8=AC=9D=E6=82=A8=E7=9A=84=E8=BD=89=E9=81=
+=94=E3=80=82</font></p>
+&nbsp;
+
+<p><br />
+<br />
+<span style=3D"color:rgb(0, 0, 0); font-family:times new roman,times,serif;=
+ font-size:16px">=E8=8B=A5=E9=82=84=E6=9C=89=E4=BB=BB=E4=BD=95=E5=95=8F=E9=
+=A1=8C=EF=BC=8C=E4=B9=9F=E8=AB=8B=E6=82=A8=E8=B7=9F=E6=88=91=E5=80=91=E8=81=
+=AF=E7=B5=A1=EF=BC=8C=E8=AC=9D=E8=AC=9D=EF=BC=81</span><br />
+<span style=3D"color:rgb(0, 0, 0); font-family:times new roman,times,serif;=
+ font-size:16px">=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D</span><br />
+<span style=3D"color:rgb(0, 0, 0); font-family:times new roman,times,serif;=
+ font-size:16px">=E2=97=86=E6=9C=8D=E5=8B=99=E4=BF=A1=E7=AE=B1=E3=80=80=E3=
+=80=80=E3=80=80=E3=80=80&nbsp; m2k_noc@openfind.com.tw</span><br />
+<span style=3D"color:rgb(0, 0, 0); font-family:times new roman,times,serif;=
+ font-size:16px">=E2=97=86</span><span style=3D"color:rgb(0, 0, 0); font-fa=
+mily:times new roman,times,serif">=E6=8A=80=E8=A1=93=E6=94=AF=E6=8F=B4=E5=
+=B7=A5=E7=A8=8B=E5=B8=AB=E3=80=80=E3=80=80=E8=A8=B1=E7=9D=BF=E5=BB=B7 Charl=
+y Hsu&nbsp;</span><br />
+<span style=3D"color:rgb(0, 0, 0); font-family:times new roman,times,serif"=
+>=E2=97=86Openfind=E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A &nbsp;&nbsp;</span><=
+a href=3D"http://www.openfind.com/" style=3D"font-family: 'times new roman'=
+, times, serif; " target=3D"_blank">http://www.openfind.com/</a><br />
+<span style=3D"color:rgb(0, 0, 0); font-family:times new roman,times,serif"=
+>=E2=97=86Mail2000=E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1&nbsp;&nbsp;</span><a=
+ href=3D"http://www.mail2000.com.tw/" style=3D"font-family: 'times new roma=
+n', times, serif; " target=3D"_blank">http://www.mail2000.com.tw/</a><br />
+<span style=3D"color:rgb(0, 0, 0); font-family:times new roman,times,serif"=
+>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D</span></p>
+<br />
+<br />
+2017.06.23 09:15 - =E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A/=E6=9E=97=E5=86=A0=
+=E4=BC=B6 =E5=AF=AB=E9=81=93:
+<div style=3D"border:none;border-left:solid blue 1.5pt;padding:0cm 0cm 0cm =
+4.0pt" type=3D"cite">&nbsp;</div>
+
+<div dir=3D"ltr">
+<div style=3D"FONT-SIZE: 12pt; FONT-FAMILY: '=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=
+=BB=91=E9=AB=94'; COLOR: #000000">
+<div>=E6=82=A8=E5=A5=BD=EF=BC=8C</div>
+
+<div>&nbsp;</div>
+
+<div>=E6=A8=BA=E6=99=9F=E9=9B=BB=E5=AD=90</div>
+
+<div>=E9=99=B3=E5=85=88=E7=94=9F</div>
+
+<div>0928534200</div>
+
+<div><a href=3D"mailto:johnny_chen@high-tek.com.tw" target=3D"_blank">johnn=
+y_chen@high-tek.com.tw</a></div>
+
+<div>&nbsp;</div>
+
+<div>=E5=95=8F=E9=A1=8C=EF=BC=9A</div>
+
+<div>=E6=89=80=E6=9C=89=E5=B8=B3=E8=99=9F=E9=83=BD=E7=84=A1=E6=B3=95=E7=99=
+=BB=E5=85=A5=E4=BF=A1=E7=AE=B1=EF=BC=8C</div>
+
+<div>=E5=87=BA=E7=8F=BE=E7=9A=84=E9=8C=AF=E8=AA=A4=E8=A8=8A=E6=81=AF=E6=98=
+=AF Internal Server Error=EF=BC=8C</div>
+
+<div>=E9=99=B3=E5=85=88=E7=94=9F=E8=AA=AA=E5=BE=88=E7=B7=8A=E6=80=A5=EF=BC=
+=8C</div>
+
+<div>=E8=AB=8B=E6=82=A8=E7=9B=A1=E5=BF=AB=E5=B9=AB=E5=BF=99=E8=99=95=E7=90=
+=86=E3=80=82</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div style=3D"FONT-SIZE: 12pt; FONT-FAMILY: '=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=
+=BB=91=E9=AB=94'; COLOR: #000000">=E8=AB=8B=E6=82=A8=E5=8D=94=E5=8A=A9=EF=
+=BC=8C=E6=84=9F=E8=AC=9D=E3=80=82<br />
+<br />
+<br />
+Best Regards,<br />
+Kate<br />
+<br />
+<br />
+=E6=9E=97=E5=86=A0=E4=BC=B6 Kate Lin<br />
+=E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A=E8=BB=9F=E9=AB=94=E8=82=A1=E4=BB=BD=E6=
+=9C=89=E9=99=90=E5=85=AC=E5=8F=B8 / =E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99<br=
+ />
+Online Service Dept., Openfind Information Technology, Inc.<br />
+=E5=8F=B0=E5=8C=97=E5=B8=82=E5=A4=A7=E5=90=8C=E5=8D=80=E9=87=8D=E6=85=B6=E5=
+=8C=97=E8=B7=AF=E4=BA=8C=E6=AE=B5 243 =E8=99=9F 7 =E6=A8=93<br />
+Email: kate_lin@openfind.com.tw<br />
+TEL:+886 2 25532000 ext.745<br />
+<br />
+=E7=B6=B2=E6=93=8E=E4=BC=81=E6=A5=AD=E9=83=B5=E4=BB=B6=E4=BB=A3=E7=AE=A1 <a=
+ href=3D"http://www.mailasp.com.tw/" title=3D"http://www.mailasp.com.tw/" t=
+arget=3D"_blank">http://www.mailasp.com.tw/</a><br />
+Mail2000 =E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1 <a href=3D"http://mail2000.co=
+m.tw/" title=3D"http://mail2000.com.tw/" target=3D"_blank">http://mail2000.=
+com.tw/</a><br />
+Openfind =E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A <a href=3D"http://www.openfin=
+d.com/" title=3D"http://www.openfind.com/" target=3D"_blank">http://www.ope=
+nfind.com/</a></div>
+</div>
+</div></body></html>=
+
+------------=_1498186117-26034-0--

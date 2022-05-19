@@ -1,0 +1,291 @@
+X-M2K-MATCHED-RULE: USER_FILTER
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 3.3.3.3
+	by ms1.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(27435:0:AUTH_NONE)
+	(envelope-from <bounces+4491982-ec99-edu=openfind.com@fddkim.openfind.com.tw>); Thu, 22 Nov 2018 10:33:40 +0800 (CST)
+Return-Path: <bounces+4491982-ec99-edu=openfind.com@fddkim.openfind.com.tw>
+X-M2K-MSG-ID: 4C5CVD12KLNSDOF0
+X-M2K-DINF: v=1;em=2;eh=1c343546/39ZGZW;ec=55c9df3d;m=8yo1PZstBwL35gJZ4F09hjcm
+   1MPbMj2SekgCF/bd08Z1MByw9CRkz7jhkcsvuRnu7G348KLXX0M82ofGoCEcr2ItWHyMU+BvB4Ib
+   pnBJ4gD6DrE270+5xd60oeIn8d7HSVbQfW1Q5kC0LgI/vkXDbawMqP0YzdkyCmolRa0HIyDzFNZq
+   Mj0UxW9hH2+M0Qw2AmgjR7qLP1BqFEIBVa6g/qkxePH3lD++jcv3jyrdh7k=
+X-MailGates: (RBL:2,PASS,0.000000e+00)(SPF:2,PASS,softfail)(BATV:2,PASS,
+	sender not empty)(DKIM:2,PASS,Success(0))(DMARC:2,PASS,Policy Success(15
+	))(flag:1,RELAY:PASS)(IPF:2,PASS)(FROMBW:2,PASS)(FROMBW:2,PASS)(FROMBW:2
+	,PASS)(FROMBW:2,PASS)(FROMBW:2,PASS)(FROMBW:2,PASS)(ipmatch:pattern.iptr
+	ust.system,,HAM,3.3.3.3,0)
+Received: from 220.130.127.171
+	by mxs.mailcloud.com.tw with MailAudit ESMTP Server V5.0(24954:1:AUTH_NONE)
+	(envelope-from <bounces+4491982-ec99-edu=openfind.com@fddkim.openfind.com.tw>); Thu, 22 Nov 2018 10:33:40 +0800 (CST)
+Return-Path: <bounces+4491982-ec99-edu=openfind.com@fddkim.openfind.com.tw>
+Received: from 127.0.0.1
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(1837:0:AUTH_RELAY)
+	(envelope-from <bounces+4491982-ec99-edu=openfind.com@fddkim.openfind.com.tw>); Thu, 22 Nov 2018 10:32:44 +0800 (CST)
+Return-Path: <bounces+4491982-ec99-edu=openfind.com@fddkim.openfind.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(1823:0:AUTH_RELAY)
+	(envelope-from <bounces+4491982-ec99-edu=openfind.com@fddkim.openfind.com.tw>); Thu, 22 Nov 2018 10:29:57 +0800 (CST)
+Return-Path: <bounces+4491982-ec99-edu=openfind.com@fddkim.openfind.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: By OpenMail Mailer;Thu, 22 Nov 2018 10:29:49 +0800 (CST)
+Received: from 203.69.82.35
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(11020:0:AUTH_NONE)
+	(envelope-from <bounces+4491982-ec99-edu=openfind.com@fddkim.openfind.com.tw>); Thu, 22 Nov 2018 10:29:40 +0800 (CST)
+Return-Path: <bounces+4491982-ec99-edu=openfind.com@fddkim.openfind.com.tw>
+X-M2KSPAM: NO/0
+Received: from 10.0.1.6
+	by mx3.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(1165:0:AUTH_NONE)
+	(envelope-from <bounces+4491982-ec99-edu=openfind.com@fddkim.openfind.com.tw>); Thu, 22 Nov 2018 10:29:27 +0800 (CST)
+Return-Path: <bounces+4491982-ec99-edu=openfind.com@fddkim.openfind.com.tw>
+X-M2KPolicyIP: 10.0.1.6 (#NOT FOUND)
+Received: from spamfilter1.mailcloud.com.tw (localhost [127.0.0.1])
+	by spamfilter1.mailcloud.com.tw (Postfix) with ESMTP id 89BF8540AB1
+	for <m2k_service@mail2000.com.tw>; Thu, 22 Nov 2018 10:29:27 +0800 (CST)
+Received: from l4.mailcloud.com.tw (mta.mailcloud.com.tw [10.0.0.4])
+	by spamfilter1.mailcloud.com.tw (Postfix) with ESMTP
+	for <m2k_service@mail2000.com.tw>; Thu, 22 Nov 2018 10:29:27 +0800 (CST)
+X-M2K-DINF: v=1;em=2;eh=1c343546/tKbn2b;ec=f587b6a1;m=TNBI0o1RmyzxbzoeuemgoQv7
+   zaAWbEf7foRnkCimeQwT3RSyN2OJy56f+eCwBD2EFrInxrTSEd7GYOsvskONczz+2IvHQ9KimfyW
+   xepUM30b7Xl3gSSXOsYj95o4IhBBVrRw6RS6NGFz0P69OVQtLLomKsQ+FinKeSVzOdYeAtkBjYbm
+   3joHAOxxyTppcTMpU1gJ/o8zMA7NNtGo0ZWm7HAtOpnkuI04qBbpgBlS3iY=
+X-MailGates: (DK:2,PASS,no signature)(DKIM:2,PASS,Success(0))(flag:3,DYN
+	AMIC,RELAY,NOHOST:PASS)(IPF:0,HAM,3.3.3.3)(FROMBW:2,PASS)(FROMBW:2,PASS)
+	(ipmatch:pattern.iptrust.system,,HAM,3.3.3.3,0)
+Received: from 3.3.3.3
+	by mta.mailcloud.com.tw with MailAudit ESMTP Server V5.0(11996:0:AUTH_NONE)
+	(envelope-from <bounces+4491982-ec99-edu=openfind.com@fddkim.openfind.com.tw>); Thu, 22 Nov 2018 10:29:26 +0800 (CST)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)
+Received: from 172.16.0.95
+	by mg1.office.openfind.com.tw with MailGates ESMTP Server V5.0(10790:0:AUTH_RELAY)
+	(envelope-from <bounces+4491982-ec99-edu=openfind.com@fddkim.openfind.com.tw>); Thu, 22 Nov 2018 10:29:25 +0800 (CST)
+Received: By OpenMail Mailer;Thu, 22 Nov 2018 10:29:14 +0800 (CST)
+Received: from 10.0.1.115
+	by mail2.office.openfind.com.tw with Mail2000 ESMTP Server V7.00(20355:0:AUTH_RELAY)
+	(envelope-from <bounces+4491982-ec99-edu=openfind.com@fddkim.openfind.com.tw>); Thu, 22 Nov 2018 10:29:13 +0800 (CST)
+X-M2K-MSG-ID: 5BF614795F832528
+X-M2K-DINF: v=1;em=2;eh=45c0a1e9/BhHSqo;ec=0cab8375;m=sn57VXul7y1/tJQ7oTLZRISY
+   sGRlA1BkKxCndu4Ih0A9R6lOmS2RFuY5PPrUz9YTsOjXEVSYqlPdjsxZh1Dy2MK8qeFXsSOeC1S2
+   oXZyxcqHydTHp3PLCsLe08IzPOwTJ6BqmGD47+23fsV6KB7cSS28gS4pW0GGTq1GDXt7EBcI4ds7
+   ihq1M8eh0nJZHRO8rJRCmjOmtTLUUn1SR4RaiwLX9g59Fa1bHRyBL28StgY=
+X-MailGates: (RBL:2,PASS,0.000000e+00)(SPF:2,PASS,pass)(BATV:2,PASS,send
+	er not empty)(DKIM:2,PASS,Success(0))(DMARC:2,PASS,Policy Success(15))(f
+	lag:0,RELAY,LAN:PASS)(IPF:2,PASS)(FROMBW:0,HAM,*@fddkim.openfind.com.tw)
+	(FROMBW:2,PASS)(header_match_any:pattern.fromtrust.system,,HAM,*@fddkim.
+	openfind.com.tw,0)
+Received: from 167.89.33.2
+	by mg1.office.openfind.com.tw with MailGates ESMTP Server V5.0(10817:0:AUTH_NONE)
+	(envelope-from <bounces+4491982-ec99-edu=openfind.com@fddkim.openfind.com.tw>); Thu, 22 Nov 2018 10:29:10 +0800 (CST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=openfind.com.tw; 
+	h=mime-version:from:reply-to:to:cc:in-reply-to:references:subject:content-type:content-transfer-encoding; 
+	s=m1; bh=6e6iddlj5bcY1MkwepzFeUDYIC4=; b=kYyVzOuSqN8XlEZhkkTZDdp
+	M8Q7yr/NiegTDzKV08b+ZSU+6Pz8QTNPQxMKOt2zZuk42WwMzAG5QflJtFC94iv1
+	o+0qW3Uf1zVn3dxD12dyh3aJyExsdpUFnRe1Ef3WWtZkQFkj0QMcslYCmevxMOD0
+	Wk3fj1Zav8D8aTNdp5DQ=
+Received: by filter0632p1iad2.sendgrid.net with SMTP id filter0632p1iad2-29061-5BF6146F-1
+        2018-11-22 02:29:03.078622352 +0000 UTC m=+526350.305631764
+Received: from freshdesk.com (mail-us1.freshemail.io [34.198.193.174])
+	by ismtpd0001p1iad1.sendgrid.net (SG) with ESMTP id O8Mbtvp_SPCfnLKoISp6Dw
+	for <edu@openfind.com>; Thu, 22 Nov 2018 02:29:02.979 +0000 (UTC)
+MIME-Version: 1.0
+Received: from ec2-18-207-85-237.compute-1.amazonaws.com (EHLO freshdesk.com) ([18.207.85.237])
+          by smtpout.freshdesk.com (Freshworks SMTP Server) with ESMTPA ID -676197660.
+          for <edu@openfind.com>;
+          Thu, 22 Nov 2018 02:29:02 +0000 (UTC)
+Date: Thu, 22 Nov 2018 02:29:03 +0000 (UTC)
+From: Openfind Service Ticket System <support@openfind.com.tw>
+Reply-To: Openfind Service Ticket System <support@openfind.com.tw>
+To: edu@openfind.com
+Cc: edu@openfind.com.tw
+Message-ID: <5bf6146ec1dce_1fc260ced50485363d.free-sidekiq-13@notification.freshdesk.com>
+In-Reply-To: <1542853717.31115.t07216@mail.edu.tw>
+References: <1542771210.3879.edu@openfind.com.tw>,<1542769312.30418.MAILER-DAEMON@mail.edu.tw>
+Subject: =?UTF-8?Q?New_comment_-_[#9876]_Re:?=
+ =?UTF-8?Q?_[=E6=93=8D=E4=BD=9C=E5=95=8F=E9=A1=8C]?=
+ =?UTF-8?Q?_=E5=AF=84=E4=BF=A1=E7=84=A1=E6=B3=95=E6=9B=B8=E5=AF=AB=E5=85=A7=E5=AE=B9?=
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_5bf6146ec5f84_1fc260ced5048537f5";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+sent-on: 2018-11-22 02:29:02 +0000
+Auto-Submitted: auto-generated
+X-Auto-Response-Suppress: DR, RN, OOF, AutoReply
+X-SG-EID: iNi9rfBXzqLAjiTYLfrp2LK9nzYqAK6O4/KSrwmGKAzsIIV0uNhXSif3mxE3Z2vKexGGnWX6vi9oQ4
+ 192Y9RdOoe62C6DlXjuKGg23m/RXeF2M3e+1w4ACXjzSCrF+v3yvjNyUQf/COcIdJx4grwbNLee3zz
+ TP3ebshVMGr0NW05uTWMrXzqZKvjPeiu9YzXPo3yBnAoerMXaqkUrFhEs51SqPdqu7TVZSb50Wmomb
+ Puse7VOHjk5aR6LbPbWShs
+X-SG-ID: dXNuuxiaeVPHPf1dZH02eKYVq1iMeSsftZP6JowhJxihH20BUTgJe2dPgmsX9Dry9XqX1TXriw0EOE
+ EKHyD7NCds6S8GFYI98XztLUjVKAnSpXi1oFY5W1K7dwzgfLkNSFA9QXRdWiMcFjDvmA7MQZAcmGsp
+ Kbl6Xv85CiEOEdVwZSL8vvQy/Im7wws9uSh0q2uE2PRhhaJt46XVeg1xkBcUtezx5hncBV26DaFsdE
+ ek+GIvyHi+DT/UaX/TcoufqjB40m/AiWiQ+ZGDmFck6C7CvvjLHnsrWKtyuPDrD63fpkgk7PML76KZ
+ 0wPQNZK51SGzVhOoOzA0fmzlD0mO7h+lGYMtEG8dBUgYmH1dVJ90dYcmLxeQswOzXNi0e0s0ftd7M1
+ boLUF46NWVfkftvABXPagZrbBJF5RlL0IKKYowSoaLcKoe97kdl8/YANl9
+X-DCC-Body-Count: 1
+X-DCC-Fuz1-Count: 2
+X-DCC-Fuz2-Count: 2
+X-DCC--Metrics: spamfilter1.mailcloud.com.tw 1325; Body=1 Fuz1=2 Fuz2=2
+
+----==_mimepart_5bf6146ec5f84_1fc260ced5048537f5
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+IFRoZXJlIGlzIGEgbmV3IGNvbW1lbnQgaW4gdGhlIHRpY2tldCBzdWJtaXR0ZWQgYnkg5pWZ6IKy
+6YOo5qCh5ZyS6Zuy56uv6Zu75a2Q6YO15Lu2IHRvIOe2suaTjuizh+ioiiAgIENvbW1lbnQgYWRk
+ZWQgYnkgOiB0MDcyMTYgIENvbW1lbnQgQ29udGVudDogIDxkaXY+5oKo5aW9OjwvZGl2Pgo8ZGl2
+PuisneisneS9oO+8jOW3sue2k+WPr+S7peS9v+eUqOS6hu+8jOaEn+aBqTwvZGl2Pgo8ZGl2PuaV
+rOelnTwvZGl2Pgo8ZGl2PsKgIMKgIMKgIMKgIMKgIMKgIOW5s+WuieWWnOaogjxicj4KPC9kaXY+
+CjxkaXYgY2xhc3M9ImZyZXNoZGVza19xdW90ZSI+PGJsb2NrcXVvdGUgY2xhc3M9ImZyZXNoZGVz
+a19xdW90ZSI+CjxkaXY+LS0tLS1PcmlnaW5hbCBtZXNzYWdlLS0tLS08YnI+Cgo8Yj5Gcm9tOjwv
+Yj7mlZnogrLpg6jmoKHlnJLpm7Lnq6/pm7vlrZDpg7Xku7YmbHQ7ZWR1QG9wZW5maW5kLmNvbS50
+dyZndDs8YnI+CjxiPlRvOjwvYj50MDcyMTYmbHQ7dDA3MjE2QG1haWwuZWR1LnR3Jmd0Ozxicj4K
+PGI+Q2M6PC9iPuaVmeiCsumDqOagoeWckumbsuerr+mbu+WtkOmDteS7tiZsdDtlZHVAb3BlbmZp
+bmQuY29tJmd0Ozxicj4KPGI+RGF0ZTogPC9iPiBXZWQsIDIxIE5vdiAyMDE4IDExOjMzOjMwPGJy
+Pgo8Yj5TdWJqZWN0OjwvYj4gUmU6IFvmk43kvZzllY/poYxdIOWvhOS/oeeEoeazleabuOWvq+WF
+p+WuuTxicj4KPGJyPuiUoeiAgeW4q8KgIOaCqOWlve+8jDwvZGl2Pgo8ZGl2Pjxicj48L2Rpdj4K
+PGRpdj7pl5zmlrzmgqjmj5DliLDnmoTllY/poYzvvIw8L2Rpdj4KPGRpdj4KPGRpdj7og73lkKbo
+q4vmgqjlsIfngI/opr3lmaggY29va2llIOa4hemZpOW+jOWGjeippuippueci+OAgjxicj4KPC9k
+aXY+CjxkaXY+PGJyPjwvZGl2Pgo8ZGl2PuS7peS4i+aYr+a4hemZpOeAj+imveWZqCBjb29raWUg
+562J5pqr5a2Y5qqU55qE5pa55byP77yM6KuL5oKo5Y+D6ICD77yaPGJyPjxkaXY+PGJyPjwvZGl2
+Pgo8ZGl2PjEuIOm7numBuOWPs+S4iuinkueahOS4ieWAi+m7niAo6Ieq6KiC5Y+K566h55CGIEdv
+b2dsZSBDaHJvbWUpPGJyPgo8L2Rpdj4KPGRpdj4yLiDpgLLlhaXjgIzoqK3lrpog44CNPC9kaXY+
+CjxkaXY+My4g44CM6YCy6ZqOICZndDsg5riF6Zmk54CP6Ka96LOH5paZ44CNPC9kaXY+CjxkaXY+
+NC4g5pmC6ZaT56+E5ZyN6KuL6YG444CM5LiN6ZmQ5pmC6ZaT44CNPC9kaXY+CjxkaXY+NS4g5Yu+
+6YG444CMQ29va2llIOWSjOWFtuS7lue2suermeizh+aWmeOAjeOAgeOAjOW/q+WPluWclueJh+WS
+jOaqlOahiOOAjTwvZGl2Pgo8ZGl2PjYuIOm7numBuOOAjOa4hemZpOizh+aWmeOAjTwvZGl2Pgo8
+ZGl2PjcuIOmXnOmWiSBHb29nbGUgQ2hyb21lIOW+jOWGjemHjemWi++8jOS4pumHjeaWsOeZu+WF
+peippuippuecizwvZGl2Pgo8L2Rpdj4KPGJyPgo8YnI+Cjxicj4KPGJyPgroi6Xku6XkuIrlm57o
+pobnhKHms5Xop6PmsbrmgqjpgYfliLDnmoTllY/poYzvvIw8YnI+CuaIluacieaVmeiCsumDqOag
+oeWckumbsuerr+mbu+WtkOmDteS7tueahOebuOmXnOeWkeWVj++8jDxicj4K5q2h6L+O5oKo5YaN
+5Y+N5oeJ57Wm5oiR5YCR44CCPGJyPgo8YnI+Cjxicj4K5pWZ6IKy6YOo5qCh5ZyS6Zuy56uv6Zu7
+5a2Q6YO15Lu25a6i5pyN5Lit5b+DPGJyPgo8YnI+Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTxicj4K
+5pWZ6IKy6YOo5qCh5ZyS6Zuy56uv6Zu75a2Q6YO15Lu2IHBvd2VyZWQgYnkgT3BlbmZpbmQg57ay
+5pOO6LOH6KiKPGJyPgo8YnI+CuS6nua0suW4guWgtOmDteS7tuWuieWFqOmgmOWwjuWTgeeJjCB8
+IOe2suaTjuizh+ioiiBPcGVuZmluZDxicj4K57ay5pOOIE9wZW5maW5kIOS8gealree2suermSA8
+YSBocmVmPSJodHRwOi8vd3d3Lm9wZW5maW5kLmNvbS8iIHRhcmdldD0ibmV3X3dpbiIgcmVsPSJu
+b3JlZmVycmVyIj5odHRwOi8vd3d3Lm9wZW5maW5kLmNvbS88L2E+PGJyPgrntrLmk44gTWFpbENs
+b3VkIOS8gealrembsuerr+acjeWLmSA8YSBocmVmPSJodHRwOi8vd3d3Lm1haWxjbG91ZC5jb20u
+dHcvIiB0YXJnZXQ9Im5ld193aW4iIHJlbD0ibm9yZWZlcnJlciI+aHR0cDovL3d3dy5tYWlsY2xv
+dWQuY29tLnR3LzwvYT48YnI+Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTxicj4KPGJyPgotLS0tLU9y
+aWdpbmFsIG1lc3NhZ2UtLS0tLTxicj4KCjxiPkZyb206PC9iPuezu+e1seeuoeeQhuiAhSZsdDtN
+QUlMRVItREFFTU9OJmd0Ozxicj4KPGI+RGF0ZTogPC9iPiBXZWQsIDIxIE5vdiAyMDE4IDExOjAx
+OjUyPGJyPgo8Yj5TdWJqZWN0OjwvYj4gW+aTjeS9nOWVj+mhjF0g5a+E5L+h54Sh5rOV5pu45a+r
+5YWn5a65PGJyPgoKCgoKCgoKPGRpdiBjbGFzcz0iY29udGVudGJvZHkiPgo8ZGl2IGNsYXNzPSJj
+b250YWluZXIiPgoJPHRhYmxlIGJvcmRlcj0iMCIgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5n
+PSIwIiB3aWR0aD0iMTAwJSI+Cgk8dGJvZHk+CiAgICA8dHI+CgkJPHRkIHdpZHRoPSI3MiIgcm93
+c3Bhbj0iMiI+PGltZyBzcmM9ImNpZDo1QkY2MTQ1NSUyNDIxNkVBOEZ0MDcyMTZAbWFpbC5lZHUu
+dHciPjwvdGQ+CgkJPHRkIHN0eWxlPSJib3JkZXItYm90dG9tOiAxcHggc29saWQgcmdiKDEzNywg
+MTI5LCAxMjcpOyIgYWxpZ249InJpZ2h0Ij48ZGl2IHN0eWxlPSJjb2xvcjogcmdiKDE2OSwgMTYz
+LCAxNjEpOyI+PC9kaXY+PC90ZD4KCTwvdHI+Cgk8dHI+CiAgICAgICAgPHRkPsKgPC90ZD4KICAg
+IDwvdHI+Cgk8L3Rib2R5PgogICAgPC90YWJsZT4KICAgIDxkaXYgY2xhc3M9ImNvbnRlbnRXcmFw
+IE5vdGlmaWNhdGlvbiI+CiAgCiAgICA8dGFibGUgYmdjb2xvcj0iI2ZmZmZmZiIgYm9yZGVyPSIw
+IiBjZWxscGFkZGluZz0iMSIgY2VsbHNwYWNpbmc9IjAiIHdpZHRoPSIxMDAlIj4KCTx0Ym9keT4K
+ICAgIDx0cj4KCQk8dGQgYWxpZ249ImNlbnRlciIgYmdjb2xvcj0iI2Y4OTgxZCI+PHNwYW4gY2xh
+c3M9InN0eWxlMSI+IOaVmeiCsumDqOagoeWckumbsuerr+mDteS7tuWVj+mhjOWbnuWgseWWriA8
+L3NwYW4+PC90ZD4KCTwvdHI+Cgk8dHI+CgkJPHRkIHN0eWxlPSJwYWRkaW5nLXRvcDogMzBweDsi
+Pgrkvb/nlKhDaHJvbWXngI/opr3lmajlr4Tkv6HmmYLnhKHms5Xmm7jlr6vvvIzlkYjnj750bnJj
+Lm1haWwuZWR1LnR3IOaLkue1lemAo+e3miAKICAgICAgICAgICAgPGRpdj4KCQk8L2Rpdj4KPC90
+ZD4KCTwvdHI+CiAgICA8dHI+CiAgICAgICAgPHRkPgogICAgICAgICAgICDmiYDlsaznuKPluILv
+vJrljZfmipXnuKMgPGJyPgogICAgICAgICAgICDlrbjmoKHlkI3nqLHvvJrmobbpoK3lnIvlsI8g
+PGJyPgogICAgICAgICAgICDouqvku73vvJrmlZnluKsgPGJyPgogICAgICAgICAgICDoga/ntaHk
+urrvvJrolKHlrpfmqLogPGJyPgogICAgICAgICAgICDoga/ntaHpm7voqbHvvJogPGJyPgogICAg
+ICAgICAgICDoga/ntaHkv6HnrrHvvJp0MDcyMTZAbWFpbC5lZHUudHcgPGJyPgogICAgICAgICAg
+ICDmoKHlnJLpm7Lnq6/pm7vlrZDpg7Xku7bvvJp0MDcyMTZAbWFpbC5lZHUudHcgPGJyPgogICAg
+ICAgIDwvdGQ+CiAgICA8L3RyPgogICAgPC90Ym9keT4KICAgIDwvdGFibGU+CiAgICAKICA8L2Rp
+dj4KICA8ZGl2IGNsYXNzPSJmb290ZXIiPkNvcHlyaWdodCDCqSBPcGVuZmluZCBJbmZvcm1hdGlv
+biBUZWNobm9sb2d5IElOQy4gQWxsIHJpZ2h0cyByZXNlcnZlZC48L2Rpdj4KPC9kaXY+CjwvZGl2
+PgoKCjwvZGl2Pgo8L2Jsb2NrcXVvdGU+PC9kaXY+CgpBdHRhY2htZW50cyA6CjEuIDxhIGhyZWY9
+J2h0dHA6Ly9vcGVuZmluZC5mcmVzaGRlc2suY29tL2hlbHBkZXNrL2F0dGFjaG1lbnRzLzM1MDI4
+ODEyMjQwJz50YWJsZVRpdGxlQmcuanBnPC9hPjxiciAvPjIuIDxhIGhyZWY9J2h0dHA6Ly9vcGVu
+ZmluZC5mcmVzaGRlc2suY29tL2hlbHBkZXNrL2F0dGFjaG1lbnRzLzM1MDI4ODEyMjQxJz5sb2dv
+LmpwZzwvYT4KCgo=
+
+----==_mimepart_5bf6146ec5f84_1fc260ced5048537f5
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PGRpdiBzdHlsZT0iZm9udC1mYW1pbHk6SGVsdmV0aWNhIE5ldWUsIEhlbHZldGljYSwgQXJpYWws
+IHNhbnMtc2VyaWY7IGZvbnQtc2l6ZToxM3B4OyI+CgkKPHA+VGhlcmUgaXMgYSBuZXcgY29tbWVu
+dCBpbiB0aGUgdGlja2V0IHN1Ym1pdHRlZCBieSDmlZnogrLpg6jmoKHlnJLpm7Lnq6/pm7vlrZDp
+g7Xku7YgdG8g57ay5pOO6LOH6KiKPC9wPjxicj4gQ29tbWVudCBhZGRlZCBieSA6IHQwNzIxNjxi
+cj48YnI+Q29tbWVudCBDb250ZW50OiA8YnI+PGRpdj7mgqjlpb06PC9kaXY+CjxkaXY+6Kyd6Kyd
+5L2g77yM5bey57aT5Y+v5Lul5L2/55So5LqG77yM5oSf5oGpPC9kaXY+CjxkaXY+5pWs56WdPC9k
+aXY+CjxkaXY+wqAgwqAgwqAgwqAgwqAgwqAg5bmz5a6J5Zac5qiCPGJyPgo8L2Rpdj4KPGRpdiBj
+bGFzcz0iZnJlc2hkZXNrX3F1b3RlIj48YmxvY2txdW90ZSBjbGFzcz0iZnJlc2hkZXNrX3F1b3Rl
+Ij4KPGRpdj4tLS0tLU9yaWdpbmFsIG1lc3NhZ2UtLS0tLTxicj4KCjxiPkZyb206PC9iPuaVmeiC
+sumDqOagoeWckumbsuerr+mbu+WtkOmDteS7tiZsdDtlZHVAb3BlbmZpbmQuY29tLnR3Jmd0Ozxi
+cj4KPGI+VG86PC9iPnQwNzIxNiZsdDt0MDcyMTZAbWFpbC5lZHUudHcmZ3Q7PGJyPgo8Yj5DYzo8
+L2I+5pWZ6IKy6YOo5qCh5ZyS6Zuy56uv6Zu75a2Q6YO15Lu2Jmx0O2VkdUBvcGVuZmluZC5jb20m
+Z3Q7PGJyPgo8Yj5EYXRlOiA8L2I+IFdlZCwgMjEgTm92IDIwMTggMTE6MzM6MzA8YnI+CjxiPlN1
+YmplY3Q6PC9iPiBSZTogW+aTjeS9nOWVj+mhjF0g5a+E5L+h54Sh5rOV5pu45a+r5YWn5a65PGJy
+Pgo8YnI+6JSh6ICB5birwqAg5oKo5aW977yMPC9kaXY+CjxkaXY+PGJyPjwvZGl2Pgo8ZGl2PumX
+nOaWvOaCqOaPkOWIsOeahOWVj+mhjO+8jDwvZGl2Pgo8ZGl2Pgo8ZGl2PuiDveWQpuiri+aCqOWw
+h+eAj+imveWZqCBjb29raWUg5riF6Zmk5b6M5YaN6Kmm6Kmm55yL44CCPGJyPgo8L2Rpdj4KPGRp
+dj48YnI+PC9kaXY+CjxkaXY+5Lul5LiL5piv5riF6Zmk54CP6Ka95ZmoIGNvb2tpZSDnrYnmmqvl
+rZjmqpTnmoTmlrnlvI/vvIzoq4vmgqjlj4PogIPvvJo8YnI+PGRpdj48YnI+PC9kaXY+CjxkaXY+
+MS4g6bue6YG45Y+z5LiK6KeS55qE5LiJ5YCL6bueICjoh6roqILlj4rnrqHnkIYgR29vZ2xlIENo
+cm9tZSk8YnI+CjwvZGl2Pgo8ZGl2PjIuIOmAsuWFpeOAjOioreWumiDjgI08L2Rpdj4KPGRpdj4z
+LiDjgIzpgLLpmo4gJmd0OyDmuIXpmaTngI/opr3os4fmlpnjgI08L2Rpdj4KPGRpdj40LiDmmYLp
+lpPnr4TlnI3oq4vpgbjjgIzkuI3pmZDmmYLplpPjgI08L2Rpdj4KPGRpdj41LiDli77pgbjjgIxD
+b29raWUg5ZKM5YW25LuW57ay56uZ6LOH5paZ44CN44CB44CM5b+r5Y+W5ZyW54mH5ZKM5qqU5qGI
+44CNPC9kaXY+CjxkaXY+Ni4g6bue6YG444CM5riF6Zmk6LOH5paZ44CNPC9kaXY+CjxkaXY+Ny4g
+6Zec6ZaJIEdvb2dsZSBDaHJvbWUg5b6M5YaN6YeN6ZaL77yM5Lim6YeN5paw55m75YWl6Kmm6Kmm
+55yLPC9kaXY+CjwvZGl2Pgo8YnI+Cjxicj4KPGJyPgo8YnI+CuiLpeS7peS4iuWbnuimhueEoeaz
+leino+axuuaCqOmBh+WIsOeahOWVj+mhjO+8jDxicj4K5oiW5pyJ5pWZ6IKy6YOo5qCh5ZyS6Zuy
+56uv6Zu75a2Q6YO15Lu255qE55u46Zec55aR5ZWP77yMPGJyPgrmraHov47mgqjlho3lj43mh4nn
+tabmiJHlgJHjgII8YnI+Cjxicj4KPGJyPgrmlZnogrLpg6jmoKHlnJLpm7Lnq6/pm7vlrZDpg7Xk
+u7blrqLmnI3kuK3lv4M8YnI+Cjxicj4KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPGJyPgrmlZnogrLp
+g6jmoKHlnJLpm7Lnq6/pm7vlrZDpg7Xku7YgcG93ZXJlZCBieSBPcGVuZmluZCDntrLmk47os4fo
+qIo8YnI+Cjxicj4K5Lqe5rSy5biC5aC06YO15Lu25a6J5YWo6aCY5bCO5ZOB54mMIHwg57ay5pOO
+6LOH6KiKIE9wZW5maW5kPGJyPgrntrLmk44gT3BlbmZpbmQg5LyB5qWt57ay56uZIDxhIGhyZWY9
+Imh0dHA6Ly93d3cub3BlbmZpbmQuY29tLyIgdGFyZ2V0PSJuZXdfd2luIiByZWw9Im5vcmVmZXJy
+ZXIiPmh0dHA6Ly93d3cub3BlbmZpbmQuY29tLzwvYT48YnI+Cue2suaTjiBNYWlsQ2xvdWQg5LyB
+5qWt6Zuy56uv5pyN5YuZIDxhIGhyZWY9Imh0dHA6Ly93d3cubWFpbGNsb3VkLmNvbS50dy8iIHRh
+cmdldD0ibmV3X3dpbiIgcmVsPSJub3JlZmVycmVyIj5odHRwOi8vd3d3Lm1haWxjbG91ZC5jb20u
+dHcvPC9hPjxicj4KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPGJyPgo8YnI+Ci0tLS0tT3JpZ2luYWwg
+bWVzc2FnZS0tLS0tPGJyPgoKPGI+RnJvbTo8L2I+57O757Wx566h55CG6ICFJmx0O01BSUxFUi1E
+QUVNT04mZ3Q7PGJyPgo8Yj5EYXRlOiA8L2I+IFdlZCwgMjEgTm92IDIwMTggMTE6MDE6NTI8YnI+
+CjxiPlN1YmplY3Q6PC9iPiBb5pON5L2c5ZWP6aGMXSDlr4Tkv6HnhKHms5Xmm7jlr6vlhaflrrk8
+YnI+CgoKCgoKCgo8ZGl2IGNsYXNzPSJjb250ZW50Ym9keSI+CjxkaXYgY2xhc3M9ImNvbnRhaW5l
+ciI+Cgk8dGFibGUgYm9yZGVyPSIwIiBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiIHdp
+ZHRoPSIxMDAlIj4KCTx0Ym9keT4KICAgIDx0cj4KCQk8dGQgd2lkdGg9IjcyIiByb3dzcGFuPSIy
+Ij48aW1nIHNyYz0iY2lkOjVCRjYxNDU1JTI0MjE2RUE4RnQwNzIxNkBtYWlsLmVkdS50dyI+PC90
+ZD4KCQk8dGQgc3R5bGU9ImJvcmRlci1ib3R0b206IDFweCBzb2xpZCByZ2IoMTM3LCAxMjksIDEy
+Nyk7IiBhbGlnbj0icmlnaHQiPjxkaXYgc3R5bGU9ImNvbG9yOiByZ2IoMTY5LCAxNjMsIDE2MSk7
+Ij48L2Rpdj48L3RkPgoJPC90cj4KCTx0cj4KICAgICAgICA8dGQ+wqA8L3RkPgogICAgPC90cj4K
+CTwvdGJvZHk+CiAgICA8L3RhYmxlPgogICAgPGRpdiBjbGFzcz0iY29udGVudFdyYXAgTm90aWZp
+Y2F0aW9uIj4KICAKICAgIDx0YWJsZSBiZ2NvbG9yPSIjZmZmZmZmIiBib3JkZXI9IjAiIGNlbGxw
+YWRkaW5nPSIxIiBjZWxsc3BhY2luZz0iMCIgd2lkdGg9IjEwMCUiPgoJPHRib2R5PgogICAgPHRy
+PgoJCTx0ZCBhbGlnbj0iY2VudGVyIiBiZ2NvbG9yPSIjZjg5ODFkIj48c3BhbiBjbGFzcz0ic3R5
+bGUxIj4g5pWZ6IKy6YOo5qCh5ZyS6Zuy56uv6YO15Lu25ZWP6aGM5Zue5aCx5ZauIDwvc3Bhbj48
+L3RkPgoJPC90cj4KCTx0cj4KCQk8dGQgc3R5bGU9InBhZGRpbmctdG9wOiAzMHB4OyI+CuS9v+eU
+qENocm9tZeeAj+imveWZqOWvhOS/oeaZgueEoeazleabuOWvq++8jOWRiOePvnRucmMubWFpbC5l
+ZHUudHcg5ouS57WV6YCj57eaIAogICAgICAgICAgICA8ZGl2PgoJCTwvZGl2Pgo8L3RkPgoJPC90
+cj4KICAgIDx0cj4KICAgICAgICA8dGQ+CiAgICAgICAgICAgIOaJgOWxrOe4o+W4gu+8muWNl+aK
+lee4oyA8YnI+CiAgICAgICAgICAgIOWtuOagoeWQjeeose+8muahtumgreWci+WwjyA8YnI+CiAg
+ICAgICAgICAgIOi6q+S7ve+8muaVmeW4qyA8YnI+CiAgICAgICAgICAgIOiBr+e1oeS6uu+8muiU
+oeWul+aouiA8YnI+CiAgICAgICAgICAgIOiBr+e1oembu+ipse+8miA8YnI+CiAgICAgICAgICAg
+IOiBr+e1oeS/oeeuse+8mnQwNzIxNkBtYWlsLmVkdS50dyA8YnI+CiAgICAgICAgICAgIOagoeWc
+kumbsuerr+mbu+WtkOmDteS7tu+8mnQwNzIxNkBtYWlsLmVkdS50dyA8YnI+CiAgICAgICAgPC90
+ZD4KICAgIDwvdHI+CiAgICA8L3Rib2R5PgogICAgPC90YWJsZT4KICAgIAogIDwvZGl2PgogIDxk
+aXYgY2xhc3M9ImZvb3RlciI+Q29weXJpZ2h0IMKpIE9wZW5maW5kIEluZm9ybWF0aW9uIFRlY2hu
+b2xvZ3kgSU5DLiBBbGwgcmlnaHRzIHJlc2VydmVkLjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CgoKPC9k
+aXY+CjwvYmxvY2txdW90ZT48L2Rpdj4KCkF0dGFjaG1lbnRzIDoKMS4gPGEgaHJlZj0naHR0cDov
+L29wZW5maW5kLmZyZXNoZGVzay5jb20vaGVscGRlc2svYXR0YWNobWVudHMvMzUwMjg4MTIyNDAn
+PnRhYmxlVGl0bGVCZy5qcGc8L2E+PGJyIC8+Mi4gPGEgaHJlZj0naHR0cDovL29wZW5maW5kLmZy
+ZXNoZGVzay5jb20vaGVscGRlc2svYXR0YWNobWVudHMvMzUwMjg4MTIyNDEnPmxvZ28uanBnPC9h
+PgoKCgoKCQoJPGJyLz4KCgoKPHNwYW4gdGl0bGU9ImZkX3RrdF9pZGVudGlmaWVyIiBzdHlsZT0n
+Zm9udC1zaXplOjBweDsgZm9udC1mYW1pbHk6ImZkdGt0aWQiOyBtaW4taGVpZ2h0OjBweDsgaGVp
+Z2h0OjBweDsgb3BhY2l0eTowOyBtYXgtaGVpZ2h0OjBweDsgbGluZS1oZWlnaHQ6MHB4OyBjb2xv
+cjojZmZmZmZmJz45ODc2Ojc0NjQ3MTwvc3Bhbj4KCjwvZGl2Pg==
+
+----==_mimepart_5bf6146ec5f84_1fc260ced5048537f5--

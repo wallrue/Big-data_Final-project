@@ -1,0 +1,503 @@
+X-M2K-MATCHED-RULE: SPAM_FILTER-InADB
+X-M2K-MATCHED-RESULT: Mail Header From In ADB/m2k_adm@mail2000.com.tw
+X-ADIFSPAM: YES/114
+X-ADIFSPAM-CT: NO/1
+Received: from 220.130.127.161
+	by ms1.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(7957:3:AUTH_NONE)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Wed, 27 Jan 2016 11:02:47 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+X-M2KSPAM: YES/100
+Received: from 220.130.127.161
+	by asp7.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(28337:1:AUTH_NONE)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Wed, 27 Jan 2016 11:02:47 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+X-M2KPolicyIP: 220.130.127.161 (p5.mail2000.com.tw)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=mail2000.com.tw;
+	s=1404201787.mail2000; t=1453863767;
+	bh=mvgBORbx7BUo309op4SuTrEBGv8=;
+	h=Received:Return-Path:Received:Received:From:Reply-To:Subject:
+	 Message-ID:To:Cc:Date:MIME-Version:Return-Path:Content-Type;
+	b=q2XE7kpfjECJ6X/jVXw+7KlST04Q50aeO/xdvPB/bZW+chJVqM+KtdmyBxiZplYde
+	 B/IEOtP9xX+tcoYTR/EDwZCPguYHTEHTgDCO3oFNBxwrvPfNoTfSCDRFcMmclACsE3
+	 lpP073moeuahAEpUJN/CDMfyMVwiZMFXm7f+XsxI=
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/0
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(31051:0:AUTH_LOGIN)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Wed, 27 Jan 2016 11:02:44 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+Received: By OpenMail Mailer;Wed, 27 Jan 2016 11:02:44 +0800 (CST)
+Received: By OpenMail Mailer;Wed, 27 Jan 2016 11:02:44 +0800 (CST)
+From: "=?gb2312?B?TWFpbDIwMDAgv823/tbQ0MQ=?=" <m2k_adm@mail2000.com.tw>
+Reply-To: "=?gb2312?B?TWFpbDIwMDAgv823/tbQ0MQ=?=" <m2k_adm@mail2000.com.tw>
+Subject: =?gb2312?B?yc+6o7/NkfSjusnPuqPSx7Xn0MXPos34wufT0M/e?=
+	=?gb2312?B?uavLviAtIJ9vt6iC98vN0MW8/iAtIEZ3OiDXqrei?=
+	=?gb2312?B?OiDXqreiOiDSx7Xnz+7EvyDNqNG2uPzQwiC8sCA=?=
+	=?gb2312?B?sb7W3MrC0ss=?=
+Message-ID: <1453863764.4963.m2k_adm@mail2000.com.tw>
+To: "service" <service@mailcloud.com.cn>,
+	"Herman Hung" <herman_hung@openfind.com>
+Cc: "m2k_service" <m2k_service@mail2000.com.tw>
+Date: Wed, 27 Jan 2016 11:02:44 +0800 (CST)
+MIME-Version: 1.0
+Return-Path: m2k_adm@mail2000.com.tw
+Content-Type: multipart/alternative;
+	boundary="---c25+xUi:r-?ip7JM?lE0HBmIr9h"
+
+-----c25+xUi:r-?ip7JM?lE0HBmIr9h
+Content-Type: text/plain; charset=gb2312
+Content-Transfer-Encoding: quoted-printable
+
+=C4=FA=BA=C3=A3=AC
+
+=C9=CF=BA=A3=D2=C7=B5=E7=D0=C5=CF=A2=CD=F8=C2=E7=D3=D0=CF=DE=B9=AB=CB=BE
+(inesa-e.com)
+=BF=C6=BC=BC=D6=CA=C1=BF=B2=BF
+=D0=EC=D6=BE=BD=A1
+=B5=E7=BB=B0=A3=BA86-21-51602966*930
+=CA=D6=BB=FA=A3=BA18616738052
+
+
+=86=96=EE}=A3=BA
+=82=F7=CB=CD=D0=C5=BC=FE=B3=F6=ACF
+=D3=CA=BC=FE=C3=BB=D3=D0=B5=BD=B4=EF=C4=B3=D0=A9=BB=F2=C8=AB=B2=BF=B5=C4=D4=A4=
+=B6=A8=CA=D5=BC=FE=C8=CB=A1=A3=20=20=20=20=20=20=20=D6=F7=CC=E2:=20=20=20=20=
+=20=B4=F0=B8=B4:=20=D2=C7=B5=E7=CF=EE=C4=BF=20=CD=A8=D1=B6=B8=FC=D0=C2=20=BC=
+=B0=20=B1=BE=D6=DC=CA=C2=D2=CB
+=20=20=20=20=20=20=B7=A2=CB=CD=CA=B1=BC=E4:=202016/1/27=209:49
+
+=CE=DE=B7=A8=B5=BD=B4=EF=D2=D4=CF=C2=CA=D5=BC=FE=C8=CB:
+=20=20=20=20=20=20'Liu,=20Yingping'=A3=AC=CA=B1=BC=E4=CE=AA=202016/1/27=209:=
+49
+=20=20=20=20=20=20=20=20=20=20=20=20=B7=FE=CE=F1=C6=F7=B4=ED=CE=F3:=20'553=20=
+Specified=20domain=20is=20not=20allowed.'
+=20=20=20=20=20=20'wei_fr@inesa-d.com'=A3=AC=CA=B1=BC=E4=CE=AA=202016/1/27=20=
+9:49
+=20=20=20=20=20=20=20=20=20=20=20=20=B7=FE=CE=F1=C6=F7=B4=ED=CE=F3:=20'553=20=
+Specified=20domain=20is=20not=20allowed.'
+
+
+=C2=E9=9F=A9=C4=FA=D4=D9=8E=CD=C3=A6=B4_=D5J=BB=D8=B8=B2=A3=AC
+=D6x=D6x=A1=A3
+
+
+
+Jasmine
+
+=D6x=D6x=C4=FA=8C=A6=20Mail2000=20=B5=C4=90=DB=D3=C3=A1=A3
+=C8=F4=D3=D0=C8=CE=BA=CE=86=96=EE}=A3=AC=9Ag=D3=AD=D4=D9=B4=CE=C7=A2=D4=83=A1=
+=A3
+---------------------------------------------------------------------------
+SecuShare=20=B7=D6=CF=ED=EB=85=A3=AD=8E=CD=C4=E3=B5=C4=D0=C5=CF=E4=9Cp=B7=CA=
+
+
+=B0=B4=CF=C2=E0]=BC=FE=B8=BD=99n=C5=D4=DF=85=B5=C4=B7=D6=CF=ED=EB=85=88D=CA=BE=
+=A3=AC=BC=B4=BF=C9=8C=A2=B8=BD=99n=C1=ED=B4=E6=EC=B6
+=D9=9B=CB=CD=B5=C4=B7=D6=CF=ED=EB=85=BF=D5=E9g=A1=A3=BD=D3=D6=F8=D6=C1=B9=A4=
+=BE=DF=DFx=86=CE=20=A1=B7=84h=B3=FD=B8=BD=99n=A3=AC
+=BE=CD=C4=DC=8E=CD=C4=FA=B5=C4=D0=C5=CF=E4=CA=DD=C9=ED=A3=A1=D4=94=C7=E9=D5=88=
+=D2=8A
+---------------------------------------------------------------------------
+
+
+Mail2000=20=BF=CD=B7=FE=D6=D0=D0=C4=20=BE=B4=C9=CF
+
+Mail2000=20=BF=CD=B7=FE=D6=D0=D0=C4
+=BF=CD=B7=FE=8C=A3=BE=80=A3=BA02-2553-7272
+=BF=CD=B7=FE=82=F7=D5=E6=A3=BA02-2553-5956
+=BF=CD=B7=FE=D0=C5=CF=E4=A3=BAm2k_adm@mail2000.com.tw
+Mail2000=EB=8A=D7=D3=D0=C5=CF=E4=20http://mail2000.com.tw/
+=BEW=C7=E6=C6=F3=98I=EB=85=B6=CB=B7=FE=84=D5=20http://www.mailcloud.com.tw=20=
+
+=BEW=C7=E6=20Openfind=20=C6=F3=98I=BEW=D5=BE=20http://www.openfind.com/taiwa=
+n
+
+
+-----Forwarded=20message-----
+From:xuzj.ydwl@inesa-e.com<xuzj.ydwl@inesa-e.com>
+To:m2k_adm<m2k_adm@mail2000.com.tw>
+Date:=20Wed,=2027=20Jan=202016=2009:57:18
+Subject:=20=D7=AA=B7=A2:=20=D7=AA=B7=A2:=20=D2=C7=B5=E7=CF=EE=C4=BF=20=CD=A8=
+=D1=B6=B8=FC=D0=C2=20=BC=B0=20=B1=BE=D6=DC=CA=C2=D2=CB
+
+
+
+=3D=3D
+=D0=EC=D6=BE=BD=A1
+=BF=C6=BC=BC=D6=CA=C1=BF=B2=BF
+=C9=CF=BA=A3=D2=C7=B5=E7=D0=C5=CF=A2=CD=F8=C2=E7=D3=D0=CF=DE=B9=AB=CB=BE
+=B5=D8=D6=B7=A3=BA=D6=D0=B9=FA=C9=CF=BA=A3=D0=EC=BB=E3=C7=F8=CE=E2=D6=D0=C2=B7=
+8=BA=C519=C2=A5
+=D3=CA=B1=E0=A3=BA200336
+=B5=E7=BB=B0=A3=BA86-21-51602966*930
+=CA=D6=BB=FA=A3=BA18616738052
+=20
+=B7=A2=BC=FE=C8=CB=A3=BA=20Nick@INESA-e
+=B7=A2=CB=CD=CA=B1=BC=E4=A3=BA=202016-01-27=2009:55
+=CA=D5=BC=FE=C8=CB=A3=BA=20xuzj.ydwl@inesa-e.com
+=D6=F7=CC=E2=A3=BA=20=D7=AA=B7=A2:=20=D2=C7=B5=E7=CF=EE=C4=BF=20=CD=A8=D1=B6=
+=B8=FC=D0=C2=20=BC=B0=20=B1=BE=D6=DC=CA=C2=D2=CB
+=BA=C3=CF=F3=BB=B9=CA=C7=B2=BB=C4=DC=CB=CD=B4=EF=A3=AC=D0=A1=D0=EC=B2=E9=D2=BB=
+=CF=C2=CA=B2=C3=B4=D4=AD=D2=F2=A3=AC=D0=BB=D0=BB=A3=A1
+_____________________________________________
+=B7=A2=BC=FE=C8=CB:=20=CF=B5=CD=B3=B9=DC=C0=ED=D4=B1
+=B7=A2=CB=CD=CA=B1=BC=E4:=202016=C4=EA1=D4=C227=C8=D5=209:49
+=CA=D5=BC=FE=C8=CB:=20Nick@INESA-e
+=D6=F7=CC=E2:=20=CE=B4=B4=AB=B5=DD:=20=D2=C7=B5=E7=CF=EE=C4=BF=20=CD=A8=D1=B6=
+=B8=FC=D0=C2=20=BC=B0=20=B1=BE=D6=DC=CA=C2=D2=CB
+
+
+=D3=CA=BC=FE=C3=BB=D3=D0=B5=BD=B4=EF=C4=B3=D0=A9=BB=F2=C8=AB=B2=BF=B5=C4=D4=A4=
+=B6=A8=CA=D5=BC=FE=C8=CB=A1=A3
+=20=20=20=20=20=20=D6=F7=CC=E2:=20=20=20=20=20=B4=F0=B8=B4:=20=D2=C7=B5=E7=CF=
+=EE=C4=BF=20=CD=A8=D1=B6=B8=FC=D0=C2=20=BC=B0=20=B1=BE=D6=DC=CA=C2=D2=CB
+=20=20=20=20=20=20=B7=A2=CB=CD=CA=B1=BC=E4:=202016/1/27=209:49
+
+=CE=DE=B7=A8=B5=BD=B4=EF=D2=D4=CF=C2=CA=D5=BC=FE=C8=CB:
+=20=20=20=20=20=20'Liu,=20Yingping'=A3=AC=CA=B1=BC=E4=CE=AA=202016/1/27=209:=
+49
+=20=20=20=20=20=20=20=20=20=20=20=20=B7=FE=CE=F1=C6=F7=B4=ED=CE=F3:=20'553=20=
+Specified=20domain=20is=20not=20allowed.'
+=20=20=20=20=20=20'wei_fr@inesa-d.com'=A3=AC=CA=B1=BC=E4=CE=AA=202016/1/27=20=
+9:49
+=20=20=20=20=20=20=20=20=20=20=20=20=B7=FE=CE=F1=C6=F7=B4=ED=CE=F3:=20'553=20=
+Specified=20domain=20is=20not=20allowed.'
+
+
+-----c25+xUi:r-?ip7JM?lE0HBmIr9h
+Content-Type: text/html; charset=gb2312
+Content-Transfer-Encoding: quoted-printable
+
+<html><font=20size=3D"3">
+</font><div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div><font=20size=3D"3">=C4=FA=BA=C3=A3=AC</font></div><div><font=20size=3D"=
+3"><br></font></div><div><font=20size=3D"3">=C9=CF=BA=A3=D2=C7=B5=E7=D0=C5=CF=
+=A2=CD=F8=C2=E7=D3=D0=CF=DE=B9=AB=CB=BE<br>(inesa-e.com)<br>=BF=C6=BC=BC=D6=CA=
+=C1=BF=B2=BF<br>=D0=EC=D6=BE=BD=A1<br>=B5=E7=BB=B0=A3=BA86-21-51602966*930<b=
+r>=CA=D6=BB=FA=A3=BA18616738052<br></font></div><div><font=20size=3D"3"><br>=
+</font></div><div><font=20size=3D"3"><br></font></div><div><font=20size=3D"3=
+">=86=96=EE}=A3=BA<br>=82=F7=CB=CD=D0=C5=BC=FE=B3=F6=ACF</font><span=20lang=3D=
+"zh-cn"><font=20face=3D"Microsoft=20YaHei=20UI"><br>=D3=CA=BC=FE=C3=BB=D3=D0=
+=B5=BD=B4=EF=C4=B3=D0=A9=BB=F2=C8=AB=B2=BF=B5=C4=D4=A4=B6=A8=CA=D5=BC=FE=C8=CB=
+=A1=A3</font></span><span=20lang=3D"en-us"></span><span=20lang=3D"zh-cn"></s=
+pan>
+<p=20dir=3D"LTR"><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20YaHei=20=
+UI">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span=20lang=3D"en-us"></spa=
+n><span=20lang=3D"zh-cn">=20<font=20face=3D"Microsoft=20YaHei=20UI">=D6=F7=CC=
+=E2</font></span><span=20lang=3D"en-us"></span><span=20lang=3D"zh-cn"><font=20=
+face=3D"Microsoft=20YaHei=20UI">:&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span=
+=20lang=3D"en-us"></span><span=20lang=3D"zh-cn">=20<font=20face=3D"Microsoft=
+=20YaHei=20UI">=B4=F0=B8=B4</font></span><span=20lang=3D"en-us"></span><span=
+=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20YaHei=20UI">:</font></span><sp=
+an=20lang=3D"en-us"></span><span=20lang=3D"zh-cn">=20<font=20face=3D"Microso=
+ft=20YaHei=20UI">=D2=C7=B5=E7=CF=EE=C4=BF</font></span><span=20lang=3D"en-us=
+"></span><span=20lang=3D"zh-cn"></span><span=20lang=3D"en-us"></span><span=20=
+lang=3D"zh-cn">=20<font=20face=3D"Microsoft=20YaHei=20UI">=CD=A8=D1=B6=B8=FC=
+=D0=C2</font></span><span=20lang=3D"en-us"></span><span=20lang=3D"zh-cn"></s=
+pan><span=20lang=3D"en-us"></span><span=20lang=3D"zh-cn">=20<font=20face=3D"=
+Microsoft=20YaHei=20UI">=BC=B0</font></span><span=20lang=3D"en-us"></span><s=
+pan=20lang=3D"zh-cn"></span><span=20lang=3D"en-us"></span><span=20lang=3D"zh=
+-cn">=20<font=20face=3D"Microsoft=20YaHei=20UI">=B1=BE=D6=DC=CA=C2=D2=CB</fo=
+nt></span><span=20lang=3D"en-us"></span><span=20lang=3D"zh-cn"></span></p>
+<p=20dir=3D"LTR"><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20YaHei=20=
+UI">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span=20lang=3D"en-us"></spa=
+n><span=20lang=3D"zh-cn">=20<font=20face=3D"Microsoft=20YaHei=20UI">=B7=A2=CB=
+=CD=CA=B1=BC=E4</font></span><span=20lang=3D"en-us"></span><span=20lang=3D"z=
+h-cn"><font=20face=3D"Microsoft=20YaHei=20UI">:=202016/1/27=209:49</font></s=
+pan></p>
+<p=20dir=3D"LTR"><span=20lang=3D"en-us"></span><span=20lang=3D"zh-cn"></span=
+></p>
+<p=20dir=3D"LTR"><span=20lang=3D"en-us"></span><span=20lang=3D"zh-cn"><font=20=
+face=3D"Microsoft=20YaHei=20UI">=CE=DE=B7=A8=B5=BD=B4=EF=D2=D4=CF=C2=CA=D5=BC=
+=FE=C8=CB</font></span><span=20lang=3D"en-us"></span><span=20lang=3D"zh-cn">=
+<font=20face=3D"Microsoft=20YaHei=20UI">:</font></span></p>
+<p=20dir=3D"LTR"><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20YaHei=20=
+UI">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20'Liu,=20Yingping'</font></span><span=20=
+lang=3D"en-us"></span><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20YaH=
+ei=20UI">=A3=AC=CA=B1=BC=E4=CE=AA</font></span><span=20lang=3D"en-us"></span=
+><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20YaHei=20UI">=202016/1/27=
+=209:49</font></span></p>
+<p=20dir=3D"LTR"><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20YaHei=20=
+UI">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font=
+></span><span=20lang=3D"en-us"></span><span=20lang=3D"zh-cn">=20<font=20face=
+=3D"Microsoft=20YaHei=20UI">=B7=FE=CE=F1=C6=F7=B4=ED=CE=F3</font></span><spa=
+n=20lang=3D"en-us"></span><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20=
+YaHei=20UI">:=20'553=20Specified=20domain=20is=20not=20allowed.'</font></spa=
+n></p>
+<p=20dir=3D"LTR"><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20YaHei=20=
+UI">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20'wei_fr@inesa-d.com'</font></span><span=
+=20lang=3D"en-us"></span><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20=
+YaHei=20UI">=A3=AC=CA=B1=BC=E4=CE=AA</font></span><span=20lang=3D"en-us"></s=
+pan><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20YaHei=20UI">=202016/1=
+/27=209:49</font></span></p>
+<p=20dir=3D"LTR"><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20YaHei=20=
+UI">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font=
+></span><span=20lang=3D"en-us"></span><span=20lang=3D"zh-cn">=20<font=20face=
+=3D"Microsoft=20YaHei=20UI">=B7=FE=CE=F1=C6=F7=B4=ED=CE=F3</font></span><spa=
+n=20lang=3D"en-us"></span><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20=
+YaHei=20UI">:=20'553=20Specified=20domain=20is=20not=20allowed.'</font></spa=
+n></p></div><div><font=20size=3D"3"><br><br>=C2=E9=9F=A9=C4=FA=D4=D9=8E=CD=C3=
+=A6=B4_=D5J=BB=D8=B8=B2=A3=AC<br>=D6x=D6x=A1=A3<br><br><br><br>Jasmine<br><b=
+r></font></div><div><font=20size=3D"3">=D6x=D6x=C4=FA=8C=A6=20Mail2000=20=B5=
+=C4=90=DB=D3=C3=A1=A3<br>
+=C8=F4=D3=D0=C8=CE=BA=CE=86=96=EE}=A3=AC=9Ag=D3=AD=D4=D9=B4=CE=C7=A2=D4=83=A1=
+=A3<br>---------------------------------------------------------------------=
+------<br><b><font=20color=3D"#FF0000">SecuShare=20=B7=D6=CF=ED=EB=85=A3=AD=8E=
+=CD=C4=E3=B5=C4=D0=C5=CF=E4=9Cp=B7=CA</font></b><br><br>=B0=B4=CF=C2=E0]=BC=FE=
+=B8=BD=99n=C5=D4=DF=85=B5=C4=B7=D6=CF=ED=EB=85=88D=CA=BE=A3=AC=BC=B4=BF=C9=8C=
+=A2=B8=BD=99n=C1=ED=B4=E6=EC=B6<br>=D9=9B=CB=CD=B5=C4=B7=D6=CF=ED=EB=85=BF=D5=
+=E9g=A1=A3=BD=D3=D6=F8=D6=C1=B9=A4=BE=DF=DFx=86=CE=20=A1=B7=84h=B3=FD=B8=BD=99=
+n=A3=AC<br>=BE=CD=C4=DC=8E=CD=C4=FA=B5=C4=D0=C5=CF=E4=CA=DD=C9=ED=A3=A1<a=20=
+href=3D"http://doc.mail2000.com.tw/news/1405/AttachToSS.htm">=D4=94=C7=E9=D5=
+=88=D2=8A</a><br>-----------------------------------------------------------=
+----------------<br></font></div>
+
+<div><font=20size=3D"3"><span=20class=3D"Apple-style-span"=20style=3D"border=
+-collapse:=20separate;=20color:=20rgb(0,=200,=200);=20font-family:=20'Times=20=
+New=20Roman';=20font-size:=20medium;=20font-style:=20normal;=20font-variant:=
+=20normal;=20font-weight:=20normal;=20letter-spacing:=20normal;=20line-heigh=
+t:=20normal;=20orphans:=202;=20text-align:=20auto;=20text-indent:=200px;=20t=
+ext-transform:=20none;=20white-space:=20normal;=20widows:=202;=20word-spacin=
+g:=200px;=20-webkit-border-horizontal-spacing:=200px;=20-webkit-border-verti=
+cal-spacing:=200px;=20-webkit-text-decorations-in-effect:=20none;=20-webkit-=
+text-size-adjust:=20auto;=20-webkit-text-stroke-width:=200px;=20"><span=20cl=
+ass=3D"Apple-style-span"=20style=3D"font-family:=20Arial,=20Helvetica,=20Fre=
+eSans,=20sans-serif;=20font-size:=2013px;=20line-height:=2017px;=20text-alig=
+n:=20left;=20"></span></span><br></font>
+
+<div><font=20size=3D"3">Mail2000=20=BF=CD=B7=FE=D6=D0=D0=C4=20=BE=B4=C9=CF</=
+font></div>
+<div><font=20size=3D"3"><br></font></div>
+<div><font=20size=3D"3">Mail2000=20=BF=CD=B7=FE=D6=D0=D0=C4</font></div>
+<div><font=20size=3D"3">=BF=CD=B7=FE=8C=A3=BE=80=A3=BA02-2553-7272</font></d=
+iv>
+<div><font=20size=3D"3">=BF=CD=B7=FE=82=F7=D5=E6=A3=BA02-2553-5956</font></d=
+iv>
+<div><font=20size=3D"3">=BF=CD=B7=FE=D0=C5=CF=E4=A3=BAm2k_adm@mail2000.com.t=
+w</font></div>
+<div><font=20size=3D"3">Mail2000=EB=8A=D7=D3=D0=C5=CF=E4=20<a=20href=3D"http=
+://mail2000.com.tw/"=20target=3D"_blank">http://mail2000.com.tw/</a></font><=
+/div>
+<div><font=20size=3D"3">=BEW=C7=E6=C6=F3=98I=EB=85=B6=CB=B7=FE=84=D5=20<a=20=
+href=3D"http://www.mailcloud.com.tw/"=20target=3D"_blank">http://www.mailclo=
+ud.com.tw</a></font>=20</div>
+<div><font=20size=3D"3">=BEW=C7=E6=20Openfind=20=C6=F3=98I=BEW=D5=BE=20<a=20=
+href=3D"http://www.openfind.com/taiwan"=20target=3D"_blank">http://www.openf=
+ind.com/taiwan</a></font></div>
+<div><font=20size=3D"3"><br></font></div></div></div></div></div></div></div=
+></div></div></div></div></div></div></div></div></div><font=20size=3D"3"><b=
+r>
+-----Forwarded=20message-----<br>
+
+<b>From:</b>xuzj.ydwl@inesa-e.com&lt;xuzj.ydwl@inesa-e.com&gt;<br>
+<b>To:</b>m2k_adm&lt;m2k_adm@mail2000.com.tw&gt;<br>
+<b>Date:=20</b>=20Wed,=2027=20Jan=202016=2009:57:18<br>
+<b>Subject:</b>=20=D7=AA=B7=A2:=20=D7=AA=B7=A2:=20=D2=C7=B5=E7=CF=EE=C4=BF=20=
+=CD=A8=D1=B6=B8=FC=D0=C2=20=BC=B0=20=B1=BE=D6=DC=CA=C2=D2=CB<br>
+<x-body>
+<div><span></span><br></div>
+<div><br></div><hr=20style=3D"width:=20210px;=20height:=201px;"=20align=3D"l=
+eft"=20color=3D"#b5c4df"=20size=3D"1">
+<div><span><div=20style=3D"MARGIN:=2010px;=20FONT-FAMILY:=20verdana;=20FONT-=
+SIZE:=2010pt"><p=20class=3D"MsoNormal"=20style=3D"margin-right:=200cm;=20mar=
+gin-left:=200cm;=20font-family:=20=CE=A2=C8=ED=D1=C5=BA=DA;=20font-size:=201=
+6px;=20line-height:=2021px;"=20align=3D"left"><font=20color=3D"#808080">=D0=EC=
+=D6=BE=BD=A1</font></p><p=20class=3D"MsoNormal"=20style=3D"margin-right:=200=
+cm;=20margin-left:=200cm;=20font-family:=20=CE=A2=C8=ED=D1=C5=BA=DA;=20font-=
+size:=2016px;=20line-height:=2022px;"=20align=3D"left"><font=20color=3D"#808=
+080"=20face=3D"=CE=A2=C8=ED=D1=C5=BA=DA">=BF=C6=BC=BC=D6=CA=C1=BF=B2=BF</fon=
+t></p><p=20class=3D"MsoNormal"=20style=3D"margin-right:=200cm;=20margin-left=
+:=200cm;=20font-size:=2015px;=20line-height:=201.5;"=20align=3D"left"><font=20=
+style=3D"font-size:=2015px;"=20color=3D"#808080"><span=20style=3D"font-famil=
+y:=20=CB=CE=CC=E5;">=C9=CF=BA=A3=D2=C7=B5=E7=D0=C5=CF=A2=CD=F8=C2=E7=D3=D0=CF=
+=DE=B9=AB=CB=BE</span><span=20style=3D"font-family:=20=CB=CE=CC=E5;"=20lang=3D=
+"EN-US"><o:p=20style=3D"margin-top:=200px;=20margin-bottom:=200px;"></o:p></=
+span></font></p><p=20class=3D"MsoNormal"=20style=3D"margin-right:=200cm;=20m=
+argin-left:=200cm;=20font-size:=2015px;=20line-height:=201.5;"=20align=3D"le=
+ft"><font=20style=3D"font-size:=2015px;"=20color=3D"#808080"><span=20style=3D=
+"font-family:=20=CB=CE=CC=E5;">=B5=D8=D6=B7=A3=BA=D6=D0=B9=FA=C9=CF=BA=A3=D0=
+=EC=BB=E3=C7=F8=CE=E2=D6=D0=C2=B7</span><span=20style=3D"font-family:=20'Tim=
+es=20New=20Roman';"=20lang=3D"EN-US">8</span><span=20style=3D"font-family:=20=
+=CB=CE=CC=E5;">=BA=C5</span><span=20style=3D"font-family:=20'Times=20New=20R=
+oman';"=20lang=3D"EN-US">19</span><span=20style=3D"font-family:=20=CB=CE=CC=E5=
+;">=C2=A5</span><span=20style=3D"font-family:=20=CB=CE=CC=E5;"=20lang=3D"EN-=
+US"><o:p=20style=3D"margin-top:=200px;=20margin-bottom:=200px;"></o:p></span=
+></font></p><p=20class=3D"MsoNormal"=20style=3D"margin-right:=200cm;=20margi=
+n-left:=200cm;=20font-size:=2015px;=20line-height:=201.5;"=20align=3D"left">=
+<font=20style=3D"font-size:=2015px;"=20color=3D"#808080"><span=20style=3D"fo=
+nt-family:=20=CB=CE=CC=E5;">=D3=CA=B1=E0=A3=BA</span><span=20lang=3D"EN-US">=
+<font=20style=3D""=20face=3D"Calibri">200336<o:p=20style=3D"margin-top:=200p=
+x;=20margin-bottom:=200px;"></o:p></font></span></font></p><p=20class=3D"Mso=
+Normal"=20style=3D"margin-right:=200cm;=20margin-left:=200cm;=20font-size:=20=
+15px;=20line-height:=201.5;"=20align=3D"left"><font=20style=3D"font-size:=20=
+15px;"=20color=3D"#808080"><span=20style=3D"font-family:=20=CB=CE=CC=E5;">=B5=
+=E7=BB=B0=A3=BA</span><span=20lang=3D"EN-US"><font=20style=3D""=20face=3D"Ca=
+libri">86-21-51602966*930</font></span></font></p><font=20style=3D"font-fami=
+ly:=20=CE=A2=C8=ED=D1=C5=BA=DA;=20font-size:=2015px;=20line-height:=2021px;"=
+=20color=3D"#808080"><span=20style=3D"font-family:=20=CB=CE=CC=E5;=20line-he=
+ight:=201.5;">=CA=D6=BB=FA=A3=BA</span><span=20style=3D"line-height:=201.5;"=
+><font=20face=3D"Calibri">18616738052</font></span></font></div></span></div=
+>
+<blockquote=20style=3D"margin-top:=200px;=20margin-bottom:=200px;=20margin-l=
+eft:=200.5em;"><div>&nbsp;</div><div=20style=3D"border:none;border-top:solid=
+=20#B5C4DF=201.0pt;padding:3.0pt=200cm=200cm=200cm"><div=20style=3D"PADDING-=
+RIGHT:=208px;=20PADDING-LEFT:=208px;=20FONT-SIZE:=2012px;FONT-FAMILY:tahoma;=
+COLOR:#000000;=20BACKGROUND:=20#efefef;=20PADDING-BOTTOM:=208px;=20PADDING-T=
+OP:=208px"><div><b>=B7=A2=BC=FE=C8=CB=A3=BA</b>&nbsp;<a=20href=3D"mailto:niy=
+.ydwl@inesa-e.com">Nick@INESA-e</a></div><div><b>=B7=A2=CB=CD=CA=B1=BC=E4=A3=
+=BA</b>&nbsp;2016-01-27&nbsp;09:55</div><div><b>=CA=D5=BC=FE=C8=CB=A3=BA</b>=
+&nbsp;<a=20href=3D"mailto:xuzj.ydwl@inesa-e.com">xuzj.ydwl@inesa-e.com</a></=
+div><div><b>=D6=F7=CC=E2=A3=BA</b>&nbsp;=D7=AA=B7=A2:=20=D2=C7=B5=E7=CF=EE=C4=
+=BF=20=CD=A8=D1=B6=B8=FC=D0=C2=20=BC=B0=20=B1=BE=D6=DC=CA=C2=D2=CB</div></di=
+v></div><div><div=20class=3D"FoxDiv20160127095655463131">
+<!--=20Converted=20from=20text/rtf=20format=20-->
+<p=20dir=3D"LTR"=20align=3D"JUSTIFY"><span=20lang=3D"en-us"><font=20color=3D=
+"#1F497D"=20face=3D"=CB=CE=CC=E5">=BA=C3</font><font=20color=3D"#1F497D"=20f=
+ace=3D"=CB=CE=CC=E5">=CF=F3</font><font=20color=3D"#1F497D"=20face=3D"=CB=CE=
+=CC=E5">=BB=B9</font><font=20color=3D"#1F497D"=20face=3D"=CB=CE=CC=E5">=CA=C7=
+</font><font=20color=3D"#1F497D"=20face=3D"=CB=CE=CC=E5">=B2=BB</font></span=
+><span=20lang=3D"en-us"><font=20color=3D"#1F497D"=20face=3D"=CB=CE=CC=E5">=C4=
+=DC</font><font=20color=3D"#1F497D"=20face=3D"=CB=CE=CC=E5">=CB=CD</font><fo=
+nt=20color=3D"#1F497D"=20face=3D"=CB=CE=CC=E5">=B4=EF=A3=AC</font><font=20co=
+lor=3D"#1F497D"=20face=3D"=CB=CE=CC=E5">=D0=A1</font><font=20color=3D"#1F497=
+D"=20face=3D"=CB=CE=CC=E5">=D0=EC</font><font=20color=3D"#1F497D"=20face=3D"=
+=CB=CE=CC=E5">=B2=E9</font><font=20color=3D"#1F497D"=20face=3D"=CB=CE=CC=E5"=
+>=D2=BB</font><font=20color=3D"#1F497D"=20face=3D"=CB=CE=CC=E5">=CF=C2</font=
+><font=20color=3D"#1F497D"=20face=3D"=CB=CE=CC=E5">=CA=B2=C3=B4</font><font=20=
+color=3D"#1F497D"=20face=3D"=CB=CE=CC=E5">=D4=AD</font><font=20color=3D"#1F4=
+97D"=20face=3D"=CB=CE=CC=E5">=D2=F2=A3=AC</font><font=20color=3D"#1F497D"=20=
+face=3D"=CB=CE=CC=E5">=D0=BB</font><font=20color=3D"#1F497D"=20face=3D"=CB=CE=
+=CC=E5">=D0=BB=A3=A1</font></span><span=20lang=3D"en-us"></span></p>
+<p=20dir=3D"LTR"><span=20lang=3D"en-us"></span><span=20lang=3D"en-us"><font=20=
+face=3D"=CE=A2=C8=ED=D1=C5=BA=DA">__________________________________________=
+___<br>
+</font></span><span=20lang=3D"en-us"></span><span=20lang=3D"en-us"><b><font=20=
+face=3D"=CE=A2=C8=ED=D1=C5=BA=DA">=B7=A2=BC=FE=C8=CB</font></b></span><span=20=
+lang=3D"en-us"></span><span=20lang=3D"en-us"><b><font=20face=3D"=CE=A2=C8=ED=
+=D1=C5=BA=DA">:</font></b></span><span=20lang=3D"en-us"></span><span=20lang=3D=
+"en-us"></span><span=20lang=3D"en-us"></span><span=20lang=3D"en-us">=20<font=
+=20face=3D"=CE=A2=C8=ED=D1=C5=BA=DA">=CF=B5=CD=B3=B9=DC=C0=ED=D4=B1</font></=
+span><span=20lang=3D"en-us"></span><span=20lang=3D"en-us"><font=20face=3D"=CE=
+=A2=C8=ED=D1=C5=BA=DA"><br>
+</font></span><span=20lang=3D"en-us"></span><span=20lang=3D"en-us"><b><font=20=
+face=3D"=CE=A2=C8=ED=D1=C5=BA=DA">=B7=A2=CB=CD=CA=B1=BC=E4</font></b></span>=
+<span=20lang=3D"en-us"></span><span=20lang=3D"en-us"><b><font=20face=3D"=CE=A2=
+=C8=ED=D1=C5=BA=DA">:</font></b></span><span=20lang=3D"en-us"></span><span=20=
+lang=3D"en-us">=20<font=20face=3D"=CE=A2=C8=ED=D1=C5=BA=DA">2016</font></spa=
+n><span=20lang=3D"en-us"></span><span=20lang=3D"en-us"><font=20face=3D"=CE=A2=
+=C8=ED=D1=C5=BA=DA">=C4=EA</font></span><span=20lang=3D"en-us"></span><span=20=
+lang=3D"en-us"><font=20face=3D"=CE=A2=C8=ED=D1=C5=BA=DA">1</font></span><spa=
+n=20lang=3D"en-us"></span><span=20lang=3D"en-us"><font=20face=3D"=CE=A2=C8=ED=
+=D1=C5=BA=DA">=D4=C2</font></span><span=20lang=3D"en-us"></span><span=20lang=
+=3D"en-us"><font=20face=3D"=CE=A2=C8=ED=D1=C5=BA=DA">27</font></span><span=20=
+lang=3D"en-us"></span><span=20lang=3D"en-us"><font=20face=3D"=CE=A2=C8=ED=D1=
+=C5=BA=DA">=C8=D5</font></span><span=20lang=3D"en-us"></span><span=20lang=3D=
+"en-us"><font=20face=3D"=CE=A2=C8=ED=D1=C5=BA=DA">=209:49<br>
+</font></span><span=20lang=3D"en-us"></span><span=20lang=3D"en-us"><b><font=20=
+face=3D"=CE=A2=C8=ED=D1=C5=BA=DA">=CA=D5=BC=FE=C8=CB</font></b></span><span=20=
+lang=3D"en-us"></span><span=20lang=3D"en-us"><b><font=20face=3D"=CE=A2=C8=ED=
+=D1=C5=BA=DA">:</font></b></span><span=20lang=3D"en-us"></span><span=20lang=3D=
+"en-us"><font=20face=3D"=CE=A2=C8=ED=D1=C5=BA=DA">=20Nick@INESA-e<br>
+</font></span><span=20lang=3D"en-us"></span><span=20lang=3D"en-us"><b><font=20=
+face=3D"=CE=A2=C8=ED=D1=C5=BA=DA">=D6=F7=CC=E2</font></b></span><span=20lang=
+=3D"en-us"></span><span=20lang=3D"en-us"><b><font=20face=3D"=CE=A2=C8=ED=D1=C5=
+=BA=DA">:</font></b></span><span=20lang=3D"en-us"></span><span=20lang=3D"en-=
+us"></span><span=20lang=3D"en-us"></span><span=20lang=3D"en-us">=20<font=20f=
+ace=3D"=CE=A2=C8=ED=D1=C5=BA=DA">=CE=B4=B4=AB=B5=DD</font></span><span=20lan=
+g=3D"en-us"></span><span=20lang=3D"en-us"><font=20face=3D"=CE=A2=C8=ED=D1=C5=
+=BA=DA">:</font></span><span=20lang=3D"en-us"></span><span=20lang=3D"en-us">=
+=20<font=20face=3D"=CE=A2=C8=ED=D1=C5=BA=DA">=D2=C7=B5=E7=CF=EE=C4=BF</font>=
+</span><span=20lang=3D"en-us"></span><span=20lang=3D"en-us"></span><span=20l=
+ang=3D"en-us"></span><span=20lang=3D"en-us">=20<font=20face=3D"=CE=A2=C8=ED=D1=
+=C5=BA=DA">=CD=A8=D1=B6=B8=FC=D0=C2</font></span><span=20lang=3D"en-us"></sp=
+an><span=20lang=3D"en-us"></span><span=20lang=3D"en-us"></span><span=20lang=3D=
+"en-us">=20<font=20face=3D"=CE=A2=C8=ED=D1=C5=BA=DA">=BC=B0</font></span><sp=
+an=20lang=3D"en-us"></span><span=20lang=3D"en-us"></span><span=20lang=3D"en-=
+us"></span><span=20lang=3D"en-us">=20<font=20face=3D"=CE=A2=C8=ED=D1=C5=BA=DA=
+">=B1=BE=D6=DC=CA=C2=D2=CB</font></span><span=20lang=3D"en-us"></span><span=20=
+lang=3D"en-us"></span></p>
+<p=20dir=3D"LTR"><span=20lang=3D"en-us"></span></p>
+<p=20dir=3D"LTR"=20align=3D"JUSTIFY"><span=20lang=3D"en-us"></span></p>
+<p=20dir=3D"LTR"><span=20lang=3D"en-us"></span><span=20lang=3D"zh-cn"><font=20=
+face=3D"Microsoft=20YaHei=20UI">=D3=CA=BC=FE=C3=BB=D3=D0=B5=BD=B4=EF=C4=B3=D0=
+=A9=BB=F2=C8=AB=B2=BF=B5=C4=D4=A4=B6=A8=CA=D5=BC=FE=C8=CB=A1=A3</font></span=
+><span=20lang=3D"en-us"></span><span=20lang=3D"zh-cn"></span></p>
+<p=20dir=3D"LTR"><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20YaHei=20=
+UI">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span=20lang=3D"en-us"></spa=
+n><span=20lang=3D"zh-cn">=20<font=20face=3D"Microsoft=20YaHei=20UI">=D6=F7=CC=
+=E2</font></span><span=20lang=3D"en-us"></span><span=20lang=3D"zh-cn"><font=20=
+face=3D"Microsoft=20YaHei=20UI">:&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span=
+=20lang=3D"en-us"></span><span=20lang=3D"zh-cn">=20<font=20face=3D"Microsoft=
+=20YaHei=20UI">=B4=F0=B8=B4</font></span><span=20lang=3D"en-us"></span><span=
+=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20YaHei=20UI">:</font></span><sp=
+an=20lang=3D"en-us"></span><span=20lang=3D"zh-cn">=20<font=20face=3D"Microso=
+ft=20YaHei=20UI">=D2=C7=B5=E7=CF=EE=C4=BF</font></span><span=20lang=3D"en-us=
+"></span><span=20lang=3D"zh-cn"></span><span=20lang=3D"en-us"></span><span=20=
+lang=3D"zh-cn">=20<font=20face=3D"Microsoft=20YaHei=20UI">=CD=A8=D1=B6=B8=FC=
+=D0=C2</font></span><span=20lang=3D"en-us"></span><span=20lang=3D"zh-cn"></s=
+pan><span=20lang=3D"en-us"></span><span=20lang=3D"zh-cn">=20<font=20face=3D"=
+Microsoft=20YaHei=20UI">=BC=B0</font></span><span=20lang=3D"en-us"></span><s=
+pan=20lang=3D"zh-cn"></span><span=20lang=3D"en-us"></span><span=20lang=3D"zh=
+-cn">=20<font=20face=3D"Microsoft=20YaHei=20UI">=B1=BE=D6=DC=CA=C2=D2=CB</fo=
+nt></span><span=20lang=3D"en-us"></span><span=20lang=3D"zh-cn"></span></p>
+<p=20dir=3D"LTR"><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20YaHei=20=
+UI">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span=20lang=3D"en-us"></spa=
+n><span=20lang=3D"zh-cn">=20<font=20face=3D"Microsoft=20YaHei=20UI">=B7=A2=CB=
+=CD=CA=B1=BC=E4</font></span><span=20lang=3D"en-us"></span><span=20lang=3D"z=
+h-cn"><font=20face=3D"Microsoft=20YaHei=20UI">:=202016/1/27=209:49</font></s=
+pan></p>
+<p=20dir=3D"LTR"><span=20lang=3D"en-us"></span><span=20lang=3D"zh-cn"></span=
+></p>
+<p=20dir=3D"LTR"><span=20lang=3D"en-us"></span><span=20lang=3D"zh-cn"><font=20=
+face=3D"Microsoft=20YaHei=20UI">=CE=DE=B7=A8=B5=BD=B4=EF=D2=D4=CF=C2=CA=D5=BC=
+=FE=C8=CB</font></span><span=20lang=3D"en-us"></span><span=20lang=3D"zh-cn">=
+<font=20face=3D"Microsoft=20YaHei=20UI">:</font></span></p>
+<p=20dir=3D"LTR"><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20YaHei=20=
+UI">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20'Liu,=20Yingping'</font></span><span=20=
+lang=3D"en-us"></span><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20YaH=
+ei=20UI">=A3=AC=CA=B1=BC=E4=CE=AA</font></span><span=20lang=3D"en-us"></span=
+><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20YaHei=20UI">=202016/1/27=
+=209:49</font></span></p>
+<p=20dir=3D"LTR"><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20YaHei=20=
+UI">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font=
+></span><span=20lang=3D"en-us"></span><span=20lang=3D"zh-cn">=20<font=20face=
+=3D"Microsoft=20YaHei=20UI">=B7=FE=CE=F1=C6=F7=B4=ED=CE=F3</font></span><spa=
+n=20lang=3D"en-us"></span><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20=
+YaHei=20UI">:=20'553=20Specified=20domain=20is=20not=20allowed.'</font></spa=
+n></p>
+<p=20dir=3D"LTR"><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20YaHei=20=
+UI">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20'wei_fr@inesa-d.com'</font></span><span=
+=20lang=3D"en-us"></span><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20=
+YaHei=20UI">=A3=AC=CA=B1=BC=E4=CE=AA</font></span><span=20lang=3D"en-us"></s=
+pan><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20YaHei=20UI">=202016/1=
+/27=209:49</font></span></p>
+<p=20dir=3D"LTR"><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20YaHei=20=
+UI">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font=
+></span><span=20lang=3D"en-us"></span><span=20lang=3D"zh-cn">=20<font=20face=
+=3D"Microsoft=20YaHei=20UI">=B7=FE=CE=F1=C6=F7=B4=ED=CE=F3</font></span><spa=
+n=20lang=3D"en-us"></span><span=20lang=3D"zh-cn"><font=20face=3D"Microsoft=20=
+YaHei=20UI">:=20'553=20Specified=20domain=20is=20not=20allowed.'</font></spa=
+n></p>
+<p=20dir=3D"LTR"><span=20lang=3D"en-us"></span><span=20lang=3D"zh-cn"></span=
+></p>
+</div></div></blockquote>
+</x-body></font><meta=20http-equiv=3D"content-type"=20content=3D"text/html;=20=
+charset=3DGB2312"><style>body=20{=20line-height:=201.5;=20}blockquote=20{=20=
+margin-top:=200px;=20margin-bottom:=200px;=20margin-left:=200.5em;=20}p=20{=20=
+margin-top:=200px;=20margin-bottom:=200px;=20}div.foxdiv20160127095655463131=
+=20{=20}body=20{=20font-size:=2010.5pt;=20font-family:=20=CE=A2=C8=ED=D1=C5=BA=
+=DA;=20color:=20rgb(0,=200,=200);=20line-height:=201.5;=20}</style></html>
+-----c25+xUi:r-?ip7JM?lE0HBmIr9h--

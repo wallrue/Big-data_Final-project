@@ -1,0 +1,128 @@
+X-M2KSPAM: NO/0
+Received: from 3.3.3.3
+	by asp6.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(48437:0:AUTH_RELAY)
+	(envelope-from <nicholas_yu@emining.com.tw>); Mon, 08 Jul 2013 10:32:55 +0800 (CST)
+Return-Path: <nicholas_yu@emining.com.tw>
+Received: from 10.0.0.40
+	by bak1.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(81306:0:AUTH_RELAY)
+	(envelope-from <nicholas_yu@emining.com.tw>); Mon, 08 Jul 2013 10:32:49 +0800 (CST)
+Return-Path: <nicholas_yu@emining.com.tw>
+M2KForward: Yes
+Received: By OpenMail Mailer;Mon, 08 Jul 2013 10:32:49 +0800 (CST)
+Received: from 203.69.82.34
+	by m0.mail2000.com.tw with Mail2000 ESMTP Server V3.20M(47928:0:AUTH_NONE)
+	(envelope-from <nicholas_yu@emining.com.tw>); Mon, 08 Jul 2013 10:32:49 +0800 (CST)
+Return-Path: <nicholas_yu@emining.com.tw>
+X-M2KSPAM: NO/0
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(96410:1:AUTH_NONE)
+	(envelope-from <nicholas_yu@emining.com.tw>); Mon, 08 Jul 2013 10:32:46 +0800 (CST)
+Return-Path: <nicholas_yu@emining.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 10.0.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(5317:0:AUTH_RELAY)
+	(envelope-from <nicholas_yu@emining.com.tw>); Mon, 08 Jul 2013 10:32:49 +0800 (CST)
+Return-Path: <nicholas_yu@emining.com.tw>
+Received: By OpenMail Mailer;Mon, 08 Jul 2013 10:32:45 +0800 (CST)
+Received: from 203.69.82.124
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V6.00(8532:0:AUTH_RELAY)
+	(envelope-from <nicholas_yu@emining.com.tw>); Mon, 08 Jul 2013 10:32:44 +0800 (CST)
+Return-Path: <nicholas_yu@emining.com.tw>
+X-M2KPolicyIP: 203.69.82.124 (#NOT FOUND)
+X-MailGates: (RBL:2,PASS,0.000000e+00)(flag:0,RELAY,LAN:PASS)(IPF:2,PASS
+	)(bayesian:SCORE-38,0.00,2)(commtouch:PASS,1,str=0001.0A150203.51DA24CC.
+	008A:SCFSTAT21471171,ss=1,re=-4.000,fgs=0,2)(mail_charset:PASS,2)(comput
+	e_score:HAM,2,0)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 210.59.228.108
+	by mg.openfind.com.tw with MailGates ESMTP Server V4.0(16981:0:AUTH_NONE)
+	(envelope-from <nicholas_yu@emining.com.tw>); Mon, 08 Jul 2013 10:32:41 +0800 (CST)
+Return-Path: <nicholas_yu@emining.com.tw>
+Received: (qmail 1401 invoked from network); 8 Jul 2013 10:32:31 +0800
+Received: from unknown (HELO pollux.url.com.tw) ([210.59.228.224]) (envelope-sender <nicholas_yu@emining.com.tw>)
+          by 0 (qmail-ldap-1.03) with SMTP; 8 Jul 2013 10:32:31 +0800
+Received: (qmail 27132 invoked from network); 8 Jul 2013 10:32:32 +0800
+Return-Path: <nicholas_yu@emining.com.tw>
+X-AccFilter: gw2-level 4  #C0#P0#M0#o0#x0#f0#h0#v0#c0#R0        
+Received: by simscan 1.1.0 ppid: 27108, pid: 27121, t: 0.1306s
+         scanners: regex: 1.1.0 trophie: 8.310-1002/139/616783
+Received: from unknown (HELO NickPC) (nicholas_yu@emining.com.tw@[60.250.91.31]) (envelope-sender <nicholas_yu@emining.com.tw>)
+          by risin.com.tw (qmail-ldap-1.03) with SMTP; 8 Jul 2013 10:32:31 +0800
+From: "Nicholas" <nicholas_yu@emining.com.tw>
+To: <p-marker@openfind.com.tw>
+Subject: P-marker question
+Date: Mon, 8 Jul 2013 10:32:28 +0800
+Message-ID: <1622B60786CD4C6A9B0EE63A98DA9547@NickPC>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_007E_01CE7BC6.71E04FB0"
+X-Mailer: Microsoft Office Outlook 11
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17609
+Thread-Index: Ac57g2Nu2pLr7LNNSnGutz1tzFN2MA==
+
+這是 MIME 格式的 Multipart 郵件。
+
+------=_NextPart_000_007E_01CE7BC6.71E04FB0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Mr. Lin,
+=20
+Per our phone conversation, please check if P-marker can write mata-data =
+to the file which P-maker scan.
+=20
+Thanks.
+=20
+=E2=80=8B=E2=80=8B=E2=80=8B=E2=80=8B
+Nicholas Yu. (=E5=B0=A4=E6=9F=8F=E5=B4=B4) / Director Sales & Marketing
+eMining Tech. / =
+=E5=8A=9B=E9=82=81=E7=A7=91=E6=8A=80=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=90=E5=
+=85=AC=E5=8F=B8
+TEL: (02)2559-3187 # 11
+Mobil:0935437588
+=20
+
+------=_NextPart_000_007E_01CE7BC6.71E04FB0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Dutf-8" http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.7601.18156"></HEAD>
+<BODY>
+<DIV><SPAN class=3D099283002-08072013><FONT =
+face=3D=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94>Dear Mr.=20
+Lin,</FONT></SPAN></DIV>
+<DIV><SPAN class=3D099283002-08072013></SPAN>&nbsp;</DIV>
+<DIV><SPAN class=3D099283002-08072013><FONT =
+face=3D=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94>Per our phone conversation,=20
+please check if P-marker can write mata-data to the file which P-maker=20
+scan.</FONT></SPAN></DIV>
+<DIV><SPAN class=3D099283002-08072013></SPAN>&nbsp;</DIV>
+<DIV><SPAN class=3D099283002-08072013><FONT =
+face=3D=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94>Thanks.</FONT></SPAN></DIV>
+<DIV><SPAN class=3D099283002-08072013></SPAN>&nbsp;</DIV>
+<DIV>=E2=80=8B=E2=80=8B=E2=80=8B=E2=80=8B</DIV>
+<DIV align=3Dleft><FONT face=3D=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94>
+<DIV align=3Dleft><FONT =
+face=3D=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94>Nicholas Yu. =
+(=E5=B0=A4=E6=9F=8F=E5=B4=B4) / Director Sales &amp;=20
+Marketing<BR>eMining Tech. / =
+=E5=8A=9B=E9=82=81=E7=A7=91=E6=8A=80=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=90=E5=
+=85=AC=E5=8F=B8<BR>TEL: (02)2559-3187 #=20
+11<BR>Mobil:0935437588</FONT></DIV></FONT></DIV>
+<DIV><FONT =
+face=3D=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94></FONT>&nbsp;</DIV></BODY></H=
+TML>
+
+------=_NextPart_000_007E_01CE7BC6.71E04FB0--
+

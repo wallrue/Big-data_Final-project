@@ -1,0 +1,238 @@
+X-M2KSPAM: NO/-6
+Received: from 203.69.82.97
+	by asp6.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(44069:0:AUTH_NONE)
+	(envelope-from <service@mailcloud.com.tw>); Wed, 30 Jan 2013 17:39:54 +0800 (CST)
+Return-Path: <service@mailcloud.com.tw>
+X-M2KPolicyIP: 203.69.82.97 (N/A)
+Received: from 10.0.0.83
+	by mx6.mail2000.com.tw with Mail2000 ESMTP Server V3.20M(36197:0:AUTH_RELAY)
+	(envelope-from <service@mailcloud.com.tw>); Wed, 30 Jan 2013 17:39:51 +0800 (CST)
+Return-Path: <service@mailcloud.com.tw>
+Received: from 10.0.0.81
+	by bak3.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(1100:0:AUTH_RELAY)
+	(envelope-from <service@mailcloud.com.tw>); Wed, 30 Jan 2013 15:22:02 +0800 (CST)
+Return-Path: <service@mailcloud.com.tw>
+Received: from 10.0.0.40
+	by bak1.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(1400:0:AUTH_RELAY)
+	(envelope-from <service@mailcloud.com.tw>); Wed, 30 Jan 2013 15:21:58 +0800 (CST)
+Return-Path: <service@mailcloud.com.tw>
+M2KForward: Yes
+Received: By OpenMail Mailer;Wed, 30 Jan 2013 15:21:58 +0800 (CST)
+Received: from 203.69.82.34
+	by m0.mail2000.com.tw with Mail2000 ESMTP Server V3.20M(37080:0:AUTH_NONE)
+	(envelope-from <service@mailcloud.com.tw>); Wed, 30 Jan 2013 15:21:57 +0800 (CST)
+Return-Path: <service@mailcloud.com.tw>
+X-M2KSPAM: YES/100
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(974:0:AUTH_NONE)
+	(envelope-from <service@mailcloud.com.tw>); Wed, 30 Jan 2013 15:21:56 +0800 (CST)
+Return-Path: <service@mailcloud.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)
+X-MGMilo: No
+X-MGBS: No
+Received: from 10.0.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(25885:0:AUTH_RELAY)
+	(envelope-from <service@mailcloud.com.tw>); Wed, 30 Jan 2013 15:21:59 +0800 (CST)
+Return-Path: <service@mailcloud.com.tw>
+Received: By OpenMail Mailer;Wed, 30 Jan 2013 15:21:55 +0800 (CST)
+Received: from 203.69.82.124
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V6.00(918:0:AUTH_RELAY)
+	(envelope-from <service@mailcloud.com.tw>); Wed, 30 Jan 2013 15:21:53 +0800 (CST)
+Return-Path: <service@mailcloud.com.tw>
+X-M2KPolicyIP: 203.69.82.124 (#NOT FOUND)
+X-MailGates: (RBL:2,PASS,0.000000e+00)(flag:0,RELAY,LAN:PASS)(IPF:2,PASS
+	)(bayesian:SCORE-38,0.00,2)(commtouch:PASS,1,str=0001.0A150205.5108CA10.
+	018D,ss=1,re=0.000,fgs=0,2)(from_pathip_hash:fpi.FromIPTrust.system,HAM,
+	service@mailcloud.com.tw,203.69.82.96,0)
+X-MGMilo: No
+X-MGBS: No
+Received: from 203.69.82.96
+	by mg.openfind.com.tw with MailGates ESMTP Server V4.0(1138:0:AUTH_NONE)
+	(envelope-from <service@mailcloud.com.tw>); Wed, 30 Jan 2013 15:21:48 +0800 (CST)
+Return-Path: <service@mailcloud.com.tw>
+Received: from 10.0.0.18
+	by bak7.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(88956:0:AUTH_LOGIN)
+	(envelope-from <service@mailcloud.com.tw>); Wed, 30 Jan 2013 15:20:19 +0800 (CST)
+Return-Path: <service@mailcloud.com.tw>
+X-M2KSPAM: NO/0
+Received: from 210.59.164.109
+	by asp8.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(49135:0:AUTH_LOGIN)
+	(envelope-from <service@mailcloud.com.tw>); Wed, 30 Jan 2013 15:20:19 +0800 (CST)
+Return-Path: <service@mailcloud.com.tw>
+Message-ID: <F517C9E15884410F8B4FEA5CF461B721@tp.office.openfind.com.tw>
+From: =?big5?B?TWFpbGNsb3VkIKvIqkGkpKTf?= <service@mailcloud.com.tw>
+To: "online_se" <online_se@openfind.com.tw>
+Cc: "m2k_service" <m2k_service@mail2000.com.tw>,
+	"p-marker" <p-marker@openfind.com.tw>
+References: <1359529720.39707.m2k_adm@mail2000.com.tw>
+In-Reply-To: <1359529720.39707.m2k_adm@mail2000.com.tw>
+Subject: =?big5?B?UmU6IFAtTWFya2VyIC0g6Pu0rbjqsFShR8KnqOmkd6dJtKum/aa4vMaoU6az?=
+	=?big5?B?vFelWw==?=
+Date: Wed, 30 Jan 2013 15:17:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0255_01CDFEFC.E74561B0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 15.4.3555.308
+X-MimeOLE: Produced By Microsoft MimeOLE V15.4.3555.308
+
+這是 MIME 格式的 Multipart 郵件。
+
+------=_NextPart_000_0255_01CDFEFC.E74561B0
+Content-Type: text/plain;
+	charset="big5"
+Content-Transfer-Encoding: quoted-printable
+
+=B1z=A6n=A1A
+
+=A4w=B8g=A4=E2=B0=CA=BCW=A5[ 10 =A6=B8=A1A
+=A4=A3=B9L=B9=EF=A4=E8=A6=B3=B0=DD=A8=EC=ACO=A4=B0=BB=F2=AD=EC=A6]=A1A
+=A7=DA=AD=CC=ACd=B1o=A5X=A8=D3=B6=DC=A1H
+=BD=D0=B1z=A8=F3=A7U=BDT=BB{=A4@=A4U=A1A=B7P=C1=C2=A1C
+
+
+Kate
+
+=ADY=B1z=B9=EF=A5H=A4W=A6^=C2=D0=A6=B3=A5=F4=A6=F3=BA=C3=B0=DD=A1A
+=C5w=AA=EF=B1z=A4=CF=ACM=B5=B9=A7=DA=AD=CC=A1C
+
+MailCloud =AB=C8=AAA=A4=A4=A4=DF =B7q=A4W
+
+
+MailCloud =AB=C8=AAA=A4=A4=A4=DF
+=AB=C8=AAA=B1M=BDu=A1G02-25537272
+=AB=C8=AAA=ABH=BDc=A1Gservice@mailcloud.com.tw
+=BA=F4=C0=BA=A5=F8=B7~=B6l=A5=F3=A5N=BA=DE http://www.mailcloud.com.tw
+Mail2000=B9q=A4l=ABH=BDc http://mail2000.com.tw/
+=BA=F4=C0=BA Openfind =A5=F8=B7~=BA=F4=AF=B8 =
+http://www.openfind.com/taiwan/
+
+
+From: Mail2000 =AB=C8=AAA=A4=A4=A4=DF=20
+Sent: Wednesday, January 30, 2013 3:08 PM
+To: p-marker=20
+Cc: online_se ; m2k_service=20
+Subject: P-Marker - =
+=E8=FB=B4=AD=B8=EA=B0T=A1G=C2=A7=A8=E9=A4w=A7I=B4=AB=A6=FD=A6=B8=BC=C6=A8=
+S=A6=B3=BCW=A5[
+
+Dears
+
+=E8=FB=B4=AD=B8=EA=B0T=20
+GSSISSBU
+0937408880 =A7=F5=A5=FD=A5=CD
+
+=B8g=BEP=B0=D3=A8=D3=B9q=AA=ED=A5=DC=A1A=A5L=ACQ=A4=D1=A6=AC=A8=EC=C2=A7=A8=
+=E9=A7I=B4=AB=A8=C3=A5=D3=BD=D0=B1b=B8=B9=A1A
+=B3=A3=A4w=B8g=A7=B9=A6=A8=A5B=A4]=A6=AC=A8=EC=B5=F9=A5U=B3q=AA=BE=ABH=A1=
+A=A6=FD=B1=C2=C5v=A6=B8=BC=C6=A4=B4=B5M=AC=B0 0 =A1A
+=C2=A7=A8=E9=A5N=BDX=AC=B0=A1GPPMDLYQ4XF
+=BD=D0=C0=B0=A6=A3=BDT=BB{=AC=DD=AC=DD
+
+=C1=C2=C1=C2
+sunny
+&#160;
+=C1=C2=C1=C2=B1z=B9=EF Mail2000 =AA=BA=B7R=A5=CE=A1C
+=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6A=A6=B8=AC=A2=B8=DF=A1C
+&#160;
+Mail2000 =AB=C8=AAA=A4=A4=A4=DF =B7q=A4W
+-----------------------------------------------------------------------
+Mail2000 =AB=C8=AAA=A4=A4=A4=DF
+=AB=C8=AAA=B1M=BDu=A1G02-2553-7272
+=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956
+=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw
+Mail2000=B9q=A4l=ABH=BDc http://mail2000.com.tw/
+=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8 http://www.mailcloud.com.tw =
+
+=BA=F4=C0=BA Openfind =A5=F8=B7~=BA=F4=AF=B8 =
+http://www.openfind.com/taiwan
+-----------------------------------------------------------------------
+
+------=_NextPart_000_0255_01CDFEFC.E74561B0
+Content-Type: text/html;
+	charset="big5"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-FAMILY: '=B7L=B3n=A5=BF=B6=C2=C5=E9'; COLOR: #080000; =
+FONT-SIZE: 12pt">
+<DIV>=B1z=A6n=A1A</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=A4w=B8g=A4=E2=B0=CA=BCW=A5[ 10 =A6=B8=A1A</DIV>
+<DIV>=A4=A3=B9L=B9=EF=A4=E8=A6=B3=B0=DD=A8=EC=ACO=A4=B0=BB=F2=AD=EC=A6]=A1=
+A</DIV>
+<DIV>=A7=DA=AD=CC=ACd=B1o=A5X=A8=D3=B6=DC=A1H</DIV>
+<DIV>=BD=D0=B1z=A8=F3=A7U=BDT=BB{=A4@=A4U=A1A=B7P=C1=C2=A1C</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Kate</DIV>
+<DIV>&nbsp;</DIV>
+<DIV=20
+style=3D"FONT-FAMILY: '=B7L=B3n=A5=BF=B6=C2=C5=E9'; COLOR: #080000; =
+FONT-SIZE: =
+12pt">=ADY=B1z=B9=EF=A5H=A4W=A6^=C2=D0=A6=B3=A5=F4=A6=F3=BA=C3=B0=DD=A1A<=
+BR>=C5w=AA=EF=B1z=A4=CF=ACM=B5=B9=A7=DA=AD=CC=A1C<BR><BR>MailCloud=20
+=AB=C8=AAA=A4=A4=A4=DF =B7q=A4W<BR><BR><BR>MailCloud=20
+=AB=C8=AAA=A4=A4=A4=DF<BR>=AB=C8=AAA=B1M=BDu=A1G02-25537272<BR>=AB=C8=AAA=
+=ABH=BDc=A1Gservice@mailcloud.com.tw<BR>=BA=F4=C0=BA=A5=F8=B7~=B6l=A5=F3=A5=
+N=BA=DE=20
+http://www.mailcloud.com.tw<BR>Mail2000=B9q=A4l=ABH=BDc =
+http://mail2000.com.tw/<BR>=BA=F4=C0=BA=20
+Openfind =A5=F8=B7~=BA=F4=AF=B8 =
+http://www.openfind.com/taiwan/<BR></DIV>
+<DIV=20
+style=3D"FONT-STYLE: normal; DISPLAY: inline; FONT-FAMILY: 'Calibri'; =
+COLOR: #000000; FONT-SIZE: small; FONT-WEIGHT: normal; TEXT-DECORATION: =
+none">
+<DIV style=3D"FONT: 10pt tahoma">
+<DIV>&nbsp;</DIV>
+<DIV style=3D"BACKGROUND: #f5f5f5">
+<DIV style=3D"font-color: black"><B>From:</B> <A =
+title=3Dm2k_adm@mail2000.com.tw=20
+href=3D"mailto:m2k_adm@mail2000.com.tw">Mail2000 =
+=AB=C8=AAA=A4=A4=A4=DF</A> </DIV>
+<DIV><B>Sent:</B> Wednesday, January 30, 2013 3:08 PM</DIV>
+<DIV><B>To:</B> <A title=3Dp-marker@openfind.com.tw=20
+href=3D"mailto:p-marker@openfind.com.tw">p-marker</A> </DIV>
+<DIV><B>Cc:</B> <A title=3Donline_se@openfind.com.tw=20
+href=3D"mailto:online_se@openfind.com.tw">online_se</A> ; <A=20
+title=3Dm2k_service@mail2000.com.tw=20
+href=3D"mailto:m2k_service@mail2000.com.tw">m2k_service</A> </DIV>
+<DIV><B>Subject:</B> P-Marker - =
+=E8=FB=B4=AD=B8=EA=B0T=A1G=C2=A7=A8=E9=A4w=A7I=B4=AB=A6=FD=A6=B8=BC=C6=A8=
+S=A6=B3=BCW=A5[</DIV></DIV></DIV>
+<DIV>&nbsp;</DIV></DIV>
+<DIV=20
+style=3D"FONT-STYLE: normal; DISPLAY: inline; FONT-FAMILY: 'Calibri'; =
+COLOR: #000000; FONT-SIZE: small; FONT-WEIGHT: normal; TEXT-DECORATION: =
+none">Dears<BR><BR>=E8=FB=B4=AD=B8=EA=B0T=20
+<BR>GSSISSBU<BR>0937408880=20
+=A7=F5=A5=FD=A5=CD<BR><BR>=B8g=BEP=B0=D3=A8=D3=B9q=AA=ED=A5=DC=A1A=A5L=AC=
+Q=A4=D1=A6=AC=A8=EC=C2=A7=A8=E9=A7I=B4=AB=A8=C3=A5=D3=BD=D0=B1b=B8=B9=A1A=
+<BR>=B3=A3=A4w=B8g=A7=B9=A6=A8=A5B=A4]=A6=AC=A8=EC=B5=F9=A5U=B3q=AA=BE=AB=
+H=A1A=A6=FD=B1=C2=C5v=A6=B8=BC=C6=A4=B4=B5M=AC=B0 0=20
+=A1A<BR>=C2=A7=A8=E9=A5N=BDX=AC=B0=A1GPPMDLYQ4XF<BR>=BD=D0=C0=B0=A6=A3=BD=
+T=BB{=AC=DD=AC=DD<BR><BR>=C1=C2=C1=C2<BR>sunny<BR>&amp;#160;<BR>=C1=C2=C1=
+=C2=B1z=B9=EF=20
+Mail2000 =
+=AA=BA=B7R=A5=CE=A1C<BR>=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6=
+A=A6=B8=AC=A2=B8=DF=A1C<BR>&amp;#160;<BR>Mail2000 =AB=C8=AAA=A4=A4=A4=DF =
+
+=B7q=A4W<BR>-------------------------------------------------------------=
+----------<BR>Mail2000=20
+=AB=C8=AAA=A4=A4=A4=DF<BR>=AB=C8=AAA=B1M=BDu=A1G02-2553-7272<BR>=AB=C8=AA=
+A=B6=C7=AFu=A1G02-2553-5956<BR>=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com=
+.tw<BR>Mail2000=B9q=A4l=ABH=BDc=20
+http://mail2000.com.tw/<BR>=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8 =
+http://www.mailcloud.com.tw <BR>=BA=F4=C0=BA Openfind=20
+=A5=F8=B7~=BA=F4=AF=B8=20
+http://www.openfind.com/taiwan<BR>---------------------------------------=
+--------------------------------<BR></DIV></DIV></DIV></BODY></HTML>
+
+------=_NextPart_000_0255_01CDFEFC.E74561B0--
+

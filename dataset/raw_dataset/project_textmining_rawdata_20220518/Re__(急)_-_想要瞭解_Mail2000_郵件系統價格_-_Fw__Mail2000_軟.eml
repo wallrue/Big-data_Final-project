@@ -1,0 +1,426 @@
+X-M2K-MATCHED-RULE: SPAM_FILTER-InADB
+X-M2K-MATCHED-RESULT: Mail Header From In ADB/ben_ko@openfind.com.tw
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 220.130.127.161
+	by ms1.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(9712:0:AUTH_NONE)
+	(envelope-from <prvs=1866BC1608=ben_ko@openfind.com.tw>); Thu, 03 Mar 2016 11:14:09 +0800 (CST)
+Return-Path: <prvs=1866BC1608=ben_ko@openfind.com.tw>
+X-M2KSPAM: YES/100
+Received: from 220.130.127.161
+	by asp7.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(85777:0:AUTH_NONE)
+	(envelope-from <prvs=1866BC1608=ben_ko@openfind.com.tw>); Thu, 03 Mar 2016 11:14:08 +0800 (CST)
+Return-Path: <prvs=1866BC1608=ben_ko@openfind.com.tw>
+X-M2KPolicyIP: 220.130.127.161 (p5.mail2000.com.tw)
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(31043:0:AUTH_RELAY)
+	(envelope-from <prvs=1866BC1608=ben_ko@openfind.com.tw>); Thu, 03 Mar 2016 11:14:07 +0800 (CST)
+Return-Path: <prvs=1866BC1608=ben_ko@openfind.com.tw>
+Received: By OpenMail Mailer;Thu, 03 Mar 2016 11:14:07 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(17916:0:AUTH_NONE)
+	(envelope-from <prvs=1866BC1608=ben_ko@openfind.com.tw>); Thu, 03 Mar 2016 11:14:07 +0800 (CST)
+Return-Path: <prvs=1866BC1608=ben_ko@openfind.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(25127:1:AUTH_NONE)
+	(envelope-from <prvs=1866BC1608=ben_ko@openfind.com.tw>); Thu, 03 Mar 2016 11:14:07 +0800 (CST)
+Return-Path: <prvs=1866BC1608=ben_ko@openfind.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)(FROMBW:2,PASS)(FROMBW:2,
+	PASS)(audit_rules:rules.audit_out1311132448.system#,,aDELIVER,R/m2k_serv
+	ice@mail2000.com.tw,4,ou)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+X-MGADT: rules.audit_out1311132448.system#,R/m2k_service@mail2000.com.tw
+Received: from 172.16.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(28024:0:AUTH_RELAY)
+	(envelope-from <ben_ko@openfind.com.tw>); Thu, 03 Mar 2016 11:04:51 +0800 (CST)
+Return-Path: <ben_ko@openfind.com.tw>
+Received: from 172.16.2.14
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V7.00(17771:0:AUTH_LOGIN)
+	(envelope-from <ben_ko@openfind.com.tw>); Thu, 03 Mar 2016 11:04:49 +0800 (CST)
+Return-Path: <ben_ko@openfind.com.tw>
+X-M2KPolicyIP: 172.16.2.14 (#NOT FOUND)
+Subject: =?UTF-8?B?UmU6ICjmgKUpIC0g5oOz6KaB556t6KejIE1haWwyMDAwIOmDteS7tg==?=
+ =?UTF-8?B?57O757Wx5YO55qC8IC0gRnc6IE1haWwyMDAwIOi7n+mrlCDmpa3li5nllY/poYwg?=
+ =?UTF-8?B?LSDnvqTmqLrnp5HmioAgLSDoqaLllY/mgI7purzmiJDngrrntpPpirfllYY=?=
+To: =?UTF-8?B?TWFpbDIwMDAg5a6i5pyN5Lit5b+D?= <m2k_adm@mail2000.com.tw>,
+ =?UTF-8?B?55Si5ZOB5qWt5YuZ?= <sales@openfind.com.tw>
+References: <1456971355.15609.m2k_adm@mail2000.com.tw>
+Cc: ben_ko@openfind.com.tw, m2k_service <m2k_service@mail2000.com.tw>
+From: Ben Ko <ben_ko@openfind.com.tw>
+Message-ID: <56D7A9D1.5090605@openfind.com.tw>
+Date: Thu, 3 Mar 2016 11:04:49 +0800
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:38.0) Gecko/20100101
+ Thunderbird/38.6.0
+MIME-Version: 1.0
+In-Reply-To: <1456971355.15609.m2k_adm@mail2000.com.tw>
+Content-Type: multipart/alternative;
+ boundary="------------090602020506000004010803"
+
+This is a multi-part message in MIME format.
+--------------090602020506000004010803
+Content-Type: text/plain; charset=big5
+Content-Transfer-Encoding: 8bit
+
+Dear Jasmine,
+
+感謝通知！
+我們已經安排聯絡。
+
+謝謝
+
+Mail2000 客服中心 於 2016/3/3 上午 10:15 寫道:
+> 您好，
+>
+> 群樺科技葉小姐有再來電
+> 提到有客戶想建置郵件系統，
+> 想要瞭解 Mail2000 價格，
+> 葉小姐蠻急的，
+> 麻煩您再幫忙連繫，
+> 謝謝。
+>
+>
+>
+>
+> Jasmine
+>
+> 謝謝您對 Mail2000 的愛用。
+> 若有任何問題，歡迎再次洽詢。
+> ---------------------------------------------------------------------------
+> *SecuShare 分享雲－幫你的信箱減肥*
+>
+> 按下郵件附檔旁邊的分享雲圖示，即可將附檔另存於
+> 贈送的分享雲空間。接著至工具選單 》刪除附檔，
+> 就能幫您的信箱瘦身！詳情請見
+> <http://doc.mail2000.com.tw/news/1405/AttachToSS.htm>
+> ---------------------------------------------------------------------------
+>
+> Mail2000 客服中心 敬上
+>
+> Mail2000 客服中心
+> 客服專線：02-2553-7272
+> 客服傳真：02-2553-5956
+> 客服信箱：m2k_adm@mail2000.com.tw
+> Mail2000電子信箱 http://mail2000.com.tw/
+> 網擎企業雲端服務 http://www.mailcloud.com.tw
+> <http://www.mailcloud.com.tw/>
+> 網擎 Openfind 企業網站 http://www.openfind.com/taiwan
+>
+>
+> -----Forwarded message-----
+> *From:*Mail2000 客服中心<m2k_adm@mail2000.com.tw>
+> *To:*產品業務<sales@openfind.com.tw>
+> *Cc:*m2k_service<m2k_service@mail2000.com.tw>
+> *Date: * Wed, 02 Mar 2016 17:36:57
+> *Subject:* Mail2000 軟體 業務問題 - 群樺科技 - 詢問怎麼成為經銷商
+> 您好，
+>
+> 群樺科技
+> 葉小姐
+> 03-4279866#618
+> yuni.yeh@gemtech.com.tw
+>
+>
+> 問題：
+> 葉小姐有接到客戶詢問Mail2000軟體，
+> 想確認怎麼成為經銷商，
+> 麻煩您再幫忙連繫，
+> 謝謝。
+>
+>
+>
+>
+> Jasmine
+>
+> 謝謝您對 Mail2000 的愛用。
+> 若有任何問題，歡迎再次洽詢。
+> ---------------------------------------------------------------------------
+> *SecuShare 分享雲－幫你的信箱減肥*
+>
+> 按下郵件附檔旁邊的分享雲圖示，即可將附檔另存於
+> 贈送的分享雲空間。接著至工具選單 》刪除附檔，
+> 就能幫您的信箱瘦身！詳情請見
+> <http://doc.mail2000.com.tw/news/1405/AttachToSS.htm>
+> ---------------------------------------------------------------------------
+>
+> Mail2000 客服中心 敬上
+>
+> Mail2000 客服中心
+> 客服專線：02-2553-7272
+> 客服傳真：02-2553-5956
+> 客服信箱：m2k_adm@mail2000.com.tw
+> Mail2000電子信箱 http://mail2000.com.tw/
+> 網擎企業雲端服務 http://www.mailcloud.com.tw
+> <http://www.mailcloud.com.tw/>
+> 網擎 Openfind 企業網站 http://www.openfind.com/taiwan
+>
+
+-- 
+Ben Ko
+
+
+--------------090602020506000004010803
+Content-Type: text/html; charset=big5
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+    <meta content="text/html; charset=big5" http-equiv="Content-Type">
+  </head>
+  <body bgcolor="#FFFFFF" text="#000000">
+    Dear Jasmine,<br>
+    <br>
+    感謝通知！<br>
+    我們已經安排聯絡。<br>
+    <br>
+    謝謝<br>
+    <br>
+    <div class="moz-cite-prefix">Mail2000 客服中心 於 2016/3/3 上午 10:15 寫道:<br>
+    </div>
+    <blockquote cite="mid:1456971355.15609.m2k_adm@mail2000.com.tw"
+      type="cite">
+      <div>
+        <div>
+          <div>
+            <div>
+              <div>
+                <div>
+                  <div>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <div>
+                              <div>
+                                <div>
+                                  <div>您好，</div>
+                                  <div><br>
+                                  </div>
+                                  <div>群樺科技葉小姐有再來電<br>
+                                    提到有客戶想建置郵件系統，<br>
+                                    想要瞭解 Mail2000 價格，<br>
+                                    葉小姐蠻急的，<br>
+                                    麻煩您再幫忙連繫，<br>
+                                    謝謝。<br>
+                                  </div>
+                                  <div><br>
+                                  </div>
+                                  <div><br>
+                                  </div>
+                                  <div><br>
+                                    <br>
+                                    Jasmine<br>
+                                  </div>
+                                  <div><br>
+                                  </div>
+                                  <div>謝謝您對 Mail2000 的愛用。<br>
+                                    若有任何問題，歡迎再次洽詢。<br>
+---------------------------------------------------------------------------<br>
+                                    <b><font color="#FF0000">SecuShare
+                                        分享雲－幫你的信箱減肥</font></b><br>
+                                    <br>
+                                    按下郵件附檔旁邊的分享雲圖示，即可將附檔另存於<br>
+                                    贈送的分享雲空間。接著至工具選單 》刪除附檔，<br>
+                                    就能幫您的信箱瘦身！<a moz-do-not-send="true"
+href="http://doc.mail2000.com.tw/news/1405/AttachToSS.htm">詳情請見</a><br>
+---------------------------------------------------------------------------<br>
+                                  </div>
+                                  <div><font size="3"><span
+                                        class="Apple-style-span"
+                                        style="border-collapse:
+                                        separate; color: rgb(0, 0, 0);
+                                        font-family: 'Times New Roman';
+                                        font-size: medium; font-style:
+                                        normal; font-variant: normal;
+                                        font-weight: normal;
+                                        letter-spacing: normal;
+                                        line-height: normal; orphans: 2;
+                                        text-align: auto; text-indent:
+                                        0px; text-transform: none;
+                                        white-space: normal; widows: 2;
+                                        word-spacing: 0px;
+                                        -webkit-border-horizontal-spacing:
+                                        0px;
+                                        -webkit-border-vertical-spacing:
+                                        0px;
+                                        -webkit-text-decorations-in-effect:
+                                        none; -webkit-text-size-adjust:
+                                        auto; -webkit-text-stroke-width:
+                                        0px; "><span
+                                          class="Apple-style-span"
+                                          style="font-family: Arial,
+                                          Helvetica, FreeSans,
+                                          sans-serif; font-size: 13px;
+                                          line-height: 17px; text-align:
+                                          left; "></span></span></font><br>
+                                    <div>Mail2000 客服中心 敬上</div>
+                                    <div><br>
+                                    </div>
+                                    <div>Mail2000 客服中心</div>
+                                    <div>客服專線：02-2553-7272</div>
+                                    <div>客服傳真：02-2553-5956</div>
+                                    <div>客服信箱：<a class="moz-txt-link-abbreviated" href="mailto:m2k_adm@mail2000.com.tw">m2k_adm@mail2000.com.tw</a></div>
+                                    <div>Mail2000電子信箱 <a
+                                        moz-do-not-send="true"
+                                        href="http://mail2000.com.tw/"
+                                        target="_blank"><a class="moz-txt-link-freetext" href="http://mail2000.com.tw/">http://mail2000.com.tw/</a></a></div>
+                                    <div>網擎企業雲端服務 <a
+                                        moz-do-not-send="true"
+                                        href="http://www.mailcloud.com.tw/"
+                                        target="_blank"><a class="moz-txt-link-freetext" href="http://www.mailcloud.com.tw">http://www.mailcloud.com.tw</a></a>
+                                    </div>
+                                    <div>網擎 Openfind 企業網站 <a
+                                        moz-do-not-send="true"
+                                        href="http://www.openfind.com/taiwan"
+                                        target="_blank"><a class="moz-txt-link-freetext" href="http://www.openfind.com/taiwan">http://www.openfind.com/taiwan</a></a></div>
+                                    <div><br>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br>
+      -----Forwarded message-----<br>
+      <b>From:</b>Mail2000 客服中心<a class="moz-txt-link-rfc2396E" href="mailto:m2k_adm@mail2000.com.tw">&lt;m2k_adm@mail2000.com.tw&gt;</a><br>
+      <b>To:</b>產品業務<a class="moz-txt-link-rfc2396E" href="mailto:sales@openfind.com.tw">&lt;sales@openfind.com.tw&gt;</a><br>
+      <b>Cc:</b>m2k_service<a class="moz-txt-link-rfc2396E" href="mailto:m2k_service@mail2000.com.tw">&lt;m2k_service@mail2000.com.tw&gt;</a><br>
+      <b>Date: </b> Wed, 02 Mar 2016 17:36:57<br>
+      <b>Subject:</b> Mail2000 軟體 業務問題 - 群樺科技 - 詢問怎麼成為經銷商<br>
+      <div>
+        <div>
+          <div>
+            <div>
+              <div>
+                <div>
+                  <div>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <div>
+                              <div>
+                                <div>
+                                  <div>您好，</div>
+                                  <div><br>
+                                    群樺科技<br>
+                                    葉小姐<br>
+                                    03-4279866#618<br>
+                                    <a class="moz-txt-link-abbreviated" href="mailto:yuni.yeh@gemtech.com.tw">yuni.yeh@gemtech.com.tw</a><br>
+                                  </div>
+                                  <div><br>
+                                    <br>
+                                    問題：<br>
+                                    葉小姐有接到客戶詢問Mail2000軟體，<br>
+                                    想確認怎麼成為經銷商，<br>
+                                    麻煩您再幫忙連繫，<br>
+                                    謝謝。</div>
+                                  <br>
+                                  <div><br>
+                                    <br>
+                                  </div>
+                                  <div><br>
+                                    Jasmine<br>
+                                  </div>
+                                  <div><br>
+                                  </div>
+                                  <div>謝謝您對 Mail2000 的愛用。<br>
+                                    若有任何問題，歡迎再次洽詢。<br>
+---------------------------------------------------------------------------<br>
+                                    <b><font color="#FF0000">SecuShare
+                                        分享雲－幫你的信箱減肥</font></b><br>
+                                    <br>
+                                    按下郵件附檔旁邊的分享雲圖示，即可將附檔另存於<br>
+                                    贈送的分享雲空間。接著至工具選單 》刪除附檔，<br>
+                                    就能幫您的信箱瘦身！<a moz-do-not-send="true"
+href="http://doc.mail2000.com.tw/news/1405/AttachToSS.htm">詳情請見</a><br>
+---------------------------------------------------------------------------<br>
+                                  </div>
+                                  <div><font size="3"><span
+                                        class="Apple-style-span"
+                                        style="border-collapse:
+                                        separate; color: rgb(0, 0, 0);
+                                        font-family: 'Times New Roman';
+                                        font-size: medium; font-style:
+                                        normal; font-variant: normal;
+                                        font-weight: normal;
+                                        letter-spacing: normal;
+                                        line-height: normal; orphans: 2;
+                                        text-align: auto; text-indent:
+                                        0px; text-transform: none;
+                                        white-space: normal; widows: 2;
+                                        word-spacing: 0px;
+                                        -webkit-border-horizontal-spacing:
+                                        0px;
+                                        -webkit-border-vertical-spacing:
+                                        0px;
+                                        -webkit-text-decorations-in-effect:
+                                        none; -webkit-text-size-adjust:
+                                        auto; -webkit-text-stroke-width:
+                                        0px; "><span
+                                          class="Apple-style-span"
+                                          style="font-family: Arial,
+                                          Helvetica, FreeSans,
+                                          sans-serif; font-size: 13px;
+                                          line-height: 17px; text-align:
+                                          left; "></span></span></font><br>
+                                    <div>Mail2000 客服中心 敬上</div>
+                                    <div><br>
+                                    </div>
+                                    <div>Mail2000 客服中心</div>
+                                    <div>客服專線：02-2553-7272</div>
+                                    <div>客服傳真：02-2553-5956</div>
+                                    <div>客服信箱：<a class="moz-txt-link-abbreviated" href="mailto:m2k_adm@mail2000.com.tw">m2k_adm@mail2000.com.tw</a></div>
+                                    <div>Mail2000電子信箱 <a
+                                        moz-do-not-send="true"
+                                        href="http://mail2000.com.tw/"
+                                        target="_blank"><a class="moz-txt-link-freetext" href="http://mail2000.com.tw/">http://mail2000.com.tw/</a></a></div>
+                                    <div>網擎企業雲端服務 <a
+                                        moz-do-not-send="true"
+                                        href="http://www.mailcloud.com.tw/"
+                                        target="_blank"><a class="moz-txt-link-freetext" href="http://www.mailcloud.com.tw">http://www.mailcloud.com.tw</a></a>
+                                    </div>
+                                    <div>網擎 Openfind 企業網站 <a
+                                        moz-do-not-send="true"
+                                        href="http://www.openfind.com/taiwan"
+                                        target="_blank"><a class="moz-txt-link-freetext" href="http://www.openfind.com/taiwan">http://www.openfind.com/taiwan</a></a></div>
+                                    <div><br>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </blockquote>
+    <br>
+    <pre class="moz-signature" cols="72">-- 
+Ben Ko</pre>
+  </body>
+</html>
+
+--------------090602020506000004010803--

@@ -1,0 +1,302 @@
+X-M2KSPAM: YES/100
+Received: from 3.3.3.3
+	by asp7.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(32958:0:AUTH_RELAY)
+	(envelope-from <kate.chen@wis.com.tw>); Fri, 01 Mar 2013 17:57:21 +0800 (CST)
+Return-Path: <kate.chen@wis.com.tw>
+Received: from 10.0.0.40
+	by bak1.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(5702:0:AUTH_RELAY)
+	(envelope-from <kate.chen@wis.com.tw>); Fri, 01 Mar 2013 17:57:18 +0800 (CST)
+Return-Path: <kate.chen@wis.com.tw>
+M2KForward: Yes
+Received: By OpenMail Mailer;Fri, 01 Mar 2013 17:57:18 +0800 (CST)
+Received: from 203.69.82.34
+	by m0.mail2000.com.tw with Mail2000 ESMTP Server V3.20M(37080:0:AUTH_NONE)
+	(envelope-from <kate.chen@wis.com.tw>); Fri, 01 Mar 2013 17:57:17 +0800 (CST)
+Return-Path: <kate.chen@wis.com.tw>
+X-M2KSPAM: NO/0
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(964:0:AUTH_NONE)
+	(envelope-from <kate.chen@wis.com.tw>); Fri, 01 Mar 2013 17:57:16 +0800 (CST)
+Return-Path: <kate.chen@wis.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)
+X-MGMilo: No
+X-MGBS: No
+Received: from 10.0.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(25890:0:AUTH_RELAY)
+	(envelope-from <kate.chen@wis.com.tw>); Fri, 01 Mar 2013 17:57:19 +0800 (CST)
+Return-Path: <kate.chen@wis.com.tw>
+Received: By OpenMail Mailer;Fri, 01 Mar 2013 17:57:14 +0800 (CST)
+Received: from 10.0.0.96
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V6.00(72707:0:AUTH_RELAY)
+	(envelope-from <kate.chen@wis.com.tw>); Fri, 01 Mar 2013 17:57:12 +0800 (CST)
+Return-Path: <kate.chen@wis.com.tw>
+X-M2KPolicyIP: 10.0.0.96 (#NOT FOUND)
+X-MailGates: (RBL:2,PASS,0.000000e+00)(BATV:2,PASS,sender not empty)(fla
+	g:0:PASS)(IPF:2,PASS)(bayesian:SCORE-38,0.00,2)(commtouch:PASS,1,str=000
+	1.0A150208.51307B77.01A9:SCFSTAT18969423,ss=1,re=-4.000,fgs=0,2)(mail_ch
+	arset:PASS,2)(compute_score:HAM,2,0)
+X-MGMilo: No
+X-MGBS: No
+Received: from 60.248.97.175
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(25872:0:AUTH_NONE)
+	(envelope-from <kate.chen@wis.com.tw>); Fri, 01 Mar 2013 17:57:13 +0800 (CST)
+Return-Path: <kate.chen@wis.com.tw>
+Received: from EX1.wis.local ([169.254.1.101]) by EX1.wis.local
+ ([169.254.1.221]) with mapi id 14.02.0318.001; Fri, 1 Mar 2013 17:57:07 +0800
+From: kate.chen <kate.chen@wis.com.tw>
+To: "p-marker@openfind.com.tw" <p-marker@openfind.com.tw>
+Subject: =?big5?B?Rlc6ILF6pm6hQaR3tn2zcSBQLU1hcmtlciCt07jqvUzCSapBsMggMTAgprg=?=
+Thread-Topic: =?big5?B?sXqmbqFBpHe2fbNxIFAtTWFya2VyIK3TuOq9TMJJqkGwyCAxMCCmuA==?=
+Thread-Index: AQHNsNSZkBbygpAhZUSmsJyERhnn/JiMq+nwgAS4SWA=
+Date: Fri, 1 Mar 2013 09:57:06 +0000
+Message-ID: <362BC17918971C42BC25ED6F5BD8AC250254E662@EX1.wis.local>
+References: <1350965358.13815.p-marker@openfind.com.tw>
+ <FE3D758FA5A7AE488D1E84F795F7D8BFCFC5A0@EX1.wis.local>
+In-Reply-To: <FE3D758FA5A7AE488D1E84F795F7D8BFCFC5A0@EX1.wis.local>
+Accept-Language: zh-TW, en-US
+Content-Language: zh-TW
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.10.10.55]
+Content-Type: multipart/alternative;
+	boundary="_000_362BC17918971C42BC25ED6F5BD8AC250254E662EX1wislocal_"
+MIME-Version: 1.0
+
+--_000_362BC17918971C42BC25ED6F5BD8AC250254E662EX1wislocal_
+Content-Type: text/plain; charset="big5"
+Content-Transfer-Encoding: base64
+
+RGVhciBTZXJ2aWNlDQoNCr3QsN2t/sPkpWmlSKRVuPyhqFAtTWFya2VyIKXOpOG63bNuxemhqD8N
+CsHCwcINCg0KS2F0ZQ0KDQpGcm9tOiBQLU1hcmtlciCt07jqvUzCSapBsMggW21haWx0bzpwLW1h
+cmtlckBvcGVuZmluZC5jb20udHddDQpTZW50OiBUdWVzZGF5LCBPY3RvYmVyIDIzLCAyMDEyIDEy
+OjA5IFBNDQpUbzogem9lLmxhbjsgV0lTILbXtLwgUmFlDQpDYzogcC1tYXJrZXI7IEppbmdmdW4N
+ClN1YmplY3Q6ILF6pm6hQaR3tn2zcSBQLU1hcmtlciCt07jqvUzCSapBsMggMTAgprgNCg0Ktte0
+vLnZpvGxeqZuoUENCg0Kp9qtzKasqOyxeqTpq2W9daRXtfmlVaRGIE9wZW5maW5kIFAtTWFrZXIg
+rdO46r1MwkmqQbDIqrql073QoUENCqSjuUylaa/gpl2ssLF6t+2uycJJv++quqxPoXWl36dZwcq2
+UqF2qrqsebV7oUENCr7JrVCxeqXYq2WxYri5pKSow7VMw9iwZaq6uNWlzqa4vMahSyDAs7VMqmul
+v7FgqM+lziBQLU1hcmtlciClXK/goUYNCg0Kp9qtzK3oreikd7FOsXqqurFiuLkgKCB3ZWJ0YWl3
+YW4gICkgp++ssKW/pqGqqajDp0u2T7SjqNEgMTAgpri41aXOoUENCrZRpL2lcaVpsXG69K+4pFW4
+/L1MwkmkdajjoUG/6aRKsXqquqF1sWK4uaF2u1C1+aVVrHm1e6SkqdKzXal3qrqhdajPpc6qzLFL
+vVihdrROr+Cl36dZtn2pbK3TuOq9TMJJp0C3fqFJDQoNCr1Mwkmnuaaoq+GhQaZBqfMgd3d3LnAt
+bWFya2VyLmNvbS50dzxodHRwOi8vd3d3LnAtbWFya2VyLmNvbS50dz4guvSvuKRXtW6kSqF1sWK4
+uaF2u1ChdbresnqqzLFLvVihdg0KtE6v4L5cxP27UKRVuPymVaahuNSy07JgpEqqurWyqkep+rLT
+u1CkwKpSs/iq7aRGoUMgKKZwqken0bBPoXWoz6XOqsyxS71YoXal56VpDQqxcbr0r7ikV7VupEqr
+4adZpWmmYqS2rbGkpKxkuN+pzq2rs10pDQoNCqr+wMmow7SjqNEgUC1NYXJrZXIgQ2xvdWQgIMKy
+s+aquqpBsMiktrLQoUENCq1ZsXqmYqjPpc6kV6azpfSm87Ddw0ShQcV3qu/ASK7Ju1AgUC1NYXJr
+ZXIgq8iqQaSkpN/BcLW4oUHBwsHCoUkNCqvIqkGkpKTfoUcNCg0KRW1haWyhR3AtbWFya2VyQG9w
+ZW5maW5kLmNvbS50dzxtYWlsdG86cC1tYXJrZXJAb3BlbmZpbmQuY29tLnR3Pg0KuXG43KFHKDAy
+KSAyNTUzLTcyNzIgqkGwyK7JtqGhR7ZnpECm3LZnpK0gpFekyKRFrsmm3KRVpMiku67JDQo=
+
+--_000_362BC17918971C42BC25ED6F5BD8AC250254E662EX1wislocal_
+Content-Type: text/html; charset="big5"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dbig5">
+<meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:=B7s=B2=D3=A9=FA=C5=E9;
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:=B7s=B2=D3=A9=FA=C5=E9;
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:=B7L=B3n=A5=BF=B6=C2=C5=E9;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"\@=B7s=B2=D3=A9=FA=C5=E9";
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@=B7L=B3n=A5=BF=B6=C2=C5=E9";
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Vani;
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"=B7s=B2=D3=A9=FA=C5=E9","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"=B7s=B2=D3=A9=FA=C5=E9","serif";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"=B5=F9=B8=D1=A4=E8=B6=F4=A4=E5=A6r =A6r=A4=B8";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Cambria","serif";}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Vani","sans-serif";
+	color:black;}
+span.a
+	{mso-style-name:"=B5=F9=B8=D1=A4=E8=B6=F4=A4=E5=A6r =A6r=A4=B8";
+	mso-style-priority:99;
+	mso-style-link:=B5=F9=B8=D1=A4=E8=B6=F4=A4=E5=A6r;
+	font-family:"Cambria","serif";}
+span.EmailStyle21
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"ZH-TW" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-=
+family:&quot;=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;;color:=
+#1F497D">Dear Service<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-=
+family:&quot;=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;;color:=
+#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;=
+=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;;color:#1F497D">=BD=
+=D0=B0=DD=AD=FE=C3=E4=A5i=A5H=A4U=B8=FC<span lang=3D"EN-US">=A1=A8P-Marker
+</span>=A5=CE=A4=E1=BA=DD=B3n=C5=E9<span lang=3D"EN-US">=A1=A8?<o:p></o:p><=
+/span></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;=
+=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;;color:#1F497D">=C1=
+=C2=C1=C2<span lang=3D"EN-US"><o:p></o:p></span></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-=
+family:&quot;=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;;color:=
+#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-=
+family:&quot;=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;;color:=
+#1F497D">Kate<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-=
+family:&quot;=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;;color:=
+#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;fo=
+nt-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span =
+lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&qu=
+ot;sans-serif&quot;"> P-Marker
+</span><span style=3D"font-size:10.0pt">=AD=D3=B8=EA=BDL=C2I=AAA=B0=C8</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,&quot;sans-serif&quot;"> [mailto:p-marker@openfind.com.tw]
+<br>
+<b>Sent:</b> Tuesday, October 23, 2012 12:09 PM<br>
+<b>To:</b> zoe.lan; WIS </span><span style=3D"font-size:10.0pt">=B6=D7=B4=
+=BC</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=
+Tahoma&quot;,&quot;sans-serif&quot;"> Rae<br>
+<b>Cc:</b> p-marker; Jingfun<br>
+<b>Subject:</b> </span><span style=3D"font-size:10.0pt">=B1z=A6n=A1A=A4w=B6=
+}=B3q</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quo=
+t;Tahoma&quot;,&quot;sans-serif&quot;"> P-Marker
+</span><span style=3D"font-size:10.0pt">=AD=D3=B8=EA=BDL=C2I=AAA=B0=C8</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,&quot;sans-serif&quot;"> 10
+</span><span style=3D"font-size:10.0pt">=A6=B8</span><span lang=3D"EN-US" s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&qu=
+ot;"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal">=B6=D7=B4=BC=B9=D9=A6=F1=B1z=A6n=A1A<span lang=3D"EN=
+-US"><br>
+<br>
+</span>=A7=DA=AD=CC=A6=AC=A8=EC=B1z=A4=E9=ABe=BDu=A4W=B5=F9=A5U=A4F<span la=
+ng=3D"EN-US"> Openfind P-Maker </span>=AD=D3=B8=EA=BDL=C2I=AAA=B0=C8=AA=BA=
+=A5=D3=BD=D0=A1A<span lang=3D"EN-US"><br>
+</span>=A4=A3=B9L=A5i=AF=E0=A6]=AC=B0=B1z=B7=ED=AE=C9=C2I=BF=EF=AA=BA=ACO=
+=A1u=A5=DF=A7Y=C1=CA=B6R=A1v=AA=BA=ACy=B5{=A1A<span lang=3D"EN-US"><br>
+</span>=BE=C9=ADP=B1z=A5=D8=ABe=B1b=B8=B9=A4=A4=A8=C3=B5L=C3=D8=B0e=AA=BA=
+=B8=D5=A5=CE=A6=B8=BC=C6=A1K =C0=B3=B5L=AAk=A5=BF=B1`=A8=CF=A5=CE<span lang=
+=3D"EN-US"> P-Marker </span>=A5\=AF=E0=A1F<span lang=3D"EN-US"><br>
+<br>
+</span>=A7=DA=AD=CC=AD=E8=AD=E8<b>=A4w=B1N=B1z=AA=BA=B1b=B8=B9<span lang=3D=
+"EN-US"> ( webtaiwan&nbsp; ) </span>=A7=EF=AC=B0=A5=BF=A6=A1=AA=A9=A8=C3=A7=
+K=B6O=B4=A3=A8=D1<span lang=3D"EN-US"> 10
+</span>=A6=B8=B8=D5=A5=CE</b>=A1A<span lang=3D"EN-US"><br>
+</span>=B6Q=A4=BD=A5q=A5i=B1q=BA=F4=AF=B8=A4U=B8=FC=BDL=C2I=A4u=A8=E3=A1A=
+=BF=E9=A4J=B1z=AA=BA=A1u=B1b=B8=B9=A1v=BBP=B5=F9=A5U=ACy=B5{=A4=A4=A9=D2=B3=
+]=A9w=AA=BA=A1u<span style=3D"color:blue">=A8=CF=A5=CE=AA=CC=B1K=BDX</span>=
+=A1v=B4N=AF=E0=A5=DF=A7Y=B6}=A9l=AD=D3=B8=EA=BDL=C2I=A7@=B7~=A1I<span lang=
+=3D"EN-US">
+<br>
+<br>
+</span>=BDL=C2I=A7=B9=A6=A8=AB=E1=A1A=A6A=A9=F3 <span lang=3D"EN-US"><a hre=
+f=3D"http://www.p-marker.com.tw">www.p-marker.com.tw</a>
+</span>=BA=F4=AF=B8=A4W=B5n=A4J=A1u=B1b=B8=B9=A1v=BBP=A1u<span style=3D"col=
+or:red">=BA=DE=B2z=AA=CC=B1K=BDX</span>=A1v<span lang=3D"EN-US"><br>
+</span>=B4N=AF=E0=BE\=C4=FD=BBP=A4U=B8=FC=A6U=A6=A1=B8=D4=B2=D3=B2`=A4J=AA=
+=BA=B5=B2=AAG=A9=FA=B2=D3=BBP=A4=C0=AAR=B3=F8=AA=ED=A4F=A1C<span lang=3D"EN=
+-US"> (</span>=A6p=AAG=A7=D1=B0O=A1u<span style=3D"color:blue">=A8=CF=A5=CE=
+=AA=CC=B1K=BDX</span>=A1v=A5=E7=A5i<span lang=3D"EN-US"><br>
+</span>=B1q=BA=F4=AF=B8=A4W=B5n=A4J=AB=E1=A7Y=A5i=A6b=A4=B6=AD=B1=A4=A4=ACd=
+=B8=DF=A9=CE=AD=AB=B3]<span lang=3D"EN-US">)<br>
+<br>
+</span>=AA=FE=C0=C9=A8=C3=B4=A3=A8=D1<span lang=3D"EN-US"> P-Marker Cloud&n=
+bsp; </span>=C2=B2=B3=E6=AA=BA=AAA=B0=C8=A4=B6=B2=D0=A1A<span lang=3D"EN-US=
+"><br>
+</span>=ADY=B1z=A6b=A8=CF=A5=CE=A4W=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=
+=EF=C0H=AE=C9=BBP <span lang=3D"EN-US">P-Marker </span>=AB=C8=AAA=A4=A4=A4=
+=DF=C1p=B5=B8=A1A=C1=C2=C1=C2=A1I<span lang=3D"EN-US"><o:p></o:p></span></p=
+>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p class=3D"MsoNormal">=AB=C8=AAA=A4=A4=A4=DF=A1G<span lang=3D"EN-US"><o:p>=
+</o:p></span></p>
+<p><span lang=3D"EN-US">Email</span>=A1G<span lang=3D"EN-US"><a href=3D"mai=
+lto:p-marker@openfind.com.tw">p-marker@openfind.com.tw</a><br>
+</span>=B9q=B8=DC=A1G<span lang=3D"EN-US">(02) 2553-7272 </span>=AAA=B0=C8=
+=AE=C9=B6=A1=A1G=B6g=A4@=A6=DC=B6g=A4=AD =A4W=A4=C8=A4E=AE=C9=A6=DC=A4U=A4=
+=C8=A4=BB=AE=C9<span lang=3D"EN-US"><o:p></o:p></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_362BC17918971C42BC25ED6F5BD8AC250254E662EX1wislocal_--

@@ -1,0 +1,431 @@
+X-M2K-MATCHED-RULE: SPAM_FILTER-InADB
+X-M2K-MATCHED-RESULT: Mail Header From In ADB/kate_lin@openfind.com.tw
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 220.130.127.161
+	by ms1.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(4241:2:AUTH_NONE)
+	(envelope-from <prvs=1307E6145F=kate_lin@openfind.com.tw>); Thu, 18 May 2017 10:40:35 +0800 (CST)
+Return-Path: <prvs=1307E6145F=kate_lin@openfind.com.tw>
+X-M2K-MSG-ID: 3D2QHCKOGEEIE1QU
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(22166:0:AUTH_RELAY)
+	(envelope-from <prvs=1307E6145F=kate_lin@openfind.com.tw>); Thu, 18 May 2017 10:40:34 +0800 (CST)
+Return-Path: <prvs=1307E6145F=kate_lin@openfind.com.tw>
+X-ADIFSPAM: NO/-6
+X-ADIFSPAM-CT: NO/-6
+Received: By OpenMail Mailer;Thu, 18 May 2017 10:40:33 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(26474:0:AUTH_NONE)
+	(envelope-from <prvs=1307E6145F=kate_lin@openfind.com.tw>); Thu, 18 May 2017 10:40:20 +0800 (CST)
+Return-Path: <prvs=1307E6145F=kate_lin@openfind.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(2952:0:AUTH_NONE)
+	(envelope-from <prvs=1307E6145F=kate_lin@openfind.com.tw>); Thu, 18 May 2017 10:40:20 +0800 (CST)
+Return-Path: <prvs=1307E6145F=kate_lin@openfind.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)(audit_rules:rules.audit_
+	out1311132448.system#,,,aDELIVER,R/m2k_service@mail2000.com.tw,4,ou)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=openfind.com.tw;
+	s=MailGates; t=1495075219;
+	bh=upHPO9t3Dyhn/TBbpYqiCA0zrAzgUwowypR1kj2ifDo=; l=10643;
+	h=Message-ID:From:To:Subject:Date:MIME-Version;
+	b=MQm4KnesabjYf+l8OuebSzph5DfZpUrX9ChB/F7vtXRfJAssVF0c8bGWIVI6BbHBS
+	 FObnyXP2HN2WK1a+h1xfz/LQms6FqW6w4TAPhpYWGB++zzV/WpZISje3d+tQQNLzHm
+	 p/7JZE6tI+QStBzWPImfWRiCxPj30r9tGJbWztt8=
+X-MGADT: rules.audit_out1311132448.system#,R/m2k_service@mail2000.com.tw
+Received: from 172.16.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V5.0(4526:0:AUTH_RELAY)
+	(envelope-from <kate_lin@openfind.com.tw>); Thu, 18 May 2017 10:38:07 +0800 (CST)
+Return-Path: <kate_lin@openfind.com.tw>
+Received: By OpenMail Mailer;Thu, 18 May 2017 10:38:07 +0800 (CST)
+Received: from 172.16.14.51
+	by mail2.office.openfind.com.tw with Mail2000 ESMTPSA Server V7.00(18661:0:AUTH_LOGIN)
+	(envelope-from <kate_lin@openfind.com.tw>)
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256/256); Thu, 18 May 2017 10:38:04 +0800 (CST)
+Return-Path: <kate_lin@openfind.com.tw>
+X-M2KPolicyIP: 172.16.14.51 (#NOT FOUND)
+Message-ID: <30487E51028A49988EACBADE62C8A33A@tp.office.openfind.com.tw>
+From: =?utf-8?B?57ay5pOO6LOH6KiKL+ael+WGoOS8tg==?= <kate_lin@openfind.com.tw>
+To: "venny_lin" <venny_lin@openfind.com.tw>
+Cc: =?utf-8?B?UC1NYXJrZXIg5YCL6LOH55uk6bue5pyN5YuZ?= <p-marker@openfind.com.tw>
+References: <1495028963.29915.venny_lin@openfind.com.tw>
+In-Reply-To: <1495028963.29915.venny_lin@openfind.com.tw>
+Subject: =?utf-8?B?UmU6IFvlkozms7DnlKLpmqpdIFAtTWFya2VyIOa0vumAgeaWueW8j+iqquaYjg==?=
+Date: Thu, 18 May 2017 10:37:06 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="utf-8";
+	reply-type=original
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 16.4.3528.331
+X-MimeOLE: Produced By Microsoft MimeOLE V16.4.3528.331
+
+Dear Venny，
+
+在公有雲的架構下，
+用戶端在安裝掃描程式之後就可以直接掃描電腦，
+掃描時 ｢不需｣ 連到公有雲主機，
+但掃描後需要將盤點結果上傳到公有雲主機，
+才能夠進一步做分析報告。
+
+如果用戶需要盤點的電腦無法都連到 Internet，
+建議可請玉蓮幫忙確認是否有其他替代方案。
+
+感謝。
+
+
+Best Regards,
+Kate
+
+
+
+-----原始郵件----- 
+From: venny_lin
+Sent: Wednesday, May 17, 2017 9:49 PM
+To: p-marker
+Subject: Fw: Fwd: Fw: RE: [和泰產險] P-Marker 派送方式說明
+
+Dear 客服，
+
+如果採用公有雲架構，是否用戶端都要能連到我們主機才能進行盤點，有沒有其他方案可建議和泰？
+
+
+
+
+
+
+
+Openfind 網擎資訊軟體(股)公司
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+林盈孜 Venny Lin
+MAIL：venny_lin@openfind.com
+TEL：(02)2553-2000 分機 703
+FAX：(02)2553-3639
+MOBILE：0982-354-702
+ADD：10359 台北市大同區重慶北路二段243號7樓(捷運大橋頭站)
+客服專線：(02)2553-7272
+技術服務信箱: m2k_noc@openfind.com
+URL:http://www.openfind.com/taiwan/index.php
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+
+-----Forwarded message-----
+From: 魏銘宏 <Vincent.Wei@hotains.com.tw>
+To: venny_lin@openfind.com.tw <venny_lin@openfind.com.tw>
+Date: Wed, 17 May 2017 20:04:12
+Subject: Fwd: Fw: RE: [和泰產險] P-Marker 派送方式說明
+
+Dear Venny:
+看起來應該測試成功了，但這樣很怪，我們申請了1000個掃描的數量，而且有一半以上的user都在外點，是否這1000個人掃描時都要連上internet？是否有其他方式可以代替？還是這是雲端的限制？
+
+Vincent
+
+
+
+從我的 Samsung Galaxy 智慧型手機傳送。
+
+
+-------- 原始訊息 --------
+自： 曹瑞岩 <ray.cao@hotains.com.tw>
+日期： 2017/5/17 17:28 (GMT+08:00)
+至： IT-Infra-System Engineer <IT-Infra-SystemEngineer@hotains.com.tw>
+主旨： FW: Fw: RE: [和泰產險] P-Marker 派送方式說明
+
+這叫做下載掃描程式，登入帳號密碼即可完成?
+
+
+
+Tyson哥可以幫開一條10.242.85.0到220.130.127.180
+
+80跟443Port嗎，單子我再寫
+
+
+和泰產物保險
+資訊部：曹瑞岩
+TEL：02-2181-5000 ＃1650
+FAX：2181-5088
+E-mail：ray.cao@hotains.com.tw
+地址：台北市松江路126號13樓
+
+From: P-Marker 個資盤點服務 [mailto:p-marker@openfind.com.tw]
+Sent: Wednesday, May 17, 2017 5:21 PM
+To: 曹瑞岩 <ray.cao@hotains.com.tw>
+Cc: p-marker <p-marker@openfind.com.tw>; venny_lin 
+<venny_lin@openfind.com.tw>; 魏銘宏 <Vincent.Wei@hotains.com.tw>
+Subject: Re: Fw: RE: [和泰產險] P-Marker 派送方式說明
+Importance: High
+
+
+您好，
+
+P-Marker client 掃描前會先跟 server 確認帳密，
+但今天 P-Marker 主機並未看到有任何 client 來跟 server 確認帳密的 log，
+推測可能是貴公司不能連到 P-Marker 公有雲主機的關係，
+請您確認欲掃描的 client 能不能透過 80 或是 443 port 連到 P-Marker 公有雲主機(220.130.127.180)
+
+若您對以上回覆有任何疑問，
+歡迎您反映給我們。
+
+
+MailCloud 客服中心 敬上
+
+==========================================================
+MailCloud 行動同步：一次設好，資訊帶著跑！
+MailCloud 支援行動同步，可 SYNC 您的通訊錄、行事曆，與郵件到手機
+以前你會說：『等我回辦公室看電腦再確認』免！現在馬上確認不用等！
+下載同步教學 http://www.mailcloud.com.tw/sync.html
+==========================================================
+
+MailCloud 客服中心
+客服專線：02-25537272
+客服信箱：service@mailcloud.com.tw
+網擎企業雲端服務 http://www.mailcloud.com.tw/
+Mail2000電子信箱 http://mail2000.com.tw/
+網擎 Openfind 企業網站 http://www.openfind.com/taiwan/
+
+
+-----Forwarded message-----
+From:曹瑞岩<ray.cao@hotains.com.tw>
+To:venny_lin@openfind.com.tw<venny_lin@openfind.com.tw>
+Cc:魏銘宏<Vincent.Wei@hotains.com.tw>,曹瑞岩<ray.cao@hotains.com.tw>
+Date: Wed, 17 May 2017 10:39:42
+Subject: RE: [和泰產險] P-Marker 派送方式說明
+Hi Venny
+
+帳號一樣是hotains.test?
+
+密碼輸入hotains123沒錯吧?
+
+都不用做其他設定?
+
+
+
+
+
+和泰產物保險
+資訊部：曹瑞岩
+TEL：02-2181-5000 ＃1650
+FAX：2181-5088
+E-mail：ray.cao@hotains.com.tw
+地址：台北市松江路126號13樓
+
+
+From: 魏銘宏
+Sent: Tuesday, May 16, 2017 4:41 PM
+To: 曹瑞岩 <ray.cao@hotains.com.tw>
+Subject: Fwd: [和泰產險] P-Marker 派送方式說明
+
+
+FYI
+
+
+
+從我的 Samsung Galaxy 智慧型手機傳送。
+
+
+-------- 原始訊息 --------
+自： venny_lin <venny_lin@openfind.com.tw>
+日期： 2017/5/15 11:02 (GMT+08:00)
+至： 魏銘宏 <Vincent.Wei@hotains.com.tw>
+主旨： RE: [和泰產險] P-Marker 派送方式說明
+
+Dear  Vincent,
+
+
+線上測試帳號已為您申請完成，
+請到這個網址http://www.p-marker.com.tw/download.html
+下載掃描程式，登入帳號密碼即可完成。
+管理者帳號: hotains.test
+密碼: openfind123
+用戶端密碼: hotains123
+可掃描次數:15次
+
+另外，請問本週會完成下單作業嗎?
+
+
+
+
+以上，若有其他問題請與我聯繫
+謝謝
+
+
+Openfind 網擎資訊軟體(股)公司
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+林盈孜 Venny Lin
+MAIL：venny_lin@openfind.com
+TEL：(02)2553-2000 分機 703
+FAX：(02)2553-3639
+MOBILE：0982-354-702
+ADD：10359 台北市大同區重慶北路二段243號7樓(捷運大橋頭站)
+客服專線：(02)2553-7272
+技術服務信箱: m2k_noc@openfind.com
+URL:http://www.openfind.com/taiwan/index.php
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+-----Original message-----
+From:魏銘宏<Vincent.Wei@hotains.com.tw>
+To:venny_lin<venny_lin@openfind.com.tw>
+Date: Fri, 05 May 2017 09:39:02
+Subject: RE: [和泰產險] P-Marker 派送方式說明
+
+Dear Venny,
+
+昨天我跟小朋友們討論過，前2周因為準備ISO認證，所以尚未測試
+他們已經開始安排測試清單，預計下周開始進行測試
+此專案個資盤點掃描預計將在5月底前完成，後續再進行產出Report的更新計畫
+
+Vincent
+
+
+From: venny_lin [mailto:venny_lin@openfind.com.tw]
+Sent: Thursday, May 04, 2017 5:56 PM
+To: 魏銘宏 <Vincent.Wei@hotains.com.tw>
+Subject: RE: [和泰產險] P-Marker 派送方式說明
+
+Dear  Vincent,
+
+
+請問之前Leanne提供給您的測試檔配合貴司的派送軟體，
+是否已完成派送測試了呢?
+
+你們預計要上線的時程在甚麼時候呢?
+
+
+
+
+
+
+Openfind 網擎資訊軟體(股)公司
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+林盈孜 Venny Lin
+MAIL：venny_lin@openfind.com
+TEL：(02)2553-2000 分機 703
+FAX：(02)2553-3639
+MOBILE：0982-354-702
+ADD：10359 台北市大同區重慶北路二段243號7樓(捷運大橋頭站)
+客服專線：(02)2553-7272
+技術服務信箱: m2k_noc@openfind.com
+URL:http://www.openfind.com/taiwan/index.php
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+-----Original message-----
+From:魏銘宏<Vincent.Wei@hotains.com.tw>
+To:leanne_tang<leanne_tang@openfind.com.tw>
+Cc:search_deliver<search_deliver@openfind.com.tw>,venny_lin<venny_lin@openfind.com.tw>,steven_chang<steven_chang@openfind.com.tw>
+Date: Thu, 04 May 2017 11:36:22
+Subject: RE: [和泰產險] P-Marker 派送方式說明
+Dear Leanne,
+
+因為以前我沒有用過P-Maker Cloud服務(以前是用一年不限次數的)
+請教一下整個流程會怎麼進行? 有沒有計畫表可參考?(類似下面這種)
+
+項次
+工作項目
+工作時程
+
+1
+作業文件內容確認
+15個工作天
+
+2
+PIMS開始掃描
+15個工作天
+
+3
+產出報表
+3個工作天
+
+4
+提出改善計畫與公告
+3個工作天
+
+5
+User端改善作業
+15個工作天
+
+
+
+和泰產物保險股份有限公司
+資訊部：魏銘宏 Vincent Wei
+TEL：02-2181-5000 ＃1629
+FAX：2181-5088
+E-mail：vincent.wei@hotains.com.tw
+地址：台北市中山區松江路126號13樓
+
+
+
+
+From: leanne_tang [mailto:leanne_tang@openfind.com.tw]
+Sent: Tuesday, April 25, 2017 12:06 PM
+To: 魏銘宏 <Vincent.Wei@hotains.com.tw>
+Cc: search_deliver <search_deliver@openfind.com.tw>; venny_lin 
+<venny_lin@openfind.com.tw>; steven_chang <steven_chang@openfind.com.tw>
+Subject: RE: [和泰產險] P-Marker 派送方式說明
+
+Dear Vincent,
+
+
+謝謝您的回覆，報價單的部分我會再轉告 Venny；至於測試程式的部分，我們建議先以十台左右小幅度的測試，謝謝。
+==
+湯玉蓮  /  Leanne Tang
+Openfind  Information  Technology,  Inc.
+Software  Engineer
+TEL:  +886-2-2553-2000 #399
+FAX:  +886-2-2553-0707
+E-Mail:  leanne_tang@openfind.com.tw
+URL:  http://www.openfind.com
+Add:  7F,  243,  Sec.2,  Chongqing  N.  Rd.,  Taipei  10359,  Taiwan
+
+==
+-----Original message-----
+From:魏銘宏<Vincent.Wei@hotains.com.tw>
+To:leanne_tang<leanne_tang@openfind.com.tw>
+Cc:search_deliver<search_deliver@openfind.com.tw>,venny_lin<venny_lin@openfind.com.tw>,steven_chang<steven_chang@openfind.com.tw>
+Date: Tue, 25 Apr 2017 11:53:17
+Subject: RE: [和泰產險] P-Marker 派送方式說明
+感謝您的回覆
+因為秘書姊姊最近因開刀請假，所以沒能來得及回傳報價單給您
+剛剛我已經催過他了，您應該很快會收到
+
+請問這組測試程式可測多少台PC(或測試多少次?)
+
+
+Vincent
+
+
+From: leanne_tang [mailto:leanne_tang@openfind.com.tw]
+Sent: Tuesday, April 25, 2017 11:26 AM
+To: 魏銘宏 <Vincent.Wei@hotains.com.tw>
+Cc: search_deliver <search_deliver@openfind.com.tw>; venny_lin 
+<venny_lin@openfind.com.tw>; steven_chang <steven_chang@openfind.com.tw>
+Subject: [和泰產險] P-Marker 派送方式說明
+
+魏先生您好：
+
+
+我是負責 P-Marker 的工程師玉蓮，附檔為派送程式與修改說明書，敬請查收；請您先行在貴公司環境小幅度測試，如果有相關問題請再來信詢問。
+
+另外想請問未來如果需要我們查看 P-Marker 狀況，是否可以遠端呢？謝謝。
+==
+湯玉蓮  /  Leanne Tang
+Openfind  Information  Technology,  Inc.
+Software  Engineer
+TEL:  +886-2-2553-2000 #399
+FAX:  +886-2-2553-0707
+E-Mail:  leanne_tang@openfind.com.tw
+URL:  http://www.openfind.com
+Add:  7F,  243,  Sec.2,  Chongqing  N.  Rd.,  Taipei  10359,  Taiwan
+
+==
+
+

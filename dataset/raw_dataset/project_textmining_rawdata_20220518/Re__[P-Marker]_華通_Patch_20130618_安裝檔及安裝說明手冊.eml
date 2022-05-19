@@ -1,0 +1,455 @@
+X-M2KSPAM: NO/0
+Received: from 3.3.3.3
+	by asp7.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(5367:1:AUTH_RELAY)
+	(envelope-from <perryliu@compeq.com.tw>); Tue, 18 Jun 2013 14:54:27 +0800 (CST)
+Return-Path: <perryliu@compeq.com.tw>
+Received: from 10.0.0.40
+	by bak1.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(81291:0:AUTH_RELAY)
+	(envelope-from <perryliu@compeq.com.tw>); Tue, 18 Jun 2013 14:54:19 +0800 (CST)
+Return-Path: <perryliu@compeq.com.tw>
+M2KForward: Yes
+Received: By OpenMail Mailer;Tue, 18 Jun 2013 14:54:19 +0800 (CST)
+Received: from 203.69.82.34
+	by m0.mail2000.com.tw with Mail2000 ESMTP Server V3.20M(47925:0:AUTH_NONE)
+	(envelope-from <perryliu@compeq.com.tw>); Tue, 18 Jun 2013 14:54:19 +0800 (CST)
+Return-Path: <perryliu@compeq.com.tw>
+X-M2KSPAM: NO/0
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(96415:3:AUTH_NONE)
+	(envelope-from <perryliu@compeq.com.tw>); Tue, 18 Jun 2013 14:54:14 +0800 (CST)
+Return-Path: <perryliu@compeq.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+X-MGNN: No/-442142444
+Received: from 10.0.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(29045:0:AUTH_RELAY)
+	(envelope-from <perryliu@compeq.com.tw>); Tue, 18 Jun 2013 14:54:17 +0800 (CST)
+Return-Path: <perryliu@compeq.com.tw>
+Received: By OpenMail Mailer;Tue, 18 Jun 2013 14:54:08 +0800 (CST)
+Received: from 10.0.0.96
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V6.00(8534:0:AUTH_RELAY)
+	(envelope-from <perryliu@compeq.com.tw>); Tue, 18 Jun 2013 14:54:07 +0800 (CST)
+Return-Path: <perryliu@compeq.com.tw>
+X-M2KPolicyIP: 10.0.0.96 (#NOT FOUND)
+X-MailGates: (RBL:2,PASS,0.000000e+00)(BATV:2,PASS,sender not empty)(fla
+	g:0:PASS)(IPF:2,PASS)(bayesian:SCORE-38,0.00,2)(commtouch:PASS,1,str=000
+	1.0A150208.51C0040E.02F6:SCFSTAT8684230,ss=1,re=-4.000,fgs=0,2)(mail_cha
+	rset:PASS,2)(compute_score:HAM,2,0)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+X-MGNN: No/2
+Received: from 220.128.73.4
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(29032:0:AUTH_NONE)
+	(envelope-from <perryliu@compeq.com.tw>); Tue, 18 Jun 2013 14:54:02 +0800 (CST)
+Return-Path: <perryliu@compeq.com.tw>
+Received: from smtp01.compeq.com.tw (unknown [127.0.0.1])
+	by IMSA (Postfix) with ESMTP id F18AA2A8082;
+	Tue, 18 Jun 2013 14:53:51 +0800 (CST)
+Received: from CMZ00SQR01.compeq.com.tw (unknown [10.1.220.18])
+	by smtp01.compeq.com.tw (Postfix) with ESMTP id E68992A8074;
+	Tue, 18 Jun 2013 14:53:51 +0800 (CST)
+Received: from cmz00mxs01.compeq.com.tw (cmz00mxs01.compeq.com.tw [10.1.220.3])
+	by CMZ00SQR01.compeq.com.tw with ESMTP id r5I6rl6u059430;
+	Tue, 18 Jun 2013 14:53:48 +0800 (GMT-8)
+	(envelope-from perryliu@compeq.com.tw)
+Received: from Z503351 ([10.15.240.3]) by cmz00mxs01.compeq.com.tw with Microsoft SMTPSVC(6.0.3790.4675);
+	 Tue, 18 Jun 2013 14:53:49 +0800
+Message-ID: <6ED27767560249039D949B48DE14F282@compeq.com.tw>
+From: =?UTF-8?Q?=E5=8A=89=E5=BF=97=E5=A8=81=28Perryliu=29Z50=5F3351?= <perryliu@compeq.com.tw>
+To: =?UTF-8?B?UC1NYXJrZXIg5YCL6LOH55uk6bue5pyN5YuZ?= <p-marker@openfind.com.tw>
+Cc: "p-marker" <p-marker@openfind.com.tw>,
+        "Phantom" <phantom_weng@openfind.com.tw>,
+        "Icy" <icy_jan@openfind.com.tw>, "alexhsia" <alexhsia@compeq.com.tw>
+References: <1371535565.13324.p-marker@openfind.com.tw>
+In-Reply-To: <1371535565.13324.p-marker@openfind.com.tw>
+Subject: =?UTF-8?B?UmU6IFtQLU1hcmtlcl0g6I+v6YCaIFBhdGNoIDIwMTMwNjE4?=
+	=?UTF-8?B?IOWuieijneaqlOWPiuWuieijneiqquaYjuaJi+WGig==?=
+Date: Tue, 18 Jun 2013 14:53:48 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00FE_01CE6C33.A3DA07B0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 15.4.3555.308
+X-MimeOLE: Produced By Microsoft MimeOLE V15.4.3555.308
+X-OriginalArrivalTime: 18 Jun 2013 06:53:49.0418 (UTC) FILETIME=[960E84A0:01CE6BF0]
+X-MAIL:CMZ00SQR01.compeq.com.tw r5I6rl6u059430
+
+3o,O MIME .f&!*: Multipart 6l%s!C
+
+------=_NextPart_000_00FE_01CE6C33.A3DA07B0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=E6=88=91=E7=85=A7=E8=91=97=E5=81=9A=E7=9A=84=E7=B5=90=E6=9E=9C=E5=A6=82=
+=E4=B8=8B,=E9=80=99=E6=A8=A3=E5=B0=8D=E5=97=8E?=20=E4=B8=8A=E9=80=B1=E4=
+=B9=9F=E6=98=AF=E9=80=99=E6=A8=A3.
+
+Perry.
+
+
+
+login=20as:=20phantom
+Using=20keyboard-interactive=20authentication.
+Password:
+Access=20denied
+Using=20keyboard-interactive=20authentication.
+Password:
+Access=20denied
+Using=20keyboard-interactive=20authentication.
+Password:
+Access=20denied
+Using=20keyboard-interactive=20authentication.
+Password:
+Last=20login:=20Tue=20Jun=2011=2013:06:26=202013=20from=2010.15.240.3
+Copyright=20(c)=201980,=201983,=201986,=201988,=201990,=201991,=201993,=
+=201994
+=20=20=20=20=20=20=20=20The=20Regents=20of=20the=20University=20of=20Cali=
+fornia.=20=20All=20rights=20reserved.
+
+FreeBSD=208.2-RELEASE=20(CLOUD)=20#0:=20Thu=20Aug=2023=2019:09:52=20CST=
+=202012
+
+Welcome=20to=20FreeBSD!
+
+Before=20seeking=20technical=20support,=20please=20use=20the=20following=
+=20resources:
+
+o=20=20Security=20advisories=20and=20updated=20errata=20information=20for=
+=20all=20releases=20are
+=20=20=20at=20http://www.FreeBSD.org/releases/=20-=20always=20consult=20t=
+he=20ERRATA=20section
+=20=20=20for=20your=20release=20first=20as=20it's=20updated=20frequently.
+
+o=20=20The=20Handbook=20and=20FAQ=20documents=20are=20at=20http://www.Fre=
+eBSD.org/=20and,
+=20=20=20along=20with=20the=20mailing=20lists,=20can=20be=20searched=20by=
+=20going=20to
+=20=20=20http://www.FreeBSD.org/search/.=20=20If=20the=20doc=20distributi=
+on=20has
+=20=20=20been=20installed,=20they're=20also=20available=20formatted=20in=
+=20/usr/share/doc.
+
+If=20you=20still=20have=20a=20question=20or=20problem,=20please=20take=20=
+the=20output=20of
+`uname=20-a',=20along=20with=20any=20relevant=20error=20messages,=20and=
+=20email=20it
+as=20a=20question=20to=20the=20questions@FreeBSD.org=20mailing=20list.=20=
+=20If=20you=20are
+unfamiliar=20with=20FreeBSD's=20directory=20layout,=20please=20refer=20to=
+=20the=20hier(7)
+manual=20page.=20=20If=20you=20are=20not=20familiar=20with=20manual=20pag=
+es,=20type=20`man=20man'.
+
+You=20may=20also=20use=20sysinstall(8)=20to=20re-enter=20the=20installati=
+on=20and
+configuration=20utility.=20=20Edit=20/etc/motd=20to=20change=20this=20log=
+in=20announcement.
+
+[phantom@p-marker=20~]$tar=20pzxf=2020130606_COMPEQ.tgz
+[phantom@p-marker=20~]$cd=2020130606_COMPEQ
+[phantom@p-marker=2020130606_COMPEQ]$
+[phantom@p-marker=2020130606_COMPEQ]$./update.sh
+mkdir:=20backup:=20File=20exists
+mkdir:=20/usr/local/www/apache22/data/onlinehelp:=20File=20exists
+./update.sh:=20line=20134:=20./modifyTable.out:=20cannot=20execute=20bina=
+ry=20file
+[phantom@p-marker=2020130606_COMPEQ]$[phantom@p-marker=2020130606_COMPEQ]=
+$./update.sh
+-bash:=20[phantom@p-marker:=20command=20not=20found
+[phantom@p-marker=2020130606_COMPEQ]$mkdir:=20backup:=20File=20exists
+-bash:=20mkdir::=20command=20not=20found
+[phantom@p-marker=2020130606_COMPEQ]$mkdir:=20/usr/local/www/apache22/dat=
+a/onlinehelp:=20File=20exists
+-bash:=20mkdir::=20command=20not=20found
+[phantom@p-marker=2020130606_COMPEQ]$./update.sh:=20line=20134:=20./modif=
+yTable.out:=20cannot=20execute=20binary=20file
+-bash:=20./update.sh::=20No=20such=20file=20or=20directory
+[phantom@p-marker=2020130606_COMPEQ]$[phantom@p-marker=2020130606_COMPEQ]=
+$
+
+From:=20P-Marker=20=E5=80=8B=E8=B3=87=E7=9B=A4=E9=BB=9E=E6=9C=8D=E5=8B=99=
+=20
+Sent:=20Tuesday,=20June=2018,=202013=202:06=20PM
+To:=20perryliu=20
+Cc:=20p-marker=20;=20Phantom=20;=20Icy=20;=20alexhsia=20
+Subject:=20[P-Marker]=20=E8=8F=AF=E9=80=9A=20Patch=2020130618=20=E5=AE=89=
+=E8=A3=9D=E6=AA=94=E5=8F=8A=E5=AE=89=E8=A3=9D=E8=AA=AA=E6=98=8E=E6=89=8B=
+=E5=86=8A
+
+=E5=8A=89=E5=BF=97=E5=A8=81=E5=85=88=E7=94=9F=EF=BC=8C=E6=82=A8=E5=A5=BD=
+=EF=BC=9A
+
+=E9=99=84=E6=AA=94=E7=82=BA=20P-Marker=20Patch=20=E5=AE=89=E8=A3=9D=E6=AA=
+=94=E5=8F=8A=20Patch=20=E5=AE=89=E8=A3=9D=E8=AA=AA=E6=98=8E=E6=89=8B=E5=
+=86=8A=EF=BC=8C=E5=86=8D=E7=85=A9=E8=AB=8B=E6=82=A8=E9=81=8E=E7=9B=AE=E3=
+=80=82
+
+=E9=80=99=E6=AC=A1=E6=94=B9=E7=89=88=E4=B8=BB=E8=A6=81=E6=98=AF=E4=BF=AE=
+=E6=AD=A3=E8=8B=B1=E6=96=87=E9=97=9C=E9=8D=B5=E5=AD=97=E7=9B=A4=E9=BB=9E=
+=E7=9A=84=E9=83=A8=E5=88=86=EF=BC=8C=E4=BB=A5=E7=AC=A6=E5=90=88=E8=95=AD=
+=E8=AA=B2=E9=95=B7=E6=89=80=E6=8F=90=E5=87=BA=E7=9A=84=E5=8A=9F=E8=83=BD=
+=EF=BC=8C
+=E9=97=9C=E9=8D=B5=E5=AD=97=E7=9A=84=E5=89=8D=E9=9D=A2=E4=B8=80=E5=AE=9A=
+=E8=A6=81=E6=98=AF=E7=A9=BA=E7=99=BD=E6=88=96=E8=80=85=E4=B8=80=E8=A1=8C=
+=E7=9A=84=E9=96=8B=E5=A7=8B=EF=BC=8C
+=E8=80=8C=E4=B8=94=E5=BE=8C=E9=9D=A2=E4=B8=80=E5=AE=9A=E8=A6=81=E6=98=AF=
+=E7=A9=BA=E7=99=BD=E6=88=96=E8=80=85=E4=B8=80=E8=A1=8C=E7=9A=84=E7=B5=90=
+=E6=9D=9F=EF=BC=8C=E6=89=8D=E6=9C=83=E7=AC=A6=E5=90=88=E6=90=9C=E5=B0=8B=
+=E6=A2=9D=E4=BB=B6=E3=80=82
+
+=E5=A6=82=E5=9C=A8=E5=AE=89=E8=A3=9D=E9=81=8E=E7=A8=8B=E4=B8=AD=E6=9C=89=
+=E4=BB=BB=E4=BD=95=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=B9=9F=E6=AD=A1=E8=BF=8E=
+=E9=9A=A8=E6=99=82=E5=90=91=E6=88=91=E5=80=91=E8=A9=A2=E5=95=8F=E3=80=82=
+=20=E8=AC=9D=E8=AC=9D=EF=BC=81
+
+
+P-Marker=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83=20=E6=95=AC=E4=B8=8A
+-----------------------------------------------------------------------
+P-Marker=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83
+=E5=AE=A2=E6=9C=8D=E5=B0=88=E7=B7=9A=EF=BC=9A02-2553-7272
+=E5=AE=A2=E6=9C=8D=E5=82=B3=E7=9C=9F=EF=BC=9A02-2553-5956
+=E5=AE=A2=E6=9C=8D=E4=BF=A1=E7=AE=B1=EF=BC=9Ap-marker@openfind.com.tw
+Mail2000=E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1=20http://mail2000.com.tw/
+=E7=B6=B2=E6=93=8E=E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99=
+=20http://www.mailcloud.com.tw=20
+=E7=B6=B2=E6=93=8E=20Openfind=20=E4=BC=81=E6=A5=AD=E7=B6=B2=E7=AB=99=20ht=
+tp://www.openfind.com/taiwan
+-----------------------------------------------------------------------
+We=20have=20removed=2020130618_COMPEQ.tgz=20from=20this=20email=20because=
+=20it=20is=20not=20part=20of=20our=20content=20security=20policy.=20
+
+--------------------------------------------------
+This=20e-mail=20message=20and=20its=20attachment(s)=20are=20COMPEQ=20conf=
+idential,=20protected=20under=20an=20enforceable=20non-disclosure=20agree=
+ment,=20intended=20only=20for=20the=20use=20of=20the=20named=20addressee=
+=20above=20and=20may=20contain=20information=20that=20is=20privileged,=20=
+belonging=20to=20professional=20work=20products=20or=20exempt=20from=20di=
+sclosure=20under=20applicable=20laws.=20
+Any=20unauthorized=20review,=20use,=20copying,=20or=20disclosure=20of=20a=
+ny=20information=20contained=20in=20or=20attached=20to=20this=20transmiss=
+ion=20is=20strictly=20prohibited.=20If=20you=20have=20received=20this=20m=
+essage=20in=20error,=20please=20kindly=20notify=20the=20sender=20by=20ret=
+urn=20e-mail=20and=20delete=20this=20e-mail=20message=20and=20any=20attac=
+hment(s)=20immediately.=20We=20appreciate=20your=20help.
+
+------=_NextPart_000_00FE_01CE6C33.A3DA07B0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY=20dir=3Dltr>
+<DIV=20dir=3Dltr>
+<DIV=20style=3D"FONT-FAMILY:=20'Calibri';=20COLOR:=20#000000;=20FONT-SIZE=
+:=2012pt">
+<DIV>=E6=88=91=E7=85=A7=E8=91=97=E5=81=9A=E7=9A=84=E7=B5=90=E6=9E=9C=E5=
+=A6=82=E4=B8=8B,=E9=80=99=E6=A8=A3=E5=B0=8D=E5=97=8E?=20=E4=B8=8A=E9=80=
+=B1=E4=B9=9F=E6=98=AF=E9=80=99=E6=A8=A3.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Perry.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>login=20as:=20phantom</DIV>
+<DIV>Using=20keyboard-interactive=20authentication.</DIV>
+<DIV>Password:</DIV>
+<DIV>Access=20denied</DIV>
+<DIV>Using=20keyboard-interactive=20authentication.</DIV>
+<DIV>Password:</DIV>
+<DIV>Access=20denied</DIV>
+<DIV>Using=20keyboard-interactive=20authentication.</DIV>
+<DIV>Password:</DIV>
+<DIV>Access=20denied</DIV>
+<DIV>Using=20keyboard-interactive=20authentication.</DIV>
+<DIV>Password:</DIV>
+<DIV>Last=20login:=20Tue=20Jun=2011=2013:06:26=202013=20from=2010.15.240.=
+3</DIV>
+<DIV>Copyright=20(c)=201980,=201983,=201986,=201988,=201990,=201991,=2019=
+93,=201994</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20The=20Regents=20of=20th=
+e=20University=20of=20
+California.&nbsp;=20All=20rights=20reserved.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>FreeBSD=208.2-RELEASE=20(CLOUD)=20#0:=20Thu=20Aug=2023=2019:09:52=20=
+CST=202012</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Welcome=20to=20FreeBSD!</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Before=20seeking=20technical=20support,=20please=20use=20the=20follo=
+wing=20resources:</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>o&nbsp;=20Security=20advisories=20and=20updated=20errata=20informati=
+on=20for=20all=20releases=20
+are</DIV>
+<DIV>&nbsp;&nbsp;=20at=20<A=20
+href=3D"http://www.FreeBSD.org/releases/">http://www.FreeBSD.org/releases=
+/</A>=20-=20
+always=20consult=20the=20ERRATA=20section</DIV>
+<DIV>&nbsp;&nbsp;=20for=20your=20release=20first=20as=20it's=20updated=20=
+frequently.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>o&nbsp;=20The=20Handbook=20and=20FAQ=20documents=20are=20at=20<A=20
+href=3D"http://www.FreeBSD.org/">http://www.FreeBSD.org/</A>=20and,</DIV>
+<DIV>&nbsp;&nbsp;=20along=20with=20the=20mailing=20lists,=20can=20be=20se=
+arched=20by=20going=20
+to</DIV>
+<DIV>&nbsp;&nbsp;=20<A=20
+href=3D"http://www.FreeBSD.org/search/">http://www.FreeBSD.org/search/</A=
+>.&nbsp;=20
+If=20the=20doc=20distribution=20has</DIV>
+<DIV>&nbsp;&nbsp;=20been=20installed,=20they're=20also=20available=20form=
+atted=20in=20
+/usr/share/doc.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>If=20you=20still=20have=20a=20question=20or=20problem,=20please=20ta=
+ke=20the=20output=20of</DIV>
+<DIV>`uname=20-a',=20along=20with=20any=20relevant=20error=20messages,=20=
+and=20email=20it</DIV>
+<DIV>as=20a=20question=20to=20the=20questions@FreeBSD.org=20mailing=20lis=
+t.&nbsp;=20If=20you=20
+are</DIV>
+<DIV>unfamiliar=20with=20FreeBSD's=20directory=20layout,=20please=20refer=
+=20to=20the=20
+hier(7)</DIV>
+<DIV>manual=20page.&nbsp;=20If=20you=20are=20not=20familiar=20with=20manu=
+al=20pages,=20type=20`man=20
+man'.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>You=20may=20also=20use=20sysinstall(8)=20to=20re-enter=20the=20insta=
+llation=20and</DIV>
+<DIV>configuration=20utility.&nbsp;=20Edit=20/etc/motd=20to=20change=20th=
+is=20login=20
+announcement.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>[phantom@p-marker=20~]$tar=20pzxf=2020130606_COMPEQ.tgz</DIV>
+<DIV>[phantom@p-marker=20~]$cd=2020130606_COMPEQ</DIV>
+<DIV>[phantom@p-marker=2020130606_COMPEQ]$</DIV>
+<DIV>[phantom@p-marker=2020130606_COMPEQ]$./update.sh</DIV>
+<DIV>mkdir:=20backup:=20File=20exists</DIV>
+<DIV>mkdir:=20/usr/local/www/apache22/data/onlinehelp:=20File=20exists</D=
+IV>
+<DIV>./update.sh:=20line=20134:=20./modifyTable.out:=20cannot=20execute=
+=20binary=20file</DIV>
+<DIV>[phantom@p-marker=2020130606_COMPEQ]$[phantom@p-marker=20
+20130606_COMPEQ]$./update.sh</DIV>
+<DIV>-bash:=20[phantom@p-marker:=20command=20not=20found</DIV>
+<DIV>[phantom@p-marker=2020130606_COMPEQ]$mkdir:=20backup:=20File=20exist=
+s</DIV>
+<DIV>-bash:=20mkdir::=20command=20not=20found</DIV>
+<DIV>[phantom@p-marker=2020130606_COMPEQ]$mkdir:=20
+/usr/local/www/apache22/data/onlinehelp:=20File=20exists</DIV>
+<DIV>-bash:=20mkdir::=20command=20not=20found</DIV>
+<DIV>[phantom@p-marker=2020130606_COMPEQ]$./update.sh:=20line=20134:=20
+./modifyTable.out:=20cannot=20execute=20binary=20file</DIV>
+<DIV>-bash:=20./update.sh::=20No=20such=20file=20or=20directory</DIV>
+<DIV>[phantom@p-marker=2020130606_COMPEQ]$[phantom@p-marker=20
+20130606_COMPEQ]$</DIV>
+<DIV=20
+style=3D"FONT-STYLE:=20normal;=20DISPLAY:=20inline;=20FONT-FAMILY:=20'Cal=
+ibri';=20COLOR:=20#000000;=20FONT-SIZE:=20small;=20FONT-WEIGHT:=20normal;=
+=20TEXT-DECORATION:=20none">
+<DIV=20style=3D"FONT:=2010pt=20tahoma">
+<DIV><FONT=20size=3D3=20face=3DCalibri></FONT>&nbsp;</DIV>
+<DIV=20style=3D"BACKGROUND:=20#f5f5f5">
+<DIV=20style=3D"font-color:=20black"><B>From:</B>=20<A=20title=3Dp-marker=
+@openfind.com.tw=20
+href=3D"mailto:p-marker@openfind.com.tw">P-Marker=20=E5=80=8B=E8=B3=87=E7=
+=9B=A4=E9=BB=9E=E6=9C=8D=E5=8B=99</A>=20</DIV>
+<DIV><B>Sent:</B>=20Tuesday,=20June=2018,=202013=202:06=20PM</DIV>
+<DIV><B>To:</B>=20<A=20title=3Dperryliu@compeq.com.tw=20
+href=3D"mailto:perryliu@compeq.com.tw">perryliu</A>=20</DIV>
+<DIV><B>Cc:</B>=20<A=20title=3Dp-marker@openfind.com.tw=20
+href=3D"mailto:p-marker@openfind.com.tw">p-marker</A>=20;=20<A=20
+title=3Dphantom_weng@openfind.com.tw=20
+href=3D"mailto:phantom_weng@openfind.com.tw">Phantom</A>=20;=20<A=20
+title=3Dicy_jan@openfind.com.tw=20href=3D"mailto:icy_jan@openfind.com.tw"=
+>Icy</A>=20;=20<A=20
+title=3Dalexhsia@compeq.com.tw=20href=3D"mailto:alexhsia@compeq.com.tw">a=
+lexhsia</A>=20
+</DIV>
+<DIV><B>Subject:</B>=20[P-Marker]=20=E8=8F=AF=E9=80=9A=20Patch=2020130618=
+=20=E5=AE=89=E8=A3=9D=E6=AA=94=E5=8F=8A=E5=AE=89=E8=A3=9D=E8=AA=AA=E6=98=
+=8E=E6=89=8B=E5=86=8A</DIV></DIV></DIV>
+<DIV>&nbsp;</DIV></DIV>
+<DIV=20
+style=3D"FONT-STYLE:=20normal;=20DISPLAY:=20inline;=20FONT-FAMILY:=20'Cal=
+ibri';=20COLOR:=20#000000;=20FONT-SIZE:=20small;=20FONT-WEIGHT:=20normal;=
+=20TEXT-DECORATION:=20none">
+<DIV>=E5=8A=89=E5=BF=97=E5=A8=81=E5=85=88=E7=94=9F=EF=BC=8C=E6=82=A8=E5=
+=A5=BD=EF=BC=9A</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>
+<DIV>=E9=99=84=E6=AA=94=E7=82=BA=20P-Marker=20Patch=20=E5=AE=89=E8=A3=9D=
+=E6=AA=94=E5=8F=8A=20Patch=20=E5=AE=89=E8=A3=9D=E8=AA=AA=E6=98=8E=E6=89=
+=8B=E5=86=8A=EF=BC=8C=E5=86=8D=E7=85=A9=E8=AB=8B=E6=82=A8=E9=81=8E=E7=9B=
+=AE=E3=80=82</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=E9=80=99=E6=AC=A1=E6=94=B9=E7=89=88=E4=B8=BB=E8=A6=81=E6=98=AF=E4=
+=BF=AE=E6=AD=A3=E8=8B=B1=E6=96=87=E9=97=9C=E9=8D=B5=E5=AD=97=E7=9B=A4=E9=
+=BB=9E=E7=9A=84=E9=83=A8=E5=88=86=EF=BC=8C=E4=BB=A5=E7=AC=A6=E5=90=88=E8=
+=95=AD=E8=AA=B2=E9=95=B7=E6=89=80=E6=8F=90=E5=87=BA=E7=9A=84=E5=8A=9F=E8=
+=83=BD=EF=BC=8C</DIV>
+<DIV>=E9=97=9C=E9=8D=B5=E5=AD=97=E7=9A=84=E5=89=8D=E9=9D=A2=E4=B8=80=E5=
+=AE=9A=E8=A6=81=E6=98=AF=E7=A9=BA=E7=99=BD=E6=88=96=E8=80=85=E4=B8=80=E8=
+=A1=8C=E7=9A=84=E9=96=8B=E5=A7=8B=EF=BC=8C</DIV>
+<DIV>=E8=80=8C=E4=B8=94=E5=BE=8C=E9=9D=A2=E4=B8=80=E5=AE=9A=E8=A6=81=E6=
+=98=AF=E7=A9=BA=E7=99=BD=E6=88=96=E8=80=85=E4=B8=80=E8=A1=8C=E7=9A=84=E7=
+=B5=90=E6=9D=9F=EF=BC=8C=E6=89=8D=E6=9C=83=E7=AC=A6=E5=90=88=E6=90=9C=E5=
+=B0=8B=E6=A2=9D=E4=BB=B6=E3=80=82</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=E5=A6=82=E5=9C=A8=E5=AE=89=E8=A3=9D=E9=81=8E=E7=A8=8B=E4=B8=AD=E6=
+=9C=89=E4=BB=BB=E4=BD=95=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=B9=9F=E6=AD=A1=E8=
+=BF=8E=E9=9A=A8=E6=99=82=E5=90=91=E6=88=91=E5=80=91=E8=A9=A2=E5=95=8F=E3=
+=80=82=20=E8=AC=9D=E8=AC=9D=EF=BC=81</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV></DIV>
+<DIV>P-Marker=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83=20=E6=95=AC=E4=B8=8A=
+</DIV>
+<DIV>--------------------------------------------------------------------=
+---</DIV>
+<DIV>P-Marker=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83</DIV>
+<DIV>=E5=AE=A2=E6=9C=8D=E5=B0=88=E7=B7=9A=EF=BC=9A02-2553-7272</DIV>
+<DIV>=E5=AE=A2=E6=9C=8D=E5=82=B3=E7=9C=9F=EF=BC=9A02-2553-5956</DIV>
+<DIV>=E5=AE=A2=E6=9C=8D=E4=BF=A1=E7=AE=B1=EF=BC=9Ap-marker@openfind.com.t=
+w</DIV>
+<DIV>Mail2000=E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1=20http://mail2000.com.t=
+w/</DIV>
+<DIV>=E7=B6=B2=E6=93=8E=E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=
+=8B=99=20http://www.mailcloud.com.tw=20</DIV>
+<DIV>=E7=B6=B2=E6=93=8E=20Openfind=20=E4=BC=81=E6=A5=AD=E7=B6=B2=E7=AB=99=
+=20http://www.openfind.com/taiwan</DIV>
+<DIV>--------------------------------------------------------------------=
+---</DIV>
+<TABLE=20style=3D"COLOR:=20#000000">
+=20=20<TBODY>
+=20=20<TR>
+=20=20=20=20<TD=20bgColor=3D#ffffff><FONT=20color=3D#000000><PRE>We=20hav=
+e=20removed=2020130618_COMPEQ.tgz=20from=20this=20email=20because=20it=20=
+is=20not=20part=20of=20our=20content=20security=20policy.</PRE></FONT></T=
+D></TR></TBODY></TABLE></DIV></DIV></DIV></BODY></HTML>
+
+<table><tr><td=20bgcolor=3D#ffffff><font=20color=3D#000000><pre>---------=
+-----------------------------------------
+This=20e-mail=20message=20and=20its=20attachment(s)=20are=20COMPEQ=20conf=
+idential,=20protected=20under=20an=20enforceable=20non-disclosure=20agree=
+ment,=20intended=20only=20for=20the=20use=20of=20the=20named=20addressee=
+=20above=20and=20may=20contain=20information=20that=20is=20privileged,=20=
+belonging=20to=20professional=20work=20products=20or=20exempt=20from=20di=
+sclosure=20under=20applicable=20laws.=20
+Any=20unauthorized=20review,=20use,=20copying,=20or=20disclosure=20of=20a=
+ny=20information=20contained=20in=20or=20attached=20to=20this=20transmiss=
+ion=20is=20strictly=20prohibited.=20If=20you=20have=20received=20this=20m=
+essage=20in=20error,=20please=20kindly=20notify=20the=20sender=20by=20ret=
+urn=20e-mail=20and=20delete=20this=20e-mail=20message=20and=20any=20attac=
+hment(s)=20immediately.=20We=20appreciate=20your=20help.</pre></font></td=
+></tr></table>
+
+------=_NextPart_000_00FE_01CE6C33.A3DA07B0--
+

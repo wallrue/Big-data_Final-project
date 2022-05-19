@@ -1,0 +1,101 @@
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 203.69.82.69
+	by ms1.mailcloud.com with Mail2000 ESMTP Server V6.00(7236:0:AUTH_NONE)
+	(envelope-from <a64031@taisugar.com.tw>); Mon, 14 Apr 2014 16:53:31 +0800 (CST)
+Return-Path: <a64031@taisugar.com.tw>
+X-M2KSPAM: YES/100
+Received: from 203.69.82.69
+	by asp7.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(74483:0:AUTH_NONE)
+	(envelope-from <a64031@taisugar.com.tw>); Mon, 14 Apr 2014 16:53:30 +0800 (CST)
+Return-Path: <a64031@taisugar.com.tw>
+X-M2KPolicyIP: 203.69.82.69 (py5.mail2000.com.tw)
+Received: from 10.0.0.40
+	by bak1.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(51806:0:AUTH_RELAY)
+	(envelope-from <a64031@taisugar.com.tw>); Mon, 14 Apr 2014 16:53:28 +0800 (CST)
+Return-Path: <a64031@taisugar.com.tw>
+M2KForward: Yes
+Received: By OpenMail Mailer;Mon, 14 Apr 2014 16:53:28 +0800 (CST)
+Received: from 203.69.82.34
+	by m0.mail2000.com.tw with Mail2000 ESMTP Server V3.20M(53392:0:AUTH_NONE)
+	(envelope-from <a64031@taisugar.com.tw>); Mon, 14 Apr 2014 16:53:28 +0800 (CST)
+Return-Path: <a64031@taisugar.com.tw>
+X-M2KSPAM: NO/0
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(15966:1:AUTH_NONE)
+	(envelope-from <a64031@taisugar.com.tw>); Mon, 14 Apr 2014 16:53:26 +0800 (CST)
+Return-Path: <a64031@taisugar.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 172.16.0.95
+	by mg with MailGates ESMTP Server V4.0(17764:0:AUTH_RELAY)
+	(envelope-from <a64031@taisugar.com.tw>); Mon, 14 Apr 2014 16:53:23 +0800 (CST)
+Return-Path: <a64031@taisugar.com.tw>
+Received: By OpenMail Mailer;Mon, 14 Apr 2014 16:53:23 +0800 (CST)
+Received: from 172.16.0.96
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V6.00(21906:0:AUTH_RELAY)
+	(envelope-from <a64031@taisugar.com.tw>); Mon, 14 Apr 2014 16:53:23 +0800 (CST)
+Return-Path: <a64031@taisugar.com.tw>
+X-M2KPolicyIP: 172.16.0.96 (#NOT FOUND)
+X-MailGates: (RBL:2,PASS,0.000000e+00)(BATV:2,PASS,sender not empty)(fla
+	g:0,LAN:PASS)(IPF:2,PASS)(bayesian:SCORE-38,0.00,2)(commtouch:PASS,1,str
+	=0001.0A090206.534BA203.0034:SCFSTAT24223411,ss=1,re=0.000,fgs=0,2)(mail
+	_charset:PASS,2)(compute_score:HAM,2,0)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 59.120.28.36
+	by mg with MailGates ESMTP Server V4.0(17765:0:AUTH_NONE)
+	(envelope-from <a64031@taisugar.com.tw>); Mon, 14 Apr 2014 16:53:13 +0800 (CST)
+Return-Path: <a64031@taisugar.com.tw>
+Received: from E056403111936 (unknown [192.168.41.160])
+	by mail.taisugar.com.tw (Postfix) with ESMTPA id 5BC2A16DD39
+	for <p-marker@openfind.com.tw>; Mon, 14 Apr 2014 16:53:13 +0800 (CST)
+Message-ID: <D36048012EE34720B03D85E31BE6242F@E056403111936>
+From: =?big5?B?pP24dKTl?= <a64031@taisugar.com.tw>
+To: <p-marker@openfind.com.tw>
+Subject: =?big5?B?tUyqa7VupEpzZXJ2ZXI=?=
+Date: Mon, 14 Apr 2014 16:53:08 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0042_01CF5802.031265F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 15.4.3508.1109
+X-MimeOLE: Produced By Microsoft MimeOLE V15.4.3508.1109
+
+這是 MIME 格式的 Multipart 郵件。
+
+------=_NextPart_000_0042_01CF5802.031265F0
+Content-Type: text/plain;
+	charset="big5"
+Content-Transfer-Encoding: quoted-printable
+
+=B9q=B8=A3=B1=FD=BDL=C2I=B5n=A4J=C5=E3=A5=DC=B5L=AAk=BBPserver=B3s=BDu,=B1=
+=FD=B5n=A4J=BA=DE=B2z=BA=F4=AF=B8=A4]=B5L=AAk=B5n=A4J,   =20
+=B3s=B5=B8=B9q=B8=DC06-6328703=A4=C0=BE=F7756 =A4=FD=B8t=A4=E5
+------=_NextPart_000_0042_01CF5802.031265F0
+Content-Type: text/html;
+	charset="big5"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-SIZE: 14pt; FONT-FAMILY: 'Microsoft Jhenghai'; COLOR: =
+#000000">
+<DIV><FONT size=3D4=20
+face=3D"Microsoft =
+Jhenghai">=B9q=B8=A3=B1=FD=BDL=C2I=B5n=A4J=C5=E3=A5=DC=B5L=AAk=BBPserver=B3=
+s=BDu,=B1=FD=B5n=A4J=BA=DE=B2z=BA=F4=AF=B8=A4]=B5L=AAk=B5n=A4J,&nbsp;&nbs=
+p;&nbsp;=20
+</FONT></DIV>
+<DIV><FONT size=3D4>=B3s=B5=B8=B9q=B8=DC06-6328703=A4=C0=BE=F7756 =
+=A4=FD=B8t=A4=E5</FONT></DIV></DIV></DIV></BODY></HTML>
+
+------=_NextPart_000_0042_01CF5802.031265F0--
+

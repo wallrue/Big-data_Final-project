@@ -1,0 +1,380 @@
+X-M2K-MATCHED-RULE: SPAM_FILTER-InADB
+X-M2K-MATCHED-RESULT: Mail Header From In ADB/m2k_adm@mail2000.com.tw
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 3.3.3.3
+	by ms3.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(2858:0:AUTH_NONE)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Thu, 23 Jul 2015 18:36:14 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 3.3.3.3
+	by asp7.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(56560:0:AUTH_RELAY)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Thu, 23 Jul 2015 18:36:11 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=mail2000.com.tw;
+	s=1404201787.mail2000; t=1437647771;
+	bh=w5G2P6AJ8LfAR0Pjmh99706KAnM=;
+	h=Received:Return-Path:Received:Received:From:Reply-To:Subject:
+	 Message-ID:In-Reply-To:References:To:Cc:Date:MIME-Version:
+	 Return-Path:Content-Type;
+	b=SWrvxY1jHBG+vi2pbdiuxaC+sozQEh6kKBim1pIh4guYGq4hZRFFaIP4EfvGrK6z5
+	 f1dUbhU2+9xGhyFree/36SBboOE6ZhY7revCIUaU3SzjTijaAQNgwOpH4ArISz9udo
+	 gGPQ52SfkgeUw8PlV8n5437LX6rPyeyCOVmxciZg=
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/0
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(31072:0:AUTH_LOGIN)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Thu, 23 Jul 2015 18:36:11 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+Received: By OpenMail Mailer;Thu, 23 Jul 2015 18:36:11 +0800 (CST)
+Received: By OpenMail Mailer;Thu, 23 Jul 2015 18:36:11 +0800 (CST)
+From: "=?big5?B?TWFpbDIwMDAgq8iqQaSkpN8=?=" <m2k_adm@mail2000.com.tw>
+Reply-To: "=?big5?B?TWFpbDIwMDAgq8iqQaSkpN8=?=" <m2k_adm@mail2000.com.tw>
+Subject: =?big5?B?UmU6IE0yayAtIHNsYzEyIC0gvdDAsKajwMusZKtI?=
+	=?big5?B?vWOsT6dfprOyp7FgIC0gRnc6ILVMqmu1bqVY?=
+Message-ID: <1437647771.14072.m2k_adm@mail2000.com.tw>
+In-Reply-To: <1436266337.24943.cloud_se@openfind.com >
+References: <1436266008.17307.m2k_adm@mail2000.com.tw>
+	<1436266337.24943.cloud_se@openfind.com >
+To: "cloud_se" <cloud_se@openfind.com>
+Cc: "m2k_service" <m2k_service@mail2000.com.tw>
+Date: Thu, 23 Jul 2015 18:36:11 +0800 (CST)
+MIME-Version: 1.0
+Return-Path: m2k_adm@mail2000.com.tw
+Content-Type: multipart/alternative;
+	boundary="---QH?OErpY9q)GA.E0m.UPy3tc74a"
+
+-----QH?OErpY9q)GA.E0m.UPy3tc74a
+Content-Type: text/plain; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+=B1z=A6n=A1A
+
+=C2s=C4=FD=BE=B9Chrome
+=A8=CF=A5=CE=AA=CC=A4S=A8=D3=ABH=A4=CF=C0=B3=B9J=A8=EC=B5L=AAk"=B5n=A5X"=B0=DD=
+=C3D=A1A
+=A4=A7=ABe=A7=DA=A9M=A8=CF=A5=CE=AA=CC=B3s=B5=B8=B9L=A1A
+=A8=CF=A5=CE=AA=CC=C4=B1=B1o=ACO=ABH=BDc=A5=BB=A8=AD=AA=BA=B0=DD=C3D=A1A
+=A4=A3=C4@=B7N=B0t=A6X=B2M=B0=A3=BA=F4=AD=B6=BC=C8=A6s=B8=EA=AE=C6=BBP=C0=CB=
+=ACd=ACO=A7_=A6=B3=A5~=B1=BE=B5{=A6=A1=A1A
+=B3=C2=B7=D0=B1z=A5=FD=C0=B0=A6=A3=C0=CB=ACd=A8=CF=A5=CE=AA=CC=AA=BA=ABH=BDc=
+=ACO=A7_=A6=B3=B2=A7=B1`=A1A
+=C1=C2=C1=C2=A1C
+
+
+
+
+Jasmine
+
+
+=C1=C2=C1=C2=B1z=B9=EF=20Mail2000=20=AA=BA=B7R=A5=CE=A1C
+=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6A=A6=B8=AC=A2=B8=DF=A1C
+---------------------------------------------------------------------------
+Mail2000=20=B7s=A5\=AF=E0=A4W=BDu=A1=D0=AA=FE=C0=C9=BB=B4=C3P=A6s=A8=EC=20Se=
+cuShare=20=A4=C0=A8=C9=B6=B3
+
+Keep=20Everything=20=B3=C6=A5=F7=B6=B3
+=B4=BF=B8g=A6=B3=B3=C6=A5=F7=B9q=B8=A3=AA=BA=A9=C0=C0Y=A1A=ABo=A4=A3=AA=BE=B8=
+=D3=A6p=A6=F3=B5=DB=A4=E2=A1H
+=B4=BF=B8g=A6]=AC=B0=A4@=AAM=A9@=B0=D8=C5x=A4F=A1A=C5=FD=A7A=AA=BA=B5=A7=B9q=
+=A4@=BA=CE=A4=A3=B0_=A1H
+=BA=F4=C0=BA=B1=C0=A5X=A7K=B6O=AD=D3=A4H=B9q=B8=A3=B3=C6=A5=F7=AAA=B0=C8=20K=
+eep=20Everything=20=B3=C6=A5=F7=B6=B3
+----------------------------------------------------------------------------=
+
+Mail2000=20=AB=C8=AAA=A4=A4=A4=DF=20=B7q=A4W
+
+Mail2000=20=AB=C8=AAA=A4=A4=A4=DF
+=AB=C8=AAA=B1M=BDu=A1G02-2553-7272
+=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956
+=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw
+Mail2000=B9q=A4l=ABH=BDc=20http://mail2000.com.tw/
+=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8=20http://www.mailcloud.com.tw=20=
+
+=BA=F4=C0=BA=20Openfind=20=A5=F8=B7~=BA=F4=AF=B8=20http://www.openfind.com/t=
+aiwan
+
+
+-----Original=20message-----
+From:cloud_se<cloud_se@openfind.com=20>
+To:Mail2000=20=AB=C8=AAA=A4=A4=A4=DF<m2k_adm@mail2000.com.tw>
+Cc:m2k_service<m2k_service@mail2000.com.tw>,Cloud=20SE<cloud_se@openfind.com=
+>
+Date:=20Tue,=2007=20Jul=202015=2018:52:17
+Subject:=20Re:=20M2k=20-=20slc12=20-=20=BD=D0=C0=B0=A6=A3=C0=CB=ACd=ABH=BDc=AC=
+O=A7_=A6=B3=B2=A7=B1`=20-=20Fw:=20=B5L=AAk=B5n=A5X
+Hi,=20Jasmine
+
+=A5i=BD=D0=A8=CF=A5=CE=AA=CC=B4=A3=A8=D1=B2=A7=B1`=B5e=AD=B1=A4=A9=20SE=20=B0=
+=D1=A6=D2=A1A
+=A8=C3=BD=D0=AB=C8=A4=E1=A5=FD=B2M=B0=A3=C2s=C4=FD=BE=B9=A7=D6=A8=FA=A1A
+=A8=C3=B0=B1=A5=CE=C2s=C4=FD=BE=B9=A5~=B1=BE=A1A
+=A5B=C3=F6=B3=AC=A8=BE=ACr=B3n=C5=E9=AB=E1=B6i=A6=E6=B4=FA=B8=D5=A1C
+
+=C1=C2=C1=C2=A1I
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=A1=BB=20=B6=B3=BA=DD=BA=FB=B9B=20cloud_se@openfind.com
+=A1=BB=20=A8t=B2=CE=A4=E4=B4=A9=A4u=B5{=AEv=20Rick=20Lin
+=A1=BB=20MailCloud=20=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8=20http://www.mailcloud=
+.com.tw/
+=A1=BB=20Mail2000=20=20=B9q=A4l=B6l=A5=F3=20http://www.mail2000.com.tw/
+=A1=BB=20Openfind=20=20=BA=F4=C0=BA=B8=EA=B0T=20http://www.openfind.com/
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+-----Original=20message-----
+From:Mail2000=20=AB=C8=AAA=A4=A4=A4=DF<m2k_adm@mail2000.com.tw>
+To:Cloud=20SE<cloud_se@openfind.com>
+Cc:m2k_service<m2k_service@mail2000.com.tw>
+Date:=20Tue,=2007=20Jul=202015=2018:46:48
+Subject:=20M2k=20-=20slc12=20-=20=BD=D0=C0=B0=A6=A3=C0=CB=ACd=ABH=BDc=ACO=A7=
+_=A6=B3=B2=A7=B1`=20-=20Fw:=20=B5L=AAk=B5n=A5X
+=B1z=A6n=A1A
+
+=B1b=B8=B9=A1Gslc12@mail2000.com.tw
+
+
+
+=B0=DD=C3D=A1G
+=A8=CF=A5=CEGoogle=20Chrome
+=A8=CF=A5=CE=AA=CC=A4=CF=C0=B3=A4=B5=A4=D1=C2I=BF=EF=20"=B5n=A5X"=20=A8S=A6=B3=
+=A4=CF=C0=B3
+=A4=A3=B9=B3=A5=AD=B1`=B7|=A4=C1=B4=AB=BA=F4=AD=B6=A8=EC=AD=AB=B7s=B5n=A4J=AA=
+=BA=B5e=AD=B1=A1A
+=A6p=AAG=AB=F6=A6^=A4W=A4@=AD=B6=BE=E3=AD=D3=B5e=AD=B1=C5=DC=A6=A8=AA=C5=A5=D5=
+=A1A
+=C4=B1=B1o=ABH=BDc=A4=A3=A6w=A5=FE=A1A=B7|=B9J=A8=EC=A9=C7=AA=AC=AAp=A1A
+=B3=C2=B7=D0=B1z=A6A=C0=B0=A6=A3=BDT=BB{=ABH=BDc=ACO=A7_=A6=B3=B2=A7=B1`=A1A=
+
+=C1=C2=C1=C2=A1C
+
+
+
+
+Jasmine
+
+
+=C1=C2=C1=C2=B1z=B9=EF=20Mail2000=20=AA=BA=B7R=A5=CE=A1C
+=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6A=A6=B8=AC=A2=B8=DF=A1C
+---------------------------------------------------------------------------
+Mail2000=20=B7s=A5\=AF=E0=A4W=BDu=A1=D0=AA=FE=C0=C9=BB=B4=C3P=A6s=A8=EC=20Se=
+cuShare=20=A4=C0=A8=C9=B6=B3
+
+Keep=20Everything=20=B3=C6=A5=F7=B6=B3
+=B4=BF=B8g=A6=B3=B3=C6=A5=F7=B9q=B8=A3=AA=BA=A9=C0=C0Y=A1A=ABo=A4=A3=AA=BE=B8=
+=D3=A6p=A6=F3=B5=DB=A4=E2=A1H
+=B4=BF=B8g=A6]=AC=B0=A4@=AAM=A9@=B0=D8=C5x=A4F=A1A=C5=FD=A7A=AA=BA=B5=A7=B9q=
+=A4@=BA=CE=A4=A3=B0_=A1H
+=BA=F4=C0=BA=B1=C0=A5X=A7K=B6O=AD=D3=A4H=B9q=B8=A3=B3=C6=A5=F7=AAA=B0=C8=20K=
+eep=20Everything=20=B3=C6=A5=F7=B6=B3
+----------------------------------------------------------------------------=
+
+Mail2000=20=AB=C8=AAA=A4=A4=A4=DF=20=B7q=A4W
+
+Mail2000=20=AB=C8=AAA=A4=A4=A4=DF
+=AB=C8=AAA=B1M=BDu=A1G02-2553-7272
+=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956
+=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw
+Mail2000=B9q=A4l=ABH=BDc=20http://mail2000.com.tw/
+=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8=20http://www.mailcloud.com.tw=20=
+
+=BA=F4=C0=BA=20Openfind=20=A5=F8=B7~=BA=F4=AF=B8=20http://www.openfind.com/t=
+aiwan
+
+
+-----Forwarded=20message-----
+From:slc12<slc12@mail2000.com.tw>
+To:Mail2000=20=AB=C8=AAA=A4=A4=A4=DF<m2k_adm@mail2000.com.tw>
+Date:=20Tue,=2007=20Jul=202015=2018:31:23
+Subject:=20=B5L=AAk=B5n=A5X
+
+
+
+
+
+
+
+-----QH?OErpY9q)GA.E0m.UPy3tc74a
+Content-Type: text/html; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>=B1z=A6n=A1A</div><div><br></div><div>=C2s=C4=FD=BE=B9Chrome<br>=A8=CF=A5=
+=CE=AA=CC=A4S=A8=D3=ABH=A4=CF=C0=B3=B9J=A8=EC=B5L=AAk"=B5n=A5X"=B0=DD=C3D=A1=
+A<br>=A4=A7=ABe=A7=DA=A9M=A8=CF=A5=CE=AA=CC=B3s=B5=B8=B9L=A1A<br>=A8=CF=A5=CE=
+=AA=CC=C4=B1=B1o=ACO=ABH=BDc=A5=BB=A8=AD=AA=BA=B0=DD=C3D=A1A<br>=A4=A3=C4@=B7=
+N=B0t=A6X=B2M=B0=A3=BA=F4=AD=B6=BC=C8=A6s=B8=EA=AE=C6=BBP=C0=CB=ACd=ACO=A7_=A6=
+=B3=A5~=B1=BE=B5{=A6=A1=A1A<br>=B3=C2=B7=D0=B1z=A5=FD=C0=B0=A6=A3=C0=CB=ACd=A8=
+=CF=A5=CE=AA=CC=AA=BA=ABH=BDc=ACO=A7_=A6=B3=B2=A7=B1`=A1A<br>=C1=C2=C1=C2=A1=
+C<br></div><div><br></div><div><br></div><div><br>Jasmine<br></div><div><br>=
+</div><div>=C1=C2=C1=C2=B1z=B9=EF=20Mail2000=20=AA=BA=B7R=A5=CE=A1C<br>
+=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6A=A6=B8=AC=A2=B8=DF=A1C</di=
+v>
+<div></div>
+<div>
+<div>-----------------------------------------------------------------------=
+----</div>
+<div><div><font=20color=3D"#ff0000"><b><font=20color=3D"#0000FF">Mail2000=20=
+=B7s=A5\=AF=E0=A4W=BDu=A1=D0=AA=FE=C0=C9=BB=B4=C3P=A6s=A8=EC=20<a=20href=3D"=
+http://doc.mail2000.com.tw/news/1405/AttachToSS.htm">SecuShare=20=A4=C0=A8=C9=
+=B6=B3</a></font><br><br>Keep=20Everything=20=B3=C6=A5=F7=B6=B3</b></font></=
+div><div>=B4=BF=B8g=A6=B3=B3=C6=A5=F7=B9q=B8=A3=AA=BA=A9=C0=C0Y=A1A=ABo=A4=A3=
+=AA=BE=B8=D3=A6p=A6=F3=B5=DB=A4=E2=A1H</div><div>=B4=BF=B8g=A6]=AC=B0=A4@=AA=
+M=A9@=B0=D8=C5x=A4F=A1A=C5=FD=A7A=AA=BA=B5=A7=B9q=A4@=BA=CE=A4=A3=B0_=A1H</d=
+iv><div>=BA=F4=C0=BA=B1=C0=A5X=A7K=B6O=AD=D3=A4H=B9q=B8=A3=B3=C6=A5=F7=AAA=B0=
+=C8=20<b><a=20href=3D"http://www.keepeverything.com">Keep=20Everything=20=B3=
+=C6=A5=F7=B6=B3</a></b></div></div>
+<div></div>
+<div>-----------------------------------------------------------------------=
+-----</div>
+<div></div>
+<div></div>
+<div>Mail2000=20=AB=C8=AAA=A4=A4=A4=DF=20=B7q=A4W</div>
+<div><br></div>
+<div>Mail2000=20=AB=C8=AAA=A4=A4=A4=DF</div>
+<div>=AB=C8=AAA=B1M=BDu=A1G02-2553-7272</div>
+<div>=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956</div>
+<div>=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw</div>
+<div>Mail2000=B9q=A4l=ABH=BDc=20<a=20href=3D"http://mail2000.com.tw/"=20targ=
+et=3D"_blank">http://mail2000.com.tw/</a></div>
+<div>=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8=20<a=20href=3D"http://www.=
+mailcloud.com.tw/"=20target=3D"_blank">http://www.mailcloud.com.tw</a>=20</d=
+iv>
+<div>=BA=F4=C0=BA=20Openfind=20=A5=F8=B7~=BA=F4=AF=B8=20<a=20href=3D"http://=
+www.openfind.com/taiwan"=20target=3D"_blank">http://www.openfind.com/taiwan<=
+/a></div>
+<div><br></div></div></div></div></div></div></div></div></div></div></div><=
+/div></div></div></div></div><br>
+-----Original=20message-----<br>
+
+<b>From:</b>cloud_se&lt;cloud_se@openfind.com=20&gt;<br>
+<b>To:</b>Mail2000=20=AB=C8=AAA=A4=A4=A4=DF&lt;m2k_adm@mail2000.com.tw&gt;<b=
+r>
+<b>Cc:</b>m2k_service&lt;m2k_service@mail2000.com.tw&gt;,Cloud=20SE&lt;cloud=
+_se@openfind.com&gt;<br>
+<b>Date:=20</b>=20Tue,=2007=20Jul=202015=2018:52:17<br>
+<b>Subject:</b>=20Re:=20M2k=20-=20slc12=20-=20=BD=D0=C0=B0=A6=A3=C0=CB=ACd=AB=
+H=BDc=ACO=A7_=A6=B3=B2=A7=B1`=20-=20Fw:=20=B5L=AAk=B5n=A5X<br>
+<meta=20http-equiv=3D"X-UA-Compatible"=20content=3D"IE=3Dedge"><x-body><div>=
+Hi,=20Jasmine</div><div><br></div><div>=A5i=BD=D0=A8=CF=A5=CE=AA=CC=B4=A3=A8=
+=D1=B2=A7=B1`=B5e=AD=B1=A4=A9=20SE=20=B0=D1=A6=D2=A1A</div><div>=A8=C3=BD=D0=
+=AB=C8=A4=E1=A5=FD=B2M=B0=A3=C2s=C4=FD=BE=B9=A7=D6=A8=FA=A1A</div><div>=A8=C3=
+=B0=B1=A5=CE=C2s=C4=FD=BE=B9=A5~=B1=BE=A1A</div><div>=A5B=C3=F6=B3=AC=A8=BE=AC=
+r=B3n=C5=E9=AB=E1=B6i=A6=E6=B4=FA=B8=D5=A1C</div><div><br></div><div>=C1=C2=C1=
+=C2=A1I</div><div>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+</div><div>=A1=BB=20=B6=B3=BA=DD=BA=FB=B9B<span=20class=3D"Apple-tab-span"=20=
+style=3D"white-space:pre">=09=09=09=09=09</span>cloud_se@openfind.com</div><=
+div>=A1=BB=20=A8t=B2=CE=A4=E4=B4=A9=A4u=B5{=AEv<span=20class=3D"Apple-tab-sp=
+an"=20style=3D"white-space:pre">=09=09=09</span>Rick=20Lin</div><div>=A1=BB=20=
+MailCloud=20=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8<span=20class=3D"Apple-tab-span"=
+=20style=3D"white-space:pre">=09=09</span>http://www.mailcloud.com.tw/</div>=
+<div>=A1=BB&nbsp;Mail2000=20&nbsp;=B9q=A4l=B6l=A5=F3<span=20class=3D"Apple-t=
+ab-span"=20style=3D"white-space:pre">=09=09=09</span>http://www.mail2000.com=
+.tw/</div><div>=A1=BB&nbsp;Openfind=20&nbsp;=BA=F4=C0=BA=B8=EA=B0T<span=20cl=
+ass=3D"Apple-tab-span"=20style=3D"white-space:pre">=09=09=09</span>http://ww=
+w.openfind.com/</div><div>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D</div><div=20class=3D"vimiumReset=20vimiumHUD"=20style=3D"right:=20=
+150px;=20opacity:=200;=20display:=20none;"></div><br>
+-----Original=20message-----<br>
+
+<b>From:</b>Mail2000=20=AB=C8=AAA=A4=A4=A4=DF&lt;m2k_adm@mail2000.com.tw&gt;=
+<br>
+<b>To:</b>Cloud=20SE&lt;cloud_se@openfind.com&gt;<br>
+<b>Cc:</b>m2k_service&lt;m2k_service@mail2000.com.tw&gt;<br>
+<b>Date:=20</b>=20Tue,=2007=20Jul=202015=2018:46:48<br>
+<b>Subject:</b>=20M2k=20-=20slc12=20-=20=BD=D0=C0=B0=A6=A3=C0=CB=ACd=ABH=BDc=
+=ACO=A7_=A6=B3=B2=A7=B1`=20-=20Fw:=20=B5L=AAk=B5n=A5X<br>
+
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>=B1z=A6n=A1A</div><div><br></div><div>=B1b=B8=B9=A1Gslc12@mail2000.com.=
+tw</div><div><br><br><br>=B0=DD=C3D=A1G<br>=A8=CF=A5=CEGoogle=20Chrome<br>=A8=
+=CF=A5=CE=AA=CC=A4=CF=C0=B3=A4=B5=A4=D1=C2I=BF=EF=20"=B5n=A5X"=20=A8S=A6=B3=A4=
+=CF=C0=B3<br>=A4=A3=B9=B3=A5=AD=B1`=B7|=A4=C1=B4=AB=BA=F4=AD=B6=A8=EC=AD=AB=B7=
+s=B5n=A4J=AA=BA=B5e=AD=B1=A1A<br>=A6p=AAG=AB=F6=A6^=A4W=A4@=AD=B6=BE=E3=AD=D3=
+=B5e=AD=B1=C5=DC=A6=A8=AA=C5=A5=D5=A1A<br>=C4=B1=B1o=ABH=BDc=A4=A3=A6w=A5=FE=
+=A1A=B7|=B9J=A8=EC=A9=C7=AA=AC=AAp=A1A<br>=B3=C2=B7=D0=B1z=A6A=C0=B0=A6=A3=BD=
+T=BB{=ABH=BDc=ACO=A7_=A6=B3=B2=A7=B1`=A1A<br>=C1=C2=C1=C2=A1C<br></div><div>=
+<br></div><div><br><br>Jasmine<br></div><div><br></div><div>=C1=C2=C1=C2=B1z=
+=B9=EF=20Mail2000=20=AA=BA=B7R=A5=CE=A1C<br>
+=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6A=A6=B8=AC=A2=B8=DF=A1C</di=
+v>
+<div></div>
+<div>
+<div>-----------------------------------------------------------------------=
+----</div>
+<div><div><font=20color=3D"#ff0000"><b><font=20color=3D"#0000FF">Mail2000=20=
+=B7s=A5\=AF=E0=A4W=BDu=A1=D0=AA=FE=C0=C9=BB=B4=C3P=A6s=A8=EC=20<a=20href=3D"=
+http://doc.mail2000.com.tw/news/1405/AttachToSS.htm">SecuShare=20=A4=C0=A8=C9=
+=B6=B3</a></font><br><br>Keep=20Everything=20=B3=C6=A5=F7=B6=B3</b></font></=
+div><div>=B4=BF=B8g=A6=B3=B3=C6=A5=F7=B9q=B8=A3=AA=BA=A9=C0=C0Y=A1A=ABo=A4=A3=
+=AA=BE=B8=D3=A6p=A6=F3=B5=DB=A4=E2=A1H</div><div>=B4=BF=B8g=A6]=AC=B0=A4@=AA=
+M=A9@=B0=D8=C5x=A4F=A1A=C5=FD=A7A=AA=BA=B5=A7=B9q=A4@=BA=CE=A4=A3=B0_=A1H</d=
+iv><div>=BA=F4=C0=BA=B1=C0=A5X=A7K=B6O=AD=D3=A4H=B9q=B8=A3=B3=C6=A5=F7=AAA=B0=
+=C8=20<b><a=20href=3D"http://www.keepeverything.com">Keep=20Everything=20=B3=
+=C6=A5=F7=B6=B3</a></b></div></div>
+<div></div>
+<div>-----------------------------------------------------------------------=
+-----</div>
+<div></div>
+<div></div>
+<div>Mail2000=20=AB=C8=AAA=A4=A4=A4=DF=20=B7q=A4W</div>
+<div><br></div>
+<div>Mail2000=20=AB=C8=AAA=A4=A4=A4=DF</div>
+<div>=AB=C8=AAA=B1M=BDu=A1G02-2553-7272</div>
+<div>=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956</div>
+<div>=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw</div>
+<div>Mail2000=B9q=A4l=ABH=BDc=20<a=20href=3D"http://mail2000.com.tw/"=20targ=
+et=3D"_blank">http://mail2000.com.tw/</a></div>
+<div>=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8=20<a=20href=3D"http://www.=
+mailcloud.com.tw/"=20target=3D"_blank">http://www.mailcloud.com.tw</a>=20</d=
+iv>
+<div>=BA=F4=C0=BA=20Openfind=20=A5=F8=B7~=BA=F4=AF=B8=20<a=20href=3D"http://=
+www.openfind.com/taiwan"=20target=3D"_blank">http://www.openfind.com/taiwan<=
+/a></div>
+<div><br></div></div></div></div></div></div></div></div></div></div></div><=
+/div></div></div></div></div><br>
+-----Forwarded=20message-----<br>
+
+<b>From:</b>slc12&lt;slc12@mail2000.com.tw&gt;<br>
+<b>To:</b>Mail2000=20=AB=C8=AAA=A4=A4=A4=DF&lt;m2k_adm@mail2000.com.tw&gt;<b=
+r>
+<b>Date:=20</b>=20Tue,=2007=20Jul=202015=2018:31:23<br>
+<b>Subject:</b>=20=B5L=AAk=B5n=A5X<br>
+<br>
+<p>
+</p><blockquote=20dir=3D"ltr"=20style=3D"PADDING-RIGHT:=200px;=20PADDING-LEF=
+T:=205px;=20MARGIN-LEFT:=205px;=20BORDER-LEFT:=20#000000=202px=20solid;=20MA=
+RGIN-RIGHT:=200px"><div><br><br></div></blockquote><div=20class=3D"vimiumRes=
+et=20vimiumHUD"=20style=3D"right:=20150px;=20opacity:=200;=20display:=20none=
+;"></div></x-body></html>
+-----QH?OErpY9q)GA.E0m.UPy3tc74a--

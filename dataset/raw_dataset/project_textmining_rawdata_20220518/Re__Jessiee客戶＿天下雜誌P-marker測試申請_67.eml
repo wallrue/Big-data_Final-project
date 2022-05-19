@@ -1,0 +1,261 @@
+X-M2KSPAM: NO/3
+Received: from 210.59.162.122
+	by asp6.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(86196:0:AUTH_NONE)
+	(envelope-from <prvs=1725EEF4ED=mclee@openfind.com.tw>); Thu, 17 Jan 2013 15:27:42 +0800 (CST)
+Return-Path: <prvs=1725EEF4ED=mclee@openfind.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (N/A)
+Received: from 10.0.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(18240:0:AUTH_RELAY)
+	(envelope-from <prvs=1725EEF4ED=mclee@openfind.com.tw>); Thu, 17 Jan 2013 15:23:54 +0800 (CST)
+Return-Path: <prvs=1725EEF4ED=mclee@openfind.com.tw>
+Received: By OpenMail Mailer;Thu, 17 Jan 2013 15:23:50 +0800 (CST)
+Received: from 203.69.82.124
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V6.00(70595:0:AUTH_RELAY)
+	(envelope-from <prvs=1725EEF4ED=mclee@openfind.com.tw>); Thu, 17 Jan 2013 15:23:48 +0800 (CST)
+Return-Path: <prvs=1725EEF4ED=mclee@openfind.com.tw>
+X-M2KPolicyIP: 203.69.82.124 (#NOT FOUND)
+X-MailGates: (RBL:2,PASS,0.000000e+00)(flag:1,RELAY:PASS)(IPF:2,PASS)(ba
+	yesian:SCORE-38,0.00,2)(commtouch:PASS,1,str=0001.0A150205.50F7A703.0061
+	:SCFMA4218066,ss=1,re=-4.000,fgs=0,2)(header_match_any:pattern.fromtrust
+	.system,,HAM,*@openfind.com.tw,0)
+X-MGMilo: No
+X-MGBS: No
+Received: from 203.69.82.69
+	by mg.openfind.com.tw with MailGates ESMTP Server V4.0(1143:0:AUTH_NONE)
+	(envelope-from <prvs=1725EEF4ED=mclee@openfind.com.tw>); Thu, 17 Jan 2013 15:23:45 +0800 (CST)
+Return-Path: <prvs=1725EEF4ED=mclee@openfind.com.tw>
+Received: from 10.0.0.40
+	by bak1.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(1417:0:AUTH_RELAY)
+	(envelope-from <prvs=1725EEF4ED=mclee@openfind.com.tw>); Thu, 17 Jan 2013 15:23:44 +0800 (CST)
+Return-Path: <prvs=1725EEF4ED=mclee@openfind.com.tw>
+M2KForward: Yes
+Received: By OpenMail Mailer;Thu, 17 Jan 2013 15:23:44 +0800 (CST)
+Received: from 203.69.82.34
+	by m0.mail2000.com.tw with Mail2000 ESMTP Server V3.20M(37078:0:AUTH_NONE)
+	(envelope-from <prvs=1725EEF4ED=mclee@openfind.com.tw>); Thu, 17 Jan 2013 15:23:43 +0800 (CST)
+Return-Path: <prvs=1725EEF4ED=mclee@openfind.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(75470:3:AUTH_NONE)
+	(envelope-from <prvs=1725EEF4ED=mclee@openfind.com.tw>); Thu, 17 Jan 2013 15:23:43 +0800 (CST)
+Return-Path: <prvs=1725EEF4ED=mclee@openfind.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (audit_rules:rules.audit_out1311132448.system#,,aDELIVER,R/
+	m2k_service@mail2000.com.tw,4)
+X-MGMilo: No
+X-MGBS: No
+Received: from 10.0.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(18250:0:AUTH_RELAY)
+	(envelope-from <mclee@openfind.com.tw>); Thu, 17 Jan 2013 15:17:53 +0800 (CST)
+Return-Path: <mclee@openfind.com.tw>
+Received: By OpenMail Mailer;Thu, 17 Jan 2013 15:17:48 +0800 (CST)
+Received: By OpenMail Mailer;Thu, 17 Jan 2013 15:17:46 +0800 (CST)
+X-M2K-AUTH: WEB
+From: "=?big5?B?p/Wpc6zu?=" <mclee@openfind.com.tw>
+Reply-To: "=?big5?B?p/Wpc6zu?=" <mclee@openfind.com.tw>
+Subject: =?big5?B?UmU6IEplc3NpZWWryKThocSk0aRVwvi7eFAtbWFy?=
+	=?big5?B?a2VytPq41aXTvdA=?=
+Message-ID: <1358407066.76579.mclee@openfind.com.tw>
+In-Reply-To: <1358405566.68993.jessiee_chung@openfind.com.tw>
+References: <1358405566.68993.jessiee_chung@openfind.com.tw>
+To: "jessiee_chung" <jessiee_chung@openfind.com.tw>
+Cc: "online_se" <online_se@openfind.com>,
+	"=?big5?B?UC1NYXJrZXIgrdO46r1MwkmqQbDI?=" <p-marker@openfind.com.tw>
+Date: Thu, 17 Jan 2013 15:17:46 +0800 (CST)
+MIME-Version: 1.0
+Return-Path: mclee@openfind.com.tw
+Content-Type: multipart/alternative;
+	boundary="---C8D:oSK=aisY=(qw8f8J1WF=Rvq"
+
+-----C8D:oSK=aisY=(qw8f8J1WF=Rvq
+Content-Type: text/plain; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+Dear=20Jessiee,
+
+=B7=ED=B5M=A5i=A5H=C5o=A1I=A1@=C5w=AA=EF
+=B1z=A4U=A6=B8=A5i=AA=BD=B1=B5=B1H=A6=B9=C3=FE=BB=DD=A8D=A6=DC=20p-marker@op=
+enfind.com.tw
+=B4=A3=A8=D1=B1z=B3o=A6=B8=A6=B3=B5=B9=AA=BA=20=AB=C8=A4=E1=A4=BD=A5q=A6W=BA=
+=D9=A1B=C1p=B5=B8=A4H=A1B=C1p=B5=B8=A4H=20email=20=A4=A7=A5~=A1A
+=A5i=A6A=AB=FC=A9w=A4@=AD=D3=2020=20=A6=B8=A5H=A4=BA=AA=BA=A6=B8=BC=C6(5,10,=
+20)=A1A=A7=DA=AD=CC=B4N=B7|=AA=BD=B1=B5=A5=CE=AAA=B0=C8=B1b=B8=B9=B5o=A5X=C2=
+=A7=A8=E9=B5=B9=AB=C8=A4=E1=A8=C3=B0=C6=A5=BB=B5=B9=B1z=C5o!
+
+=A7=DA=AD=CC=B7|=A5=FD=AA=BD=B1=B5=B5o=2010=20=A6=B8=AA=BA=C2=A7=A8=E9=B5=B9=
+=A4=D1=A4U=C2=F8=BBx=AAL=A5=FD=A5=CD=A1A=C1=C2=C1=C2
+
+Regards,
+=A9s=AC=EE
+
+
+=A1=B0=20=A4=DE=ADz=A1m"jessiee_chung"=20<jessiee_chung@openfind.com.tw>=A1n=
+=A4=A7=B6l=A5=F3=A4=BA=AEe=A1GDear=20=A9s=AC=EE=A1A
+
+=A4=D1=A4U=C2=F8=BBx=ADn=B4=FA=B8=D5P-marker=A1A=ACO=A7_=A5i=A5H=B4=A3=A8=D1=
+=A9O=A1H
+
+=AAL=A4t=A5=BF
+peterlin@cw.com.tw
+=B2=CE=A4@=BDs=B8=B9=A1G22039731
+
+=C1=C2=C1=C2=A1C
+
+If=20you=20have=20any=20questions=20please=20feel=20free=20to=20contact=20me=
+.
+
+Best=20Regards
+=20=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=
+=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=20=
+
+=20=C1=E9=B2Q=AC=C3=20Jessiee=20Chung=20=20(Sales=20Manager)
+=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=
+=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB
+Openfind=20Software=20Engineered=20for=20Growth
+=BA=F4=C0=BA=B8=EA=B0T=B3n=C5=E9=AA=D1=A5=F7=A6=B3=AD=AD=A4=BD=A5q
+TEL:=20+886-2-2553-2000=A1@Ext.715=20=20
+Mobile:=20+886-0982-354-706
+ADD:=A5x=A5_=A5=AB=AD=AB=BCy=A5_=B8=F4=A4G=ACq243=B8=B97=BC=D3
+e-mail:=20jessiee_chung@openfind.com
+=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=
+=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB
+
+
+
+=20
+
+
+-----C8D:oSK=aisY=(qw8f8J1WF=Rvq
+Content-Type: text/html; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+<html>Dear=20Jessiee,<div><br></div><div>=B7=ED=B5M=A5i=A5H=C5o=A1I=A1@=C5w=AA=
+=EF</div><div>=B1z=A4U=A6=B8=A5i=AA=BD=B1=B5=B1H=A6=B9=C3=FE=BB=DD=A8D=A6=DC=
+=20p-marker@openfind.com.tw</div><div>=B4=A3=A8=D1=B1z=B3o=A6=B8=A6=B3=B5=B9=
+=AA=BA=20=AB=C8=A4=E1=A4=BD=A5q=A6W=BA=D9=A1B=C1p=B5=B8=A4H=A1B=C1p=B5=B8=A4=
+H=20email=20=A4=A7=A5~=A1A</div><div>=A5i=A6A=AB=FC=A9w=A4@=AD=D3=2020=20=A6=
+=B8=A5H=A4=BA=AA=BA=A6=B8=BC=C6(5,10,20)=A1A=A7=DA=AD=CC=B4N=B7|=AA=BD=B1=B5=
+=A5=CE=AAA=B0=C8=B1b=B8=B9=B5o=A5X=C2=A7=A8=E9=B5=B9=AB=C8=A4=E1=A8=C3=B0=C6=
+=A5=BB=B5=B9=B1z=C5o!</div><div><br></div><div>=A7=DA=AD=CC=B7|=A5=FD=AA=BD=B1=
+=B5=B5o=2010=20=A6=B8=AA=BA=C2=A7=A8=E9=B5=B9=A4=D1=A4U=C2=F8=BBx=AAL=A5=FD=A5=
+=CD=A1A=C1=C2=C1=C2</div><div><br></div><div>Regards,<br>=A9s=AC=EE<br>
+<p>
+</p><blockquote=20dir=3D"ltr"=20style=3D"PADDING-RIGHT:=200px;=20PADDING-LEF=
+T:=205px;=20MARGIN-LEFT:=205px;=20BORDER-LEFT:=20#000000=202px=20solid;=20MA=
+RGIN-RIGHT:=200px">
+=A1=B0=20=A4=DE=ADz=A1m"jessiee_chung"=20&lt;jessiee_chung@openfind.com.tw&g=
+t;=A1n=A4=A7=B6l=A5=F3=A4=BA=AEe=A1G
+
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div><font=20class=3D"Apple-style-span"=20size=3D"4">Dear=20=A9s=AC=EE=A1A</=
+font></div><div><font=20class=3D"Apple-style-span"=20size=3D"4"><br></font><=
+/div><div><font=20class=3D"Apple-style-span"=20size=3D"4">=A4=D1=A4U=C2=F8=BB=
+x=ADn=B4=FA=B8=D5P-marker=A1A=ACO=A7_=A5i=A5H=B4=A3=A8=D1=A9O=A1H</font></di=
+v><div><font=20class=3D"Apple-style-span"=20size=3D"4"><br></font></div><div=
+><font=20class=3D"Apple-style-span"=20size=3D"4">=AAL=A4t=A5=BF</font></div>=
+<div><font=20class=3D"Apple-style-span"=20size=3D"4">peterlin@cw.com.tw</fon=
+t></div><div><font=20size=3D"4">=B2=CE=A4@=BDs=B8=B9=A1G22039731</font></div=
+><div><font=20size=3D"4"><br></font></div><div><font=20size=3D"4">=C1=C2=C1=C2=
+=A1C</font></div><div><font=20size=3D"4"><br></font></div><div>If=20you=20ha=
+ve=20any=20questions=20please=20feel=20free=20to=20contact=20me.</div><div><=
+br></div><div><font=20class=3D"Apple-style-span"=20face=3D"'Times=20New=20Ro=
+man'">Best=20Regards</font></div><div>
+<div>&nbsp;<font=20style=3D"background-color:=20rgb(255,=20255,=20255);=20">=
+<strong><font=20color=3D"#b600e3">=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=
+=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=
+</font></strong></font><font=20style=3D"background-color:=20rgb(255,=20255,=20=
+255);=20"><strong><font=20color=3D"#b600e3">=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB</=
+font></strong></font>&nbsp;</div><div><font=20style=3D"BACKGROUND-COLOR:=20#=
+ffffff"><strong><font=20color=3D"#b600e3">&nbsp;=C1=E9=B2Q=AC=C3=20Jessiee=20=
+Chung=20&nbsp;(Sales=20Manager)</font></strong></font></div></div>
+<div>
+<div><strong><font=20style=3D"BACKGROUND-COLOR:=20#ffffff"><font=20color=3D"=
+#b600e3">=A1=DB</font><font=20color=3D"#b600e3">=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=
+=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=
+=A1=DB</font></font></strong><strong><font=20style=3D"background-color:=20rg=
+b(255,=20255,=20255);=20"><font=20color=3D"#b600e3">=A1=DB=A1=DB=A1=DB=A1=DB=
+=A1=DB</font></font></strong></div><div><font=20style=3D"BACKGROUND-COLOR:=20=
+#ffffff"><font=20color=3D"#5762ea"><b>Openfind=20Software=20Engineered=20for=
+=20Growth</b></font></font></div><div><b><font=20style=3D"BACKGROUND-COLOR:=20=
+#ffffff"><font=20color=3D"#5762ea">=BA=F4=C0=BA=B8=EA=B0T=B3n=C5=E9=AA=D1=A5=
+=F7=A6=B3=AD=AD=A4=BD=A5q<br></font></font><font=20style=3D"BACKGROUND-COLOR=
+:=20#ffffff"><font=20color=3D"#5762ea">TEL:=20+886-2-2553-2000=A1@Ext.715&nb=
+sp;&nbsp;<br>Mobile:=20+886-0982-354-706</font></font></b></div>
+<div><font=20color=3D"#5762ea"><b>ADD:=A5x=A5_=A5=AB=AD=AB=BCy=A5_=B8=F4=A4G=
+=ACq243=B8=B97=BC=D3</b></font></div><div><font=20class=3D"Apple-style-span"=
+=20color=3D"#5762ea"><b>e-mail:=20jessiee_chung@openfind.com</b></font></div=
+>
+<div><strong><font=20style=3D"background-color:=20rgb(255,=20255,=20255);=20=
+"><font=20color=3D"#b600e3">=A1=DB</font><font=20color=3D"#b600e3">=A1=DB=A1=
+=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=DB=A1=
+=DB=A1=DB=A1=DB=A1=DB=A1=DB</font></font></strong><strong><font=20style=3D"b=
+ackground-color:=20rgb(255,=20255,=20255);=20"><font=20color=3D"#b600e3">=A1=
+=DB=A1=DB=A1=DB=A1=DB=A1=DB</font></font></strong><strong><br></strong><font=
+=20class=3D"Apple-style-span"=20size=3D"2"><b><br></b></font><font=20class=3D=
+"Apple-style-span"=20color=3D"#00b050"=20face=3D"Verdana,=20sans-serif"=20si=
+ze=3D"2"><b><br></b></font></div><div><p=20class=3D"MsoNormal"=20style=3D"ma=
+rgin-top:=200cm;=20margin-right:=200cm;=20margin-left:=200cm;=20margin-botto=
+m:=200.0001pt;=20font-size:=2012pt;=20font-family:=20Calibri,=20sans-serif;=20=
+"><b><span=20lang=3D"EN-US"=20style=3D"font-size:=2014pt;=20font-family:=20=B7=
+s=B2=D3=A9=FA=C5=E9,=20serif;=20color:=20rgb(84,=20141,=20212);=20"><o:p>&nb=
+sp;</o:p></span></b></p></div></div></div></div></div></div></div></div></di=
+v></div></div></div></div></div></div></div></div></div></div></div></div></=
+div></div></div></div></div></div></div></div></div></div></div></div></div>=
+</div></div></div></div></div></div></div></div></div></div></div></div></di=
+v></div></div></div></div></div></div></div></div></div></div></blockquote><=
+/div></html>
+-----C8D:oSK=aisY=(qw8f8J1WF=Rvq--

@@ -1,0 +1,321 @@
+X-M2K-MATCHED-RULE: SPAM_FILTER-InADB
+X-M2K-MATCHED-RESULT: Mail Header From In ADB/m2k_adm@mail2000.com.tw
+X-ADIFSPAM: NO/-6
+X-ADIFSPAM-CT: NO/-5
+Received: from 220.130.127.157
+	by ms2.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(27392:0:AUTH_LOGIN)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Thu, 18 Jan 2018 17:17:21 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+X-M2K-MSG-ID: 1HP06DVN8G58DQVO
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=mail2000.com.tw;
+	s=1404201787.mail2000; t=1516267041;
+	bh=9WPFNXLQx4X2z9hujxzRj6x1WmE=;
+	h=Received:Return-Path:X-ADIFSPAM:X-ADIFSPAM-CT:Received:Received:
+	 From:Reply-To:Subject:Message-ID:To:Cc:Date:MIME-Version:
+	 Return-Path:X-Priority:X-MSMail-Priority:Content-Type;
+	b=WEJn7iS5dJ+goumODiFyrUZeEENpYH2goz3CTy9AYSdtWWJJ3Q49Ey1lemO1IqugC
+	 J7r8gIwugUNszB7uRYi87PX2Y1fSbiRbJ5G+L/JBJ69PJuReXHWhXYh5Pz9Fj2OM1m
+	 lO7QU2MxnMvpWX5F1W8pW+r8cmu18kyZsLvXiX0M=
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/0
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(22156:0:AUTH_LOGIN)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Thu, 18 Jan 2018 17:17:20 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+X-ADIFSPAM: NO/-6
+X-ADIFSPAM-CT: NO/-6
+Received: By OpenMail Mailer;Thu, 18 Jan 2018 17:17:20 +0800 (CST)
+Received: By OpenMail Mailer;Thu, 18 Jan 2018 17:17:18 +0800 (CST)
+From: "=?big5?B?TWFpbDIwMDAgq8iqQaSkpN8=?=" <m2k_adm@mail2000.com.tw>
+Reply-To: "=?big5?B?TWFpbDIwMDAgq8iqQaSkpN8=?=" <m2k_adm@mail2000.com.tw>
+Subject: =?big5?B?R3JlZW4gRURNILd+sMiw3cNEIC0gvOemYqvIpOE=?=
+	=?big5?B?oUewqrFvtlSp9iAtIEZ3OiB3d3cyICBTUEFNIFc=?=
+	=?big5?B?YXJuaW5nIFsyMDE4LzAxLzE4XQ==?=
+Message-ID: <1516267038.22349.m2k_adm@mail2000.com.tw>
+To: "ASP-Sales" <mailasp_sales@openfind.com.tw>
+Cc: "m2k_service" <m2k_service@mail2000.com.tw>
+Date: Thu, 18 Jan 2018 17:17:18 +0800 (CST)
+MIME-Version: 1.0
+Return-Path: m2k_adm@mail2000.com.tw
+X-Priority: 1
+X-MSMail-Priority: High
+Content-Type: multipart/alternative;
+	boundary="---wQTmkzt+j372WlkEF0ll1J?ENHp"
+
+-----wQTmkzt+j372WlkEF0ll1J?ENHp
+Content-Type: text/plain; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+=B1z=A6n=A1A
+
+=B0=AA=B1o=B6T=A9=F6=A6=B3=AD=AD=A4=BD=A5q
+=BEG=A4p=A9j
+2619=201916
+gaode.stone@pie.com.tw
+
+
+
+=B0=DD=C3D=A1G
+=A8=CF=A5=CE=AA=CC=A6=B3=A4j=B6q=B5o=ABH=BB=DD=A8D=A1A
+=B3=C2=B7=D0=B1z=A6A=C0=B0=A6=A3=B3s=C3=B4=B4=A3=A8=D1=B3=F8=BB=F9=A1A
+=C1=C2=C1=C2=B1z=A1C
+
+
+
+
+Jasmine
+
+=C1=C2=C1=C2=B1z=B9=EF=20Mail2000=20=AA=BA=B7R=A5=CE=A1A
+=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6A=A6=B8=AC=A2=B8=DF=A1C
+
+Mail2000=20=AB=C8=AAA=A4=A4=A4=DF=20=B7q=A4W
+---------------------------------------------------------------------------
+SecuShare=20=A4=C0=A8=C9=B6=B3=A1=D0=C0=B0=A7A=AA=BA=ABH=BDc=B4=EE=AA=CE
+
+=AB=F6=A4U=B6l=A5=F3=AA=FE=C0=C9=AE=C7=C3=E4=AA=BA=A4=C0=A8=C9=B6=B3=B9=CF=A5=
+=DC=A1A=A7Y=A5i=B1N=AA=FE=C0=C9=A5t=A6s=A9=F3
+=C3=D8=B0e=AA=BA=A4=C0=A8=C9=B6=B3=AA=C5=B6=A1=A1C=B1=B5=B5=DB=A6=DC=A4u=A8=E3=
+=BF=EF=B3=E6=20=A1n=A7R=B0=A3=AA=FE=C0=C9=A1A
+=B4N=AF=E0=C0=B0=B1z=AA=BA=ABH=BDc=BDG=A8=AD=A1I=B8=D4=B1=A1=BD=D0=A8=A3
+---------------------------------------------------------------------------
+
+
+Mail2000=20=AB=C8=AAA=A4=A4=A4=DF
+=AB=C8=AAA=B1M=BDu=A1G02-2553-7272
+=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956
+=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw
+Mail2000=B9q=A4l=ABH=BDc=20http://mail2000.com.tw/
+=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8=20http://www.mailcloud.com.tw=20=
+
+=BA=F4=C0=BA=20Openfind=20=A5=F8=B7~=BA=F4=AF=B8=20http://www.openfind.com/t=
+aiwan
+
+-----Forwarded=20message-----
+From:Mail2000=20System<online_se@mail2000.com.tw>
+To:m2k_service<m2k_service@mail2000.com.tw>
+Cc:cloud_se<cloud_se@openfind.com.tw>
+Date:=20Thu,=2018=20Jan=202018=2015:55:00
+Subject:=20www2=20=20SPAM=20Warning=20[2018/01/18]
+
+=20User=20=BB{=C3=D2=B5n=A4J=20ID300=20=AC=ED=A4=BA=B1H=ABH=AB=CA=BC=C6=20
+=20gaode.stone@pie.com.tw545
+=20=A5H=A4W=A8=CF=A5=CE=AA=CC=A4w=B3Q=20mail2000=20smtp=20=BB{=C3=D2=B1H=ABH=
+=A5D=BE=F7=AB=CA=C2=EA=B1H=ABH=A1A
+=20=BD=D0=AB=C8=AAA=A8=F3=A7U=B3q=AA=BE=A8=CF=A5=CE=AA=CC=A1A=A4=A7=AB=E1=A6=
+=AC=A8=EC=A8=CF=A5=CE=AA=CC=A4w=B3B=B2z=A9=CE=A4=C1=B5=B2=AE=D1=AB=E1=A1A
+=20=A6A=B3q=AA=BE=20SE=20=B8=D1=B0=A3=AB=CA=C2=EA=B1H=ABH=A1C
+
+=20SE=20=A6=AC=A8=EC=B8=D1=B0=A3=AB=CA=C2=EA=B1H=ABH=AA=BA=BB=DD=A8D=AB=E1=A1=
+A=BD=D0=20mark=20rules.list=20=B8=D3=A8=CF=A5=CE=AA=CC=A1A
+=20=A8=C3=AD=AB=B6]=20mailerd=A1A=A8=E2=A5x=B3=A3=BB=DD=C0=CB=ACd=A1C
+=20
+----------------------------------------------------------------------------=
+----
+gaode.stone@pie.com.tw
+[2018/01/18=2015:54:04]=20[89904-5A605296.000B04C0]=20Mail.RRP=20<gaode.ston=
+e@pie.com.tw>=20->=20<david@lungyengroup.com.tw>=20(=B7s=B3f=A8=EC-=A9]=A5=FA=
+=A5=E9=A5j.=AA=FC=B0=D2=A6=C7.=A8=A9=AF=C7=A6h=A6=CC=B6=C0.=A4p=C0J=A8=E8=A5=
+=D5.=AA=F7=A6=E2=B9=DA=A4=DB=A5=E9=A5j/2386094)[OK](AUTH:gaode.stone@pie.com=
+.tw/Mail=20Delivered=20Successfully.)(P/@10.0.0.157)
+[2018/01/18=2015:54:04]=20[89904-5A605296.000B04C0]=20Mail.RRP=20<gaode.ston=
+e@pie.com.tw>=20->=20<union93@seed.net.tw>=20(=B7s=B3f=A8=EC-=A9]=A5=FA=A5=E9=
+=A5j.=AA=FC=B0=D2=A6=C7.=A8=A9=AF=C7=A6h=A6=CC=B6=C0.=A4p=C0J=A8=E8=A5=D5.=AA=
+=F7=A6=E2=B9=DA=A4=DB=A5=E9=A5j/2386094)[OK](AUTH:gaode.stone@pie.com.tw/Mai=
+l=20Delivered=20Successfully.)(P/@10.0.0.157)
+[2018/01/18=2015:54:04]=20[89904-5A605296.000B04C0]=20Mail.RRP=20<gaode.ston=
+e@pie.com.tw>=20->=20<gabriel@unique-design.com.tw>=20(=B7s=B3f=A8=EC-=A9]=A5=
+=FA=A5=E9=A5j.=AA=FC=B0=D2=A6=C7.=A8=A9=AF=C7=A6h=A6=CC=B6=C0.=A4p=C0J=A8=E8=
+=A5=D5.=AA=F7=A6=E2=B9=DA=A4=DB=A5=E9=A5j/2386094)[OK](AUTH:gaode.stone@pie.=
+com.tw/Mail=20Delivered=20Successfully.)(P/@10.0.0.157)
+[2018/01/18=2015:54:04]=20[89904-5A605296.000B04C0]=20Mail.RRP=20<gaode.ston=
+e@pie.com.tw>=20->=20<tgtzuwei@aptg.net>=20(=B7s=B3f=A8=EC-=A9]=A5=FA=A5=E9=A5=
+j.=AA=FC=B0=D2=A6=C7.=A8=A9=AF=C7=A6h=A6=CC=B6=C0.=A4p=C0J=A8=E8=A5=D5.=AA=F7=
+=A6=E2=B9=DA=A4=DB=A5=E9=A5j/2386094)[OK](AUTH:gaode.stone@pie.com.tw/Mail=20=
+Delivered=20Successfully.)(P/@10.0.0.157)
+[2018/01/18=2015:54:04]=20[89904-5A605296.000B04C0]=20Mail.RRP=20<gaode.ston=
+e@pie.com.tw>=20->=20<crox@crox.com.tw>=20(=B7s=B3f=A8=EC-=A9]=A5=FA=A5=E9=A5=
+j.=AA=FC=B0=D2=A6=C7.=A8=A9=AF=C7=A6h=A6=CC=B6=C0.=A4p=C0J=A8=E8=A5=D5.=AA=F7=
+=A6=E2=B9=DA=A4=DB=A5=E9=A5j/2386094)[OK](AUTH:gaode.stone@pie.com.tw/Mail=20=
+Delivered=20Successfully.)(P/@10.0.0.157)
+[2018/01/18=2015:54:04]=20[89904-5A605296.000B04C0]=20Mail.RRP=20<gaode.ston=
+e@pie.com.tw>=20->=20<service@jiinder.com.tw>=20(=B7s=B3f=A8=EC-=A9]=A5=FA=A5=
+=E9=A5j.=AA=FC=B0=D2=A6=C7.=A8=A9=AF=C7=A6h=A6=CC=B6=C0.=A4p=C0J=A8=E8=A5=D5=
+.=AA=F7=A6=E2=B9=DA=A4=DB=A5=E9=A5j/2386094)[OK](AUTH:gaode.stone@pie.com.tw=
+/Mail=20Delivered=20Successfully.)(P/@10.0.0.157)
+[2018/01/18=2015:54:04]=20[89904-5A605296.000B04C0]=20Mail.RRP=20<gaode.ston=
+e@pie.com.tw>=20->=20<seren@folkdesign.tw>=20(=B7s=B3f=A8=EC-=A9]=A5=FA=A5=E9=
+=A5j.=AA=FC=B0=D2=A6=C7.=A8=A9=AF=C7=A6h=A6=CC=B6=C0.=A4p=C0J=A8=E8=A5=D5.=AA=
+=F7=A6=E2=B9=DA=A4=DB=A5=E9=A5j/2386094)[OK](AUTH:gaode.stone@pie.com.tw/Mai=
+l=20Delivered=20Successfully.)(P/@10.0.0.157)
+[2018/01/18=2015:54:04]=20[89904-5A605296.000B04C0]=20Mail.RRP=20<gaode.ston=
+e@pie.com.tw>=20->=20<joseph@lautrec.com.tw>=20(=B7s=B3f=A8=EC-=A9]=A5=FA=A5=
+=E9=A5j.=AA=FC=B0=D2=A6=C7.=A8=A9=AF=C7=A6h=A6=CC=B6=C0.=A4p=C0J=A8=E8=A5=D5=
+.=AA=F7=A6=E2=B9=DA=A4=DB=A5=E9=A5j/2386094)[OK](AUTH:gaode.stone@pie.com.tw=
+/Mail=20Delivered=20Successfully.)(P/@10.0.0.157)
+[2018/01/18=2015:54:04]=20[89904-5A605296.000B04C0]=20Mail.RRP=20<gaode.ston=
+e@pie.com.tw>=20->=20<jun@signet.tw>=20(=B7s=B3f=A8=EC-=A9]=A5=FA=A5=E9=A5j.=
+=AA=FC=B0=D2=A6=C7.=A8=A9=AF=C7=A6h=A6=CC=B6=C0.=A4p=C0J=A8=E8=A5=D5.=AA=F7=A6=
+=E2=B9=DA=A4=DB=A5=E9=A5j/2386094)[OK](AUTH:gaode.stone@pie.com.tw/Mail=20De=
+livered=20Successfully.)(P/@10.0.0.157)
+[2018/01/18=2015:54:04]=20[89904-5A605296.000B04C0]=20Mail.RRP=20<gaode.ston=
+e@pie.com.tw>=20->=20<amanda@ct-interior.com.tw>=20(=B7s=B3f=A8=EC-=A9]=A5=FA=
+=A5=E9=A5j.=AA=FC=B0=D2=A6=C7.=A8=A9=AF=C7=A6h=A6=CC=B6=C0.=A4p=C0J=A8=E8=A5=
+=D5.=AA=F7=A6=E2=B9=DA=A4=DB=A5=E9=A5j/2386094)[OK](AUTH:gaode.stone@pie.com=
+.tw/Mail=20Delivered=20Successfully.)(P/@10.0.0.157)
+
+
+-----wQTmkzt+j372WlkEF0ll1J?ENHp
+Content-Type: text/html; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>=B1z=A6n=A1A</div><div><br></div><div>=B0=AA=B1o=B6T=A9=F6=A6=B3=AD=AD=A4=
+=BD=A5q</div><div><div>=BEG=A4p=A9j</div><div>2619=201916</div><div>gaode.st=
+one@pie.com.tw</div></div><div><br></div><div><br></div><div><br></div><div>=
+=B0=DD=C3D=A1G</div><div>=A8=CF=A5=CE=AA=CC=A6=B3=A4j=B6q=B5o=ABH=BB=DD=A8D=A1=
+A</div><div>=B3=C2=B7=D0=B1z=A6A=C0=B0=A6=A3=B3s=C3=B4=B4=A3=A8=D1=B3=F8=BB=F9=
+=A1A</div><div>=C1=C2=C1=C2=B1z=A1C</div><div><br></div><div><br></div><div>=
+<br></div><div><br></div><div>Jasmine</div><div><br></div><div>=C1=C2=C1=C2=B1=
+z=B9=EF=20Mail2000=20=AA=BA=B7R=A5=CE=A1A</div><div>=ADY=A6=B3=A5=F4=A6=F3=B0=
+=DD=C3D=A1A=C5w=AA=EF=A6A=A6=B8=AC=A2=B8=DF=A1C</div><div><div><br></div></d=
+iv><div>Mail2000=20=AB=C8=AAA=A4=A4=A4=DF=20=B7q=A4W</div><div>-------------=
+--------------------------------------------------------------<br><b><font=20=
+color=3D"#FF0000">SecuShare=20=A4=C0=A8=C9=B6=B3=A1=D0=C0=B0=A7A=AA=BA=ABH=BD=
+c=B4=EE=AA=CE</font></b><br><br></div><div>=AB=F6=A4U=B6l=A5=F3=AA=FE=C0=C9=AE=
+=C7=C3=E4=AA=BA=A4=C0=A8=C9=B6=B3=B9=CF=A5=DC=A1A=A7Y=A5i=B1N=AA=FE=C0=C9=A5=
+t=A6s=A9=F3<br>=C3=D8=B0e=AA=BA=A4=C0=A8=C9=B6=B3=AA=C5=B6=A1=A1C=B1=B5=B5=DB=
+=A6=DC=A4u=A8=E3=BF=EF=B3=E6=20=A1n=A7R=B0=A3=AA=FE=C0=C9=A1A<br>=B4N=AF=E0=C0=
+=B0=B1z=AA=BA=ABH=BDc=BDG=A8=AD=A1I<a=20href=3D"http://doc.mail2000.com.tw/n=
+ews/1405/AttachToSS.htm">=B8=D4=B1=A1=BD=D0=A8=A3</a></div><div>------------=
+---------------------------------------------------------------</div>
+<div></div>
+<div><div><br></div>
+<div><br></div>
+<div>Mail2000=20=AB=C8=AAA=A4=A4=A4=DF</div>
+<div>=AB=C8=AAA=B1M=BDu=A1G02-2553-7272</div>
+<div>=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956</div>
+<div>=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw</div>
+<div>Mail2000=B9q=A4l=ABH=BDc=20<a=20href=3D"http://mail2000.com.tw/"=20targ=
+et=3D"_blank">http://mail2000.com.tw/</a></div>
+<div>=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8=20<a=20href=3D"http://www.=
+mailcloud.com.tw/"=20target=3D"_blank">http://www.mailcloud.com.tw</a>=20</d=
+iv>
+<div>=BA=F4=C0=BA=20Openfind=20=A5=F8=B7~=BA=F4=AF=B8=20<a=20href=3D"http://=
+www.openfind.com/taiwan"=20target=3D"_blank">http://www.openfind.com/taiwan<=
+/a></div></div></div></div></div></div></div></div></div></div></div></div><=
+/div></div></div></div><br>
+-----Forwarded=20message-----<br>
+
+<b>From:</b>Mail2000=20System&lt;online_se@mail2000.com.tw&gt;<br>
+<b>To:</b>m2k_service&lt;m2k_service@mail2000.com.tw&gt;<br>
+<b>Cc:</b>cloud_se&lt;cloud_se@openfind.com.tw&gt;<br>
+<b>Date:=20</b>=20Thu,=2018=20Jan=202018=2015:55:00<br>
+<b>Subject:</b>=20www2=20&nbsp;SPAM=20Warning=20[2018/01/18]<br>
+<p>
+<table=20width=3D"500"=20border=3D"1">
+=20=20<tbody><tr=20align=3D"center"=20bgcolor=3D"#DFDFDF">
+=20=20=20=20<td>User=20=BB{=C3=D2=B5n=A4J=20ID</td><td>300=20=AC=ED=A4=BA=B1=
+H=ABH=AB=CA=BC=C6</td>
+=20=20</tr>
+=20=20<tr><td=20align=3D"center">gaode.stone@pie.com.tw</td><td=20align=3D"c=
+enter">545</td></tr>
+</tbody></table>
+<table=20width=3D"700">
+=20=20<tbody><tr>
+=20=20=20=20<td>
+=20=20=20=20=20=20=A5H=A4W=A8=CF=A5=CE=AA=CC=A4w=B3Q=20mail2000=20smtp=20=BB=
+{=C3=D2=B1H=ABH=A5D=BE=F7=AB=CA=C2=EA=B1H=ABH=A1A<br>
+=20=20=20=20=20=20=BD=D0=AB=C8=AAA=A8=F3=A7U=B3q=AA=BE=A8=CF=A5=CE=AA=CC=A1A=
+=A4=A7=AB=E1=A6=AC=A8=EC=A8=CF=A5=CE=AA=CC=A4w=B3B=B2z=A9=CE=A4=C1=B5=B2=AE=D1=
+=AB=E1=A1A<br>
+=20=20=20=20=20=20=A6A=B3q=AA=BE=20SE=20=B8=D1=B0=A3=AB=CA=C2=EA=B1H=ABH=A1C=
+<br><br>
+=20=20=20=20=20=20SE=20=A6=AC=A8=EC=B8=D1=B0=A3=AB=CA=C2=EA=B1H=ABH=AA=BA=BB=
+=DD=A8D=AB=E1=A1A=BD=D0=20mark=20rules.list=20=B8=D3=A8=CF=A5=CE=AA=CC=A1A<b=
+r>
+=20=20=20=20=20=20=A8=C3=AD=AB=B6]=20mailerd=A1A=A8=E2=A5x=B3=A3=BB=DD=C0=CB=
+=ACd=A1C<br>
+=20=20=20=20</td>
+=20=20</tr>
+</tbody></table><table>
+<tbody><tr><td>-------------------------------------------------------------=
+-------------------</td></tr>
+<tr><td><span=20style=3D"background-color:#00FFFF">gaode.stone@pie.com.tw</s=
+pan></td></tr>
+<tr><td>[2018/01/18=2015:54:04]=20[89904-5A605296.000B04C0]=20Mail.RRP=20&lt=
+;gaode.stone@pie.com.tw&gt;=20-&gt;=20&lt;david@lungyengroup.com.tw&gt;=20(=B7=
+s=B3f=A8=EC-=A9]=A5=FA=A5=E9=A5j.=AA=FC=B0=D2=A6=C7.=A8=A9=AF=C7=A6h=A6=CC=B6=
+=C0.=A4p=C0J=A8=E8=A5=D5.=AA=F7=A6=E2=B9=DA=A4=DB=A5=E9=A5j/2386094)[OK](AUT=
+H:gaode.stone@pie.com.tw/Mail=20Delivered=20Successfully.)(P/@10.0.0.157)</t=
+d></tr>
+<tr><td>[2018/01/18=2015:54:04]=20[89904-5A605296.000B04C0]=20Mail.RRP=20&lt=
+;gaode.stone@pie.com.tw&gt;=20-&gt;=20&lt;union93@seed.net.tw&gt;=20(=B7s=B3=
+f=A8=EC-=A9]=A5=FA=A5=E9=A5j.=AA=FC=B0=D2=A6=C7.=A8=A9=AF=C7=A6h=A6=CC=B6=C0=
+.=A4p=C0J=A8=E8=A5=D5.=AA=F7=A6=E2=B9=DA=A4=DB=A5=E9=A5j/2386094)[OK](AUTH:g=
+aode.stone@pie.com.tw/Mail=20Delivered=20Successfully.)(P/@10.0.0.157)</td><=
+/tr>
+<tr><td>[2018/01/18=2015:54:04]=20[89904-5A605296.000B04C0]=20Mail.RRP=20&lt=
+;gaode.stone@pie.com.tw&gt;=20-&gt;=20&lt;gabriel@unique-design.com.tw&gt;=20=
+(=B7s=B3f=A8=EC-=A9]=A5=FA=A5=E9=A5j.=AA=FC=B0=D2=A6=C7.=A8=A9=AF=C7=A6h=A6=CC=
+=B6=C0.=A4p=C0J=A8=E8=A5=D5.=AA=F7=A6=E2=B9=DA=A4=DB=A5=E9=A5j/2386094)[OK](=
+AUTH:gaode.stone@pie.com.tw/Mail=20Delivered=20Successfully.)(P/@10.0.0.157)=
+</td></tr>
+<tr><td>[2018/01/18=2015:54:04]=20[89904-5A605296.000B04C0]=20Mail.RRP=20&lt=
+;gaode.stone@pie.com.tw&gt;=20-&gt;=20&lt;tgtzuwei@aptg.net&gt;=20(=B7s=B3f=A8=
+=EC-=A9]=A5=FA=A5=E9=A5j.=AA=FC=B0=D2=A6=C7.=A8=A9=AF=C7=A6h=A6=CC=B6=C0.=A4=
+p=C0J=A8=E8=A5=D5.=AA=F7=A6=E2=B9=DA=A4=DB=A5=E9=A5j/2386094)[OK](AUTH:gaode=
+.stone@pie.com.tw/Mail=20Delivered=20Successfully.)(P/@10.0.0.157)</td></tr>=
+
+<tr><td>[2018/01/18=2015:54:04]=20[89904-5A605296.000B04C0]=20Mail.RRP=20&lt=
+;gaode.stone@pie.com.tw&gt;=20-&gt;=20&lt;crox@crox.com.tw&gt;=20(=B7s=B3f=A8=
+=EC-=A9]=A5=FA=A5=E9=A5j.=AA=FC=B0=D2=A6=C7.=A8=A9=AF=C7=A6h=A6=CC=B6=C0.=A4=
+p=C0J=A8=E8=A5=D5.=AA=F7=A6=E2=B9=DA=A4=DB=A5=E9=A5j/2386094)[OK](AUTH:gaode=
+.stone@pie.com.tw/Mail=20Delivered=20Successfully.)(P/@10.0.0.157)</td></tr>=
+
+<tr><td>[2018/01/18=2015:54:04]=20[89904-5A605296.000B04C0]=20Mail.RRP=20&lt=
+;gaode.stone@pie.com.tw&gt;=20-&gt;=20&lt;service@jiinder.com.tw&gt;=20(=B7s=
+=B3f=A8=EC-=A9]=A5=FA=A5=E9=A5j.=AA=FC=B0=D2=A6=C7.=A8=A9=AF=C7=A6h=A6=CC=B6=
+=C0.=A4p=C0J=A8=E8=A5=D5.=AA=F7=A6=E2=B9=DA=A4=DB=A5=E9=A5j/2386094)[OK](AUT=
+H:gaode.stone@pie.com.tw/Mail=20Delivered=20Successfully.)(P/@10.0.0.157)</t=
+d></tr>
+<tr><td>[2018/01/18=2015:54:04]=20[89904-5A605296.000B04C0]=20Mail.RRP=20&lt=
+;gaode.stone@pie.com.tw&gt;=20-&gt;=20&lt;seren@folkdesign.tw&gt;=20(=B7s=B3=
+f=A8=EC-=A9]=A5=FA=A5=E9=A5j.=AA=FC=B0=D2=A6=C7.=A8=A9=AF=C7=A6h=A6=CC=B6=C0=
+.=A4p=C0J=A8=E8=A5=D5.=AA=F7=A6=E2=B9=DA=A4=DB=A5=E9=A5j/2386094)[OK](AUTH:g=
+aode.stone@pie.com.tw/Mail=20Delivered=20Successfully.)(P/@10.0.0.157)</td><=
+/tr>
+<tr><td>[2018/01/18=2015:54:04]=20[89904-5A605296.000B04C0]=20Mail.RRP=20&lt=
+;gaode.stone@pie.com.tw&gt;=20-&gt;=20&lt;joseph@lautrec.com.tw&gt;=20(=B7s=B3=
+f=A8=EC-=A9]=A5=FA=A5=E9=A5j.=AA=FC=B0=D2=A6=C7.=A8=A9=AF=C7=A6h=A6=CC=B6=C0=
+.=A4p=C0J=A8=E8=A5=D5.=AA=F7=A6=E2=B9=DA=A4=DB=A5=E9=A5j/2386094)[OK](AUTH:g=
+aode.stone@pie.com.tw/Mail=20Delivered=20Successfully.)(P/@10.0.0.157)</td><=
+/tr>
+<tr><td>[2018/01/18=2015:54:04]=20[89904-5A605296.000B04C0]=20Mail.RRP=20&lt=
+;gaode.stone@pie.com.tw&gt;=20-&gt;=20&lt;jun@signet.tw&gt;=20(=B7s=B3f=A8=EC=
+-=A9]=A5=FA=A5=E9=A5j.=AA=FC=B0=D2=A6=C7.=A8=A9=AF=C7=A6h=A6=CC=B6=C0.=A4p=C0=
+J=A8=E8=A5=D5.=AA=F7=A6=E2=B9=DA=A4=DB=A5=E9=A5j/2386094)[OK](AUTH:gaode.sto=
+ne@pie.com.tw/Mail=20Delivered=20Successfully.)(P/@10.0.0.157)</td></tr>
+<tr><td>[2018/01/18=2015:54:04]=20[89904-5A605296.000B04C0]=20Mail.RRP=20&lt=
+;gaode.stone@pie.com.tw&gt;=20-&gt;=20&lt;amanda@ct-interior.com.tw&gt;=20(=B7=
+s=B3f=A8=EC-=A9]=A5=FA=A5=E9=A5j.=AA=FC=B0=D2=A6=C7.=A8=A9=AF=C7=A6h=A6=CC=B6=
+=C0.=A4p=C0J=A8=E8=A5=D5.=AA=F7=A6=E2=B9=DA=A4=DB=A5=E9=A5j/2386094)[OK](AUT=
+H:gaode.stone@pie.com.tw/Mail=20Delivered=20Successfully.)(P/@10.0.0.157)</t=
+d></tr>
+</tbody></table>
+
+</p></html>
+-----wQTmkzt+j372WlkEF0ll1J?ENHp--

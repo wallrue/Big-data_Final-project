@@ -1,0 +1,323 @@
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 220.130.127.161
+	by ms3.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(7896:0:AUTH_NONE)
+	(envelope-from <scotttsai01@gmail.com>); Thu, 28 Apr 2016 19:54:20 +0800 (CST)
+Return-Path: <scotttsai01@gmail.com>
+X-M2KSPAM: YES/100
+Received: from 220.130.127.161
+	by asp6.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(65018:0:AUTH_NONE)
+	(envelope-from <scotttsai01@gmail.com>); Thu, 28 Apr 2016 19:54:20 +0800 (CST)
+Return-Path: <scotttsai01@gmail.com>
+X-M2KPolicyIP: 220.130.127.161 (p5.mail2000.com.tw)
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(31049:0:AUTH_RELAY)
+	(envelope-from <scotttsai01@gmail.com>); Thu, 28 Apr 2016 19:54:19 +0800 (CST)
+Return-Path: <scotttsai01@gmail.com>
+Received: By OpenMail Mailer;Thu, 28 Apr 2016 19:54:19 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(17913:0:AUTH_NONE)
+	(envelope-from <scotttsai01@gmail.com>); Thu, 28 Apr 2016 19:54:19 +0800 (CST)
+Return-Path: <scotttsai01@gmail.com>
+X-M2KSPAM: YES/100
+Received: from 220.130.127.163
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(25155:1:AUTH_NONE)
+	(envelope-from <scotttsai01@gmail.com>); Thu, 28 Apr 2016 19:54:18 +0800 (CST)
+Return-Path: <scotttsai01@gmail.com>
+X-M2KPolicyIP: 220.130.127.163 (p7.mail2000.com.tw)
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.13
+	by p2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(29627:0:AUTH_RELAY)
+	(envelope-from <scotttsai01@gmail.com>); Thu, 28 Apr 2016 19:54:09 +0800 (CST)
+Return-Path: <scotttsai01@gmail.com>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: By OpenMail Mailer;Thu, 28 Apr 2016 19:54:09 +0800 (CST)
+Received: from 209.85.220.65
+	by ms1.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(3641:0:AUTH_NONE)
+	(envelope-from <scotttsai01@gmail.com>); Thu, 28 Apr 2016 19:54:07 +0800 (CST)
+Return-Path: <scotttsai01@gmail.com>
+X-M2KSPAM: YES/100
+Received: from 209.85.220.65
+	by asp7.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(22333:0:AUTH_NONE)
+	(envelope-from <scotttsai01@gmail.com>); Thu, 28 Apr 2016 19:54:06 +0800 (CST)
+Return-Path: <scotttsai01@gmail.com>
+X-M2KPolicyIP: 209.85.220.65 (mail-pa0-f65.google.com)
+Received: by mail-pa0-f65.google.com with SMTP id zy2so10716799pac.2
+        for <service@keepeverything.com>; Thu, 28 Apr 2016 04:54:06 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:content-transfer-encoding:mime-version:subject:message-id:date
+         :references:in-reply-to:to;
+        bh=j1r5yyLqS+O/bD4tWCNeCOqX723oNzbZOD1VDoEcF50=;
+        b=GCUqp4F+cCrGovfIvqMg5wnycps1pMIOzKZXi7umlayIBhzPNoiXvZailsGQFcCIhY
+         zkIQG/Zq19F0Zesvf63rPQijriW2DjKwYUwFWZYomGDdHfI8ARQygFR19zX9kaY/9tu0
+         vuw0ag1fjU6NYS4D5xhfdzLj1ILD0d8paghslJ3FhWedD+TIYlioMD9FKCDOQ7VLlpiy
+         2WppvW2JovYbsao2mNIbVYVto0TcD1E1cELw0LMaJkrBgEQS7aihEmftPk+R9Yt6ClUu
+         OUMMtoYwJjCsdlmPxwt7NKGSmNpk3s7XMyE4SedLL1qY6ILmLMaPS6/iIkgcp7EGlLyb
+         jJ+g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:content-transfer-encoding:mime-version
+         :subject:message-id:date:references:in-reply-to:to;
+        bh=j1r5yyLqS+O/bD4tWCNeCOqX723oNzbZOD1VDoEcF50=;
+        b=bsUffdNFsfMwliqcwmQidy6Fj1YD5HwSjgQFmRzMlsgY5jdADz1EmbY808Y0d9EVUx
+         MY7MbSb8qg/6vatvNolE4bB/qrTwzvnK3xEj0iBb6V9tyMUdB37rVEFp0/tq7f0vo05E
+         micz1d0d0BAk8ZMkmaiZzt0IQwSJq9H6M2w949ueUTnzjEbF14BLsao+ks+C26cM0a29
+         +ssP9eYrGMe8vR9wnlEjToG7cMsm6WxneDjpF8FUyJaYO/tzavI9EODHbUx4bdF8Ok7p
+         lGorleLuBAD3XY/pRLlzd4gyFcEADyembdSKpUM5T1Qvyt3jRnBoKTSfw5d0Hn1FalPP
+         Lk8A==
+X-Gm-Message-State: AOPr4FXoffSRt8BZzYBeWrhm5ZrvccvoqRrcKEU7rpji7VQhSJ8Y9nPyW7CjIOq1OKihVQ==
+X-Received: by 10.66.246.228 with SMTP id xz4mr19625283pac.139.1461844444734;
+        Thu, 28 Apr 2016 04:54:04 -0700 (PDT)
+Return-Path: <scotttsai01@gmail.com>
+Received: from [192.168.0.12] ([115.165.240.14])
+        by smtp.gmail.com with ESMTPSA id t126sm14478592pfb.73.2016.04.28.04.54.03
+        for <service@keepeverything.com>
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Thu, 28 Apr 2016 04:54:03 -0700 (PDT)
+From: Scott <scotttsai01@gmail.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-1E1AAAE0-59C3-4F41-A317-49862ACA3801
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Subject: =?big5?B?UmU6IEtlZXAgRXZlcnl0aGluZyClSbZPw9Kp+g==?=
+Message-Id: <25DD1BA8-A024-49C1-A8EE-90BB5C5B0698@gmail.com>
+Date: Thu, 28 Apr 2016 19:54:02 +0800
+References: <1460972791.3075.service@keepeverything.com> <D2686510-B2FA-4385-920C-05520D772F28@gmail.com> <1461037968.30710.service@keepeverything.com>
+In-Reply-To: <1461037968.30710.service@keepeverything.com>
+To: =?big5?B?S2VlcCBFdmVyeXRoaW5nIKpBsMi5zrak?= <service@keepeverything.com>
+X-Mailer: iPhone Mail (12F70)
+
+
+--Apple-Mail-1E1AAAE0-59C3-4F41-A317-49862ACA3801
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: base64
+
+5oKo5aW977yBDQoNCuiri+WVj+atpOWCmeS7veaWueW8j++8jOiLpeaYr+mbu+iFpuaqlOahiOii
+q+WLkue0oui7n+mrlOe1puWKoOWvhu+8jOWCmeS7veeoi+W8j+WVn+WLle+8jOmbsuerr+aJgOWC
+meS7veeahOaqlOahiOS5n+acg+WQjOatpeWjk+e4ruWKoOWvhuWXju+8nw0K6Kyd6Kyd44CCDQoN
+Cg0KDQo+IEtlZXAgRXZlcnl0aGluZyDmnI3li5nlnJjpmoogPHNlcnZpY2VAa2VlcGV2ZXJ5dGhp
+bmcuY29tPiDmlrwgMjAxNuW5tDTmnIgxOeaXpSAxMTo1MiDlr6vpgZPvvJoNCj4gDQo+IFNjb3R0
+IOaCqOWlve+8jA0KPiANCj4g5aaC5p6c5YKZ5Lu96YGO56iL5Lit6Zu76IWm5oSP5aSW6Zec5qmf
+77yMDQo+IOS4i+asoeWCmeS7veaZgumblueEtuezu+e1seacg+mHjeaWsOaqouafpe+8jA0KPiDk
+uI3pgY7pl5zmqZ/kuYvliY3lt7LntpPlgpnku73lrozmiJANCj4g6ICM5LiU5rKS5pyJ55Ww5YuV
+55qE5qqU5qGI57O757Wx5LiN5pyD6YeN5paw5YKZ5Lu977yMDQo+IOacg+e5vOe6jOWCmeS7veWu
+jOWFqOacquWCmeS7vemBjueahOaqlOahiOizh+aWmeOAgg0KPiANCj4gDQo+IA0KPiAtLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0NCj4gU2VjdVNoYXJlIOWIhuS6q+mbsu+8jeW5q+S9oOeahOS/oeeusea4m+iC
+pQ0KPiANCj4g5oyJ5LiL6YO15Lu26ZmE5qqU5peB6YKK55qE5YiG5Lqr6Zuy5ZyW56S677yM5Y2z
+5Y+v5bCH6ZmE5qqU5Y+m5a2Y5pa8DQo+IOi0iOmAgeeahOWIhuS6q+mbsuepuumWk+OAguaOpeiR
+l+iHs+W3peWFt+mBuOWWriDjgIvliKrpmaTpmYTmqpTvvIwNCj4g5bCx6IO95bmr5oKo55qE5L+h
+566x55im6Lqr77yB6Kmz5oOF6KuL6KaLDQo+IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQ0KPiANCj4gTWFp
+bDIwMDAg5a6i5pyN5Lit5b+DIOaVrOS4ig0KPiANCj4gTWFpbDIwMDAg5a6i5pyN5Lit5b+DDQo+
+IOWuouacjeWwiOe3mu+8mjAyLTI1NTMtNzI3Mg0KPiDlrqLmnI3lgrPnnJ/vvJowMi0yNTUzLTU5
+NTYNCj4g5a6i5pyN5L+h566x77yabTJrX2FkbUBtYWlsMjAwMC5jb20udHcNCj4gTWFpbDIwMDDp
+m7vlrZDkv6HnrrEgaHR0cDovL21haWwyMDAwLmNvbS50dy8NCj4g57ay5pOO5LyB5qWt6Zuy56uv
+5pyN5YuZIGh0dHA6Ly93d3cubWFpbGNsb3VkLmNvbS50dw0KPiDntrLmk44gT3BlbmZpbmQg5LyB
+5qWt57ay56uZIGh0dHA6Ly93d3cub3BlbmZpbmQuY29tL3RhaXdhbg0KPiANCj4gDQo+IC0tLS0t
+T3JpZ2luYWwgbWVzc2FnZS0tLS0tDQo+IEZyb206U2NvdHQ8c2NvdHR0c2FpMDFAZ21haWwuY29t
+Pg0KPiBUbzpLZWVwIEV2ZXJ5dGhpbmcg5pyN5YuZ5ZyY6ZqKPHNlcnZpY2VAa2VlcGV2ZXJ5dGhp
+bmcuY29tPg0KPiBEYXRlOiBUdWUsIDE5IEFwciAyMDE2IDEwOjA1OjMzDQo+IFN1YmplY3Q6IFJl
+OiBLZWVwIEV2ZXJ5dGhpbmcg5LuY6LK76K2J5piODQo+IERlcyBzaXIsDQo+IA0KPiDoq4vllY/n
+rKzkuIDmrKHlgpnku73vvIzoi6Xlgpnku73mnKrlroznlaLmmYLpm7vohabpl5zmqZ/vvIzkuIvm
+rKHplovllZ/pm7vohabmmYLvvIzmnIPnubznuozlgpnku73vvIzpgoTmmK/opoHph43mlrDplovl
+p4vlkaLvvJ8NCj4g6Kyd6Kyd44CCDQo+IA0KPiANCj4gQmVzdCByZWdhcmRzLA0KPiANCj4gU2Nv
+dHQNCj4gDQo+IA0KPiANCj4+IEtlZXAgRXZlcnl0aGluZyDmnI3li5nlnJjpmoogPHNlcnZpY2VA
+a2VlcGV2ZXJ5dGhpbmcuY29tPiDmlrwgMjAxNuW5tDTmnIgxOOaXpSAxNzo0NiDlr6vpgZPvvJoN
+Cj4+IA0KPj4gDQo+PiAgDQo+PiANCj4+IEtlZXAgRXZlcnl0aGluZyDku5josrvorYnmmI4NCj4+
+IOiUoeaZr+mRq+aCqOWlve+8mg0KPj4g6Kyd6Kyd5oKo6KiC6LO8IEtlZXAgRXZlcnl0aGluZyDl
+gpnku73pm7LmnI3li5nvvIENCj4+IOaIkeWAkeW3suaUtuWIsOaCqOaWvCAgMjAxNi0wNC0xOCAg
+55qE6KiC6LO85qy+6aCF5paw5Y+w5bmjIDY5OSAg5YWD44CCDQo+PiANCj4+IOWmguS4i+ioguiz
+vOizh+ioiuaPkOS+m+e1puaCqOWPg+iAg++8miANCj4+IOaCqOeahOWCmeS7veW4s+iZn+eCuu+8
+miBzY290dHRzYWkwMUBnbWFpbC5jb20gDQo+PiDmgqjnmoToqILos7zpoIXnm67ngrrvvJogS2Vl
+cCBFdmVyeXRoaW5nIOmAsumajueJiO+8muWPr+WCmeS7vTPlj7Dpm7vohabvvIzkuI3pmZDmqpTm
+oYjmoLzlvI8v5LiA5bm05pyf4oC76Zqx6JeP54mIIDcg5oqY5YSq5oOg77yM5oSf6Kyd5oKo55qE
+5pSv5oyB77yBDQo+PiDku5josrvmlrnmoYjkvb/nlKjmnJ/pmZDoh7PvvJogMjAxNy0wNC0xOCAN
+Cj4+IOebruWJjeW3sueCuuaCqOiqv+aVtOWlvSBLZWVwIEV2ZXJ5dGhpbmcg5LuY6LK75pa55qGI
+55qE56m66ZaT5a656YeP44CCDQo+PiANCj4+IOmXnOaWvOeZvOelqOeahOWvhOmAge+8jOaIkeWA
+keWwh+e1seS4gOWcqOS4i+WAi+aciCAyMCDml6Xku6XliY3lr4Tlh7ogKOWLvumBuOaNkOi0iOeZ
+vOelqOiAhemZpOWklinvvIzkuI3kvr/kuYvomZXvvIzmlazoq4vopovoq5LjgIINCj4+IA0KPj4g
+5LuK5b6M6Iul5pyJ5Lu75L2V5ZWP6aGM77yM5q2h6L+O6Zqo5pmC6IiH5oiR5YCR6IGv57Wh77yM
+6Kyd6Kyd5oKo55qE5oSb55So6IiH5pSv5oyB44CCDQo+PiANCj4+IEtlZXAgRXZlcnl0aGluZyDm
+nI3li5nlnJjpmormlazkuIoNCj4+IOWuouacjeS/oeeuse+8mnNlcnZpY2VAa2VlcGV2ZXJ5dGhp
+bmcuY29tDQo+PiDlrqLmnI3pm7voqbHvvJooMDIpMjU1My03MjcyDQo+PiDlrqLmnI3mmYLplpPv
+vJrpgLHkuIDoh7PpgLHkupQgMDk6MDB+MTg6MDANCj4+ICANCj4+IMKpIE9wZW5maW5kDQo=
+
+--Apple-Mail-1E1AAAE0-59C3-4F41-A317-49862ACA3801
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><div>=E6=82=A8=E5=A5=BD=EF=BC=81</div><div>=
+<br></div><div>=E8=AB=8B=E5=95=8F=E6=AD=A4=E5=82=99=E4=BB=BD=E6=96=B9=E5=BC=8F=
+=EF=BC=8C=E8=8B=A5=E6=98=AF=E9=9B=BB=E8=85=A6=E6=AA=94=E6=A1=88=E8=A2=AB=E5=8B=
+=92=E7=B4=A2=E8=BB=9F=E9=AB=94=E7=B5=A6=E5=8A=A0=E5=AF=86=EF=BC=8C=E5=82=99=E4=
+=BB=BD=E7=A8=8B=E5=BC=8F=E5=95=9F=E5=8B=95=EF=BC=8C=E9=9B=B2=E7=AB=AF=E6=89=80=
+=E5=82=99=E4=BB=BD=E7=9A=84=E6=AA=94=E6=A1=88=E4=B9=9F=E6=9C=83=E5=90=8C=E6=AD=
+=A5=E5=A3=93=E7=B8=AE=E5=8A=A0=E5=AF=86=E5=97=8E=EF=BC=9F</div><div>=E8=AC=9D=
+=E8=AC=9D=E3=80=82<br><br><br></div><div><br>Keep Everything =E6=9C=8D=E5=8B=
+=99=E5=9C=98=E9=9A=8A &lt;<a href=3D"mailto:service@keepeverything.com">serv=
+ice@keepeverything.com</a>&gt; =E6=96=BC 2016=E5=B9=B44=E6=9C=8819=E6=97=A5 1=
+1:52 =E5=AF=AB=E9=81=93=EF=BC=9A<br><br></div><blockquote type=3D"cite"><div=
+>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>Scott =E6=82=A8=E5=A5=BD=EF=BC=8C<br><br>=E5=A6=82=E6=9E=9C=E5=82=99=E4=
+=BB=BD=E9=81=8E=E7=A8=8B=E4=B8=AD=E9=9B=BB=E8=85=A6=E6=84=8F=E5=A4=96=E9=97=9C=
+=E6=A9=9F=EF=BC=8C<br>=E4=B8=8B=E6=AC=A1=E5=82=99=E4=BB=BD=E6=99=82=E9=9B=96=
+=E7=84=B6=E7=B3=BB=E7=B5=B1=E6=9C=83=E9=87=8D=E6=96=B0=E6=AA=A2=E6=9F=A5=EF=BC=
+=8C<br>=E4=B8=8D=E9=81=8E=E9=97=9C=E6=A9=9F=E4=B9=8B=E5=89=8D=E5=B7=B2=E7=B6=
+=93=E5=82=99=E4=BB=BD=E5=AE=8C=E6=88=90<br>=E8=80=8C=E4=B8=94=E6=B2=92=E6=9C=
+=89=E7=95=B0=E5=8B=95=E7=9A=84=E6=AA=94=E6=A1=88=E7=B3=BB=E7=B5=B1=E4=B8=8D=E6=
+=9C=83=E9=87=8D=E6=96=B0=E5=82=99=E4=BB=BD=EF=BC=8C<br>=E6=9C=83=E7=B9=BC=E7=
+=BA=8C=E5=82=99=E4=BB=BD=E5=AE=8C=E5=85=A8=E6=9C=AA=E5=82=99=E4=BB=BD=E9=81=8E=
+=E7=9A=84=E6=AA=94=E6=A1=88=E8=B3=87=E6=96=99=E3=80=82<br><br></div><div><br=
+></div><div><br></div><div>-------------------------------------------------=
+--------------------------<br><b><font color=3D"#FF0000">SecuShare =E5=88=86=
+=E4=BA=AB=E9=9B=B2=EF=BC=8D=E5=B9=AB=E4=BD=A0=E7=9A=84=E4=BF=A1=E7=AE=B1=E6=B8=
+=9B=E8=82=A5</font></b><br><br>=E6=8C=89=E4=B8=8B=E9=83=B5=E4=BB=B6=E9=99=84=
+=E6=AA=94=E6=97=81=E9=82=8A=E7=9A=84=E5=88=86=E4=BA=AB=E9=9B=B2=E5=9C=96=E7=A4=
+=BA=EF=BC=8C=E5=8D=B3=E5=8F=AF=E5=B0=87=E9=99=84=E6=AA=94=E5=8F=A6=E5=AD=98=E6=
+=96=BC<br>=E8=B4=88=E9=80=81=E7=9A=84=E5=88=86=E4=BA=AB=E9=9B=B2=E7=A9=BA=E9=
+=96=93=E3=80=82=E6=8E=A5=E8=91=97=E8=87=B3=E5=B7=A5=E5=85=B7=E9=81=B8=E5=96=AE=
+ =E3=80=8B=E5=88=AA=E9=99=A4=E9=99=84=E6=AA=94=EF=BC=8C<br>=E5=B0=B1=E8=83=BD=
+=E5=B9=AB=E6=82=A8=E7=9A=84=E4=BF=A1=E7=AE=B1=E7=98=A6=E8=BA=AB=EF=BC=81<a h=
+ref=3D"http://doc.mail2000.com.tw/news/1405/AttachToSS.htm">=E8=A9=B3=E6=83=85=
+=E8=AB=8B=E8=A6=8B</a><br>--------------------------------------------------=
+-------------------------<br></div>
+<div></div>
+<div><font size=3D"3"><span class=3D"Apple-style-span" style=3D"border-colla=
+pse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-siz=
+e: medium; font-style: normal; font-variant: normal; font-weight: normal; le=
+tter-spacing: normal; line-height: normal; orphans: 2; text-align: auto; tex=
+t-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-sp=
+acing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-=
+spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-ad=
+just: auto; -webkit-text-stroke-width: 0px; "><span class=3D"Apple-style-spa=
+n" style=3D"font-family: Arial, Helvetica, FreeSans, sans-serif; font-size: 1=
+3px; line-height: 17px; text-align: left; "></span></span></font><br>
+
+<div>Mail2000 =E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83 =E6=95=AC=E4=B8=8A</div>
+<div><br></div>
+<div>Mail2000 =E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83</div>
+<div>=E5=AE=A2=E6=9C=8D=E5=B0=88=E7=B7=9A=EF=BC=9A02-2553-7272</div>
+<div>=E5=AE=A2=E6=9C=8D=E5=82=B3=E7=9C=9F=EF=BC=9A02-2553-5956</div>
+<div>=E5=AE=A2=E6=9C=8D=E4=BF=A1=E7=AE=B1=EF=BC=9A<a href=3D"mailto:m2k_adm@=
+mail2000.com.tw">m2k_adm@mail2000.com.tw</a></div>
+<div>Mail2000=E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1 <a href=3D"http://mail2000=
+.com.tw/" target=3D"_blank">http://mail2000.com.tw/</a></div>
+<div>=E7=B6=B2=E6=93=8E=E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99=
+ <a href=3D"http://www.mailcloud.com.tw/" target=3D"_blank">http://www.mailc=
+loud.com.tw</a> </div>
+<div>=E7=B6=B2=E6=93=8E Openfind =E4=BC=81=E6=A5=AD=E7=B6=B2=E7=AB=99 <a hre=
+f=3D"http://www.openfind.com/taiwan" target=3D"_blank">http://www.openfind.c=
+om/taiwan</a></div>
+<div><br></div></div></div></div></div></div></div></div></div></div></div><=
+/div></div></div></div></div><br>
+-----Original message-----<br>
+
+<b>From:</b>Scott&lt;<a href=3D"mailto:scotttsai01@gmail.com">scotttsai01@gm=
+ail.com</a>&gt;<br>
+<b>To:</b>Keep Everything =E6=9C=8D=E5=8B=99=E5=9C=98=E9=9A=8A&lt;<a href=3D=
+"mailto:service@keepeverything.com">service@keepeverything.com</a>&gt;<br>
+<b>Date: </b> Tue, 19 Apr 2016 10:05:33<br>
+<b>Subject:</b> Re: Keep Everything =E4=BB=98=E8=B2=BB=E8=AD=89=E6=98=8E<br>=
+
+<meta http-equiv=3D"content-type" content=3D"text/html; charset=3Dutf-8"><x-=
+body><div>Des sir,</div><div><br></div><div>=E8=AB=8B=E5=95=8F=E7=AC=AC=E4=B8=
+=80=E6=AC=A1=E5=82=99=E4=BB=BD=EF=BC=8C=E8=8B=A5=E5=82=99=E4=BB=BD=E6=9C=AA=E5=
+=AE=8C=E7=95=A2=E6=99=82=E9=9B=BB=E8=85=A6=E9=97=9C=E6=A9=9F=EF=BC=8C=E4=B8=8B=
+=E6=AC=A1=E9=96=8B=E5=95=9F=E9=9B=BB=E8=85=A6=E6=99=82=EF=BC=8C=E6=9C=83=E7=B9=
+=BC=E7=BA=8C=E5=82=99=E4=BB=BD=EF=BC=8C=E9=82=84=E6=98=AF=E8=A6=81=E9=87=8D=E6=
+=96=B0=E9=96=8B=E5=A7=8B=E5=91=A2=EF=BC=9F</div><div>=E8=AC=9D=E8=AC=9D=E3=80=
+=82</div><div><br></div><div><br></div><div>Best regards,</div><div><br></di=
+v><div>Scott<br><br><br></div><div><br>Keep Everything =E6=9C=8D=E5=8B=99=E5=
+=9C=98=E9=9A=8A &lt;<a href=3D"mailto:service@keepeverything.com">service@ke=
+epeverything.com</a>&gt; =E6=96=BC 2016=E5=B9=B44=E6=9C=8818=E6=97=A5 17:46 =E5=
+=AF=AB=E9=81=93=EF=BC=9A<br><br></div><blockquote type=3D"cite"><div><div><b=
+r></div><div><table style=3D"color: rgb(62, 58, 57); font-family: Verdana, G=
+eneva, sans-serif; font-size: 15px; line-height: 24px;" width=3D"550" align=3D=
+"center" border=3D"0" cellpadding=3D"1" cellspacing=3D"0"><tbody><tr><td bgc=
+olor=3D"#c5c8ca"><table width=3D"550" bgcolor=3D"#FFFFFF" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0"><tbody><tr><td style=3D"font-size: 15px; colo=
+r: rgb(62, 58, 57); line-height: 24px;" height=3D"31" bgcolor=3D"#FFFFFF">&n=
+bsp;</td></tr><tr><td style=3D"font-size: 15px; color: rgb(62, 58, 57); line=
+-height: 24px;" valign=3D"top" align=3D"center" bgcolor=3D"#FFFFFF"><img src=
+=3D"http://doc.mail2000.com.tw/KE/images/letter_logo.png"></td></tr><tr><td s=
+tyle=3D"font-size: 15px; color: rgb(62, 58, 57); line-height: 24px;" height=3D=
+"45" bgcolor=3D"#FFFFFF"><div align=3D"center"><font color=3D"248EBF" size=3D=
+"+1"><strong>Keep Everything =E4=BB=98=E8=B2=BB=E8=AD=89=E6=98=8E</strong></=
+font></div></td></tr><tr><td style=3D"font-size: 15px; color: rgb(62, 58, 57=
+); line-height: 24px;" align=3D"center" bgcolor=3D"#FFFFFF"><table width=3D"=
+473" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td style=3D=
+"font-size: 15px; line-height: 24px; color: rgb(62, 58, 57);" valign=3D"top"=
+ align=3D"left">
+=E8=94=A1=E6=99=AF=E9=91=AB=E6=82=A8=E5=A5=BD=EF=BC=9A<p>=E8=AC=9D=E8=AC=9D=E6=
+=82=A8=E8=A8=82=E8=B3=BC Keep Everything =E5=82=99=E4=BB=BD=E9=9B=B2=E6=9C=8D=
+=E5=8B=99=EF=BC=81<br>=E6=88=91=E5=80=91=E5=B7=B2=E6=94=B6=E5=88=B0=E6=82=A8=
+=E6=96=BC&nbsp;<strong>
+2016-04-18
+</strong>&nbsp;=E7=9A=84=E8=A8=82=E8=B3=BC=E6=AC=BE=E9=A0=85=E6=96=B0=E5=8F=B0=
+=E5=B9=A3<strong>
+699
+</strong>&nbsp;=E5=85=83=E3=80=82</p><p><strong><font color=3D"248EBF">=E5=A6=
+=82=E4=B8=8B=E8=A8=82=E8=B3=BC=E8=B3=87=E8=A8=8A=E6=8F=90=E4=BE=9B=E7=B5=A6=E6=
+=82=A8=E5=8F=83=E8=80=83=EF=BC=9A&nbsp;</font></strong><br>=E6=82=A8=E7=9A=84=
+=E5=82=99=E4=BB=BD=E5=B8=B3=E8=99=9F=E7=82=BA=EF=BC=9A
+<a href=3D"mailto:scotttsai01@gmail.com">scotttsai01@gmail.com</a>
+<br>=E6=82=A8=E7=9A=84=E8=A8=82=E8=B3=BC=E9=A0=85=E7=9B=AE=E7=82=BA=EF=BC=9A=
+<font color=3D"#FF0000"><strong>
+Keep Everything =E9=80=B2=E9=9A=8E=E7=89=88=EF=BC=9A=E5=8F=AF=E5=82=99=E4=BB=
+=BD3=E5=8F=B0=E9=9B=BB=E8=85=A6=EF=BC=8C=E4=B8=8D=E9=99=90=E6=AA=94=E6=A1=88=
+=E6=A0=BC=E5=BC=8F/=E4=B8=80=E5=B9=B4=E6=9C=9F=E2=80=BB=E9=9A=B1=E8=97=8F=E7=
+=89=88 7 =E6=8A=98=E5=84=AA=E6=83=A0=EF=BC=8C=E6=84=9F=E8=AC=9D=E6=82=A8=E7=9A=
+=84=E6=94=AF=E6=8C=81=EF=BC=81</strong></font><br>=E4=BB=98=E8=B2=BB=E6=96=B9=
+=E6=A1=88=E4=BD=BF=E7=94=A8=E6=9C=9F=E9=99=90=E8=87=B3=EF=BC=9A<font color=3D=
+"#FF0000"><strong>
+2017-04-18
+</strong></font><br>=E7=9B=AE=E5=89=8D=E5=B7=B2=E7=82=BA=E6=82=A8=E8=AA=BF=E6=
+=95=B4=E5=A5=BD<span lang=3D"EN-US">&nbsp;Keep Everything&nbsp;</span>=E4=BB=
+=98=E8=B2=BB=E6=96=B9=E6=A1=88=E7=9A=84=E7=A9=BA=E9=96=93=E5=AE=B9=E9=87=8F=E3=
+=80=82<span lang=3D"EN-US"><br></span><br>=E9=97=9C=E6=96=BC=E7=99=BC=E7=A5=A8=
+=E7=9A=84=E5=AF=84=E9=80=81=EF=BC=8C=E6=88=91=E5=80=91=E5=B0=87=E7=B5=B1=E4=B8=
+=80=E5=9C=A8=E4=B8=8B=E5=80=8B=E6=9C=88 20 =E6=97=A5=E4=BB=A5=E5=89=8D=E5=AF=
+=84=E5=87=BA (=E5=8B=BE=E9=81=B8=E6=8D=90=E8=B4=88=E7=99=BC=E7=A5=A8=E8=80=85=
+=E9=99=A4=E5=A4=96)=EF=BC=8C=E4=B8=8D=E4=BE=BF=E4=B9=8B=E8=99=95=EF=BC=8C=E6=
+=95=AC=E8=AB=8B=E8=A6=8B=E8=AB=92=E3=80=82</p><p>=E4=BB=8A=E5=BE=8C=E8=8B=A5=
+=E6=9C=89=E4=BB=BB=E4=BD=95=E5=95=8F=E9=A1=8C=EF=BC=8C=E6=AD=A1=E8=BF=8E=E9=9A=
+=A8=E6=99=82=E8=88=87=E6=88=91=E5=80=91=E8=81=AF=E7=B5=A1=EF=BC=8C=E8=AC=9D=E8=
+=AC=9D=E6=82=A8=E7=9A=84=E6=84=9B=E7=94=A8=E8=88=87=E6=94=AF=E6=8C=81=E3=80=82=
+</p></td></tr><tr><td style=3D"font-size: 15px; color: rgb(62, 58, 57); line=
+-height: 24px;" valign=3D"top" align=3D"left">Keep Everything =E6=9C=8D=E5=8B=
+=99=E5=9C=98=E9=9A=8A=E6=95=AC=E4=B8=8A<p></p><ul><li>=E5=AE=A2=E6=9C=8D=E4=BF=
+=A1=E7=AE=B1=EF=BC=9A<a href=3D"mailto:service@keepeverything.com">service@k=
+eepeverything.com</a></li><li>=E5=AE=A2=E6=9C=8D=E9=9B=BB=E8=A9=B1=EF=BC=9A(=
+02)2553-7272</li><li>=E5=AE=A2=E6=9C=8D=E6=99=82=E9=96=93=EF=BC=9A=E9=80=B1=E4=
+=B8=80=E8=87=B3=E9=80=B1=E4=BA=94 09:00~18:00</li></ul></td></tr></tbody></t=
+able></td></tr><tr><td style=3D"font-size: 15px; color: rgb(62, 58, 57); lin=
+e-height: 24px;" height=3D"50" bgcolor=3D"#FFFFFF">&nbsp;</td></tr></tbody><=
+/table></td></tr><tr><td valign=3D"bottom" align=3D"right"><span style=3D"co=
+lor: rgb(159, 160, 160); font-size: 12px;">=C2=A9 Openfind</span></td></tr><=
+/tbody></table></div>
+</div></blockquote></x-body></div></blockquote></body></html>=
+
+--Apple-Mail-1E1AAAE0-59C3-4F41-A317-49862ACA3801--

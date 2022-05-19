@@ -1,0 +1,403 @@
+Message-ID: <1603782314.787244.1155230521.8110.mailbase@mailcloud.com.tw>
+X-M2K-FROM-RULE: FROM_RULE:*@mailcloud.com.tw/!192.168.1.0/0
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 3.3.3.3
+	by ms2.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(21489:0:AUTH_NONE)
+	(envelope-from <mailbase@mailcloud.com.tw>); Tue, 27 Oct 2020 15:05:09 +0800 (CST)
+Return-Path: <mailbase@mailcloud.com.tw>
+X-M2K-MSG-ID: 5LHFPFB9KCFKMNRO
+X-M2K-DINF: v=1;em=2;eh=1c343546/0RrOWC;ec=4789e8c2;m=pMAniK/K8uGQM2TVkTNuGcKv
+   FT7vVYASyRByJTKjyquvPcmzrz9JGSD5W//zH/G/2Uc09DxgKksJoa/uvNV04a7kycYw72P2mgwP
+   66OLyzJ0GpmaF3gcSN6KxAejjt9SzhQ67oItvA/MtgYuxef/igg95H5/biBI/NEAzlwSJyzDQQDn
+   dzRSdjh56TTX35yfROwNKeicDj42ZGZrhY0OISNJAT1Dmjeiu2fh32hfKfA=
+X-MailGates: (RBL:2,PASS,0.000000e+00)(SPF:2,PASS,pass)(BATV:2,PASS,send
+	er not empty)(DKIM:2,PASS,Bad signature(1))(DMARC:2,PASS,Looked up domai
+	n lacked a DMARC record(9))(GL:2,PASS,Valid record)(IPF:2,PASS)(FROMBW:2
+	,PASS)(FROMBW:2,PASS)(FROMBW:2,PASS)(FROMBW:2,PASS)(FROMBW:2,PASS)(FROMB
+	W:2,PASS)(bayes_mode:0)(bayesian:SCORE-38,0.00,2)(bayes_mode:0)(commtouc
+	h:PASS,1,str=0001.0A090208.5F97C6A5.003B:SCGSTAT2539118,ss=1,re=-4.000,r
+	ecu=0.000,reip=0.000,cl=1,cld=1,fgs=1024,2)(localsimi:PASS,2)(localsimi:
+	PASS,2)(localsimi:PASS,2)(compute_score:HAM,2,0)(URL:rewrite:0, no_rewri
+	te:0)
+Received: from 220.130.127.160
+	by mxs.mailcloud.com.tw with MailAudit ESMTP Server V5.0(21097:0:AUTH_NONE)
+	(envelope-from <mailbase@mailcloud.com.tw>); Tue, 27 Oct 2020 15:05:05 +0800 (CST)
+Return-Path: <mailbase@mailcloud.com.tw>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=mailcloud.com.tw;
+	s=1487762788.mailcloud; t=1603782305;
+	bh=eA3AOLbswbp1oXzQXiK6wNFLNqY=;
+	h=X-TRACE-MSG-ID:Received:Return-Path:From:To:Date:Subject:
+	 MIME-Version:Content-Type;
+	b=uJGzBRtY0XNpWm2Hi5jzRPAp4iBC+z85oJwUdVbjNX9Z3d3OMcmtEv8QPqLSN0rLT
+	 TgZLcrKo+5pJgQd787ncdxro9eVBf1bwJY3filgg70UQu1PaBSAY5/Fa8nmU/5ao5h
+	 HSAryQwhqQ3NZxb7/yLLRlfV66yNAbJQdTjO76Vo=
+X-ADIFSPAM: NO/0
+X-TRACE-MSG-ID: S_5F97C6A1000458892FF42F950000276A0000C470
+Received: from 10.0.0.61
+	by p2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(10090:0:AUTH_RELAY)
+	(envelope-from <mailbase@mailcloud.com.tw>); Tue, 27 Oct 2020 15:05:05 +0800 (CST)
+Return-Path: <mailbase@mailcloud.com.tw>
+From: "MailBase System" <mailbase@mailcloud.com.tw>
+To: service@mailcloud.com.tw
+Date: Tue, 27 Oct 2020 15:05:05 +0800
+Subject: [=?utf-8?B?5Y2x5oCl?=][mb-teams1.mailcloud.com.tw] MailBase =?utf-8?B?57O757Wx55uj5o6n5aCx6KGo?= (2020/10/27 15:05:01)
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="---Xcy4j6W1z(/RlljNn+p6d7y4mNq"
+
+-----Xcy4j6W1z(/RlljNn+p6d7y4mNq
+Content-Type: multipart/related;
+	boundary="---nG++LMWbh371b?Y7.eO+4gKLioK"
+
+-----nG++LMWbh371b?Y7.eO+4gKLioK
+Content-Type: multipart/alternative;
+	boundary="---pJ2eJX5=?PjABIrfr)WMfazBhKv"
+
+-----pJ2eJX5=?PjABIrfr)WMfazBhKv
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+-----pJ2eJX5=?PjABIrfr)WMfazBhKv
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<table cellpadding="0" cellspacing="0" border="0" 
+	style="width:100%;padding:10px;">
+<tr><td>
+
+<table cellpadding="0" cellspacing="0" border="0" 
+	style="width:100%;border:2px solid #b0b0b0;">
+<tr><td>
+
+<table cellpadding="0" cellspacing="0" border="0" 
+	style="width:100%;border-bottom:1px solid #dcdcdc;background:#D2F0FF;">
+<tr><td background="cid:MAILBASE_BANNER_BG.GIF" style="background-size: contain;">
+	<img src="cid:MAILBASE_BANNER.GIF" border="0" style="vertical-align:top;padding:10px 15px;">
+</td></tr>
+</table>
+
+<div style="padding:10px 20px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;
+	background:#E6F2F7;color:#0066AA;font-size:12px;">
+<b>service@mailcloud.com.tw 您好，您的系統監控報表如下:</b>
+</div>
+
+<div style="padding:10px 20px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;
+	background:#f3f3f3;">
+<p style="font-size:13px;margin:0;padding:5px 0;color:#444;">
+<b>
+系統監控時間: 2020/10/27 15:05:01
+</b>
+</p>
+
+</div>
+
+<table cellspacing="0" cellpadding="0" border="0"
+	style="padding:7px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;background:#f3f3f3;width:100%;">
+<tr><td>
+
+<table cellspacing="0" cellpadding="0" border="0"
+	style="width:100%;text-align:center;border:0;padding:0;margin:0;font-size:11px;">
+	<col>
+	<col style="width: 8em;">
+	<col>
+	<thead>
+		<tr style="color:white;background:#636363;border-left:1px solid #ffffff;border-right:1px solid #dcdcdc;">
+			<th style="padding:3px 10px;white-space:nowrap;border-left:1px solid #ffffff;border-right:1px solid #dcdcdc;">項目</th>
+			<th style="padding:3px 10px;white-space:nowrap;border-left:1px solid #ffffff;border-right:1px solid #dcdcdc;">狀態</th>
+			<th style="padding:3px 10px;white-space:nowrap;border-left:1px solid #ffffff;border-right:1px solid #dcdcdc;">訊息</th>
+		</tr>
+	</thead>
+	<tbody>
+	
+		<tr style="color:#444;background:#f9f9f9;">
+			<td style="text-align:left;padding:3px 10px;white-space:nowrap;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 MailBase 備份服務 (mbased) 
+			</td>
+			<td style="padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 正常 
+			</td>
+			<td style="text-align:left;padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+				<pre>31 daemons are running.&nbsp;</pre>
+			</td>
+		</tr>
+	
+		<tr style="color:#444;background:#f9f9f9;">
+			<td style="text-align:left;padding:3px 10px;white-space:nowrap;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 MailBase 郵件轉檔服務 (mbconvd) 
+			</td>
+			<td style="padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 正常 
+			</td>
+			<td style="text-align:left;padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+				<pre>28 daemons are running.&nbsp;</pre>
+			</td>
+		</tr>
+	
+		<tr style="color:#444;background:#f9f9f9;">
+			<td style="text-align:left;padding:3px 10px;white-space:nowrap;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 MailBase 信件傳輸服務 (mbtransd) 
+			</td>
+			<td style="padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 正常 
+			</td>
+			<td style="text-align:left;padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+				<pre>2 daemons are running.&nbsp;</pre>
+			</td>
+		</tr>
+	
+		<tr style="color:#444;background:#f9f9f9;">
+			<td style="text-align:left;padding:3px 10px;white-space:nowrap;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 SMTP 收信服務 (smtpd) 
+			</td>
+			<td style="padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 正常 
+			</td>
+			<td style="text-align:left;padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+				<pre>11 daemons are running.&nbsp;</pre>
+			</td>
+		</tr>
+	
+		<tr style="color:#444;background:#f9f9f9;">
+			<td style="text-align:left;padding:3px 10px;white-space:nowrap;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 MailBase 暫存信箱服務 (POP3d) 
+			</td>
+			<td style="padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 正常 
+			</td>
+			<td style="text-align:left;padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+				<pre>1 daemons are running.&nbsp;</pre>
+			</td>
+		</tr>
+	
+		<tr style="color:#444;background:#f9f9f9;">
+			<td style="text-align:left;padding:3px 10px;white-space:nowrap;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 歸檔序列認證狀態&nbsp; Local 
+			</td>
+			<td style="padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 正常 
+			</td>
+			<td style="text-align:left;padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+				<pre>No archive queue in local conf.&nbsp;</pre>
+			</td>
+		</tr>
+	
+		<tr style="color:#444;background:#f9f9f9;">
+			<td style="text-align:left;padding:3px 10px;white-space:nowrap;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 歸檔序列認證狀態&nbsp; Cluster 
+			</td>
+			<td style="padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 正常 
+			</td>
+			<td style="text-align:left;padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+				<pre>Cluster does not set any archive queue.&nbsp;</pre>
+			</td>
+		</tr>
+	
+		<tr style="color:#444;background:#f9f9f9;">
+			<td style="text-align:left;padding:3px 10px;white-space:nowrap;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 線上郵件庫狀態 
+			</td>
+			<td style="padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 正常 
+			</td>
+			<td style="text-align:left;padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+				<pre>Size = 0.00 Bytes, Mails = 0&nbsp;</pre>
+			</td>
+		</tr>
+	
+		<tr style="color:#444;background:#f9f9f9;">
+			<td style="text-align:left;padding:3px 10px;white-space:nowrap;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 最近 5 次收信封數 
+			</td>
+			<td style="padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 正常 
+			</td>
+			<td style="text-align:left;padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+				<pre>No mail fetch count exists.&nbsp;</pre>
+			</td>
+		</tr>
+	
+		<tr style="color:#444;background:#f9f9f9;">
+			<td style="text-align:left;padding:3px 10px;white-space:nowrap;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 線上郵件庫最後備信時間 
+			</td>
+			<td style="padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 <span style="color:#ff0000;font-weight:bold;">危急</span> 
+			</td>
+			<td style="text-align:left;padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+				<pre>No mail in active db (db's time: 2020/10/27 14:00:47)&nbsp;</pre>
+			</td>
+		</tr>
+	
+		<tr style="color:#444;background:#f9f9f9;">
+			<td style="text-align:left;padding:3px 10px;white-space:nowrap;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 已使用空間: /webmail 
+			</td>
+			<td style="padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 正常 
+			</td>
+			<td style="text-align:left;padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+				<pre>2% (Available Space: 455G)&nbsp;</pre>
+			</td>
+		</tr>
+	
+		<tr style="color:#444;background:#f9f9f9;">
+			<td style="text-align:left;padding:3px 10px;white-space:nowrap;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 已使用空間: /webmail/mbase/depot/in 
+			</td>
+			<td style="padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 正常 
+			</td>
+			<td style="text-align:left;padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+				<pre>2% (Available Space: 455G)&nbsp;</pre>
+			</td>
+		</tr>
+	
+		<tr style="color:#444;background:#f9f9f9;">
+			<td style="text-align:left;padding:3px 10px;white-space:nowrap;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 已使用空間: /webmail/mbase/depot/ex 
+			</td>
+			<td style="padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 正常 
+			</td>
+			<td style="text-align:left;padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+				<pre>2% (Available Space: 455G)&nbsp;</pre>
+			</td>
+		</tr>
+	
+		<tr style="color:#444;background:#f9f9f9;">
+			<td style="text-align:left;padding:3px 10px;white-space:nowrap;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 被前置過濾之郵件封數 <br> (/webmail/mbase/var/mqueue/preflt) 
+			</td>
+			<td style="padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 正常 
+			</td>
+			<td style="text-align:left;padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+				<pre>0&nbsp;</pre>
+			</td>
+		</tr>
+	
+		<tr style="color:#444;background:#f9f9f9;">
+			<td style="text-align:left;padding:3px 10px;white-space:nowrap;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 非備份網域之郵件封數 <br> (/webmail/mbase/var/mqueue/drop) 
+			</td>
+			<td style="padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 正常 
+			</td>
+			<td style="text-align:left;padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+				<pre>0&nbsp;</pre>
+			</td>
+		</tr>
+	
+		<tr style="color:#444;background:#f9f9f9;">
+			<td style="text-align:left;padding:3px 10px;white-space:nowrap;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 目前準備索引郵件封數 <br> (/webmail/mbase/var/spool) 
+			</td>
+			<td style="padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 正常 
+			</td>
+			<td style="text-align:left;padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+				<pre>0&nbsp;</pre>
+			</td>
+		</tr>
+	
+		<tr style="color:#444;background:#f9f9f9;">
+			<td style="text-align:left;padding:3px 10px;white-space:nowrap;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 線上郵件庫之損壞郵件封數 <br> (/webmail/mbase/var/buggy) 
+			</td>
+			<td style="padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 正常 
+			</td>
+			<td style="text-align:left;padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+				<pre>0&nbsp;</pre>
+			</td>
+		</tr>
+	
+		<tr style="color:#444;background:#f9f9f9;">
+			<td style="text-align:left;padding:3px 10px;white-space:nowrap;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 線上郵件庫最後備份狀態 
+			</td>
+			<td style="padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 正常 
+			</td>
+			<td style="text-align:left;padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+				<pre>There was no record&nbsp;</pre>
+			</td>
+		</tr>
+	
+		<tr style="color:#444;background:#f9f9f9;">
+			<td style="text-align:left;padding:3px 10px;white-space:nowrap;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 歸檔序列取得訊息最後時間&nbsp; Local 
+			</td>
+			<td style="padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 正常 
+			</td>
+			<td style="text-align:left;padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+				<pre>No archive queue in local conf.&nbsp;</pre>
+			</td>
+		</tr>
+	
+		<tr style="color:#444;background:#f9f9f9;">
+			<td style="text-align:left;padding:3px 10px;white-space:nowrap;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 歸檔序列取得訊息最後時間&nbsp; Cluster 
+			</td>
+			<td style="padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+			 正常 
+			</td>
+			<td style="text-align:left;padding:3px 10px;border-top:1px solid #ffffff;border-bottom:1px solid #dcdcdc;">
+				<pre>Cluster does not set any archive queue.&nbsp;</pre>
+			</td>
+		</tr>
+	
+	</tbody>
+</table>
+
+</td></tr>
+</table>
+
+<div style="text-align:center;background:#b0b0b0;color:white;font-size:9px;padding:5px;">
+
+	&copy; Openfind
+
+</div>
+
+</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+-----pJ2eJX5=?PjABIrfr)WMfazBhKv--
+
+-----nG++LMWbh371b?Y7.eO+4gKLioK
+Content-Type: image/gif;
+	name="mail_banner_01.png"
+Content-Disposition: inline;
+	filename="mail_banner_01.png"
+Content-ID: <MAILBASE_BANNER.GIF>
+Content-Transfer-Encoding: base64
+
+iVBORw0KGgoAAAANSUhEUgAAAVkAAAA6CAYAAAAa5SqbAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQ1IDc5LjE2MzQ5OSwgMjAxOC8wOC8xMy0xNjo0MDoyMiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NjRFNTM3N0U0NzJGMTFFQUJDMDk4QTY5OEI5MzlDNkQiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NjRFNTM3N0Q0NzJGMTFFQUJDMDk4QTY5OEI5MzlDNkQiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpCMENBRkJGOTNGMzkxMUVBQTkxQUY2MTdCQzJEMkQ5QiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpCMENBRkJGQTNGMzkxMUVBQTkxQUY2MTdCQzJEMkQ5QiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Prvhnk0AABHxSURBVHj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
+
+-----nG++LMWbh371b?Y7.eO+4gKLioK
+Content-Type: image/gif;
+	name="mail_banner_02.gif"
+Content-Disposition: inline;
+	filename="mail_banner_02.gif"
+Content-ID: <MAILBASE_BANNER_BG.GIF>
+Content-Transfer-Encoding: base64
+
+R0lGODlhAQA7APUAABMpQBgwSB86VyJDZCJIbSNNdyVRgCZUhSVYjSZbjyZdkydckiVelSZdlSde
+lyphmSxjmzFlnjNonjZpoDhroDtuoz9xpkRzp0Z1qUl4rEx7r059sVGAtFSDt1aFuVmHuVyKvF+N
+v2KQwmSSxGeVx2qYym2bzW6eznCg0HSk1Hen13mp2Xys3H+v34Ky4oSz4QAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAABADsAAAYvQEBA
+MCAUDAeEUsFUOJ5Q6AMSkUwoFcsFk9lsOB2PBxQSjUgl0wmVUq1YLddrHgQAOw==
+
+-----nG++LMWbh371b?Y7.eO+4gKLioK--
+
+-----Xcy4j6W1z(/RlljNn+p6d7y4mNq--
+

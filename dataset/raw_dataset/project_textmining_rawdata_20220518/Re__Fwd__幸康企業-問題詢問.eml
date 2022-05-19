@@ -1,0 +1,256 @@
+X-M2KSPAM: NO/-6
+Received: from 3.3.3.3
+	by asp6.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(8565:1:AUTH_RELAY)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Tue, 06 Aug 2013 12:16:33 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+Received: from 10.0.0.40
+	by bak1.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(81301:0:AUTH_RELAY)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Tue, 06 Aug 2013 12:16:25 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+M2KForward: Yes
+Received: By OpenMail Mailer;Tue, 06 Aug 2013 12:16:25 +0800 (CST)
+Received: from 203.69.82.34
+	by m0.mail2000.com.tw with Mail2000 ESMTP Server V3.20M(47928:0:AUTH_NONE)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Tue, 06 Aug 2013 12:16:23 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(8676:0:AUTH_NONE)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Tue, 06 Aug 2013 12:16:23 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 10.0.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(15117:0:AUTH_RELAY)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Tue, 06 Aug 2013 12:16:24 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+Received: By OpenMail Mailer;Tue, 06 Aug 2013 12:16:16 +0800 (CST)
+Received: from 10.0.0.96
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V6.00(97990:0:AUTH_RELAY)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Tue, 06 Aug 2013 12:16:14 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+X-M2KPolicyIP: 10.0.0.96 (#NOT FOUND)
+X-MailGates: (RBL:2,PASS,0.000000e+00)(BATV:2,PASS,sender not empty)(fla
+	g:0,LAN:PASS)(IPF:2,PASS)(bayesian:SCORE-38,0.00,2)(commtouch:PASS,1,str
+	=0001.0A150202.5200788D.0233,ss=1,re=0.000,fgs=0,2)(from_pathip_hash:fpi
+	.FromIPTrust.system,HAM,m2k_adm@mail2000.com.tw,203.69.82.69,0)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 203.69.82.69
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(15117:0:AUTH_NONE)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Tue, 06 Aug 2013 12:16:13 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+Received: from 203.69.82.32
+	by bak1.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(81295:0:AUTH_LOGIN)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Tue, 06 Aug 2013 12:16:00 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+Received: from 210.59.164.109
+	by www2.mail2000.com.tw with Mail2000 ESMTP Server V4.50M(90870:0:AUTH_LOGIN)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Tue, 06 Aug 2013 12:15:58 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+Message-ID: <63EDE335DC5640D08E8724906E79C198@tp.office.openfind.com.tw>
+From: =?big5?B?TWFpbDIwMDAgq8iqQaSkpN8=?= <m2k_adm@mail2000.com.tw>
+To: =?big5?B?rKGkT7lGsWSvuA==?= <holy.tw@gmail.com>
+Cc: "p-marker" <p-marker@openfind.com.tw>
+References: <CA+ZWLk99ygVRvtTFtK68eE1WWGKvEiRh9GsJ_v4m0iUmDazu6Q@mail.gmail.com> <CA+ZWLk949MVRCamQ8v2aLi_ayKJf2ftsgDX5zk-mF6Yy61_iRA@mail.gmail.com>
+In-Reply-To: <CA+ZWLk949MVRCamQ8v2aLi_ayKJf2ftsgDX5zk-mF6Yy61_iRA@mail.gmail.com>
+Subject: =?big5?B?UmU6IEZ3ZDogqa+xZKX4t34tsN3DRLjfsN0=?=
+Date: Tue, 6 Aug 2013 12:10:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0366_01CE929D.FF1351A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 15.4.3555.308
+X-MimeOLE: Produced By Microsoft MimeOLE V15.4.3555.308
+
+這是 MIME 格式的 Multipart 郵件。
+
+------=_NextPart_000_0366_01CE929D.FF1351A0
+Content-Type: text/plain;
+	charset="big5"
+Content-Transfer-Encoding: quoted-printable
+
+=B1z=A6n=A1A
+
+=A9=EA=BAp=C5=FD=B1z=A4[=B5=A5=A4F=A1A
+=A5=D1=A9=F3=B1z=A9=D2=B4=A3=A8=D1=AA=BA=B8=EA=B0T=A9|=B5L=AAk=A7P=C2_=B3=
+y=A6=A8=B0=DD=C3D=AA=BA=AD=EC=A6]=A1A
+=A6P=AE=C9=A5=D8=ABe=A4]=B5L=AAk=BC=D2=C0=C0=A8=C3=AD=AB=BBs=A5X=B1z=AA=BA=
+=B0=DD=C3D=A1A
+=A6]=A6=B9=A7=DA=AD=CC=A4w=A6w=B1=C6=A4U=A4=C8=A5=D1=A4u=B5{=A4H=AD=FB=BB=
+P=B1z=C1p=C3=B4=A1A
+=A5H=ABK=AF=E0=A7=F3=BA=EB=B7=C7=A6a=BDT=BB{=B0=DD=C3D=AD=EC=A6]=A1C
+
+
+=ADY=B1z=B9=EF=A5H=A4W=A6^=C2=D0=A4=BA=AEe=A6=B3=A5=F4=A6=F3=BA=C3=B0=DD=A1=
+A
+=A4]=BD=D0=B1z=A6A=A4=CF=ACM=B5=B9=A7=DA=AD=CC=A1A=C1=C2=C1=C2=B1z=A1C
+
+Mail2000 =AB=C8=AAA=A4=A4=A4=DF =B7q=A4W
+
+------------------------------------------------------
+=AB=C8=AAA=B1M=BDu=A1G02-25537272
+=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw=20
+Mail2000=B9q=A4l=ABH=BDc http://mail2000.com.tw/=20
+=BA=F4=C0=BA=A5=F8=B7~=B6l=A5=F3=A5N=BA=DE http://www.mailasp.com.tw=20
+=BA=F4=C0=BA Openfind =A5=F8=B7~=BA=F4=AF=B8 =
+http://www.openfind.com/taiwan=20
+------------------------------------------------------
+
+
+From: =AC=A1=A4O=B9F=B1d=AF=B8=20
+Sent: Tuesday, August 06, 2013 11:59 AM
+To: p-marker@openfind.com.tw=20
+Subject: Fwd: =A9=AF=B1d=A5=F8=B7~-=B0=DD=C3D=B8=DF=B0=DD
+
+=B1z=A6n=A1G
+
+=BD=D0=B0=DD=A4u=B5{=AEv=ACO=A7_=A6=B3=A6^=C2=D0=B0=DD=C3D=A4F=A9O=A1H
+=C1=C2=C1=C2=A1I
+
+=A9=AF=B1d=A5=F8=B7~   =B1i=A4p=A9j
+
+
+
+
+---------- =C2=E0=B1H=AA=BA=B6l=A5=F3 ----------
+=B1H=A5=F3=AA=CC=A1G =AC=A1=A4O=B9F=B1d=AF=B8 <holy.tw@gmail.com>
+=A4=E9=B4=C1=A1G 2013=A6~8=A4=EB5=A4=E9=A4U=A4=C83:22
+=A5D=A6=AE=A1G =A9=AF=B1d=A5=F8=B7~-=B0=DD=C3D=B8=DF=B0=DD
+=A6=AC=A5=F3=AA=CC=A1G p-marker@openfind.com.tw
+
+
+=B1z=A6n=A1G=20
+
+=A4U=B8=FC P-Marker =A5=CE=A4=E1=BA=DD=BDL=C2I=B3n=C5=E9=A1A
+=B8=D1=C0=A3=C1Y=AB=E1=B6}=B1=D2P-Marker.exe=A1A
+=A6=FD=B7|=C5=E3=A5=DC=A6p=AA=FE=C0=C9=A4=A7=B5=F8=B5=A1=A1A
+=BD=D0=B0=DD=ACO=A4=B0=BB=F2=AD=EC=A6]=A9O=A1H
+=B7=D0=BD=D0=A6^=C2=D0=A1A=C1=C2=C1=C2=A1I
+
+=A9=AF=B1d=A5=F8=B7~   =B1i=A4p=A9j
+
+
+--=20
+=A9=AF=B1d=A5=F8=B7~=A6=B3=AD=AD=A4=BD=A5q  =AB=C8=A4=E1=AAA=B0=C8
+=AC=A1=A4O=B9F=B1d=AF=B8  http://www.holy.com.tw
+=AB=C8=AAA=B9q=B8=DC04-2242-2088 / 0800-668-088=20
+
+
+
+
+--=20
+=A9=AF=B1d=A5=F8=B7~=A6=B3=AD=AD=A4=BD=A5q  =AB=C8=A4=E1=AAA=B0=C8
+=AC=A1=A4O=B9F=B1d=AF=B8  http://www.holy.com.tw
+=AB=C8=AAA=B9q=B8=DC04-2242-2088 / 0800-668-088 
+------=_NextPart_000_0366_01CE929D.FF1351A0
+Content-Type: text/html;
+	charset="big5"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-FAMILY: '=B7L=B3n=A5=BF=B6=C2=C5=E9'; COLOR: #080000; =
+FONT-SIZE: 12pt">
+<DIV>=B1z=A6n=A1A</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=A9=EA=BAp=C5=FD=B1z=A4[=B5=A5=A4F=A1A</DIV>
+<DIV>=A5=D1=A9=F3=B1z=A9=D2=B4=A3=A8=D1=AA=BA=B8=EA=B0T=A9|=B5L=AAk=A7P=C2=
+_=B3y=A6=A8=B0=DD=C3D=AA=BA=AD=EC=A6]=A1A</DIV>
+<DIV>=A6P=AE=C9=A5=D8=ABe=A4]=B5L=AAk=BC=D2=C0=C0=A8=C3=AD=AB=BBs=A5X=B1z=
+=AA=BA=B0=DD=C3D=A1A</DIV>
+<DIV>=A6]=A6=B9=A7=DA=AD=CC=A4w=A6w=B1=C6=A4U=A4=C8=A5=D1=A4u=B5{=A4H=AD=FB=
+=BBP=B1z=C1p=C3=B4=A1A</DIV>
+<DIV>=A5H=ABK=AF=E0=A7=F3=BA=EB=B7=C7=A6a=BDT=BB{=B0=DD=C3D=AD=EC=A6]=A1C=
+</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV=20
+style=3D"FONT-FAMILY: '=B7L=B3n=A5=BF=B6=C2=C5=E9'; COLOR: #080000; =
+FONT-SIZE: =
+12pt">=ADY=B1z=B9=EF=A5H=A4W=A6^=C2=D0=A4=BA=AEe=A6=B3=A5=F4=A6=F3=BA=C3=B0=
+=DD=A1A<BR>=A4]=BD=D0=B1z=A6A=A4=CF=ACM=B5=B9=A7=DA=AD=CC=A1A=C1=C2=C1=C2=
+=B1z=A1C<BR><BR>Mail2000=20
+=AB=C8=AAA=A4=A4=A4=DF=20
+=B7q=A4W<BR><BR>------------------------------------------------------<BR=
+>=AB=C8=AAA=B1M=BDu=A1G02-25537272<BR>=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2=
+000.com.tw=20
+<BR>Mail2000=B9q=A4l=ABH=BDc http://mail2000.com.tw/ =
+<BR>=BA=F4=C0=BA=A5=F8=B7~=B6l=A5=F3=A5N=BA=DE http://www.mailasp.com.tw =
+
+<BR>=BA=F4=C0=BA Openfind =A5=F8=B7~=BA=F4=AF=B8 =
+http://www.openfind.com/taiwan=20
+<BR>------------------------------------------------------<BR></DIV>
+<DIV=20
+style=3D"FONT-STYLE: normal; DISPLAY: inline; FONT-FAMILY: 'Calibri'; =
+COLOR: #000000; FONT-SIZE: small; FONT-WEIGHT: normal; TEXT-DECORATION: =
+none">
+<DIV style=3D"FONT: 10pt tahoma">
+<DIV>&nbsp;</DIV>
+<DIV style=3D"BACKGROUND: #f5f5f5">
+<DIV style=3D"font-color: black"><B>From:</B> <A =
+title=3Dholy.tw@gmail.com=20
+href=3D"mailto:holy.tw@gmail.com">=AC=A1=A4O=B9F=B1d=AF=B8</A> </DIV>
+<DIV><B>Sent:</B> Tuesday, August 06, 2013 11:59 AM</DIV>
+<DIV><B>To:</B> <A title=3Dp-marker@openfind.com.tw=20
+href=3D"mailto:p-marker@openfind.com.tw">p-marker@openfind.com.tw</A> =
+</DIV>
+<DIV><B>Subject:</B> Fwd: =
+=A9=AF=B1d=A5=F8=B7~-=B0=DD=C3D=B8=DF=B0=DD</DIV></DIV></DIV>
+<DIV>&nbsp;</DIV></DIV>
+<DIV=20
+style=3D"FONT-STYLE: normal; DISPLAY: inline; FONT-FAMILY: 'Calibri'; =
+COLOR: #000000; FONT-SIZE: small; FONT-WEIGHT: normal; TEXT-DECORATION: =
+none">
+<DIV>=B1z=A6n=A1G</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=BD=D0=B0=DD=A4u=B5{=AEv=ACO=A7_=A6=B3=A6^=C2=D0=B0=DD=C3D=A4F=A9O=A1=
+H</DIV>
+<DIV>=C1=C2=C1=C2=A1I</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=A9=AF=B1d=A5=F8=B7~&nbsp;&nbsp; =B1i=A4p=A9j</DIV>
+<DIV>&nbsp;</DIV><BR><BR>
+<DIV class=3Dgmail_quote>---------- =C2=E0=B1H=AA=BA=B6l=A5=F3 =
+----------<BR>=B1H=A5=F3=AA=CC=A1G <B=20
+class=3Dgmail_sendername>=AC=A1=A4O=B9F=B1d=AF=B8</B> <SPAN =
+dir=3Dltr>&lt;<A=20
+href=3D"mailto:holy.tw@gmail.com">holy.tw@gmail.com</A>&gt;</SPAN><BR>=A4=
+=E9=B4=C1=A1G=20
+2013=A6~8=A4=EB5=A4=E9=A4U=A4=C83:22<BR>=A5D=A6=AE=A1G =
+=A9=AF=B1d=A5=F8=B7~-=B0=DD=C3D=B8=DF=B0=DD<BR>=A6=AC=A5=F3=AA=CC=A1G <A =
+
+href=3D"mailto:p-marker@openfind.com.tw">p-marker@openfind.com.tw</A><BR>=
+<BR><BR>=B1z=A6n=A1G=20
+
+<DIV>&nbsp;</DIV>
+<DIV>=A4U=B8=FC P-Marker =A5=CE=A4=E1=BA=DD=BDL=C2I=B3n=C5=E9=A1A</DIV>
+<DIV>=B8=D1=C0=A3=C1Y=AB=E1=B6}=B1=D2<B>P-Marker.exe</B>=A1A</DIV>
+<DIV>=A6=FD=B7|=C5=E3=A5=DC=A6p=AA=FE=C0=C9=A4=A7=B5=F8=B5=A1=A1A</DIV>
+<DIV>=BD=D0=B0=DD=ACO=A4=B0=BB=F2=AD=EC=A6]=A9O=A1H</DIV>
+<DIV>=B7=D0=BD=D0=A6^=C2=D0=A1A=C1=C2=C1=C2=A1I</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=A9=AF=B1d=A5=F8=B7~&nbsp;&nbsp; =B1i=A4p=A9j</DIV><SPAN =
+class=3DHOEnZb><FONT color=3D#888888>
+<DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>-- <BR>=A9=AF=B1d=A5=F8=B7~=A6=B3=AD=AD=A4=BD=A5q&nbsp; =
+=AB=C8=A4=E1=AAA=B0=C8<BR>=AC=A1=A4O=B9F=B1d=AF=B8&nbsp; <A=20
+href=3D"http://www.holy.com.tw"=20
+target=3D_blank>http://www.holy.com.tw</A><BR>=AB=C8=AAA=B9q=B8=DC04-2242=
+-2088 / 0800-668-088=20
+</DIV></FONT></SPAN></DIV><BR><BR clear=3Dall>
+<DIV>&nbsp;</DIV>-- <BR>=A9=AF=B1d=A5=F8=B7~=A6=B3=AD=AD=A4=BD=A5q&nbsp; =
+=AB=C8=A4=E1=AAA=B0=C8<BR>=AC=A1=A4O=B9F=B1d=AF=B8&nbsp; <A=20
+href=3D"http://www.holy.com.tw">http://www.holy.com.tw</A><BR>=AB=C8=AAA=B9=
+q=B8=DC04-2242-2088 /=20
+0800-668-088 </DIV></DIV></DIV></BODY></HTML>
+
+------=_NextPart_000_0366_01CE929D.FF1351A0--
+

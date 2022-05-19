@@ -1,0 +1,134 @@
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 220.130.127.163
+	by ms3.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(31930:0:AUTH_NONE)
+	(envelope-from <losec77@yahoo.com.tw>); Tue, 01 Nov 2016 11:37:20 +0800 (CST)
+Return-Path: <losec77@yahoo.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(5103:0:AUTH_RELAY)
+	(envelope-from <losec77@yahoo.com.tw>); Tue, 01 Nov 2016 11:37:15 +0800 (CST)
+Return-Path: <losec77@yahoo.com.tw>
+Received: By OpenMail Mailer;Tue, 01 Nov 2016 11:37:15 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(14379:0:AUTH_NONE)
+	(envelope-from <losec77@yahoo.com.tw>); Tue, 01 Nov 2016 11:37:14 +0800 (CST)
+Return-Path: <losec77@yahoo.com.tw>
+X-M2KSPAM: NO/0
+Received: from 220.130.127.159
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(88632:0:AUTH_NONE)
+	(envelope-from <losec77@yahoo.com.tw>); Tue, 01 Nov 2016 11:37:13 +0800 (CST)
+Return-Path: <losec77@yahoo.com.tw>
+X-M2KPolicyIP: 220.130.127.159 (p3.mail2000.com.tw)
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.14
+	by p2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(2278:0:AUTH_RELAY)
+	(envelope-from <losec77@yahoo.com.tw>); Tue, 01 Nov 2016 11:37:13 +0800 (CST)
+Return-Path: <losec77@yahoo.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: By OpenMail Mailer;Tue, 01 Nov 2016 11:37:12 +0800 (CST)
+Received: from 203.188.201.109
+	by ms2.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(22007:0:AUTH_NONE)
+	(envelope-from <losec77@yahoo.com.tw>); Tue, 01 Nov 2016 11:37:10 +0800 (CST)
+Return-Path: <losec77@yahoo.com.tw>
+X-M2KSPAM: NO/0
+Received: from 203.188.201.109
+	by asp6.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(39619:0:AUTH_NONE)
+	(envelope-from <losec77@yahoo.com.tw>); Tue, 01 Nov 2016 11:37:00 +0800 (CST)
+Return-Path: <losec77@yahoo.com.tw>
+X-M2KPolicyIP: 203.188.201.109 (nm9-vm15.bullet.mail.tp2.yahoo.com)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com.tw; s=s2048; t=1477971419; bh=ObJvxRZzIbEJOnjpt79AiNPxGO/FhPAff2xFV/R5FkQ=; h=Date:From:Reply-To:To:Subject:References:From:Subject; b=WD+TjnlwtAjjo6gqCNsmV/DsWrtGOdHRwy6dGMn6O3GSCiSv/PI+jH4mZtxqV/KoJ/FxN49XnHjjWNA5Y9oM1VKsB2jfS4DunfXUm1OY4fLD2uXRsZDuahZJfcpSfxSBd0lCxLh2tee0zLvBChmQd/g6InO+3xMnw6RZ0ngx6KRtaIEMLY6nBUZWN0aCOeR4aGdyI9xUMJK1JjB8N6YGmpqsj13SOZP38t7Qow9yvy5Ab8NRtvhVYUnEhfYKneGDAaDPnCYcOYHH91d18KJA42SNETgvDcvo4jnp6Wg4SorotAqK7ZuziwnXuRe3HWQUEXIFthnU9jhXrrqxDMdY+Q==
+Received: from [203.188.200.222] by nm9.bullet.mail.tp2.yahoo.com with NNFMP; 01 Nov 2016 03:36:59 -0000
+Received: from [27.123.206.60] by tm9.bullet.mail.tp2.yahoo.com with NNFMP; 01 Nov 2016 03:36:59 -0000
+Received: from [127.0.0.1] by omp1005.mail.tw1.yahoo.com with NNFMP; 01 Nov 2016 03:36:59 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 555711.85609.bm@omp1005.mail.tw1.yahoo.com
+X-YMail-OSG: Op8Wv7YVM1n72PJMDdRJ0.eDeyeUpWeSWwPA4o4qOu8rd_iDL.Qk54laJu2p9NU
+ KFoPSb6.FlOXBJWjtfVA3jJoriK8T4t3cLFDs7YvFjuNouUZ07KGIMwZfzPp_z7dOeKublxAHNTE
+ D9rS6zgRcgCHHX1zMjcCV47n5rRvOn9Z3Fix071MCgk3WbnZNxRXG7v3RBp4SaV8vz1pOrI8JCww
+ wtw4c0k7sOvnj41Q0lO5jihgV8tdWOzNX47jAJD66T7pKaxPk4RlFuFeLhQCZpNFHVxP_Un1O_zQ
+ GXIOaEqa81dqm1.nLQS31JgEYxXEIMoRSAXcR5MizJJ.2qAKfg0DWvFRpGER9w7K0.UoMx_UgM3c
+ p8elYWg_kNOAiWywIrtx6uLZrq51y0Gbg6OaLiboDG9HCa9pQtYibCdhh5GY7QPfd.Oyx1hGLSlX
+ LjdoV9FNJM_k5Voy1vH5OBO5d.IPr1EpL_56cvr2BkYGn.WEeEo6b.FLKC8yuYfCtYtTlvxGmfjM
+ dO1mdaGBofRwgHeKvcCS0tftT
+Received: from jws500002.mail.tw1.yahoo.com by sendmailws105.mail.tw1.yahoo.com; Tue, 01 Nov 2016 03:36:59 +0000; 1477971419.193
+Date: Tue, 1 Nov 2016 03:36:58 +0000 (UTC)
+From: losec77 losec <losec77@yahoo.com.tw>
+Reply-To: losec77 losec <losec77@yahoo.com.tw>
+To: "service@keepeverything.com" <service@keepeverything.com>
+Message-ID: <1994414917.278533.1477971418934@mail.yahoo.com>
+Subject: =?UTF-8?Q?Keep_Everything_=E5=95=8F=E9=A1=8C=E8=AB=8B=E6=95=99.?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_278532_89253249.1477971418933"
+References: <1994414917.278533.1477971418934.ref@mail.yahoo.com>
+Content-Length: 4478
+
+------=_Part_278532_89253249.1477971418933
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+RGVhciBTaXIsCsKgIMKgwqDCoCDCoCDCoCDCoCDCoOS9oOWlvSwg5oiR5pivIktlZXAgRXZlcnl0
+aGluZyAi55qE5L2/55So6ICFLsKgIMKgIMKgIMKgIMKg5L6d6LK05Y+45YWs5ZGKLCBLZWVwIEV2
+ZXJ5dGhpbmcg5bCH5pa8IDIwMTYvMTIvMzEg57WC5q2i5YWN6LK75pyN5YuZwqAgwqAgwqAgwqAg
+wqDCoCDCoCDCoCDCoCDCoOWcqOWFrOWRiuWFp+aWh+acieaPkOWPiiwg6Iul5pivIE1haWwyMDAw
+IOS7mOiyu+S/oeeuseacg+WToe+8jOWPr+S7peWIqeeUqCBNYWlsMjAwMCDnmoQgU2VjdXJlU2hh
+cmUg5L6G5YKZ5Lu95oKo55qE6YeN6KaB5qqU5qGI77yBwqAgwqAgwqAgwqAgwqDmiJHmnInkuIrn
+trLljrvkuobop6MsIE1haWwyMDAwIOeahCBTZWN1cmVTaGFyZSDkvLzkuY7mmK/lrprkvY3lnKgg
+Zm9yIOS8gealreWcqOeUqCwg6ICM6Z2e5YCL5Lq655So5oi2LgoKwqAgwqAgwqAgwqAgwqDmmK/l
+kKblj6/ku6XntabkuojkuIDkupvluILpnaLkuIrmmK/lkKbmnInpoZ7kvLxLZWVwIEV2ZXJ5dGhp
+bmfnmoTlip/og70sIOaOqOiWpj8/CuS7peS4iiwg5pWs6KuL5ZGK55+lLMKgCuisneisnQpsb3Nl
+Yzc3
+------=_Part_278532_89253249.1477971418933
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body><div style=3D"color:#000; background-color:#fff; f=
+ont-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, =
+sans-serif;font-size:16px"><div id=3D"yiv9448101124"><div id=3D"yui_3_16_0_=
+ym19_1_1477970514226_2564"><div style=3D"color:#000;background-color:#fff;f=
+ont-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, =
+sans-serif;font-size:16px;" id=3D"yui_3_16_0_ym19_1_1477970514226_2563"><di=
+v id=3D"yiv9448101124yui_3_16_0_ym19_1_1477969151666_3377">Dear Sir,</div><=
+div id=3D"yiv9448101124yui_3_16_0_ym19_1_1477969151666_3377"><br></div><div=
+ id=3D"yiv9448101124yui_3_16_0_ym19_1_1477969151666_3377">&nbsp; &nbsp;&nbs=
+p;</div><div id=3D"yiv9448101124yui_3_16_0_ym19_1_1477969151666_3377" dir=
+=3D"ltr">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=E4=BD=A0=E5=A5=BD, =E6=88=91=E6=
+=98=AF"Keep Everything "=E7=9A=84=E4=BD=BF=E7=94=A8=E8=80=85.</div><div id=
+=3D"yiv9448101124yui_3_16_0_ym19_1_1477969151666_3377" dir=3D"ltr">&nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp;=E4=BE=9D=E8=B2=B4=E5=8F=B8=E5=85=AC=E5=91=8A, Ke=
+ep Everything =E5=B0=87=E6=96=BC                 <font color=3D"#ff0000" id=
+=3D"yui_3_16_0_ym19_1_1477970514226_2778"><strong id=3D"yui_3_16_0_ym19_1_1=
+477970514226_2779">2016/12/31 =E7=B5=82=E6=AD=A2=E5=85=8D=E8=B2=BB=E6=9C=8D=
+=E5=8B=99</strong></font></div><div id=3D"yiv9448101124yui_3_16_0_ym19_1_14=
+77969151666_3377" dir=3D"ltr">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div><div =
+id=3D"yiv9448101124yui_3_16_0_ym19_1_1477969151666_3377" dir=3D"ltr">&nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp;=E5=9C=A8=E5=85=AC=E5=91=8A=E5=85=A7=E6=96=87=
+=E6=9C=89=E6=8F=90=E5=8F=8A, =E8=8B=A5=E6=98=AF Mail2000 =E4=BB=98=E8=B2=BB=
+=E4=BF=A1=E7=AE=B1=E6=9C=83=E5=93=A1=EF=BC=8C=E5=8F=AF=E4=BB=A5=E5=88=A9=E7=
+=94=A8 Mail2000 =E7=9A=84 SecureShare =E4=BE=86=E5=82=99=E4=BB=BD=E6=82=A8=
+=E7=9A=84=E9=87=8D=E8=A6=81=E6=AA=94=E6=A1=88=EF=BC=81</div><div id=3D"yiv9=
+448101124yui_3_16_0_ym19_1_1477969151666_3377" dir=3D"ltr">&nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp;=E6=88=91=E6=9C=89=E4=B8=8A=E7=B6=B2=E5=8E=BB=E4=BA=86=E8=
+=A7=A3, Mail2000 =E7=9A=84 SecureShare =E4=BC=BC=E4=B9=8E=E6=98=AF=E5=AE=9A=
+=E4=BD=8D=E5=9C=A8 for =E4=BC=81=E6=A5=AD=E5=9C=A8=E7=94=A8, =E8=80=8C=E9=
+=9D=9E=E5=80=8B=E4=BA=BA=E7=94=A8=E6=88=B6.</div><div id=3D"yiv9448101124yu=
+i_3_16_0_ym19_1_1477969151666_3377" dir=3D"ltr"><br></div><div id=3D"yiv944=
+8101124yui_3_16_0_ym19_1_1477969151666_3377" dir=3D"ltr"><br></div><div id=
+=3D"yiv9448101124yui_3_16_0_ym19_1_1477969151666_3377" dir=3D"ltr">&nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp;=E6=98=AF=E5=90=A6=E5=8F=AF=E4=BB=A5=E7=B5=A6=E4=
+=BA=88=E4=B8=80=E4=BA=9B=E5=B8=82=E9=9D=A2=E4=B8=8A=E6=98=AF=E5=90=A6=E6=9C=
+=89=E9=A1=9E=E4=BC=BCKeep Everything=E7=9A=84=E5=8A=9F=E8=83=BD, =E6=8E=A8=
+=E8=96=A6??</div><div id=3D"yiv9448101124yui_3_16_0_ym19_1_1477969151666_33=
+77" dir=3D"ltr"><br></div><div id=3D"yiv9448101124yui_3_16_0_ym19_1_1477969=
+151666_3377" dir=3D"ltr">=E4=BB=A5=E4=B8=8A, =E6=95=AC=E8=AB=8B=E5=91=8A=E7=
+=9F=A5,&nbsp;</div><div id=3D"yiv9448101124yui_3_16_0_ym19_1_1477969151666_=
+3377" dir=3D"ltr"><br></div><div id=3D"yiv9448101124yui_3_16_0_ym19_1_14779=
+69151666_3377" dir=3D"ltr">=E8=AC=9D=E8=AC=9D</div><div id=3D"yiv9448101124=
+yui_3_16_0_ym19_1_1477969151666_3377" dir=3D"ltr"><br></div><div id=3D"yiv9=
+448101124yui_3_16_0_ym19_1_1477969151666_3377" dir=3D"ltr">losec77</div></d=
+iv></div></div></div></body></html>
+------=_Part_278532_89253249.1477971418933--

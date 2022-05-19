@@ -1,0 +1,195 @@
+X-M2K-MATCHED-RULE: SPAM_FILTER-InADB
+X-M2K-MATCHED-RESULT: Mail Header From In ADB/edu@openfind.com.tw
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 3.3.3.3
+	by ms1.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(8166:1:AUTH_NONE)
+	(envelope-from <prvs=18255696E3=edu@openfind.com.tw>); Tue, 16 Oct 2018 15:16:40 +0800 (CST)
+Return-Path: <prvs=18255696E3=edu@openfind.com.tw>
+X-M2K-MSG-ID: O24BSDMKGIQE6PUN
+X-M2K-DINF: v=1;em=2;eh=1c343546/0IGOso;ec=6b042d3c;m=x/skrTCNmGTULODYVyBXHSH5
+   LZqSzaBissiKk7SrDT4M1tO8EnvfZAiOx5XdbeKA4cSdsCXWb2YNqiZdjgnhXGV5em/nQfL+WFm4
+   dm7WvtKbcS5YWE/RTMoYBMbp1QASvs+x0Vtmn252cMYBp5KBrTS8R8QUa/L03EeTBxEsErNXSarY
+   ahilOpYuD0bgaUCpXJV4m25Qd3JvCobQ4inPSgzQi1MQUE7+eSgBYh5/E5k=
+X-MailGates: (RBL:2,PASS,0.000000e+00)(SPF:2,PASS,permerror)(BATV:2,PASS
+	,sender not empty)(DKIM:2,PASS,Success(0))(DMARC:2,PASS,Policy Success(1
+	5))(flag:0,RELAY,LAN:PASS)(IPF:2,PASS)(FROMBW:0,HAM,*@openfind.com.tw)(F
+	ROMBW:2,PASS)(FROMBW:2,PASS)(FROMBW:2,PASS)(FROMBW:2,PASS)(FROMBW:2,PASS
+	)(ipmatch:pattern.iptrust.system,,HAM,3.3.3.3,0)
+Received: from 220.130.127.157
+	by mxs.mailcloud.com.tw with MailAudit ESMTP Server V5.0(14528:0:AUTH_NONE)
+	(envelope-from <prvs=18255696E3=edu@openfind.com.tw>); Tue, 16 Oct 2018 15:16:38 +0800 (CST)
+Return-Path: <prvs=18255696E3=edu@openfind.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(5746:0:AUTH_RELAY)
+	(envelope-from <prvs=18255696E3=edu@openfind.com.tw>); Tue, 16 Oct 2018 15:16:27 +0800 (CST)
+Return-Path: <prvs=18255696E3=edu@openfind.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: By OpenMail Mailer;Tue, 16 Oct 2018 15:16:19 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(11015:0:AUTH_NONE)
+	(envelope-from <prvs=18255696E3=edu@openfind.com.tw>); Tue, 16 Oct 2018 15:16:10 +0800 (CST)
+Return-Path: <prvs=18255696E3=edu@openfind.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 203.69.82.9
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(37536:0:AUTH_NONE)
+	(envelope-from <prvs=18255696E3=edu@openfind.com.tw>); Tue, 16 Oct 2018 15:16:07 +0800 (CST)
+Return-Path: <prvs=18255696E3=edu@openfind.com.tw>
+X-M2KPolicyIP: 203.69.82.9 (mta.mailcloud.com.tw)
+X-M2K-DINF: v=1;em=2;eh=1c343546/oRwCqb;ec=1bbfeb63;m=VzPShInDk3JCLVpYHAuML8Sj
+   VNNLcBidOKHo8jAoSN0ElIxyZKUGQQwk+/4ZZmoJxysO8TLLha25uEbIm5T137PC5xvMwhB6xo+f
+   HUT7Y8AoYmhcfC4E6zPteoy3KPubgKRoUPgkM10rJQqtdW6rad3pQeGSmcRwILV2xnoPxvVgLgIl
+   TH++CcDQsBdU6nJfj/qsX2x3OlFBnNI7CPPasdzQPyItx61xDG4/gjruyp8=
+X-MailGates: (DK:2,PASS,no signature)(DKIM:2,PASS,Success(0))(flag:3,DYN
+	AMIC,RELAY,NOHOST:PASS)(IPF:0,HAM,3.3.3.3)(FROMBW:2,PASS)(FROMBW:2,PASS)
+	(ipmatch:pattern.iptrust.system,,HAM,3.3.3.3,0)
+Received: from 3.3.3.3
+	by mta.mailcloud.com.tw with MailAudit ESMTP Server V5.0(12127:0:AUTH_NONE)
+	(envelope-from <prvs=18255696E3=edu@openfind.com.tw>); Tue, 16 Oct 2018 15:16:06 +0800 (CST)
+Return-Path: <prvs=18255696E3=edu@openfind.com.tw>
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)(audit_rules:rules.audit_
+	out1311132448.system#,,,aDELIVER,R/m2k_service@mail2000.com.tw,4,ou)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=openfind.com.tw;
+	s=MailGates; t=1539674166;
+	bh=jPwqMI4ZkSuIM1fHx/WsNbOTyC4HvShm6QKB/H/IcQg=; l=4185;
+	h=From:Subject:Message-ID:To:Date:MIME-Version;
+	b=Nx85L8lxVmZotXGtlWG3N1wOy4l0bmKcweRSwWaS+j5TQzmyRIZavV89rnoZLBBm6
+	 EXiOb/flTl9O8X++5feTU0KJr7Fo85AA4NfTb56LSvssQhDstpvbOO590RSJWuCSRL
+	 qiv6W5Sne4nyGW5k2yQKNiTUIYQftJuGYxvTtln0=
+X-MGADT: rules.audit_out1311132448.system#,R/m2k_service@mail2000.com.tw
+Received: from 172.16.0.95
+	by mg2.office.openfind.com.tw with MailGates ESMTP Server V5.0(21823:0:AUTH_RELAY)
+	(envelope-from <edu@openfind.com.tw>); Tue, 16 Oct 2018 15:13:24 +0800 (CST)
+Return-Path: <edu@openfind.com.tw>
+Received: By OpenMail Mailer;Tue, 16 Oct 2018 15:14:08 +0800 (CST)
+Received: By OpenMail Mailer;Tue, 16 Oct 2018 15:14:08 +0800 (CST)
+From: "=?big5?B?sdCofLOhrtW26bazut25caRstmyl8w==?=" <edu@openfind.com.tw>
+Reply-To: "=?big5?B?sdCofLOhrtW26bazut25caRstmyl8w==?=" <edu@openfind.com.tw>
+Subject: =?big5?B?UmU6ILX5pVWw3cNEZnJvbbdzpsu/pML5t8uw6qRw?=
+	=?big5?B?MjAxODEwMTQ=?=
+Message-ID: <1539674047.13959.edu@openfind.com.tw>
+In-Reply-To: <1539656294.2187.hs3893@mail.edu.tw>
+References: <1539656294.2187.hs3893@mail.edu.tw>
+To: "hs3893" <hs3893@mail.edu.tw>
+Cc: "=?big5?B?sdCofLOhrtW26bazut25caRstmyl8w==?=" <edu@openfind.com>
+Date: Tue, 16 Oct 2018 15:14:07 +0800 (CST)
+MIME-Version: 1.0
+Return-Path: edu@openfind.com.tw
+Content-Type: multipart/alternative;
+	boundary="---pYl6KPJheADbG,SMMGd)2h7XuWt"
+
+-----pYl6KPJheADbG,SMMGd)2h7XuWt
+Content-Type: text/plain; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+=AAL=A6=D1=AEv=20=B1z=A6n=A1A
+
+=B8g=A4u=B5{=A4H=AD=FB=ACd=AC=DD=20ssps104021.hcc=20=B5=F9=A5U=AE=C9=A1A
+=A6]=ACy=B5{=A5=BC=A7=B9=BE=E3=B5=B2=A7=F4=A6=D3=A6=B3=B3=A1=A4=C0=B2=A7=B1`=
+=B8=EA=AE=C6=AFd=A6b=A6=F8=AAA=BE=B9=A4=A4=A1A
+=A4u=B5{=A4H=AD=FB=A4w=B1N=B2=A7=B1`=B8=EA=AE=C6=B2M=B0=A3=A1A
+=C1=D9=BD=D0=A5=CE=A4=E1=AD=AB=B7s=B5=F9=A5U=AC=DD=AC=DD=A1A=C1=C2=C1=C2=B1z=
+=A1C
+
+
+=ADY=A5H=A4W=A6^=C2=D0=B5L=AAk=B8=D1=A8M=B1z=B9J=A8=EC=AA=BA=B0=DD=C3D=A1A
+=A9=CE=A6=B3=B1=D0=A8|=B3=A1=AE=D5=B6=E9=B6=B3=BA=DD=B9q=A4l=B6l=A5=F3=AA=BA=
+=AC=DB=C3=F6=BA=C3=B0=DD=A1A
+=C5w=AA=EF=B1z=A6A=A4=CF=C0=B3=B5=B9=A7=DA=AD=CC=A1C
+
+
+=B1=D0=A8|=B3=A1=AE=D5=B6=E9=B6=B3=BA=DD=B9q=A4l=B6l=A5=F3=AB=C8=AAA=A4=A4=A4=
+=DF
+
+----------------------------------------------------------------------------=
+--
+=B1=D0=A8|=B3=A1=AE=D5=B6=E9=B6=B3=BA=DD=B9q=A4l=B6l=A5=F3=20powered=20by=20=
+Openfind=20=BA=F4=C0=BA=B8=EA=B0T
+
+=A8=C8=ACw=A5=AB=B3=F5=B6l=A5=F3=A6w=A5=FE=BB=E2=BE=C9=AB~=B5P=20|=20=BA=F4=C0=
+=BA=B8=EA=B0T=20Openfind
+=BA=F4=C0=BA=20Openfind=20=A5=F8=B7~=BA=F4=AF=B8=20http://www.openfind.com/
+=BA=F4=C0=BA=20MailCloud=20=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8=20http://www.mai=
+lcloud.com.tw/
+----------------------------------------------------------------------------=
+--
+
+
+-----Original=20message-----
+From:hs3893=20<hs3893@mail.edu.tw>
+To:edu=20<edu@openfind.com.tw>
+Date:Tue,=2016=20Oct=202018=2010:18:15
+Subject:=B5=F9=A5U=B0=DD=C3Dfrom=B7s=A6=CB=BF=A4=C2=F9=B7=CB=B0=EA=A4p201810=
+14
+
+
+=B1z=A6n
+=B5n=A4J=B7s=A6=CB=BF=A4OpenID=A8S=B0=DD=C3D=A1A=A6=FD=B5=F9=A5U=B5n=A4J=A6p=
+=AA=FE=A5=F3=B0=DD=C3D
+=B7=D0=C0=B0=A6=A3
+=C1=C2=C1=C2
+
+=B7s=A6=CB=BF=A4=C2=F9=B7=CB=B0=EA=A4p=B8=EA=B0T=A6=D1=AEv=20=AAL=A5=FA=B7u
+
+-----pYl6KPJheADbG,SMMGd)2h7XuWt
+Content-Type: text/html; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE=20html><html><head><meta=20http-equiv=3D"X-UA-Compatible"=20conten=
+t=3D"IE=3Dedge"=20/><style=20data-m2k-style=3D"">html,body{height:100%;}body=
+{box-sizing:border-box;padding:8px;margin:0;}</style></head><body>=AAL=A6=D1=
+=AEv=20=B1z=A6n=A1A<br>
+<br>
+=B8g=A4u=B5{=A4H=AD=FB=ACd=AC=DD=20ssps104021.hcc=20=B5=F9=A5U=AE=C9=A1A<div=
+>=A6]=ACy=B5{=A5=BC=A7=B9=BE=E3=B5=B2=A7=F4=A6=D3=A6=B3=B3=A1=A4=C0=B2=A7=B1=
+`=B8=EA=AE=C6=AFd=A6b=A6=F8=AAA=BE=B9=A4=A4=A1A<div><div>=A4u=B5{=A4H=AD=FB=A4=
+w=B1N=B2=A7=B1`=B8=EA=AE=C6=B2M=B0=A3=A1A</div><div>=C1=D9=BD=D0=A5=CE=A4=E1=
+=AD=AB=B7s=B5=F9=A5U=AC=DD=AC=DD=A1A=C1=C2=C1=C2=B1z=A1C</div>
+<br>
+<br>
+=ADY=A5H=A4W=A6^=C2=D0=B5L=AAk=B8=D1=A8M=B1z=B9J=A8=EC=AA=BA=B0=DD=C3D=A1A<b=
+r>
+=A9=CE=A6=B3=B1=D0=A8|=B3=A1=AE=D5=B6=E9=B6=B3=BA=DD=B9q=A4l=B6l=A5=F3=AA=BA=
+=AC=DB=C3=F6=BA=C3=B0=DD=A1A<br>
+=C5w=AA=EF=B1z=A6A=A4=CF=C0=B3=B5=B9=A7=DA=AD=CC=A1C<br>
+<br>
+<br>
+=B1=D0=A8|=B3=A1=AE=D5=B6=E9=B6=B3=BA=DD=B9q=A4l=B6l=A5=F3=AB=C8=AAA=A4=A4=A4=
+=DF<br>
+<br>
+----------------------------------------------------------------------------=
+--<br>
+=B1=D0=A8|=B3=A1=AE=D5=B6=E9=B6=B3=BA=DD=B9q=A4l=B6l=A5=F3=20powered=20by=20=
+Openfind=20=BA=F4=C0=BA=B8=EA=B0T<br>
+<br>
+=A8=C8=ACw=A5=AB=B3=F5=B6l=A5=F3=A6w=A5=FE=BB=E2=BE=C9=AB~=B5P=20|=20=BA=F4=C0=
+=BA=B8=EA=B0T=20Openfind<br>
+=BA=F4=C0=BA=20Openfind=20=A5=F8=B7~=BA=F4=AF=B8=20http://www.openfind.com/<=
+br>
+=BA=F4=C0=BA=20MailCloud=20=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8=20http://www.mai=
+lcloud.com.tw/<br>
+----------------------------------------------------------------------------=
+--<br>
+<br>
+<br>
+-----Original=20message-----<br>
+From:hs3893=20&lt;hs3893@mail.edu.tw&gt;<br>
+To:edu=20&lt;edu@openfind.com.tw&gt;<br>
+Date:Tue,=2016=20Oct=202018=2010:18:15<br>
+Subject:=B5=F9=A5U=B0=DD=C3Dfrom=B7s=A6=CB=BF=A4=C2=F9=B7=CB=B0=EA=A4p201810=
+14<br>
+<br>
+<br>
+=B1z=A6n<br>
+=B5n=A4J=B7s=A6=CB=BF=A4OpenID=A8S=B0=DD=C3D=A1A=A6=FD=B5=F9=A5U=B5n=A4J=A6p=
+=AA=FE=A5=F3=B0=DD=C3D<br>
+=B7=D0=C0=B0=A6=A3<br>
+=C1=C2=C1=C2<br>
+<br>
+=B7s=A6=CB=BF=A4=C2=F9=B7=CB=B0=EA=A4p=B8=EA=B0T=A6=D1=AEv=20=AAL=A5=FA=B7u<=
+br>
+</div></div></body></html>
+-----pYl6KPJheADbG,SMMGd)2h7XuWt--

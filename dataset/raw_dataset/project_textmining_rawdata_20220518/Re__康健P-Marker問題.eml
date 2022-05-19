@@ -1,0 +1,1856 @@
+X-M2K-MATCHED-RULE: SPAM_FILTER-InADB
+X-M2K-MATCHED-RESULT: Mail Header From In ADB/ivan@openfind.com
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 210.59.162.122
+	by ms2.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(627:0:AUTH_NONE)
+	(envelope-from <prvs=11739F793E=ivan@openfind.com>); Fri, 11 Apr 2014 11:29:01 +0800 (CST)
+Return-Path: <prvs=11739F793E=ivan@openfind.com>
+X-M2KSPAM: NO/-6
+Received: from 210.59.162.122
+	by asp8.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(70938:0:AUTH_NONE)
+	(envelope-from <prvs=11739F793E=ivan@openfind.com>); Fri, 11 Apr 2014 11:29:00 +0800 (CST)
+Return-Path: <prvs=11739F793E=ivan@openfind.com>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+Received: from 172.16.0.95
+	by mg with MailGates ESMTP Server V4.0(17772:0:AUTH_RELAY)
+	(envelope-from <prvs=11739F793E=ivan@openfind.com>); Fri, 11 Apr 2014 11:25:22 +0800 (CST)
+Return-Path: <prvs=11739F793E=ivan@openfind.com>
+Received: By OpenMail Mailer;Fri, 11 Apr 2014 11:25:23 +0800 (CST)
+Received: from 172.16.0.96
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V6.00(21907:0:AUTH_RELAY)
+	(envelope-from <prvs=11739F793E=ivan@openfind.com>); Fri, 11 Apr 2014 11:25:21 +0800 (CST)
+Return-Path: <prvs=11739F793E=ivan@openfind.com>
+X-M2KPolicyIP: 172.16.0.96 (#NOT FOUND)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)(IPF:0,HAM,203.69.82.69)(
+	ipmatch:pattern.iptrust.system,,HAM,203.69.82.69,0)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 203.69.82.69
+	by mg with MailGates ESMTP Server V4.0(17772:0:AUTH_NONE)
+	(envelope-from <prvs=11739F793E=ivan@openfind.com>); Fri, 11 Apr 2014 11:25:18 +0800 (CST)
+Return-Path: <prvs=11739F793E=ivan@openfind.com>
+Received: from 10.0.0.40
+	by bak1.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(51803:0:AUTH_RELAY)
+	(envelope-from <prvs=11739F793E=ivan@openfind.com>); Fri, 11 Apr 2014 11:25:02 +0800 (CST)
+Return-Path: <prvs=11739F793E=ivan@openfind.com>
+M2KForward: Yes
+Received: By OpenMail Mailer;Fri, 11 Apr 2014 11:25:02 +0800 (CST)
+Received: from 203.69.82.34
+	by m0.mail2000.com.tw with Mail2000 ESMTP Server V3.20M(53391:0:AUTH_NONE)
+	(envelope-from <prvs=11739F793E=ivan@openfind.com>); Fri, 11 Apr 2014 11:25:01 +0800 (CST)
+Return-Path: <prvs=11739F793E=ivan@openfind.com>
+X-M2KSPAM: NO/-6
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(59308:2:AUTH_NONE)
+	(envelope-from <prvs=11739F793E=ivan@openfind.com>); Fri, 11 Apr 2014 11:24:58 +0800 (CST)
+Return-Path: <prvs=11739F793E=ivan@openfind.com>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (audit_rules:rules.audit_out1311132448.system#,,aDELIVER,R/
+	m2k_service@mail2000.com.tw,4,ou)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+X-MGADT: rules.audit_out1311132448.system#,R/m2k_service@mail2000.com.tw
+Received: from 172.16.0.95
+	by mg with MailGates ESMTP Server V4.0(17755:0:AUTH_RELAY)
+	(envelope-from <ivan@openfind.com>); Fri, 11 Apr 2014 11:22:17 +0800 (CST)
+Return-Path: <ivan@openfind.com>
+Received: By OpenMail Mailer;Fri, 11 Apr 2014 11:22:17 +0800 (CST)
+Received: from 172.16.2.3
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V6.00(21908:0:AUTH_LOGIN)
+	(envelope-from <ivan@openfind.com>); Fri, 11 Apr 2014 11:22:17 +0800 (CST)
+Return-Path: <ivan@openfind.com>
+X-M2KPolicyIP: 172.16.2.3 (#NOT FOUND)
+From: Ivan Liao <ivan@openfind.com>
+Content-Type: multipart/alternative; boundary="Apple-Mail=_E8F0FC7C-3B4A-488A-A99B-9CFCFB911843"
+Message-Id: <6C8D2F88-2E32-46BE-BC2C-AA886CEA3259@openfind.com>
+Mime-Version: 1.0 (Mac OS X Mail 7.2 \(1874\))
+Subject: =?big5?B?UmU6ILFksLdQLU1hcmtlcrDdw0Q=?=
+Date: Fri, 11 Apr 2014 11:23:11 +0800
+References: <f4df27396c4ad8c7e4acef7cc3bb8cf5@localhost.localdomain> <DDE70FFE5AFA5F4D864C6CAC1FDD669E84D8EDD5FA@HKIE7M002.asia.intl.cigna.com> <1396423244.25436.p-marker@openfind.com.tw> <DDE70FFE5AFA5F4D864C6CAC1FDD669E84D8F1A4D6@HKIE7M002.asia.intl.cigna.com> <FDDB70BA803BD94186CD6243E593226D01615E48A4@ex2010.INFOTECH.COM.TW> <1396938886.14663.billy_chueh@openfind.com.tw>  <DDE70FFE5AFA5F4D864C6CAC1FDD669E84D9019162@HKIE7M002.asia.intl.cigna.com>
+To: sales <sales@openfind.com.tw>,
+ =?big5?B?cC1tYXJrZXIgrdO46r1MwkmqQbDI?= <p-marker@openfind.com.tw>,
+ m2k_noc <m2k_noc@openfind.com.tw>
+In-Reply-To: <DDE70FFE5AFA5F4D864C6CAC1FDD669E84D9019162@HKIE7M002.asia.intl.cigna.com>
+X-Mailer: Apple Mail (2.1874)
+
+
+--Apple-Mail=_E8F0FC7C-3B4A-488A-A99B-9CFCFB911843
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+	charset=utf-8
+
+Dear all,
+
+=E9=80=99=E5=B0=81=E4=BF=A1=E5=B7=B2=E7=B6=93=E8=AB=8B Billy and Danny =
+=E6=8E=A5=E6=89=8B=E8=99=95=E7=90=86=E3=80=82
+
+=E6=88=91=E4=BA=86=E8=A7=A3=E5=BE=8C=E7=99=BC=E7=8F=BE=E4=B8=80=E5=80=8B=E5=
+=95=8F=E9=A1=8C=EF=BC=8C
+=E5=B0=B1=E6=98=AF=E5=AF=84=E4=BF=A1=E7=B5=A6 p-marker@openfind.com.tw =
+=E7=9A=84=E7=A7=81=E6=9C=89=E9=9B=B2=E5=AE=A2=E6=88=B6=EF=BC=8C
+=E5=8F=AF=E8=83=BD=E6=9C=83=E6=9C=89=E6=BC=8F=E6=8E=A5=E7=9A=84=E6=83=85=E6=
+=B3=81=E3=80=82
+
+=E8=AB=8B Alex =E5=8D=94=E5=8A=A9=E5=B0=87 deliver =E5=8A=A0=E5=85=A5 =
+p-marker =E6=94=B6=E4=BF=A1=E7=9A=84=E7=AF=84=E5=9C=8D=EF=BC=8C
+=E4=B8=A6=E8=AB=8B Danny =E5=B0=87=E7=A7=81=E6=9C=89=E9=9B=B2=E7=9A=84=E4=BF=
+=A1=E4=BB=B6=E7=B4=8D=E5=85=A5 ticket =E5=88=97=E7=AE=A1=E3=80=82
+
+=
+=E6=AD=A4=E5=AE=A2=E6=88=B6=E5=B1=AC=E6=96=BC=E6=AF=94=E8=BC=83=E5=80=8B=E6=
+=80=A7=E6=80=A5=E7=9A=84=E7=89=B9=E6=80=A7=EF=BC=8C=E5=8A=A0=E4=B8=8A=E4=BB=
+=96=E4=B8=8D=E6=89=93=E7=AE=97=E5=BB=B6=E9=95=B7=E8=B3=BC=E8=B2=B7=EF=BC=8C=
+
+=E5=8F=88=E6=83=B3=E5=9C=A8=E5=88=B0=E6=9C=9F=E5=89=8D=E5=86=8D=E7=9B=A4=E9=
+=BB=9E=E4=B8=80=E6=AC=A1=EF=BC=8C=E6=89=80=E4=BB=A5=E5=8F=A3=E6=B0=A3=E4=B8=
+=8D=E4=BD=B3=E3=80=82
+
+=E8=AE=93=E6=88=91=E5=80=91=E5=B0=88=E6=B3=A8=E5=9C=A8=E8=99=95=E7=90=86=E4=
+=BA=8B=E6=83=85=E4=B8=8A=EF=BC=8C=E8=AB=8B=E4=B8=8D=E7=94=A8=E5=9C=A8=E6=84=
+=8F=E4=BB=96=E7=9A=84=E5=8F=A3=E6=B0=A3=E3=80=82
+
+=E8=AC=9D=E8=AC=9D=EF=BC=81
+
+Sincerely yours,
+
+--- Ivan Liao
+
+
+Ju, Orange TWNRC <Orange.Ju@Cigna.com> =E6=96=BC 2014/4/11 =E4=B8=8A=E5=8D=
+=8810:35 =E5=AF=AB=E9=81=93=EF=BC=9A
+
+> Hi,
+> =
+=E4=B8=8A=E6=AC=A1=E8=B2=B4=E5=85=AC=E5=8F=B8=E5=85=A7=E9=83=A8=E5=95=8F=E9=
+=A1=8C(=E8=AA=BF=E6=95=B4license=E8=BB=9F=E9=AB=94=E6=95=B8=E9=87=8F)=E2=80=
+=A6=E6=AD=A4=E5=95=8F=E9=A1=8C=E2=80=A6=E8=99=95=E7=90=86=E4=B8=80=E5=80=8B=
+=E5=A4=9A=E6=9C=88=E6=89=8D=E6=9C=89=E5=8F=8D=E6=87=89..
+> =20
+> =E5=B0=8E=E8=87=B4=E5=BB=B6=E5=AE=95=E6=88=91=E5=80=91=E5=85=AC=E5=8F=B8=
+=E6=8E=83=E6=8F=8F=E5=B0=88=E6=A1=88=E9=80=B2=E5=BA=A61=E5=80=8B=E5=A4=9A=E6=
+=9C=88=E2=80=A6
+> =20
+> =
+=E5=B0=8D=E6=96=BC=E9=80=99=E6=AC=A1P-Marker=E8=B3=87=E6=96=99=E6=B8=85=E9=
+=99=A4,=E5=8F=AF=E4=BB=A5=E5=B9=AB=E5=BF=99=E5=8D=94=E5=8A=A9=E5=B0=87=E6=B8=
+=85=E9=99=A4=E6=89=80=E6=9C=89=E6=AD=B7=E5=8F=B2=E8=B3=87=E6=96=99?=E6=9C=89=
+=E5=BE=88=E5=9B=B0=E9=9B=A3=E5=97=8E?
+> =20
+> =
+=E7=84=B6=E8=80=8C=E8=B2=B4=E5=85=AC=E5=8F=B8=E7=9A=84=E8=BB=9F=E9=AB=94li=
+cense=E5=8F=88=E6=9C=89=E9=81=8E=E6=9C=9F=E7=9A=84=E6=99=82=E9=96=93=E5=A3=
+=93=E5=8A=9B,(2014/04=E5=BA=95=E5=88=B0=E6=9C=9F)
+> =20
+> =
+=E6=AD=A4=E5=95=8F=E9=A1=8C,=E5=8E=BB=E5=B9=B4=E8=B2=B7=E6=AD=A4=E8=BB=9F=E9=
+=AB=94=E6=99=82.=E6=88=91=E5=80=91=E5=B7=B2=E7=B6=93=E6=9C=89=E8=B7=9F=E8=B2=
+=B4=E5=85=AC=E5=8F=B8=E5=B7=A5=E7=A8=8B=E5=B8=AB=E8=A8=8E=E8=AB=96=E7=A2=BA=
+=E8=AA=8D=E6=AD=A4=E5=95=8F=E9=A1=8C.=E6=97=A9=E7=9F=A5=E9=81=93=E5=B7=B2=E7=
+=B6=93=E5=8F=AF=E6=B8=85=E9=99=A4=E6=89=80=E6=9C=89=E6=AD=B7=E5=8F=B2=E8=B3=
+=87=E6=96=99.
+> =20
+> =
+=E6=88=91=E6=83=B3=E8=B2=B4=E5=85=AC=E5=8F=B8=E7=9A=84=E6=9C=8D=E5=8B=99=E6=
+=98=AF=E6=88=91=E5=80=91=E5=85=AC=E5=8F=B8=E5=80=BC=E5=BE=97=E4=BF=A1=E4=BB=
+=BB,=E4=BD=86=E5=BE=9E=E9=80=99=E4=BB=B6=E4=BA=8B=E7=9C=8B=E5=88=B0..=E4=B8=
+=A6=E9=9D=9E=E5=A6=82=E6=AD=A4
+> =20
+> =E8=B2=B4=E5=85=AC=E5=8F=B8=E6=9C=8D=E5=8B=99=E6=A8=99=E6=BA=96.=E6=88=91=
+=E6=9C=83=E5=88=86=E4=BA=AB=E7=B5=A6=E6=88=91=E5=80=91=E5=85=A7=E9=83=A8=E5=
+=90=8C=E4=BB=81=E4=BA=86=E8=A7=A3.
+> =20
+> Orange Ju =E9=9E=A0=E8=88=88=E8=8F=AF
+> System Department
+> Cigna Taiwan
+> Tel: 02-66231688#1511
+> Email: Orange.Ju@cigna.com
+> Confidential, unpublished property of Cigna. Do not duplicate or =
+distribute.
+> Use and distribution limited solely to authorized personnel. =C2=A9 =
+Copyright 2014 Cigna
+> =20
+> From: Ju, Orange TWNRC=20
+> Sent: Tuesday, April 08, 2014 2:41 PM
+> To: 'billy_chueh / Openfind'
+> Cc: Kenny Shih [=E6=AE=B7=E5=AF=8C=E8=B3=87=E8=A8=8A]
+> Subject: RE: =E5=BA=B7=E5=81=A5P-Marker=E5=95=8F=E9=A1=8C
+> =20
+> Hi,
+> =E5=BE=88=E6=84=9F=E8=AC=9D=E6=82=A8=E7=9A=84=E5=9B=9E=E7=AD=94.
+> =E9=81=8E=E5=BE=80SCAN=E7=9A=84=E8=B3=87=E6=96=99=E5=B0=8D=E6=88=91=E5=80=
+=91=E5=B7=B2=E7=84=A1=E5=AD=98=E5=9C=A8=E6=84=8F=E7=BE=A9.
+> =20
+> =E6=89=80=E4=BB=A5..=E6=88=91=E5=BE=88=E9=9C=80=E8=A6=81=E8=B2=B4=E5=85=AC=
+=E5=8F=B8=E5=B7=A5=E7=A8=8B=E5=B8=AB,=E5=8D=94=E5=8A=A9=E5=B9=AB=E5=BF=99=E5=
+=B0=87=E8=B3=87=E6=96=99=E6=B8=85=E9=99=A4=E2=80=A6
+> =20
+> =E6=98=AF=E5=90=A6=E8=83=BD=E5=B9=AB=E5=BF=99=E6=B8=85=E9=99=A4???
+> =20
+> =E6=84=9F=E8=AC=9D=E6=82=A8..
+> =20
+> =20
+> =20
+> Orange Ju =E9=9E=A0=E8=88=88=E8=8F=AF
+> System Department
+> Cigna Taiwan
+> Tel: 02-66231688#1511
+> Email: Orange.Ju@cigna.com
+> Confidential, unpublished property of Cigna. Do not duplicate or =
+distribute.
+> Use and distribution limited solely to authorized personnel. =C2=A9 =
+Copyright 2014 Cigna
+> =20
+> From: billy_chueh / Openfind [mailto:billy_chueh@openfind.com.tw]=20
+> Sent: Tuesday, April 08, 2014 2:35 PM
+> To: Ju, Orange TWNRC
+> Cc: Kenny Shih [=E6=AE=B7=E5=AF=8C=E8=B3=87=E8=A8=8A]; Billy Chueh
+> Subject: Re: =E5=BA=B7=E5=81=A5P-Marker=E5=95=8F=E9=A1=8C
+> =20
+> Hello, Orange,
+> =20
+> =
+=E7=B6=93=E9=81=8E=E8=B7=9FR&D=E7=A2=BA=E8=AA=8D=E4=B9=8B=E5=BE=8C=E5=BE=97=
+=E7=9F=A5=EF=BC=8C=E5=A6=82=E6=9E=9C=E8=A6=81=E6=B8=85=E9=99=A4=E7=9B=B8=E9=
+=97=9C=E7=9B=A4=E9=BB=9E=E8=A8=98=E9=8C=84=E6=98=AF=E5=8F=AF=E8=A1=8C=E7=9A=
+=84=EF=BC=8C=E4=BD=86=E4=B8=8D=E5=BB=BA=E8=AD=B0=EF=BC=8C
+> =
+=E5=9B=A0=E7=82=BA=E6=98=AF=E7=9B=B4=E6=8E=A5=E9=87=9D=E5=B0=8D=E8=B3=87=E6=
+=96=99=E5=BA=AB=E9=80=B2=E8=A1=8C=E6=B8=85=E6=8E=89=EF=BC=8C=E6=89=80=E4=BB=
+=A5=E5=8C=85=E5=90=AB=E9=81=8E=E5=BE=80=E7=9A=84=E6=89=80=E6=9C=89=E7=9B=A4=
+=E9=BB=9E=E8=A8=98=E9=8C=84=E9=83=BD=E6=9C=83=E6=B6=88=E5=A4=B1=E3=80=82
+> =20
+> =
+=E5=A6=82=E6=9E=9C=E5=8F=AA=E6=98=AF=E6=B8=85=E9=99=A4=E3=80=8C=E5=B7=B2=E5=
+=AE=8C=E6=88=90=E3=80=8D=E9=80=99=E5=80=8B=E6=AC=84=E4=BD=8D=E7=9A=84=E6=95=
+=B8=E5=80=BC=EF=BC=8C=E5=96=AE=E7=B4=94=E6=B8=85=E9=80=99=E5=80=8B=E6=AC=84=
+=E4=BD=8D=E7=9A=84=E8=A9=B1=E5=B0=B1=E6=B2=92=E8=BE=A6=E6=B3=95=EF=BC=8C
+> =E5=9B=A0=E7=82=BA=E6=9C=83=E9=80=A3=E5=85=B6=E4=BB=96=E8=B3=87=E6=96=99=
+=E4=B8=80=E8=B5=B7=E6=B8=85=E6=8E=89=E3=80=82
+> =20
+> =E4=BB=A5=E4=B8=8A=E8=AA=AA=E6=98=8E=E9=82=84=E8=AB=8B=E6=82=A8=E5=8F=83=
+=E8=80=83=E4=B8=80=E4=B8=8B=EF=BC=8C=E8=AC=9D=E8=AC=9D!
+> =20
+> =
+=E5=A6=82=E6=9E=9C=E6=9C=89=E4=BB=BB=E4=BD=95=E9=9C=80=E6=B1=82=E6=88=96=E8=
+=80=85=E6=98=AF=E5=95=8F=E9=A1=8C=E8=AB=8B=E9=9A=A8=E6=99=82=E8=AE=93=E6=88=
+=91=E7=9F=A5=E9=81=93=EF=BC=8C=E6=88=91=E6=9C=83=E5=BE=88=E9=AB=98=E8=88=88=
+=E7=9A=84=E4=BE=86=E7=82=BA=E6=82=A8=E6=9C=8D=E5=8B=99=EF=BC=8C=E8=AC=9D=E8=
+=AC=9D!
+> Sincerely yours,
+>=20
+> Billy
+> =20
+> --------------------------------------------------------
+> NT$1,000=E5=85=83 =E6=8A=B5=E7=94=A8=E9=87=91=E9=80=81=E7=B5=A6=E6=82=A8=
+
+> =E6=88=90=E5=8A=9F=E6=8E=A8=E8=96=A6=E4=B8=80=E9=96=93=E4=BC=81=E6=A5=AD=
+=E9=81=B8=E7=94=A8 MailCloud =E6=9C=8D=E5=8B=99=E5=8D=B3=E5=8F=AF
+> =E7=8D=B2=E5=BE=97NT$1,000=E5=85=83 =E6=8A=B5=E7=94=A8=E9=87=91=EF=BC=8C=
+=E8=A2=AB=E6=8E=A8=E8=96=A6=E8=80=85=E6=96=B0=E7=94=B3=E8=AB=8B
+> MailCloud =E4=BF=A1=E7=AE=B1=E4=BA=A6=E4=BA=AB9=E6=8A=98=E5=84=AA=E6=83=A0=
+ =E6=9B=B4=E5=A4=9A=E4=BB=8B=E7=B4=B9 =E6=88=96=E4=BE=86
+> =E9=9B=BB=E6=B4=BD=E8=A9=A2
+> ---------------------------------------------------------
+> =20
+> Openfind =
+=E9=83=B5=E4=BB=B6=E7=AE=A1=E7=90=86=E7=94=A2=E5=93=81=E6=A6=AE=E7=8D=B2=E5=
+=85=AC=E5=AE=B6=E5=96=AE=E4=BD=8D=E5=BF=83=E7=9B=AE=E4=B8=AD=E7=AC=AC=E4=B8=
+=80=E5=93=81=E7=89=8C=E6=AE=8A=E6=A6=AE
+> http://www.openfind.com/taiwan/newsevents/news_detail.php?news_id=3D2350=
+
+> =20
+> =E7=8B=82=E8=B3=80=E4=BA=94=E9=80=A3=E9=9C=B8! Openfind MailBase =
+=E9=80=A3=E7=BA=8C=E4=BA=94=E5=B9=B4=E6=97=A5=E6=9C=AC=E5=9C=8B=E5=85=A7=E9=
+=83=B5=E4=BB=B6=E6=AD=B8=E6=AA=94=E8=BB=9F=E9=AB=94=E5=B8=82=E4=BD=94=E7=8E=
+=87=E7=AC=AC=E4=B8=80
+> =
+http://www.openfind.com.tw/taiwan/newsevents/news_detail.php?news_id=3D475=
+0
+> =20
+> =E6=8C=81=E7=BA=8C=E6=B7=B1=E8=80=95=E9=83=B5=E4=BB=B6=E7=A8=BD=E6=A0=B8=
+=E5=B8=82=E5=A0=B4 =E7=B6=B2=E6=93=8E=E6=8E=A8=E5=87=BA MailAudit =
+=E9=83=B5=E4=BB=B6=E7=A8=BD=E6=A0=B8=E7=B3=BB=E7=B5=B1
+> =
+http://www.openfind.com.tw/taiwan/newsevents/news_detail.php?news_id=3D471=
+6
+>=20
+> Openfind P-Marker =E5=80=8B=E8=B3=87=E7=9B=A4=E9=BB=9E=E6=9C=8D=E5=8B=99=
+=E6=9C=80=E6=96=B0=E5=8B=95=E6=85=8B( =E5=80=8B=E8=B3=87=E6=B3=95=E5=8B=95=
+=E6=85=8B=E7=AC=AC=E4=B8=80=E6=89=8B=E6=8E=8C=E6=8F=A1 )
+> http://www.p-marker.com.tw/news.html
+>=20
+> ********************************************
+> =E9=97=95=E4=BC=8A=E6=9D=90 / Openfind =E7=94=A2=E5=93=81=E4=BA=8B=E6=A5=
+=AD=E9=83=A8=20
+> Tel: (02)2553-2000 # 798
+> Mobile: 0958-535993 / 0982-354713
+> Fax: (02)2553-3639=20
+> Email:billy_chueh@openfind.com=20
+> URL:http://www.openfind.com/taiwan/index.htm
+> Add: =
+103=E5=8F=B0=E5=8C=97=E5=B8=82=E5=A4=A7=E5=90=8C=E5=8D=80=E9=87=8D=E6=85=B6=
+=E5=8C=97=E8=B7=AF2=E6=AE=B5243=E8=99=9F7=E6=A8=93(=E9=99=BD=E6=98=8E=E6=B5=
+=B7=E9=81=8B=E5=A4=A7=E6=A8=93)
+> ********************************************
+>=20
+> -----Original message-----
+> From:Kenny Shih [=E6=AE=B7=E5=AF=8C=E8=B3=87=E8=A8=8A]<Kenny.Shih@INFOTE=
+CH.COM.TW>
+> To:Ju, Orange      TWNRC<Orange.Ju@cigna.com>
+> Cc:billy_chueh@openfind.com.tw<billy_chueh@openfind.com.tw>
+> Date: Thu, 03 Apr 2014 11:18:08
+> Subject: =E5=BA=B7=E5=81=A5P-Marker=E5=95=8F=E9=A1=8C
+> =E6=A9=98=E5=AD=90=E5=93=A5:
+>             =
+=E5=B7=B2=E7=B6=93=E8=B7=9F=E7=B6=B2=E6=93=8EBilly=E8=81=AF=E7=B5=A1=E9=81=
+=8E=EF=BC=8C=E4=BB=96=E6=9C=83=E5=8E=BB=E7=9E=AD=E8=A7=A3=E8=AB=8B=E6=82=A8=
+=E7=A8=8D=E7=AD=89=E4=B8=80=E4=B8=8B=EF=BC=8C=E7=85=A7=E6=88=90=E6=82=A8=E7=
+=9A=84=E5=9B=B0=E6=93=BE=E6=B7=B1=E6=84=9F=E6=8A=B1=E6=AD=89=EF=BC=8C=E8=AC=
+=9D=E8=AC=9D=E3=80=82
+> =20
+> =E6=AE=B7=E5=AF=8C=E8=B3=87=E8=A8=8A=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=90=
+=E5=85=AC=E5=8F=B8
+> =E6=A5=AD=E5=8B=99=E7=B6=93=E7=90=86   =E6=96=BD=E7=8E=89=E9=BE=8D
+> TEL:02-2719-9099#188
+> FAX:02-2719-9055
+> MOBLE:0931-711-107
+> From: Ju, Orange TWNRC [mailto:Orange.Ju@cigna.com]=20
+> Sent: Thursday, April 03, 2014 10:28 AM
+> To: Kenny Shih [=E6=AE=B7=E5=AF=8C=E8=B3=87=E8=A8=8A]
+> Subject: FW: Openfind =
+P-Marker_=E7=B6=AD=E8=AD=B7=E5=88=B0=E6=9C=9F=E9=80=9A=E7=9F=A5_=E6=AE=B7=E5=
+=AF=8C=E8=B3=87=E8=A8=8A=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=90=E5=85=AC=E5=8F=
+=B8_=E5=9C=8B=E9=9A=9B=E5=BA=B7=E5=81=A5=E4=BA=BA=E5=A3=BD=E4=BF=9D=E9=9A=AA=
+=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=90=E5=85=AC=E5=8F=B8
+> =20
+> =20
+> =20
+> Orange Ju =E9=9E=A0=E8=88=88=E8=8F=AF
+> System Department
+> Cigna Taiwan
+> Tel: 02-66231688#1511
+> Email: Orange.Ju@cigna.com
+> Confidential, unpublished property of Cigna. Do not duplicate or =
+distribute.
+> Use and distribution limited solely to authorized personnel. =C2=A9 =
+Copyright 2014 Cigna
+> =20
+> From: p-marker@openfind.com.tw [mailto:p-marker@openfind.com.tw]=20
+> Sent: Wednesday, April 02, 2014 3:21 PM
+> To: Ju, Orange TWNRC
+> Cc: Billy Chueh; p-marker
+> Subject: RE: Openfind =
+P-Marker_=E7=B6=AD=E8=AD=B7=E5=88=B0=E6=9C=9F=E9=80=9A=E7=9F=A5_=E6=AE=B7=E5=
+=AF=8C=E8=B3=87=E8=A8=8A=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=90=E5=85=AC=E5=8F=
+=B8_=E5=9C=8B=E9=9A=9B=E5=BA=B7=E5=81=A5=E4=BA=BA=E5=A3=BD=E4=BF=9D=E9=9A=AA=
+=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=90=E5=85=AC=E5=8F=B8
+> =20
+> =E9=9E=A0=E5=85=88=E7=94=9F=E6=82=A8=E5=A5=BD=EF=BC=9A
+>=20
+> =E6=82=A8=E7=9A=84=E5=95=8F=E9=A1=8C=EF=BC=8C=E6=88=91=E5=80=91=E5=9B=9E=
+=E8=A6=86=E5=A6=82=E4=B8=8B=EF=BC=9A
+>=20
+> =
+=E7=9B=AE=E5=89=8D=E5=9B=A0=E7=82=BA=E8=A8=AD=E8=A8=88=E4=B8=8A=E7=9A=84=E9=
+=99=90=E5=88=B6=EF=BC=8C=E5=B7=B2=E6=8E=83=E6=8F=8F=E5=AE=8C=E6=88=90=E7=9A=
+=84=E6=95=B8=E5=80=BC=E6=98=AF=E7=84=A1=E6=B3=95=E6=B8=85=E9=99=A4=E7=9A=84=
+=EF=BC=8C=E8=AC=9D=E8=AC=9D=E3=80=82
+>=20
+> =E8=8B=A5=E9=82=84=E6=9C=89=E4=BB=BB=E4=BD=95=E5=95=8F=E9=A1=8C=EF=BC=8C=
+=E4=B9=9F=E8=AB=8B=E6=82=A8=E8=B7=9F=E6=88=91=E5=80=91=E8=81=AF=E7=B5=A1=EF=
+=BC=8C=E8=AC=9D=E8=AC=9D=EF=BC=81
+> =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D
+> =E2=97=86=E6=9C=8D=E5=8B=99=E4=BF=A1=E7=AE=B1=E3=80=80=E3=80=80=E3=80=80=
+=E3=80=80 m2k_noc@openfind.com.tw
+> =E2=97=86=E6=8A=80=E8=A1=93=E6=94=AF=E6=8F=B4=E5=B7=A5=E7=A8=8B=E5=B8=AB=
+=E3=80=80=E3=80=80=E5=90=B3=E5=B2=B3=E5=AE=97=E3=80=80=E3=80=80Terry Wu=20=
+
+> =E2=97=86Openfind=E7=B6=B2=E8=B7=AF=E8=B3=87=E6=BA=90 =
+http://www.openfind.com/
+> =E2=97=86Mail2000=E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1 =
+http://www.mail2000.com.tw/
+> =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D
+> -----Original message-----
+> From:Ju, Orange      TWNRC<Orange.Ju@Cigna.com>
+> To:=E7=B6=B2=E6=93=8E Openfind =E6=A5=AD=E5=8B=99=E7=B3=BB=E7=B5=B1<sale=
+s@openfind.com.tw>
+> =
+Cc:=E9=97=95=E4=BC=8A=E6=9D=90<billy_chueh@openfind.com.tw>,ivan<ivan@open=
+find.com.tw>,silvia_chen<silvia_chen@openfind.com.tw>,ben_ko<ben_ko@openfi=
+nd.com.tw>,angel_huang<angel_huang@openfind.com.tw>,ma_se<ma_se@openfind.c=
+om.tw>,deliver<deliver@openfind.com.tw>,Kenny Shih [=E6=AE=B7=E5=AF=8C=E8=B3=
+=87=E8=A8=8A] (Kenny.Shih@INFOTECH.COM.TW) =
+(Kenny.Shih@INFOTECH.COM.TW)<Kenny.Shih@INFOTECH.COM.TW>
+> Date: Tue, 01 Apr 2014 18:00:46
+> Subject: RE: Openfind =
+P-Marker_=E7=B6=AD=E8=AD=B7=E5=88=B0=E6=9C=9F=E9=80=9A=E7=9F=A5_=E6=AE=B7=E5=
+=AF=8C=E8=B3=87=E8=A8=8A=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=90=E5=85=AC=E5=8F=
+=B8_=E5=9C=8B=E9=9A=9B=E5=BA=B7=E5=81=A5=E4=BA=BA=E5=A3=BD=E4=BF=9D=E9=9A=AA=
+=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=90=E5=85=AC=E5=8F=B8
+> Hi,
+> =E8=AB=8B=E5=95=8F=E6=88=91=E5=80=91=E8=A6=81=E9=87=8D=E6=96=B0=E9=83=A8=
+=E7=BD=B2=E2=80=A6=E4=BD=86=E8=88=8A=E8=B3=87=E6=96=99=E9=9C=80=E8=A6=81=E6=
+=B8=85=E9=99=A4..
+> =20
+> =E8=AB=8B=E5=95=8F=E8=A6=81=E5=A6=82=E4=BD=95=E6=B8=85=E9=99=A4=E2=80=A6=
+.
+> =20
+> <image001.jpg>
+> =20
+> Orange Ju =E9=9E=A0=E8=88=88=E8=8F=AF
+> System Department
+> Cigna Taiwan
+> Tel: 02-66231688#1511
+> Email: Orange.Ju@cigna.com
+> Confidential, unpublished property of Cigna. Do not duplicate or =
+distribute.
+> Use and distribution limited solely to authorized personnel. =C2=A9 =
+Copyright 2014 Cigna
+> =20
+> From: =E7=B6=B2=E6=93=8E Openfind =E6=A5=AD=E5=8B=99=E7=B3=BB=E7=B5=B1 =
+[mailto:sales@openfind.com.tw]=20
+> Sent: Sunday, March 30, 2014 12:00 AM
+> To: Kao, Tim K TWNRC
+> Cc: =E9=97=95=E4=BC=8A=E6=9D=90; ivan; silvia_chen; ben_ko; =
+angel_huang; ma_se; deliver
+> Subject: Openfind =
+P-Marker_=E7=B6=AD=E8=AD=B7=E5=88=B0=E6=9C=9F=E9=80=9A=E7=9F=A5_=E6=AE=B7=E5=
+=AF=8C=E8=B3=87=E8=A8=8A=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=90=E5=85=AC=E5=8F=
+=B8_=E5=9C=8B=E9=9A=9B=E5=BA=B7=E5=81=A5=E4=BA=BA=E5=A3=BD=E4=BF=9D=E9=9A=AA=
+=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=90=E5=85=AC=E5=8F=B8
+> =20
+> <image002.jpg>
+> <image003.jpg>
+> <image004.jpg>
+> =20
+> <image005.jpg>
+> Openfind P-Marker =E7=B6=AD=E8=AD=B7=E5=88=B0=E6=9C=9F=E9=80=9A=E7=9F=A5=
+
+> =20
+> =E8=A6=AA=E6=84=9B=E7=9A=84=E5=AE=A2=E6=88=B6 =E6=82=A8=E5=A5=BD=EF=BC=9A=
+
+>=20
+> =E6=84=9F=E8=AC=9D=E6=82=A8=E4=BD=BF=E7=94=A8 Openfind =
+=E7=94=A2=E5=93=81=EF=BC=8C=E8=B2=B4=E5=85=AC=E5=8F=B8=E7=9A=84 P-Marker =
+=E7=B6=AD=E8=AD=B7=E6=8E=88=E6=AC=8A=E5=8D=B3=E5=B0=87=E6=96=BC =
+2014-04-30 =
+=E5=88=B0=E6=9C=9F=EF=BC=8C=E7=82=BA=E7=A2=BA=E4=BF=9D=E8=B2=B4=E5=85=AC=E5=
+=8F=B8=E7=9A=84=E4=BD=BF=E7=94=A8=E6=AC=8A=E7=9B=8A=EF=BC=8C=E6=8F=90=E9=86=
+=92=E6=82=A8=EF=BC=8C=E8=AB=8B=E5=84=98=E5=BF=AB=E8=88=87=E7=B6=B2=E6=93=8E=
+=E8=B3=87=E8=A8=8A=EF=BC=88Openfind=EF=BC=89=E8=81=AF=E7=B9=AB=EF=BC=8C=E6=
+=B4=BD=E8=AB=87=E8=B2=B4=E5=85=AC=E5=8F=B8=E5=B9=B4=E5=BA=A6=E7=BA=8C=E7=B4=
+=84=E6=9B=B4=E6=96=B0=E4=BA=8B=E5=AE=9C=E3=80=82=E4=BB=A5=E4=B8=8B=E7=82=BA=
+=E6=A5=AD=E5=8B=99=E4=BA=BA=E5=93=A1=E8=81=AF=E7=B5=A1=E6=96=B9=E5=BC=8F=EF=
+=BC=9A
+>=20
+> =E3=80=80=E6=A5=AD=E5=8B=99=E4=BA=BA=E5=93=A1=E8=81=AF=E7=B5=A1=E6=96=B9=
+=E5=BC=8F
+> =E3=80=80=E2=80=A7=E5=A7=93=E5=90=8D=EF=BC=9A=E9=97=95=E4=BC=8A=E6=9D=90=
+ =E5=85=88=E7=94=9F/=E5=B0=8F=E5=A7=90
+> =E3=80=80=E2=80=A7=E8=81=AF=E7=B5=A1=E9=9B=BB=E8=A9=B1=EF=BC=9A02-2553-2=
+000 =E5=88=86=E6=A9=9F 798
+> =E3=80=80=E2=80=A7E-mail=EF=BC=9Abilly_chueh@openfind.com.tw
+>=20
+> =E5=A6=82=E5=B7=B2=E5=AE=8C=E6=88=90=E7=BA=8C=E7=B4=84=E8=80=85=EF=BC=8C=
+=E6=95=AC=E8=AB=8B=E5=BF=BD=E7=95=A5=E6=AD=A4=E9=80=9A=E7=9F=A5=E3=80=82
+> =E8=8B=A5=E6=82=A8=E9=82=84=E6=9C=89=E4=BB=BB=E4=BD=95=E7=9A=84=E5=95=8F=
+=E9=A1=8C=EF=BC=8C=E6=AD=A1=E8=BF=8E=E6=82=A8=E9=9A=A8=E6=99=82=E4=BE=86=E9=
+=9B=BB=E6=88=96=E4=BE=86=E4=BF=A1=E8=A9=A2=E5=95=8F=E3=80=82
+>=20
+> =E6=95=AC=E7=A5=9D=E3=80=80=E3=80=80=E3=80=80=E5=95=86=E7=A5=BA=EF=BC=81=
+=20
+> =E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A=E8=BB=9F=E9=AB=94=E8=82=A1=E4=BB=BD=
+=E6=9C=89=E9=99=90=E5=85=AC=E5=8F=B8=E3=80=80=E6=95=AC=E5=95=9F
+> <image006.jpg>
+> Dear Sir/Madam:
+> Your P-Marker had expired on 2014-04-30.
+> Regading to P-Marker License renewal, please contact with Openfind =
+sales people ASAP.
+> Name=EF=BC=9A
+> TEL=EF=BC=9A02-2553-2000 ext. 798
+> Cell Phone=EF=BC=9A
+> E-mail=EF=BC=9Abilly_chueh@openfind.com.tw
+>=20
+> Best regards,
+>=20
+> =20
+> <image007.jpg>
+> =20
+> <image003.jpg>
+> =20
+> =
+--------------------------------------------------------------------------=
+----
+> CONFIDENTIALITY NOTICE: If you have received this email in error,
+> please immediately notify the sender by e-mail at the address shown. =20=
+
+> This email transmission may contain confidential information.  This=20
+> information is intended only for the use of the individual(s) or =
+entity to=20
+> whom it is intended even if addressed incorrectly.  Please delete it =
+from=20
+> your files if you are not the intended recipient.  Thank you for your=20=
+
+> compliance.  Copyright (c) 2014 Cigna
+> =
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D
+>=20
+> =
+--------------------------------------------------------------------------=
+----
+> CONFIDENTIALITY NOTICE: If you have received this email in error,
+> please immediately notify the sender by e-mail at the address shown. =20=
+
+> This email transmission may contain confidential information.  This=20
+> information is intended only for the use of the individual(s) or =
+entity to=20
+> whom it is intended even if addressed incorrectly.  Please delete it =
+from=20
+> your files if you are not the intended recipient.  Thank you for your=20=
+
+> compliance.  Copyright (c) 2014 Cigna
+> =
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D
+>=20
+> =
+--------------------------------------------------------------------------=
+----
+> CONFIDENTIALITY NOTICE: If you have received this email in error,
+> please immediately notify the sender by e-mail at the address shown. =20=
+
+> This email transmission may contain confidential information.  This=20
+> information is intended only for the use of the individual(s) or =
+entity to=20
+> whom it is intended even if addressed incorrectly.  Please delete it =
+from=20
+> your files if you are not the intended recipient.  Thank you for your=20=
+
+> compliance.  Copyright (c) 2014 Cigna
+> =
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D
+>=20
+
+
+--Apple-Mail=_E8F0FC7C-3B4A-488A-A99B-9CFCFB911843
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset=utf-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html =
+charset=3Dutf-8"></head><body style=3D"word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">Dear =
+all,<div><br></div><div>=E9=80=99=E5=B0=81=E4=BF=A1=E5=B7=B2=E7=B6=93=E8=AB=
+=8B Billy and Danny =
+=E6=8E=A5=E6=89=8B=E8=99=95=E7=90=86=E3=80=82</div><div><br></div><div>=E6=
+=88=91=E4=BA=86=E8=A7=A3=E5=BE=8C=E7=99=BC=E7=8F=BE=E4=B8=80=E5=80=8B=E5=95=
+=8F=E9=A1=8C=EF=BC=8C</div><div>=E5=B0=B1=E6=98=AF=E5=AF=84=E4=BF=A1=E7=B5=
+=A6 <a =
+href=3D"mailto:p-marker@openfind.com.tw">p-marker@openfind.com.tw</a> =
+=E7=9A=84=E7=A7=81=E6=9C=89=E9=9B=B2=E5=AE=A2=E6=88=B6=EF=BC=8C</div><div>=
+=E5=8F=AF=E8=83=BD=E6=9C=83=E6=9C=89=E6=BC=8F=E6=8E=A5=E7=9A=84=E6=83=85=E6=
+=B3=81=E3=80=82</div><div><br></div><div>=E8=AB=8B Alex =E5=8D=94=E5=8A=A9=
+=E5=B0=87 deliver =E5=8A=A0=E5=85=A5 p-marker =
+=E6=94=B6=E4=BF=A1=E7=9A=84=E7=AF=84=E5=9C=8D=EF=BC=8C</div><div>=E4=B8=A6=
+=E8=AB=8B Danny =E5=B0=87=E7=A7=81=E6=9C=89=E9=9B=B2=E7=9A=84=E4=BF=A1=E4=BB=
+=B6=E7=B4=8D=E5=85=A5 ticket =
+=E5=88=97=E7=AE=A1=E3=80=82</div><div><br></div><div>=E6=AD=A4=E5=AE=A2=E6=
+=88=B6=E5=B1=AC=E6=96=BC=E6=AF=94=E8=BC=83=E5=80=8B=E6=80=A7=E6=80=A5=E7=9A=
+=84=E7=89=B9=E6=80=A7=EF=BC=8C=E5=8A=A0=E4=B8=8A=E4=BB=96=E4=B8=8D=E6=89=93=
+=E7=AE=97=E5=BB=B6=E9=95=B7=E8=B3=BC=E8=B2=B7=EF=BC=8C</div><div>=E5=8F=88=
+=E6=83=B3=E5=9C=A8=E5=88=B0=E6=9C=9F=E5=89=8D=E5=86=8D=E7=9B=A4=E9=BB=9E=E4=
+=B8=80=E6=AC=A1=EF=BC=8C=E6=89=80=E4=BB=A5=E5=8F=A3=E6=B0=A3=E4=B8=8D=E4=BD=
+=B3=E3=80=82</div><div><br></div><div>=E8=AE=93=E6=88=91=E5=80=91=E5=B0=88=
+=E6=B3=A8=E5=9C=A8=E8=99=95=E7=90=86=E4=BA=8B=E6=83=85=E4=B8=8A=EF=BC=8C=E8=
+=AB=8B=E4=B8=8D=E7=94=A8=E5=9C=A8=E6=84=8F=E4=BB=96=E7=9A=84=E5=8F=A3=E6=B0=
+=A3=E3=80=82</div><div><br></div><div>=E8=AC=9D=E8=AC=9D=EF=BC=81</div><di=
+v><br><div>
+Sincerely yours,<br><br>--- Ivan Liao<br><br>
+
+</div>
+<br><div><div>Ju, Orange TWNRC &lt;<a =
+href=3D"mailto:Orange.Ju@Cigna.com">Orange.Ju@Cigna.com</a>&gt; =E6=96=BC =
+2014/4/11 =E4=B8=8A=E5=8D=8810:35 =E5=AF=AB=E9=81=93=EF=BC=9A</div><br =
+class=3D"Apple-interchange-newline"><blockquote type=3D"cite"><div =
+lang=3D"ZH-TW" link=3D"blue" vlink=3D"purple" style=3D"font-family: =
+Helvetica; font-size: 12px; font-style: normal; font-variant: normal; =
+font-weight: normal; letter-spacing: normal; line-height: normal; =
+orphans: auto; text-align: start; text-indent: 0px; text-transform: =
+none; white-space: normal; widows: auto; word-spacing: 0px; =
+-webkit-text-stroke-width: 0px;"><div class=3D"WordSection1" =
+style=3D"page: WordSection1;"><div style=3D"margin: 0cm 0cm 0.0001pt; =
+font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;"><span lang=3D"EN-US" style=3D"font-family: Calibri, sans-serif; =
+color: rgb(31, 73, 125);">Hi,<o:p></o:p></span></div><div style=3D"margin:=
+ 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=
+=E9=AB=94, serif;"><span style=3D"color: rgb(31, 73, =
+125);">=E4=B8=8A=E6=AC=A1=E8=B2=B4=E5=85=AC=E5=8F=B8=E5=85=A7=E9=83=A8=E5=95=
+=8F=E9=A1=8C</span><span lang=3D"EN-US" style=3D"font-family: Calibri, =
+sans-serif; color: rgb(31, 73, 125);">(</span><span style=3D"color: =
+rgb(31, 73, 125);">=E8=AA=BF=E6=95=B4</span><span lang=3D"EN-US" =
+style=3D"color: rgb(31, 73, 125);">license</span><span style=3D"color: =
+rgb(31, 73, 125);">=E8=BB=9F=E9=AB=94=E6=95=B8=E9=87=8F</span><span =
+lang=3D"EN-US" style=3D"font-family: Calibri, sans-serif; color: rgb(31, =
+73, 125);">)=E2=80=A6</span><span style=3D"color: rgb(31, 73, =
+125);">=E6=AD=A4=E5=95=8F=E9=A1=8C</span><span lang=3D"EN-US" =
+style=3D"font-family: Calibri, sans-serif; color: rgb(31, 73, =
+125);">=E2=80=A6</span><span style=3D"color: rgb(31, 73, 125); =
+background-color: yellow; background-position: initial initial; =
+background-repeat: initial =
+initial;">=E8=99=95=E7=90=86=E4=B8=80=E5=80=8B=E5=A4=9A=E6=9C=88=E6=89=8D=E6=
+=9C=89=E5=8F=8D=E6=87=89</span><span lang=3D"EN-US" style=3D"font-family: =
+Calibri, sans-serif; color: rgb(31, 73, 125); background-color: yellow; =
+background-position: initial initial; background-repeat: initial =
+initial;">..</span><span lang=3D"EN-US" style=3D"font-family: Calibri, =
+sans-serif; color: rgb(31, 73, 125);"><o:p></o:p></span></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span lang=3D"EN-US" =
+style=3D"font-family: Calibri, sans-serif; color: rgb(31, 73, =
+125);">&nbsp;</span></div><div style=3D"margin: 0cm 0cm 0.0001pt; =
+font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;"><span style=3D"color: =
+red;">=E5=B0=8E=E8=87=B4=E5=BB=B6=E5=AE=95=E6=88=91=E5=80=91=E5=85=AC=E5=8F=
+=B8=E6=8E=83=E6=8F=8F=E5=B0=88=E6=A1=88=E9=80=B2=E5=BA=A6</span><span =
+lang=3D"EN-US" style=3D"font-family: Calibri, sans-serif; color: =
+red;">1</span><span style=3D"color: red;">=E5=80=8B=E5=A4=9A=E6=9C=88</spa=
+n><span lang=3D"EN-US" style=3D"font-family: Calibri, sans-serif; color: =
+red;">=E2=80=A6<o:p></o:p></span></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span lang=3D"EN-US" style=3D"font-family: Calibri, =
+sans-serif; color: red;">&nbsp;</span></div><div style=3D"margin: 0cm =
+0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=
+=AB=94, serif;"><span style=3D"color: rgb(31, 73, 125); =
+background-color: yellow; background-position: initial initial; =
+background-repeat: initial initial;">=E5=B0=8D=E6=96=BC=E9=80=99=E6=AC=A1<=
+/span><span lang=3D"EN-US" style=3D"font-family: Calibri, sans-serif; =
+color: rgb(31, 73, 125); background-color: yellow; background-position: =
+initial initial; background-repeat: initial =
+initial;">P-Marker</span><span style=3D"color: rgb(31, 73, 125); =
+background-color: yellow; background-position: initial initial; =
+background-repeat: initial initial;">=E8=B3=87=E6=96=99=E6=B8=85=E9=99=A4<=
+/span><span lang=3D"EN-US" style=3D"font-family: Calibri, sans-serif; =
+color: rgb(31, 73, 125); background-color: yellow; background-position: =
+initial initial; background-repeat: initial initial;">,</span><span =
+style=3D"color: rgb(31, 73, 125); background-color: yellow; =
+background-position: initial initial; background-repeat: initial =
+initial;">=E5=8F=AF=E4=BB=A5=E5=B9=AB=E5=BF=99=E5=8D=94=E5=8A=A9=E5=B0=87=E6=
+=B8=85=E9=99=A4=E6=89=80=E6=9C=89=E6=AD=B7=E5=8F=B2=E8=B3=87=E6=96=99</spa=
+n><span lang=3D"EN-US" style=3D"font-family: Calibri, sans-serif; color: =
+rgb(31, 73, 125); background-color: yellow; background-position: initial =
+initial; background-repeat: initial initial;">?</span><span =
+style=3D"color: rgb(31, 73, 125); background-color: yellow; =
+background-position: initial initial; background-repeat: initial =
+initial;">=E6=9C=89=E5=BE=88=E5=9B=B0=E9=9B=A3=E5=97=8E</span><span =
+lang=3D"EN-US" style=3D"font-family: Calibri, sans-serif; color: rgb(31, =
+73, 125); background-color: yellow; background-position: initial =
+initial; background-repeat: initial initial;">?</span><span lang=3D"EN-US"=
+ style=3D"font-family: Calibri, sans-serif; color: rgb(31, 73, =
+125);"><o:p></o:p></span></div><div style=3D"margin: 0cm 0cm 0.0001pt; =
+font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;"><span lang=3D"EN-US" style=3D"font-family: Calibri, sans-serif; =
+color: rgb(31, 73, 125);">&nbsp;</span></div><div style=3D"margin: 0cm =
+0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=
+=AB=94, serif;"><span style=3D"color: rgb(31, 73, =
+125);">=E7=84=B6=E8=80=8C=E8=B2=B4=E5=85=AC=E5=8F=B8=E7=9A=84=E8=BB=9F=E9=AB=
+=94</span><span lang=3D"EN-US" style=3D"color: rgb(31, 73, =
+125);">license</span><span style=3D"color: rgb(31, 73, =
+125);">=E5=8F=88=E6=9C=89=E9=81=8E=E6=9C=9F=E7=9A=84=E6=99=82=E9=96=93=E5=A3=
+=93=E5=8A=9B</span><span lang=3D"EN-US" style=3D"font-family: Calibri, =
+sans-serif; color: rgb(31, 73, 125);">,(2014/04</span><span =
+style=3D"color: rgb(31, 73, 125);">=E5=BA=95=E5=88=B0=E6=9C=9F</span><span=
+ lang=3D"EN-US" style=3D"font-family: Calibri, sans-serif; color: =
+rgb(31, 73, 125);">)<o:p></o:p></span></div><div style=3D"margin: 0cm =
+0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=
+=AB=94, serif;"><span lang=3D"EN-US" style=3D"font-family: Calibri, =
+sans-serif; color: rgb(31, 73, 125);">&nbsp;</span></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span style=3D"color: =
+rgb(31, 73, 125);">=E6=AD=A4=E5=95=8F=E9=A1=8C</span><span lang=3D"EN-US" =
+style=3D"font-family: Calibri, sans-serif; color: rgb(31, 73, =
+125);">,</span><span style=3D"color: rgb(31, 73, =
+125);">=E5=8E=BB=E5=B9=B4=E8=B2=B7=E6=AD=A4=E8=BB=9F=E9=AB=94=E6=99=82</sp=
+an><span lang=3D"EN-US" style=3D"font-family: Calibri, sans-serif; =
+color: rgb(31, 73, 125);">.</span><span style=3D"color: rgb(31, 73, =
+125);">=E6=88=91=E5=80=91=E5=B7=B2=E7=B6=93=E6=9C=89=E8=B7=9F=E8=B2=B4=E5=85=
+=AC=E5=8F=B8=E5=B7=A5=E7=A8=8B=E5=B8=AB=E8=A8=8E=E8=AB=96=E7=A2=BA=E8=AA=8D=
+=E6=AD=A4=E5=95=8F=E9=A1=8C</span><span lang=3D"EN-US" =
+style=3D"font-family: Calibri, sans-serif; color: rgb(31, 73, =
+125);">.</span><span style=3D"color: rgb(31, 73, =
+125);">=E6=97=A9=E7=9F=A5=E9=81=93=E5=B7=B2=E7=B6=93=E5=8F=AF=E6=B8=85=E9=99=
+=A4=E6=89=80=E6=9C=89=E6=AD=B7=E5=8F=B2=E8=B3=87=E6=96=99</span><span =
+lang=3D"EN-US" style=3D"font-family: Calibri, sans-serif; color: rgb(31, =
+73, 125);">.<o:p></o:p></span></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span lang=3D"EN-US" style=3D"font-family: Calibri, =
+sans-serif; color: rgb(31, 73, 125);">&nbsp;</span></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span style=3D"color: =
+rgb(31, 73, =
+125);">=E6=88=91=E6=83=B3=E8=B2=B4=E5=85=AC=E5=8F=B8=E7=9A=84=E6=9C=8D=E5=8B=
+=99=E6=98=AF=E6=88=91=E5=80=91=E5=85=AC=E5=8F=B8=E5=80=BC=E5=BE=97=E4=BF=A1=
+=E4=BB=BB</span><span lang=3D"EN-US" style=3D"font-family: Calibri, =
+sans-serif; color: rgb(31, 73, 125);">,</span><span style=3D"color: =
+rgb(31, 73, 125);">=E4=BD=86=E5=BE=9E=E9=80=99=E4=BB=B6=E4=BA=8B=E7=9C=8B=E5=
+=88=B0</span><span lang=3D"EN-US" style=3D"font-family: Calibri, =
+sans-serif; color: rgb(31, 73, 125);">..</span><span style=3D"color: =
+rgb(31, 73, 125);">=E4=B8=A6=E9=9D=9E=E5=A6=82=E6=AD=A4</span><span =
+lang=3D"EN-US" style=3D"font-family: Calibri, sans-serif; color: rgb(31, =
+73, 125);"><o:p></o:p></span></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span lang=3D"EN-US" style=3D"font-family: Calibri, =
+sans-serif; color: rgb(31, 73, 125);">&nbsp;</span></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span style=3D"color: =
+rgb(31, 73, 125);">=E8=B2=B4=E5=85=AC=E5=8F=B8=E6=9C=8D=E5=8B=99=E6=A8=99=E6=
+=BA=96</span><span lang=3D"EN-US" style=3D"font-family: Calibri, =
+sans-serif; color: rgb(31, 73, 125);">.</span><span style=3D"color: =
+rgb(31, 73, 125);">=E6=88=91=E6=9C=83=E5=88=86=E4=BA=AB=E7=B5=A6=E6=88=91=E5=
+=80=91=E5=85=A7=E9=83=A8=E5=90=8C=E4=BB=81=E4=BA=86=E8=A7=A3</span><span =
+lang=3D"EN-US" style=3D"font-family: Calibri, sans-serif; color: rgb(31, =
+73, 125);">.<o:p></o:p></span></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span lang=3D"EN-US" style=3D"font-family: Calibri, =
+sans-serif; color: rgb(31, 73, 125);">&nbsp;</span></div><div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif; line-height: =
+12pt;"><b><span lang=3D"EN-US" style=3D"font-size: 10pt; font-family: =
+Arial, sans-serif; color: rgb(14, 30, 99);">Orange Ju<span =
+class=3D"Apple-converted-space">&nbsp;</span></span></b><b><span =
+style=3D"font-size: 10pt; color: rgb(14, 30, =
+99);">=E9=9E=A0=E8=88=88=E8=8F=AF</span></b><span lang=3D"EN-US" =
+style=3D"font-family: Calibri, sans-serif; color: rgb(31, 73, =
+125);"><br></span><b><span lang=3D"EN-US" style=3D"font-size: 10pt; =
+font-family: Arial, sans-serif; color: rgb(14, 30, 99);">System =
+Department<o:p></o:p></span></b></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif; line-height: 12pt;"><b><span lang=3D"EN-US" style=3D"font-size: =
+10pt; font-family: Arial, sans-serif; color: rgb(14, 30, 99);">Cigna =
+Taiwan<o:p></o:p></span></b></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif; line-height: 12pt;"><b><span lang=3D"EN-US" style=3D"font-size: =
+10pt; font-family: Arial, sans-serif; color: rgb(14, 30, =
+99);">Tel:</span></b><b><span lang=3D"EN-US" style=3D"font-size: 10pt; =
+color: rgb(14, 30, 99);">&nbsp;</span></b><b><span lang=3D"EN-US" =
+style=3D"font-size: 10pt; font-family: Arial, sans-serif; color: rgb(14, =
+30, 99);">02-66231688#</span></b><b><span lang=3D"EN-US" =
+style=3D"font-size: 10pt; font-family: Arial, sans-serif; color: rgb(14, =
+30, 99);">1511<o:p></o:p></span></b></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif; line-height: 12pt;"><b><span lang=3D"EN-US" style=3D"font-size: =
+10pt; font-family: Arial, sans-serif; color: rgb(14, 30, =
+99);">Email:</span></b><b><span lang=3D"EN-US" style=3D"font-family: =
+Calibri, sans-serif; color: rgb(31, 73, 125);">&nbsp;</span></b><span =
+lang=3D"EN-US" style=3D"font-size: 10pt; font-family: Arial, sans-serif; =
+color: rgb(31, 73, 125);"><a href=3D"mailto:Orange.Ju@cigna.com" =
+style=3D"color: purple; text-decoration: =
+underline;">Orange.Ju@cigna.com</a></span><span lang=3D"EN-US" =
+style=3D"color: rgb(31, 73, 125);"><o:p></o:p></span></div><p =
+class=3D"MsoNormal" style=3D"margin: 6pt 0cm 0.0001pt; font-size: 12pt; =
+font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif; line-height: =
+12pt;"><i><span lang=3D"EN-US" style=3D"font-size: 8pt; font-family: =
+Arial, sans-serif; color: rgb(102, 102, 102);">Confidential, unpublished =
+property of Cigna. Do not duplicate or =
+distribute.<o:p></o:p></span></i></p><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif; line-height: 12pt;"><i><span lang=3D"EN-US" style=3D"font-size: =
+8pt; font-family: Arial, sans-serif; color: rgb(102, 102, 102);">Use and =
+distribution limited solely to authorized personnel. =C2=A9 Copyright =
+2014 Cigna</span></i><span lang=3D"EN-US" style=3D"font-size: 10pt; =
+color: rgb(31, 73, 125);"><o:p></o:p></span></div></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span lang=3D"EN-US" =
+style=3D"font-family: Calibri, sans-serif; color: rgb(31, 73, =
+125);">&nbsp;</span></div><div><div style=3D"border-style: solid none =
+none; border-top-color: rgb(181, 196, 223); border-top-width: 1pt; =
+padding: 3pt 0cm 0cm;"><div style=3D"margin: 0cm 0cm 0.0001pt; =
+font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;"><b><span lang=3D"EN-US" style=3D"font-size: 10pt; font-family: =
+Tahoma, sans-serif;">From:</span></b><span lang=3D"EN-US" =
+style=3D"font-size: 10pt; font-family: Tahoma, sans-serif;"><span =
+class=3D"Apple-converted-space">&nbsp;</span>Ju, Orange TWNRC<span =
+class=3D"Apple-converted-space">&nbsp;</span><br><b>Sent:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span>Tuesday, April 08, 2014 =
+2:41 PM<br><b>To:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span>'billy_chueh / =
+Openfind'<br><b>Cc:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span>Kenny Shih [</span><span =
+style=3D"font-size: 10pt;">=E6=AE=B7=E5=AF=8C=E8=B3=87=E8=A8=8A</span><spa=
+n lang=3D"EN-US" style=3D"font-size: 10pt; font-family: Tahoma, =
+sans-serif;">]<br><b>Subject:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span>RE:<span =
+class=3D"Apple-converted-space">&nbsp;</span></span><span =
+style=3D"font-size: 10pt;">=E5=BA=B7=E5=81=A5</span><span lang=3D"EN-US" =
+style=3D"font-size: 10pt; font-family: Tahoma, =
+sans-serif;">P-Marker</span><span style=3D"font-size: =
+10pt;">=E5=95=8F=E9=A1=8C</span><span lang=3D"EN-US" style=3D"font-size: =
+10pt; font-family: Tahoma, =
+sans-serif;"><o:p></o:p></span></div></div></div><div style=3D"margin: =
+0cm 0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=
+=E9=AB=94, serif;"><span lang=3D"EN-US">&nbsp;</span></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span lang=3D"EN-US" =
+style=3D"font-family: Calibri, sans-serif; color: rgb(31, 73, =
+125);">Hi,<o:p></o:p></span></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span style=3D"color: rgb(31, 73, =
+125);">=E5=BE=88=E6=84=9F=E8=AC=9D=E6=82=A8=E7=9A=84=E5=9B=9E=E7=AD=94</sp=
+an><span lang=3D"EN-US" style=3D"font-family: Calibri, sans-serif; =
+color: rgb(31, 73, 125);">.<o:p></o:p></span></div><div style=3D"margin: =
+0cm 0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=
+=E9=AB=94, serif;"><span style=3D"color: rgb(31, 73, =
+125);">=E9=81=8E=E5=BE=80</span><span lang=3D"EN-US" style=3D"font-family:=
+ Calibri, sans-serif; color: rgb(31, 73, 125);">SCAN</span><span =
+style=3D"color: rgb(31, 73, =
+125);">=E7=9A=84=E8=B3=87=E6=96=99=E5=B0=8D=E6=88=91=E5=80=91=E5=B7=B2=E7=84=
+=A1=E5=AD=98=E5=9C=A8=E6=84=8F=E7=BE=A9</span><span lang=3D"EN-US" =
+style=3D"font-family: Calibri, sans-serif; color: rgb(31, 73, =
+125);">.<o:p></o:p></span></div><div style=3D"margin: 0cm 0cm 0.0001pt; =
+font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;"><span lang=3D"EN-US" style=3D"font-family: Calibri, sans-serif; =
+color: rgb(31, 73, 125);">&nbsp;</span></div><div style=3D"margin: 0cm =
+0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=
+=AB=94, serif;"><span style=3D"color: rgb(31, 73, =
+125);">=E6=89=80=E4=BB=A5</span><span lang=3D"EN-US" style=3D"font-family:=
+ Calibri, sans-serif; color: rgb(31, 73, 125);">..</span><span =
+style=3D"color: rgb(31, 73, =
+125);">=E6=88=91=E5=BE=88=E9=9C=80=E8=A6=81=E8=B2=B4=E5=85=AC=E5=8F=B8=E5=B7=
+=A5=E7=A8=8B=E5=B8=AB</span><span lang=3D"EN-US" style=3D"font-family: =
+Calibri, sans-serif; color: rgb(31, 73, 125);">,</span><span =
+style=3D"color: rgb(31, 73, =
+125);">=E5=8D=94=E5=8A=A9=E5=B9=AB=E5=BF=99=E5=B0=87=E8=B3=87=E6=96=99=E6=B8=
+=85=E9=99=A4</span><span lang=3D"EN-US" style=3D"font-family: Calibri, =
+sans-serif; color: rgb(31, 73, 125);">=E2=80=A6<o:p></o:p></span></div><di=
+v style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span lang=3D"EN-US" =
+style=3D"font-family: Calibri, sans-serif; color: rgb(31, 73, =
+125);">&nbsp;</span></div><div style=3D"margin: 0cm 0cm 0.0001pt; =
+font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;"><span style=3D"color: rgb(31, 73, =
+125);">=E6=98=AF=E5=90=A6=E8=83=BD=E5=B9=AB=E5=BF=99=E6=B8=85=E9=99=A4</sp=
+an><span lang=3D"EN-US" style=3D"font-family: Calibri, sans-serif; =
+color: rgb(31, 73, 125);">???<o:p></o:p></span></div><div style=3D"margin:=
+ 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=
+=E9=AB=94, serif;"><span lang=3D"EN-US" style=3D"font-family: Calibri, =
+sans-serif; color: rgb(31, 73, 125);">&nbsp;</span></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span style=3D"color: =
+rgb(31, 73, 125);">=E6=84=9F=E8=AC=9D=E6=82=A8</span><span lang=3D"EN-US" =
+style=3D"font-family: Calibri, sans-serif; color: rgb(31, 73, =
+125);">..<o:p></o:p></span></div><div style=3D"margin: 0cm 0cm 0.0001pt; =
+font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;"><span lang=3D"EN-US" style=3D"font-family: Calibri, sans-serif; =
+color: rgb(31, 73, 125);">&nbsp;</span></div><div style=3D"margin: 0cm =
+0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=
+=AB=94, serif;"><span lang=3D"EN-US" style=3D"font-family: Calibri, =
+sans-serif; color: rgb(31, 73, 125);">&nbsp;</span></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span lang=3D"EN-US" =
+style=3D"font-family: Calibri, sans-serif; color: rgb(31, 73, =
+125);">&nbsp;</span></div><div style=3D"margin: 0cm 0cm 0.0001pt; =
+font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif; line-height: 12pt;"><b><span lang=3D"EN-US" style=3D"font-size: =
+10pt; font-family: Arial, sans-serif; color: rgb(14, 30, 99);">Orange =
+Ju<span class=3D"Apple-converted-space">&nbsp;</span></span></b><b><span =
+style=3D"font-size: 10pt; color: rgb(14, 30, =
+99);">=E9=9E=A0=E8=88=88=E8=8F=AF</span></b><span lang=3D"EN-US" =
+style=3D"font-family: Calibri, sans-serif; color: rgb(31, 73, =
+125);"><br></span><b><span lang=3D"EN-US" style=3D"font-size: 10pt; =
+font-family: Arial, sans-serif; color: rgb(14, 30, 99);">System =
+Department<o:p></o:p></span></b></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif; line-height: 12pt;"><b><span lang=3D"EN-US" style=3D"font-size: =
+10pt; font-family: Arial, sans-serif; color: rgb(14, 30, 99);">Cigna =
+Taiwan<o:p></o:p></span></b></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif; line-height: 12pt;"><b><span lang=3D"EN-US" style=3D"font-size: =
+10pt; font-family: Arial, sans-serif; color: rgb(14, 30, =
+99);">Tel:</span></b><b><span lang=3D"EN-US" style=3D"font-size: 10pt; =
+color: rgb(14, 30, 99);">&nbsp;</span></b><b><span lang=3D"EN-US" =
+style=3D"font-size: 10pt; font-family: Arial, sans-serif; color: rgb(14, =
+30, 99);">02-66231688#1511<o:p></o:p></span></b></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif; line-height: =
+12pt;"><b><span lang=3D"EN-US" style=3D"font-size: 10pt; font-family: =
+Arial, sans-serif; color: rgb(14, 30, 99);">Email:</span></b><b><span =
+lang=3D"EN-US" style=3D"font-family: Calibri, sans-serif; color: rgb(31, =
+73, 125);">&nbsp;</span></b><span lang=3D"EN-US" style=3D"font-size: =
+10pt; font-family: Arial, sans-serif; color: rgb(31, 73, 125);"><a =
+href=3D"mailto:Orange.Ju@cigna.com" style=3D"color: purple; =
+text-decoration: underline;">Orange.Ju@cigna.com</a></span><span =
+lang=3D"EN-US" style=3D"color: rgb(31, 73, =
+125);"><o:p></o:p></span></div><p class=3D"MsoNormal" style=3D"margin: =
+6pt 0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=
+=E9=AB=94, serif; line-height: 12pt;"><i><span lang=3D"EN-US" =
+style=3D"font-size: 8pt; font-family: Arial, sans-serif; color: rgb(102, =
+102, 102);">Confidential, unpublished property of Cigna. Do not =
+duplicate or distribute.<o:p></o:p></span></i></p><div style=3D"margin: =
+0cm 0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=
+=E9=AB=94, serif; line-height: 12pt;"><i><span lang=3D"EN-US" =
+style=3D"font-size: 8pt; font-family: Arial, sans-serif; color: rgb(102, =
+102, 102);">Use and distribution limited solely to authorized personnel. =
+=C2=A9 Copyright 2014 Cigna</span></i><span lang=3D"EN-US" =
+style=3D"font-size: 10pt; color: rgb(31, 73, =
+125);"><o:p></o:p></span></div><div style=3D"margin: 0cm 0cm 0.0001pt; =
+font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;"><span lang=3D"EN-US" style=3D"font-family: Calibri, sans-serif; =
+color: rgb(31, 73, 125);">&nbsp;</span></div><div style=3D"margin: 0cm =
+0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=
+=AB=94, serif;"><b><span lang=3D"EN-US" style=3D"font-size: 10pt; =
+font-family: Tahoma, sans-serif;">From:</span></b><span lang=3D"EN-US" =
+style=3D"font-size: 10pt; font-family: Tahoma, sans-serif;"><span =
+class=3D"Apple-converted-space">&nbsp;</span>billy_chueh / Openfind<span =
+class=3D"Apple-converted-space">&nbsp;</span><a =
+href=3D"mailto:[mailto:billy_chueh@openfind.com.tw]" style=3D"color: =
+purple; text-decoration: =
+underline;">[mailto:billy_chueh@openfind.com.tw]</a><span =
+class=3D"Apple-converted-space">&nbsp;</span><br><b>Sent:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span>Tuesday, April 08, 2014 =
+2:35 PM<br><b>To:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span>Ju, Orange =
+TWNRC<br><b>Cc:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span>Kenny Shih [</span><span =
+style=3D"font-size: 10pt;">=E6=AE=B7=E5=AF=8C=E8=B3=87=E8=A8=8A</span><spa=
+n lang=3D"EN-US" style=3D"font-size: 10pt; font-family: Tahoma, =
+sans-serif;">]; Billy Chueh<br><b>Subject:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span>Re:<span =
+class=3D"Apple-converted-space">&nbsp;</span></span><span =
+style=3D"font-size: 10pt;">=E5=BA=B7=E5=81=A5</span><span lang=3D"EN-US" =
+style=3D"font-size: 10pt; font-family: Tahoma, =
+sans-serif;">P-Marker</span><span style=3D"font-size: =
+10pt;">=E5=95=8F=E9=A1=8C</span><span lang=3D"EN-US" style=3D"font-size: =
+10pt; font-family: Tahoma, sans-serif;"><o:p></o:p></span></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span =
+lang=3D"EN-US">&nbsp;</span></div><div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span lang=3D"EN-US">Hello, =
+Orange,<o:p></o:p></span></div></div><div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span lang=3D"EN-US">&nbsp;</span></div></div><div><div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">=E7=B6=93=E9=81=8E=E8=B7=9F<=
+span =
+lang=3D"EN-US">R&amp;D</span>=E7=A2=BA=E8=AA=8D=E4=B9=8B=E5=BE=8C=E5=BE=97=
+=E7=9F=A5=EF=BC=8C=E5=A6=82=E6=9E=9C=E8=A6=81=E6=B8=85=E9=99=A4=E7=9B=B8=E9=
+=97=9C=E7=9B=A4=E9=BB=9E=E8=A8=98=E9=8C=84=E6=98=AF=E5=8F=AF=E8=A1=8C=E7=9A=
+=84=EF=BC=8C=E4=BD=86=E4=B8=8D=E5=BB=BA=E8=AD=B0=EF=BC=8C<span =
+lang=3D"EN-US"><o:p></o:p></span></div></div><div><div style=3D"margin: =
+0cm 0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=
+=E9=AB=94, =
+serif;">=E5=9B=A0=E7=82=BA=E6=98=AF=E7=9B=B4=E6=8E=A5=E9=87=9D=E5=B0=8D=E8=
+=B3=87=E6=96=99=E5=BA=AB=E9=80=B2=E8=A1=8C=E6=B8=85=E6=8E=89=EF=BC=8C=E6=89=
+=80=E4=BB=A5=E5=8C=85=E5=90=AB=E9=81=8E=E5=BE=80=E7=9A=84=E6=89=80=E6=9C=89=
+=E7=9B=A4=E9=BB=9E=E8=A8=98=E9=8C=84=E9=83=BD=E6=9C=83=E6=B6=88=E5=A4=B1=E3=
+=80=82<span lang=3D"EN-US"><o:p></o:p></span></div></div><div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span =
+lang=3D"EN-US">&nbsp;</span></div></div><div><div style=3D"margin: 0cm =
+0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=
+=AB=94, =
+serif;">=E5=A6=82=E6=9E=9C=E5=8F=AA=E6=98=AF=E6=B8=85=E9=99=A4=E3=80=8C=E5=
+=B7=B2=E5=AE=8C=E6=88=90=E3=80=8D=E9=80=99=E5=80=8B=E6=AC=84=E4=BD=8D=E7=9A=
+=84=E6=95=B8=E5=80=BC=EF=BC=8C=E5=96=AE=E7=B4=94=E6=B8=85=E9=80=99=E5=80=8B=
+=E6=AC=84=E4=BD=8D=E7=9A=84=E8=A9=B1=E5=B0=B1=E6=B2=92=E8=BE=A6=E6=B3=95=EF=
+=BC=8C<span lang=3D"EN-US"><o:p></o:p></span></div></div><div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;">=E5=9B=A0=E7=82=BA=E6=9C=83=E9=80=A3=E5=85=B6=E4=BB=96=E8=B3=87=E6=
+=96=99=E4=B8=80=E8=B5=B7=E6=B8=85=E6=8E=89=E3=80=82<span =
+lang=3D"EN-US"><o:p></o:p></span></div></div></div><div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span =
+lang=3D"EN-US">&nbsp;</span></div></div><div><div style=3D"margin: 0cm =
+0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=
+=AB=94, serif;">=E4=BB=A5=E4=B8=8A=E8=AA=AA=E6=98=8E=E9=82=84=E8=AB=8B=E6=82=
+=A8=E5=8F=83=E8=80=83=E4=B8=80=E4=B8=8B=EF=BC=8C=E8=AC=9D=E8=AC=9D<span =
+lang=3D"EN-US">!<o:p></o:p></span></div></div><div><div style=3D"margin: =
+0cm 0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=
+=E9=AB=94, serif;"><span lang=3D"EN-US">&nbsp;</span></div></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;">=E5=A6=82=E6=9E=9C=E6=9C=89=E4=BB=BB=E4=BD=95=E9=9C=80=E6=B1=82=E6=
+=88=96=E8=80=85=E6=98=AF=E5=95=8F=E9=A1=8C=E8=AB=8B=E9=9A=A8=E6=99=82=E8=AE=
+=93=E6=88=91=E7=9F=A5=E9=81=93=EF=BC=8C=E6=88=91=E6=9C=83=E5=BE=88=E9=AB=98=
+=E8=88=88=E7=9A=84=E4=BE=86=E7=82=BA=E6=82=A8=E6=9C=8D=E5=8B=99=EF=BC=8C=E8=
+=AC=9D=E8=AC=9D<span lang=3D"EN-US">!<br>Sincerely =
+yours,<br><br>Billy<o:p></o:p></span></div><div><div style=3D"margin: =
+0cm 0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=
+=E9=AB=94, serif;"><span =
+lang=3D"EN-US">&nbsp;</span></div></div><div><div><div style=3D"margin: =
+0cm 0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=
+=E9=AB=94, serif;"><span lang=3D"EN-US" =
+style=3D"">--------------------------------------------------------</span>=
+<span lang=3D"EN-US" style=3D"color: =
+blue;"><o:p></o:p></span></div></div><div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><strong><span lang=3D"EN-US" style=3D"font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif; color: =
+red;">NT$1,000</span></strong><strong><span style=3D"font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif; color: red;">=E5=85=83 =
+=E6=8A=B5=E7=94=A8=E9=87=91=E9=80=81=E7=B5=A6=E6=82=A8</span></strong><spa=
+n lang=3D"EN-US" style=3D"color: =
+blue;"><o:p></o:p></span></div></div><div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span style=3D"">=E6=88=90=E5=8A=9F=E6=8E=A8=E8=96=A6=E4=B8=80=E9=
+=96=93=E4=BC=81=E6=A5=AD=E9=81=B8=E7=94=A8<span lang=3D"EN-US"><span =
+class=3D"Apple-converted-space">&nbsp;</span>MailCloud<span =
+class=3D"Apple-converted-space">&nbsp;</span></span>=E6=9C=8D=E5=8B=99=E5=8D=
+=B3=E5=8F=AF</span><span lang=3D"EN-US" style=3D"color: =
+blue;"><o:p></o:p></span></div></div><div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span style=3D"">=E7=8D=B2=E5=BE=97<strong><span lang=3D"EN-US" =
+style=3D"font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;">NT$1,000</span></strong><strong><span style=3D"font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">=E5=85=83 =
+=E6=8A=B5=E7=94=A8=E9=87=91</span></strong>=EF=BC=8C=E8=A2=AB=E6=8E=A8=E8=96=
+=A6=E8=80=85=E6=96=B0=E7=94=B3=E8=AB=8B</span><span lang=3D"EN-US" =
+style=3D"color: blue;"><o:p></o:p></span></div></div><div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span lang=3D"EN-US" =
+style=3D"">MailCloud<span =
+class=3D"Apple-converted-space">&nbsp;</span></span><span =
+style=3D"">=E4=BF=A1=E7=AE=B1=E4=BA=A6=E4=BA=AB<strong><span =
+lang=3D"EN-US" style=3D"font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=
+ serif;">9</span></strong><strong><span style=3D"font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">=E6=8A=98=E5=84=AA=E6=83=A0<=
+span lang=3D"EN-US">&nbsp;</span></span></strong></span><strong><span =
+lang=3D"EN-US" style=3D"font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=
+ serif; color: fuchsia;"><a =
+href=3D"http://www.mailcloud.com.tw/recommend/" style=3D"color: purple; =
+text-decoration: underline;"><span =
+lang=3D"EN-US">=E6=9B=B4=E5=A4=9A=E4=BB=8B=E7=B4=B9</span></a></span></str=
+ong><span lang=3D"EN-US" style=3D"color: blue;">&nbsp;</span><span =
+style=3D"">=E6=88=96=E4=BE=86</span><span lang=3D"EN-US" style=3D"color: =
+blue;"><o:p></o:p></span></div></div><div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span style=3D"">=E9=9B=BB=E6=B4=BD=E8=A9=A2</span><span =
+lang=3D"EN-US" style=3D"color: =
+blue;"><o:p></o:p></span></div></div><div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span lang=3D"EN-US" =
+style=3D"">---------------------------------------------------------</span=
+><span lang=3D"EN-US" style=3D"color: =
+blue;"><o:p></o:p></span></div></div><div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span lang=3D"EN-US">&nbsp;</span></div></div><div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><b><span lang=3D"EN-US" =
+style=3D"color: rgb(255, 153, 0);">Openfind<span =
+class=3D"Apple-converted-space">&nbsp;</span></span><span style=3D"color: =
+rgb(255, 153, =
+0);">=E9=83=B5=E4=BB=B6=E7=AE=A1=E7=90=86=E7=94=A2=E5=93=81=E6=A6=AE=E7=8D=
+=B2=E5=85=AC=E5=AE=B6=E5=96=AE=E4=BD=8D=E5=BF=83=E7=9B=AE=E4=B8=AD=E7=AC=AC=
+=E4=B8=80=E5=93=81=E7=89=8C=E6=AE=8A=E6=A6=AE</span></b><span =
+lang=3D"EN-US"><o:p></o:p></span></div></div><div><div style=3D"margin: =
+0cm 0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=
+=E9=AB=94, serif;"><span lang=3D"EN-US"><a =
+href=3D"http://www.openfind.com/taiwan/newsevents/news_detail.php?news_id=3D=
+2350" style=3D"color: purple; text-decoration: =
+underline;">http://www.openfind.com/taiwan/newsevents/news_detail.php?news=
+_id=3D2350</a><o:p></o:p></span></div><div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span lang=3D"EN-US">&nbsp;</span></div></div><div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><strong><span =
+style=3D"font-size: 11.5pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=
+=94, serif; color: rgb(84, 125, =
+188);">=E7=8B=82=E8=B3=80=E4=BA=94=E9=80=A3=E9=9C=B8</span></strong><stron=
+g><span lang=3D"EN-US" style=3D"font-size: 11.5pt; font-family: Verdana, =
+sans-serif; color: rgb(84, 125, 188);">! Openfind MailBase<span =
+class=3D"Apple-converted-space">&nbsp;</span></span></strong><strong><span=
+ style=3D"font-size: 11.5pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=
+=94, serif; color: rgb(84, 125, =
+188);">=E9=80=A3=E7=BA=8C=E4=BA=94=E5=B9=B4=E6=97=A5=E6=9C=AC=E5=9C=8B=E5=85=
+=A7=E9=83=B5=E4=BB=B6=E6=AD=B8=E6=AA=94=E8=BB=9F=E9=AB=94=E5=B8=82=E4=BD=94=
+=E7=8E=87=E7=AC=AC=E4=B8=80</span></strong><span =
+lang=3D"EN-US"><o:p></o:p></span></div></div><div><div style=3D"margin: =
+0cm 0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=
+=E9=AB=94, serif;"><span lang=3D"EN-US"><a =
+href=3D"http://www.openfind.com.tw/taiwan/newsevents/news_detail.php?news_=
+id=3D4750" style=3D"color: purple; text-decoration: =
+underline;">http://www.openfind.com.tw/taiwan/newsevents/news_detail.php?n=
+ews_id=3D4750</a><o:p></o:p></span></div></div><div><div style=3D"margin: =
+0cm 0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=
+=E9=AB=94, serif;"><span lang=3D"EN-US">&nbsp;</span></div></div><div><div=
+ style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><strong><span =
+style=3D"font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif; =
+color: rgb(204, 102, 0);">=E6=8C=81=E7=BA=8C=E6=B7=B1=E8=80=95=E9=83=B5=E4=
+=BB=B6=E7=A8=BD=E6=A0=B8=E5=B8=82=E5=A0=B4 =E7=B6=B2=E6=93=8E=E6=8E=A8=E5=87=
+=BA<span lang=3D"EN-US"><span =
+class=3D"Apple-converted-space">&nbsp;</span>MailAudit<span =
+class=3D"Apple-converted-space">&nbsp;</span></span>=E9=83=B5=E4=BB=B6=E7=A8=
+=BD=E6=A0=B8=E7=B3=BB=E7=B5=B1</span></strong><span =
+lang=3D"EN-US"><o:p></o:p></span></div></div><div><div style=3D"margin: =
+0cm 0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=
+=E9=AB=94, serif;"><span lang=3D"EN-US"><a =
+href=3D"http://www.openfind.com.tw/taiwan/newsevents/news_detail.php?news_=
+id=3D4716" style=3D"color: purple; text-decoration: =
+underline;">http://www.openfind.com.tw/taiwan/newsevents/news_detail.php?n=
+ews_id=3D4716</a><br><br><b><span style=3D"color: rgb(51, 204, =
+51);">Openfind P-Marker<span =
+class=3D"Apple-converted-space">&nbsp;</span></span></b></span><b><span =
+style=3D"color: rgb(51, 204, 51);">=E5=80=8B=E8=B3=87=E7=9B=A4=E9=BB=9E=E6=
+=9C=8D=E5=8B=99=E6=9C=80=E6=96=B0=E5=8B=95=E6=85=8B<span =
+lang=3D"EN-US">(<span =
+class=3D"Apple-converted-space">&nbsp;</span></span>=E5=80=8B=E8=B3=87=E6=B3=
+=95=E5=8B=95=E6=85=8B=E7=AC=AC=E4=B8=80=E6=89=8B=E6=8E=8C=E6=8F=A1<span =
+lang=3D"EN-US"><span =
+class=3D"Apple-converted-space">&nbsp;</span>)</span></span></b><span =
+lang=3D"EN-US"><br><a href=3D"http://www.p-marker.com.tw/news.html" =
+style=3D"color: purple; text-decoration: =
+underline;">http://www.p-marker.com.tw/news.html</a><br><br>**************=
+******************************<br></span>=E9=97=95=E4=BC=8A=E6=9D=90<span =
+lang=3D"EN-US"><span class=3D"Apple-converted-space">&nbsp;</span>/ =
+Openfind<span =
+class=3D"Apple-converted-space">&nbsp;</span></span>=E7=94=A2=E5=93=81=E4=BA=
+=8B=E6=A5=AD=E9=83=A8<span lang=3D"EN-US"><span =
+class=3D"Apple-converted-space">&nbsp;</span><br>Tel: (02)2553-2000 # =
+798<br>Mobile: 0958-535993 / 0982-354713<br>Fax: (02)2553-3639<span =
+class=3D"Apple-converted-space">&nbsp;</span><br>Email:<a =
+href=3D"mailto:billy_chueh@openfind.com" style=3D"color: purple; =
+text-decoration: underline;">billy_chueh@openfind.com</a><span =
+class=3D"Apple-converted-space">&nbsp;</span><br><a =
+href=3D"url:http://www.openfind.com/taiwan/index.htm" style=3D"color: =
+purple; text-decoration: =
+underline;">URL:http://www.openfind.com/taiwan/index.htm</a><br>Add: =
+103</span>=E5=8F=B0=E5=8C=97=E5=B8=82=E5=A4=A7=E5=90=8C=E5=8D=80=E9=87=8D=E6=
+=85=B6=E5=8C=97=E8=B7=AF<span lang=3D"EN-US">2</span>=E6=AE=B5<span =
+lang=3D"EN-US">243</span>=E8=99=9F<span lang=3D"EN-US">7</span>=E6=A8=93<s=
+pan lang=3D"EN-US">(</span>=E9=99=BD=E6=98=8E=E6=B5=B7=E9=81=8B=E5=A4=A7=E6=
+=A8=93<span =
+lang=3D"EN-US">)<br>********************************************<o:p></o:p=
+></span></div></div></div></div><div style=3D"margin: 0cm 0cm 0.0001pt; =
+font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;"><span lang=3D"EN-US"><br>-----Original =
+message-----<br><b>From:</b>Kenny Shih [</span>=E6=AE=B7=E5=AF=8C=E8=B3=87=
+=E8=A8=8A<span lang=3D"EN-US">]&lt;<a =
+href=3D"mailto:Kenny.Shih@INFOTECH.COM.TW" style=3D"color: purple; =
+text-decoration: =
+underline;">Kenny.Shih@INFOTECH.COM.TW</a>&gt;<br><b>To:</b>Ju, Orange =
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TWNRC&lt;<a =
+href=3D"mailto:Orange.Ju@cigna.com" style=3D"color: purple; =
+text-decoration: underline;">Orange.Ju@cigna.com</a>&gt;<br><b>Cc:</b><a =
+href=3D"mailto:billy_chueh@openfind.com.tw" style=3D"color: purple; =
+text-decoration: underline;">billy_chueh@openfind.com.tw</a>&lt;<a =
+href=3D"mailto:billy_chueh@openfind.com.tw" style=3D"color: purple; =
+text-decoration: =
+underline;">billy_chueh@openfind.com.tw</a>&gt;<br><b>Date:<span =
+class=3D"Apple-converted-space">&nbsp;</span></b>Thu, 03 Apr 2014 =
+11:18:08<br><b>Subject:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span></span>=E5=BA=B7=E5=81=A5<spa=
+n lang=3D"EN-US">P-Marker</span>=E5=95=8F=E9=A1=8C<span =
+lang=3D"EN-US"><o:p></o:p></span></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span style=3D"font-size: 11pt;">=E6=A9=98=E5=AD=90=E5=93=A5<spa=
+n lang=3D"EN-US">:</span></span><span =
+lang=3D"EN-US"><o:p></o:p></span></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span lang=3D"EN-US" style=3D"font-size: =
+11pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;</span><span style=3D"font-size: 11pt;">=E5=B7=B2=E7=B6=93=E8=B7=9F=E7=
+=B6=B2=E6=93=8E<span =
+lang=3D"EN-US">Billy</span>=E8=81=AF=E7=B5=A1=E9=81=8E=EF=BC=8C=E4=BB=96=E6=
+=9C=83=E5=8E=BB=E7=9E=AD=E8=A7=A3=E8=AB=8B=E6=82=A8=E7=A8=8D=E7=AD=89=E4=B8=
+=80=E4=B8=8B=EF=BC=8C=E7=85=A7=E6=88=90=E6=82=A8=E7=9A=84=E5=9B=B0=E6=93=BE=
+=E6=B7=B1=E6=84=9F=E6=8A=B1=E6=AD=89=EF=BC=8C=E8=AC=9D=E8=AC=9D=E3=80=82</=
+span><span lang=3D"EN-US"><o:p></o:p></span></div><div style=3D"margin: =
+0cm 0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=
+=E9=AB=94, serif;"><span lang=3D"EN-US" style=3D"font-size: =
+11pt;">&nbsp;</span><span lang=3D"EN-US"><o:p></o:p></span></div><div><div=
+ style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span style=3D"font-size: =
+10pt;">=E6=AE=B7=E5=AF=8C=E8=B3=87=E8=A8=8A=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=
+=90=E5=85=AC=E5=8F=B8</span><span =
+lang=3D"EN-US"><o:p></o:p></span></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span style=3D"font-size: 10pt;">=E6=A5=AD=E5=8B=99=E7=B6=93=E7=90=
+=86<span lang=3D"EN-US">&nbsp;&nbsp;<span =
+class=3D"Apple-converted-space">&nbsp;</span></span>=E6=96=BD=E7=8E=89=E9=BE=
+=8D</span><span lang=3D"EN-US"><o:p></o:p></span></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span lang=3D"EN-US" =
+style=3D"font-size: 10pt;"><a href=3D"tel:02-2719-9099#188" =
+style=3D"color: purple; text-decoration: =
+underline;">TEL:02-2719-9099#188</a></span><span =
+lang=3D"EN-US"><o:p></o:p></span></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span lang=3D"EN-US" style=3D"font-size: =
+10pt;">FAX:02-2719-9055</span><span =
+lang=3D"EN-US"><o:p></o:p></span></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span lang=3D"EN-US" style=3D"font-size: =
+10pt;">MOBLE:0931-711-107</span><span =
+lang=3D"EN-US"><o:p></o:p></span></div></div><div><div class=3D"MsoNormal"=
+ align=3D"center" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; =
+font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif; text-align: =
+center;"><span lang=3D"EN-US"><hr size=3D"2" width=3D"100%" =
+align=3D"center"></span></div><div style=3D"margin: 0cm 0cm 0.0001pt; =
+font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;"><b><span lang=3D"EN-US" style=3D"font-size: 10pt; font-family: =
+Tahoma, sans-serif;">From:</span></b><span lang=3D"EN-US" =
+style=3D"font-size: 10pt; font-family: Tahoma, sans-serif;"><span =
+class=3D"Apple-converted-space">&nbsp;</span>Ju, Orange TWNRC<span =
+class=3D"Apple-converted-space">&nbsp;</span><a =
+href=3D"mailto:[mailto:Orange.Ju@cigna.com]" style=3D"color: purple; =
+text-decoration: underline;">[mailto:Orange.Ju@cigna.com]</a><span =
+class=3D"Apple-converted-space">&nbsp;</span><br><b>Sent:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span>Thursday, April 03, 2014 =
+10:28 AM<br><b>To:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span>Kenny Shih [</span><span =
+style=3D"font-size: 10pt;">=E6=AE=B7=E5=AF=8C=E8=B3=87=E8=A8=8A</span><spa=
+n lang=3D"EN-US" style=3D"font-size: 10pt; font-family: Tahoma, =
+sans-serif;">]<br><b>Subject:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span>FW: Openfind =
+P-Marker_</span><span style=3D"font-size: =
+10pt;">=E7=B6=AD=E8=AD=B7=E5=88=B0=E6=9C=9F=E9=80=9A=E7=9F=A5</span><span =
+lang=3D"EN-US" style=3D"font-size: 10pt; font-family: Tahoma, =
+sans-serif;">_</span><span style=3D"font-size: =
+10pt;">=E6=AE=B7=E5=AF=8C=E8=B3=87=E8=A8=8A=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=
+=90=E5=85=AC=E5=8F=B8</span><span lang=3D"EN-US" style=3D"font-size: =
+10pt; font-family: Tahoma, sans-serif;">_</span><span style=3D"font-size: =
+10pt;">=E5=9C=8B=E9=9A=9B=E5=BA=B7=E5=81=A5=E4=BA=BA=E5=A3=BD=E4=BF=9D=E9=9A=
+=AA=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=90=E5=85=AC=E5=8F=B8</span><span =
+lang=3D"EN-US"><o:p></o:p></span></div></div><div style=3D"margin: 0cm =
+0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=
+=AB=94, serif;"><span lang=3D"EN-US">&nbsp;<o:p></o:p></span></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span lang=3D"EN-US" =
+style=3D"font-family: Calibri, sans-serif; color: rgb(31, 73, =
+125);">&nbsp;</span><span lang=3D"EN-US"><o:p></o:p></span></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span lang=3D"EN-US" =
+style=3D"font-family: Calibri, sans-serif; color: rgb(31, 73, =
+125);">&nbsp;</span><span lang=3D"EN-US"><o:p></o:p></span></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif; line-height: =
+12pt;"><b><span lang=3D"EN-US" style=3D"font-size: 10pt; font-family: =
+Arial, sans-serif; color: rgb(14, 30, 99);">Orange Ju<span =
+class=3D"Apple-converted-space">&nbsp;</span></span></b><b><span =
+style=3D"font-size: 10pt; color: rgb(14, 30, =
+99);">=E9=9E=A0=E8=88=88=E8=8F=AF</span></b><span lang=3D"EN-US" =
+style=3D"font-family: Calibri, sans-serif; color: rgb(31, 73, =
+125);"><br></span><b><span lang=3D"EN-US" style=3D"font-size: 10pt; =
+font-family: Arial, sans-serif; color: rgb(14, 30, 99);">System =
+Department</span></b><span lang=3D"EN-US"><o:p></o:p></span></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif; line-height: =
+12pt;"><b><span lang=3D"EN-US" style=3D"font-size: 10pt; font-family: =
+Arial, sans-serif; color: rgb(14, 30, 99);">Cigna Taiwan</span></b><span =
+lang=3D"EN-US"><o:p></o:p></span></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif; line-height: 12pt;"><b><span lang=3D"EN-US" style=3D"font-size: =
+10pt; font-family: Arial, sans-serif; color: rgb(14, 30, =
+99);">Tel:</span></b><b><span lang=3D"EN-US" style=3D"font-size: 10pt; =
+color: rgb(14, 30, 99);">&nbsp;</span></b><b><span lang=3D"EN-US" =
+style=3D"font-size: 10pt; font-family: Arial, sans-serif; color: rgb(14, =
+30, 99);">02-66231688#1511</span></b><span =
+lang=3D"EN-US"><o:p></o:p></span></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif; line-height: 12pt;"><b><span lang=3D"EN-US" style=3D"font-size: =
+10pt; font-family: Arial, sans-serif; color: rgb(14, 30, =
+99);">Email:</span></b><b><span lang=3D"EN-US" style=3D"font-family: =
+Calibri, sans-serif; color: rgb(31, 73, 125);">&nbsp;</span></b><span =
+lang=3D"EN-US" style=3D"font-size: 10pt; font-family: Arial, sans-serif; =
+color: rgb(31, 73, 125);"><a href=3D"mailto:Orange.Ju@cigna.com" =
+style=3D"color: purple; text-decoration: =
+underline;">Orange.Ju@cigna.com</a></span><span =
+lang=3D"EN-US"><o:p></o:p></span></div><p class=3D"MsoNormal" =
+style=3D"margin: 6pt 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif; line-height: =
+12pt;"><i><span lang=3D"EN-US" style=3D"font-size: 8pt; font-family: =
+Arial, sans-serif; color: rgb(102, 102, 102);">Confidential, unpublished =
+property of Cigna. Do not duplicate or distribute.</span></i><span =
+lang=3D"EN-US"><o:p></o:p></span></p><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif; line-height: 12pt;"><i><span lang=3D"EN-US" style=3D"font-size: =
+8pt; font-family: Arial, sans-serif; color: rgb(102, 102, 102);">Use and =
+distribution limited solely to authorized personnel. =C2=A9 Copyright =
+2014 Cigna</span></i><span lang=3D"EN-US"><o:p></o:p></span></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span lang=3D"EN-US" =
+style=3D"font-family: Calibri, sans-serif; color: rgb(31, 73, =
+125);">&nbsp;</span><span lang=3D"EN-US"><o:p></o:p></span></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><b><span lang=3D"EN-US" =
+style=3D"font-size: 10pt; font-family: Tahoma, =
+sans-serif;">From:</span></b><span lang=3D"EN-US" style=3D"font-size: =
+10pt; font-family: Tahoma, sans-serif;"><span =
+class=3D"Apple-converted-space">&nbsp;</span><a =
+href=3D"mailto:p-marker@openfind.com.tw" style=3D"color: purple; =
+text-decoration: underline;">p-marker@openfind.com.tw</a><span =
+class=3D"Apple-converted-space">&nbsp;</span><a =
+href=3D"mailto:[mailto:p-marker@openfind.com.tw]" style=3D"color: =
+purple; text-decoration: =
+underline;">[mailto:p-marker@openfind.com.tw]</a><span =
+class=3D"Apple-converted-space">&nbsp;</span><br><b>Sent:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span>Wednesday, April 02, 2014 =
+3:21 PM<br><b>To:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span>Ju, Orange =
+TWNRC<br><b>Cc:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span>Billy Chueh; =
+p-marker<br><b>Subject:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span>RE: Openfind =
+P-Marker_</span><span style=3D"font-size: =
+10pt;">=E7=B6=AD=E8=AD=B7=E5=88=B0=E6=9C=9F=E9=80=9A=E7=9F=A5</span><span =
+lang=3D"EN-US" style=3D"font-size: 10pt; font-family: Tahoma, =
+sans-serif;">_</span><span style=3D"font-size: =
+10pt;">=E6=AE=B7=E5=AF=8C=E8=B3=87=E8=A8=8A=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=
+=90=E5=85=AC=E5=8F=B8</span><span lang=3D"EN-US" style=3D"font-size: =
+10pt; font-family: Tahoma, sans-serif;">_</span><span style=3D"font-size: =
+10pt;">=E5=9C=8B=E9=9A=9B=E5=BA=B7=E5=81=A5=E4=BA=BA=E5=A3=BD=E4=BF=9D=E9=9A=
+=AA=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=90=E5=85=AC=E5=8F=B8</span><span =
+lang=3D"EN-US"><o:p></o:p></span></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span lang=3D"EN-US">&nbsp;<o:p></o:p></span></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">=E9=9E=A0=E5=85=88=E7=94=9F=E6=
+=82=A8=E5=A5=BD=EF=BC=9A<span =
+lang=3D"EN-US"><br><br></span>=E6=82=A8=E7=9A=84=E5=95=8F=E9=A1=8C=EF=BC=8C=
+=E6=88=91=E5=80=91=E5=9B=9E=E8=A6=86=E5=A6=82=E4=B8=8B=EF=BC=9A<span =
+lang=3D"EN-US"><br><br></span>=E7=9B=AE=E5=89=8D=E5=9B=A0=E7=82=BA=E8=A8=AD=
+=E8=A8=88=E4=B8=8A=E7=9A=84=E9=99=90=E5=88=B6=EF=BC=8C=E5=B7=B2=E6=8E=83=E6=
+=8F=8F=E5=AE=8C=E6=88=90=E7=9A=84=E6=95=B8=E5=80=BC=E6=98=AF=E7=84=A1=E6=B3=
+=95=E6=B8=85=E9=99=A4=E7=9A=84=EF=BC=8C=E8=AC=9D=E8=AC=9D=E3=80=82<span =
+lang=3D"EN-US"><br><br></span>=E8=8B=A5=E9=82=84=E6=9C=89=E4=BB=BB=E4=BD=95=
+=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=B9=9F=E8=AB=8B=E6=82=A8=E8=B7=9F=E6=88=91=E5=
+=80=91=E8=81=AF=E7=B5=A1=EF=BC=8C=E8=AC=9D=E8=AC=9D=EF=BC=81<span =
+lang=3D"EN-US"><br>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D<br></span>=E2=97=86=E6=9C=8D=E5=8B=99=E4=BF=A1=
+=E7=AE=B1=E3=80=80=E3=80=80=E3=80=80=E3=80=80<span =
+class=3D"Apple-converted-space">&nbsp;</span><span lang=3D"EN-US"><a =
+href=3D"mailto:m2k_noc@openfind.com.tw" style=3D"color: purple; =
+text-decoration: =
+underline;">m2k_noc@openfind.com.tw</a><br></span>=E2=97=86=E6=8A=80=E8=A1=
+=93=E6=94=AF=E6=8F=B4=E5=B7=A5=E7=A8=8B=E5=B8=AB=E3=80=80=E3=80=80=E5=90=B3=
+=E5=B2=B3=E5=AE=97=E3=80=80=E3=80=80<span lang=3D"EN-US">Terry Wu<span =
+class=3D"Apple-converted-space">&nbsp;</span><br></span>=E2=97=86<span =
+lang=3D"EN-US">Openfind</span>=E7=B6=B2=E8=B7=AF=E8=B3=87=E6=BA=90<span =
+class=3D"Apple-converted-space">&nbsp;</span><span lang=3D"EN-US"><a =
+href=3D"http://www.openfind.com/" style=3D"color: purple; =
+text-decoration: =
+underline;">http://www.openfind.com/</a><br></span>=E2=97=86<span =
+lang=3D"EN-US">Mail2000</span>=E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1<span =
+class=3D"Apple-converted-space">&nbsp;</span><span lang=3D"EN-US"><a =
+href=3D"http://www.mail2000.com.tw/" style=3D"color: purple; =
+text-decoration: =
+underline;">http://www.mail2000.com.tw/</a><br>=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D<br>-----Original=
+ message-----<br><b>From:</b>Ju, Orange =
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TWNRC&lt;<a =
+href=3D"mailto:Orange.Ju@Cigna.com" style=3D"color: purple; =
+text-decoration: =
+underline;">Orange.Ju@Cigna.com</a>&gt;<br><b>To:</b></span>=E7=B6=B2=E6=93=
+=8E<span lang=3D"EN-US"><span =
+class=3D"Apple-converted-space">&nbsp;</span>Openfind<span =
+class=3D"Apple-converted-space">&nbsp;</span></span>=E6=A5=AD=E5=8B=99=E7=B3=
+=BB=E7=B5=B1<span lang=3D"EN-US">&lt;<a =
+href=3D"mailto:sales@openfind.com.tw" style=3D"color: purple; =
+text-decoration: =
+underline;">sales@openfind.com.tw</a>&gt;<br><b>Cc:</b></span>=E9=97=95=E4=
+=BC=8A=E6=9D=90<span lang=3D"EN-US">&lt;<a =
+href=3D"mailto:billy_chueh@openfind.com.tw" style=3D"color: purple; =
+text-decoration: =
+underline;">billy_chueh@openfind.com.tw</a>&gt;,ivan&lt;<a =
+href=3D"mailto:ivan@openfind.com.tw" style=3D"color: purple; =
+text-decoration: =
+underline;">ivan@openfind.com.tw</a>&gt;,silvia_chen&lt;<a =
+href=3D"mailto:silvia_chen@openfind.com.tw" style=3D"color: purple; =
+text-decoration: =
+underline;">silvia_chen@openfind.com.tw</a>&gt;,ben_ko&lt;<a =
+href=3D"mailto:ben_ko@openfind.com.tw" style=3D"color: purple; =
+text-decoration: =
+underline;">ben_ko@openfind.com.tw</a>&gt;,angel_huang&lt;<a =
+href=3D"mailto:angel_huang@openfind.com.tw" style=3D"color: purple; =
+text-decoration: =
+underline;">angel_huang@openfind.com.tw</a>&gt;,ma_se&lt;<a =
+href=3D"mailto:ma_se@openfind.com.tw" style=3D"color: purple; =
+text-decoration: underline;">ma_se@openfind.com.tw</a>&gt;,deliver&lt;<a =
+href=3D"mailto:deliver@openfind.com.tw" style=3D"color: purple; =
+text-decoration: underline;">deliver@openfind.com.tw</a>&gt;,Kenny Shih =
+[</span>=E6=AE=B7=E5=AF=8C=E8=B3=87=E8=A8=8A<span lang=3D"EN-US">] (<a =
+href=3D"mailto:Kenny.Shih@INFOTECH.COM.TW" style=3D"color: purple; =
+text-decoration: underline;">Kenny.Shih@INFOTECH.COM.TW</a>) (<a =
+href=3D"mailto:Kenny.Shih@INFOTECH.COM.TW)%3cKenny.Shih@INFOTECH.COM.TW" =
+style=3D"color: purple; text-decoration: =
+underline;">Kenny.Shih@INFOTECH.COM.TW)&lt;Kenny.Shih@INFOTECH.COM.TW</a>&=
+gt;<br><b>Date:<span class=3D"Apple-converted-space">&nbsp;</span></b>Tue,=
+ 01 Apr 2014 18:00:46<br><b>Subject:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span>RE: Openfind =
+P-Marker_</span>=E7=B6=AD=E8=AD=B7=E5=88=B0=E6=9C=9F=E9=80=9A=E7=9F=A5<spa=
+n lang=3D"EN-US">_</span>=E6=AE=B7=E5=AF=8C=E8=B3=87=E8=A8=8A=E8=82=A1=E4=BB=
+=BD=E6=9C=89=E9=99=90=E5=85=AC=E5=8F=B8<span =
+lang=3D"EN-US">_</span>=E5=9C=8B=E9=9A=9B=E5=BA=B7=E5=81=A5=E4=BA=BA=E5=A3=
+=BD=E4=BF=9D=E9=9A=AA=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=90=E5=85=AC=E5=8F=B8=
+<span lang=3D"EN-US"><o:p></o:p></span></div><div style=3D"margin: 0cm =
+0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=
+=AB=94, serif;"><span lang=3D"EN-US" style=3D"font-family: Calibri, =
+sans-serif; color: rgb(31, 73, 125);">Hi,</span><span =
+lang=3D"EN-US"><o:p></o:p></span></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span style=3D"color: rgb(31, 73, =
+125);">=E8=AB=8B=E5=95=8F=E6=88=91=E5=80=91=E8=A6=81=E9=87=8D=E6=96=B0=E9=83=
+=A8=E7=BD=B2</span><span lang=3D"EN-US" style=3D"font-family: Calibri, =
+sans-serif; color: rgb(31, 73, 125);">=E2=80=A6</span><span =
+style=3D"color: rgb(31, 73, 125);">=E4=BD=86=E8=88=8A=E8=B3=87=E6=96=99=E9=
+=9C=80=E8=A6=81=E6=B8=85=E9=99=A4</span><span lang=3D"EN-US" =
+style=3D"font-family: Calibri, sans-serif; color: rgb(31, 73, =
+125);">..</span><span lang=3D"EN-US"><o:p></o:p></span></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span lang=3D"EN-US" =
+style=3D"font-family: Calibri, sans-serif; color: rgb(31, 73, =
+125);">&nbsp;</span><span lang=3D"EN-US"><o:p></o:p></span></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span style=3D"color: =
+rgb(31, 73, 125);">=E8=AB=8B=E5=95=8F=E8=A6=81=E5=A6=82=E4=BD=95=E6=B8=85=E9=
+=99=A4</span><span lang=3D"EN-US" style=3D"font-family: Calibri, =
+sans-serif; color: rgb(31, 73, 125);">=E2=80=A6.</span><span =
+lang=3D"EN-US"><o:p></o:p></span></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span lang=3D"EN-US" style=3D"font-family: Calibri, =
+sans-serif; color: rgb(31, 73, 125);">&nbsp;</span><span =
+lang=3D"EN-US"><o:p></o:p></span></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span lang=3D"EN-US" style=3D"font-family: Calibri, =
+sans-serif; color: rgb(31, 73, 125);">&lt;image001.jpg&gt;</span><span =
+lang=3D"EN-US"><o:p></o:p></span></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span lang=3D"EN-US" style=3D"font-family: Calibri, =
+sans-serif; color: rgb(31, 73, 125);">&nbsp;</span><span =
+lang=3D"EN-US"><o:p></o:p></span></div><div><div style=3D"margin: 0cm =
+0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=
+=AB=94, serif; line-height: 12pt;"><b><span lang=3D"EN-US" =
+style=3D"font-size: 10pt; font-family: Arial, sans-serif; color: rgb(14, =
+30, 99);">Orange Ju<span =
+class=3D"Apple-converted-space">&nbsp;</span></span></b><b><span =
+style=3D"font-size: 10pt; color: rgb(14, 30, =
+99);">=E9=9E=A0=E8=88=88=E8=8F=AF</span></b><span lang=3D"EN-US" =
+style=3D"font-family: Calibri, sans-serif; color: rgb(31, 73, =
+125);"><br></span><b><span lang=3D"EN-US" style=3D"font-size: 10pt; =
+font-family: Arial, sans-serif; color: rgb(14, 30, 99);">System =
+Department</span></b><span lang=3D"EN-US"><o:p></o:p></span></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif; line-height: =
+12pt;"><b><span lang=3D"EN-US" style=3D"font-size: 10pt; font-family: =
+Arial, sans-serif; color: rgb(14, 30, 99);">Cigna Taiwan</span></b><span =
+lang=3D"EN-US"><o:p></o:p></span></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif; line-height: 12pt;"><b><span lang=3D"EN-US" style=3D"font-size: =
+10pt; font-family: Arial, sans-serif; color: rgb(14, 30, =
+99);">Tel:</span></b><b><span lang=3D"EN-US" style=3D"font-size: 10pt; =
+color: rgb(14, 30, 99);">&nbsp;</span></b><b><span lang=3D"EN-US" =
+style=3D"font-size: 10pt; font-family: Arial, sans-serif; color: rgb(14, =
+30, 99);">02-66231688#1511</span></b><span =
+lang=3D"EN-US"><o:p></o:p></span></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif; line-height: 12pt;"><b><span lang=3D"EN-US" style=3D"font-size: =
+10pt; font-family: Arial, sans-serif; color: rgb(14, 30, =
+99);">Email:</span></b><b><span lang=3D"EN-US" style=3D"font-family: =
+Calibri, sans-serif; color: rgb(31, 73, 125);">&nbsp;</span></b><span =
+lang=3D"EN-US" style=3D"font-size: 10pt; font-family: Arial, sans-serif; =
+color: rgb(31, 73, 125);"><a href=3D"mailto:Orange.Ju@cigna.com" =
+style=3D"color: purple; text-decoration: =
+underline;">Orange.Ju@cigna.com</a></span><span =
+lang=3D"EN-US"><o:p></o:p></span></div><p class=3D"MsoNormal" =
+style=3D"margin: 6pt 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif; line-height: =
+12pt;"><i><span lang=3D"EN-US" style=3D"font-size: 8pt; font-family: =
+Arial, sans-serif; color: rgb(102, 102, 102);">Confidential, unpublished =
+property of Cigna. Do not duplicate or distribute.</span></i><span =
+lang=3D"EN-US"><o:p></o:p></span></p><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif; line-height: 12pt;"><i><span lang=3D"EN-US" style=3D"font-size: =
+8pt; font-family: Arial, sans-serif; color: rgb(102, 102, 102);">Use and =
+distribution limited solely to authorized personnel. =C2=A9 Copyright =
+2014 Cigna</span></i><span =
+lang=3D"EN-US"><o:p></o:p></span></div></div><div style=3D"margin: 0cm =
+0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=
+=AB=94, serif;"><span lang=3D"EN-US" style=3D"font-family: Calibri, =
+sans-serif; color: rgb(31, 73, 125);">&nbsp;</span><span =
+lang=3D"EN-US"><o:p></o:p></span></div><div><div style=3D"border-style: =
+solid none none; border-top-color: rgb(181, 196, 223); border-top-width: =
+1pt; padding: 3pt 0cm 0cm;"><div style=3D"margin: 0cm 0cm 0.0001pt; =
+font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;"><b><span lang=3D"EN-US" style=3D"font-size: 10pt; font-family: =
+Tahoma, sans-serif;">From:</span></b><span lang=3D"EN-US" =
+style=3D"font-size: 10pt; font-family: Tahoma, =
+sans-serif;">&nbsp;</span><span style=3D"font-size: =
+10pt;">=E7=B6=B2=E6=93=8E</span><span lang=3D"EN-US" style=3D"font-size: =
+10pt; font-family: Tahoma, sans-serif;"><span =
+class=3D"Apple-converted-space">&nbsp;</span>Openfind<span =
+class=3D"Apple-converted-space">&nbsp;</span></span><span =
+style=3D"font-size: 10pt;">=E6=A5=AD=E5=8B=99=E7=B3=BB=E7=B5=B1</span><spa=
+n style=3D"font-size: 10pt; font-family: Tahoma, sans-serif;"><span =
+class=3D"Apple-converted-space">&nbsp;</span><span lang=3D"EN-US"><a =
+href=3D"mailto:%5bmailto:sales@openfind.com.tw%5d" style=3D"color: =
+purple; text-decoration: =
+underline;">[mailto:sales@openfind.com.tw]</a><span =
+class=3D"Apple-converted-space">&nbsp;</span><br><b>Sent:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span>Sunday, March 30, 2014 =
+12:00 AM<br><b>To:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span>Kao, Tim K =
+TWNRC<br><b>Cc:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span></span></span><span =
+style=3D"font-size: 10pt;">=E9=97=95=E4=BC=8A=E6=9D=90</span><span =
+lang=3D"EN-US" style=3D"font-size: 10pt; font-family: Tahoma, =
+sans-serif;">; ivan; silvia_chen; ben_ko; angel_huang; ma_se; =
+deliver<br><b>Subject:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span>Openfind =
+P-Marker_</span><span style=3D"font-size: =
+10pt;">=E7=B6=AD=E8=AD=B7=E5=88=B0=E6=9C=9F=E9=80=9A=E7=9F=A5</span><span =
+lang=3D"EN-US" style=3D"font-size: 10pt; font-family: Tahoma, =
+sans-serif;">_</span><span style=3D"font-size: =
+10pt;">=E6=AE=B7=E5=AF=8C=E8=B3=87=E8=A8=8A=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=
+=90=E5=85=AC=E5=8F=B8</span><span lang=3D"EN-US" style=3D"font-size: =
+10pt; font-family: Tahoma, sans-serif;">_</span><span style=3D"font-size: =
+10pt;">=E5=9C=8B=E9=9A=9B=E5=BA=B7=E5=81=A5=E4=BA=BA=E5=A3=BD=E4=BF=9D=E9=9A=
+=AA=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=90=E5=85=AC=E5=8F=B8</span><span =
+lang=3D"EN-US"><o:p></o:p></span></div></div></div><div style=3D"margin: =
+0cm 0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=
+=E9=AB=94, serif;"><span lang=3D"EN-US">&nbsp;<o:p></o:p></span></div><div=
+ align=3D"center"><table class=3D"MsoNormalTable" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"646" style=3D"width: =
+484.5pt;"><tbody><tr><td valign=3D"top" style=3D"padding: 0cm;"><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span lang=3D"EN-US" =
+style=3D"border: 1pt solid windowtext; padding: =
+0cm;"><span>&lt;image002.jpg&gt;</span></span><span =
+lang=3D"EN-US"><o:p></o:p></span></div></td></tr><tr><td valign=3D"top" =
+style=3D"padding: 0cm;"><table class=3D"MsoNormalTable" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"646" style=3D"width: =
+484.5pt;"><tbody><tr><td width=3D"10" valign=3D"top" style=3D"width: =
+7.2pt; padding: 0cm;"><div style=3D"margin: 0cm 0cm 0.0001pt; font-size: =
+12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span =
+lang=3D"EN-US" style=3D"border: 1pt solid windowtext; padding: =
+0cm;"><span>&lt;image003.jpg&gt;</span></span><span =
+lang=3D"EN-US"><o:p></o:p></span></div></td><td width=3D"630" =
+valign=3D"top" style=3D"width: 472.5pt; padding: 0cm;"><table =
+class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"630" style=3D"width: 472.5pt;"><tbody><tr><td valign=3D"top" =
+style=3D"background-color: rgb(184, 184, 184); padding: 0.75pt; =
+background-position: initial initial; background-repeat: initial =
+initial;"><table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"628" style=3D"width: 471pt;"><tbody><tr><td =
+valign=3D"top" style=3D"background-color: white; padding: 0cm; =
+background-position: initial initial; background-repeat: initial =
+initial;"><div style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; =
+font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span =
+lang=3D"EN-US" style=3D"border: 1pt solid windowtext; padding: =
+0cm;"><span>&lt;image004.jpg&gt;</span></span><span =
+lang=3D"EN-US"><o:p></o:p></span></div></td></tr><tr style=3D"height: =
+7.5pt;"><td valign=3D"top" style=3D"background-color: white; padding: =
+0cm; height: 7.5pt; background-position: initial initial; =
+background-repeat: initial initial;"><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span =
+lang=3D"EN-US">&nbsp;<o:p></o:p></span></div></td></tr><tr><td =
+valign=3D"top" style=3D"background-color: white; padding: 0cm; =
+background-position: initial initial; background-repeat: initial =
+initial;"><div align=3D"center"><table class=3D"MsoNormalTable" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"562" =
+style=3D"width: 421.5pt;"><tbody><tr><td valign=3D"top" style=3D"padding: =
+0cm;"><table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"562" style=3D"width: 421.5pt;"><tbody><tr><td =
+width=3D"31" valign=3D"top" style=3D"width: 23.25pt; padding: 0cm;"><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span lang=3D"EN-US" =
+style=3D"border: 1pt solid windowtext; padding: =
+0cm;"><span>&lt;image005.jpg&gt;</span></span><span =
+lang=3D"EN-US"><o:p></o:p></span></div></td><td width=3D"531" =
+style=3D"width: 398.25pt; padding: 0cm;"><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span lang=3D"EN-US">Openfind P-Marker<span =
+class=3D"Apple-converted-space">&nbsp;</span></span>=E7=B6=AD=E8=AD=B7=E5=88=
+=B0=E6=9C=9F=E9=80=9A=E7=9F=A5<span =
+lang=3D"EN-US"><o:p></o:p></span></div></td></tr></tbody></table></td></tr=
+><tr style=3D"height: 7.5pt;"><td valign=3D"top" style=3D"padding: 0cm; =
+height: 7.5pt;"><div style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; =
+font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span =
+lang=3D"EN-US">&nbsp;<o:p></o:p></span></div></td></tr><tr><td =
+valign=3D"top" style=3D"padding: 0cm;"><p class=3D"MsoNormal" =
+style=3D"margin: 0cm 0cm 12pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif; line-height: =
+15pt;"><strong><span style=3D"font-size: 10pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif; color: rgb(61, 61, =
+61);">=E8=A6=AA=E6=84=9B=E7=9A=84=E5=AE=A2=E6=88=B6</span></strong><strong=
+><span style=3D"font-size: 10pt; font-family: Verdana, sans-serif; =
+color: rgb(61, 61, 61);">&nbsp;</span></strong><strong><span =
+style=3D"font-size: 10pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif; color: rgb(61, 61, 61);">=E6=82=A8=E5=A5=BD=EF=BC=9A</span></stro=
+ng><span lang=3D"EN-US" style=3D"font-size: 9pt; font-family: Verdana, =
+sans-serif; color: rgb(61, 61, 61);"><br><br></span><span =
+class=3D"style11" style=3D"font-family: Verdana, sans-serif; color: =
+rgb(61, 61, 61);"><span style=3D"font-size: 9pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;">=E6=84=9F=E8=AC=9D=E6=82=A8=E4=BD=BF=E7=94=A8</span></span><span =
+class=3D"style11" style=3D"font-family: Verdana, sans-serif; color: =
+rgb(61, 61, 61);"><span lang=3D"EN-US" style=3D"font-size: 9pt;"><span =
+class=3D"Apple-converted-space">&nbsp;</span>Openfind<span =
+class=3D"Apple-converted-space">&nbsp;</span></span></span><span =
+class=3D"style11" style=3D"font-family: Verdana, sans-serif; color: =
+rgb(61, 61, 61);"><span style=3D"font-size: 9pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;">=E7=94=A2=E5=93=81=EF=BC=8C=E8=B2=B4=E5=85=AC=E5=8F=B8=E7=9A=84</s=
+pan></span><span class=3D"style11" style=3D"font-family: Verdana, =
+sans-serif; color: rgb(61, 61, 61);"><span style=3D"font-size: =
+9pt;">&nbsp;</span></span><span class=3D"p-marker"><span lang=3D"EN-US" =
+style=3D"font-size: 9pt; font-family: Verdana, sans-serif; color: =
+rgb(61, 61, 61);">P-Marker</span></span><span class=3D"style11" =
+style=3D"font-family: Verdana, sans-serif; color: rgb(61, 61, =
+61);"><span lang=3D"EN-US" style=3D"font-size: =
+9pt;">&nbsp;</span></span><span class=3D"style11" style=3D"font-family: =
+Verdana, sans-serif; color: rgb(61, 61, 61);"><span style=3D"font-size: =
+9pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;">=E7=B6=AD=E8=AD=B7=E6=8E=88=E6=AC=8A=E5=8D=B3=E5=B0=87=E6=96=BC</s=
+pan></span><span class=3D"style11" style=3D"font-family: Verdana, =
+sans-serif; color: rgb(61, 61, 61);"><span style=3D"font-size: =
+9pt;">&nbsp;</span></span><span class=3D"style21" style=3D"font-family: =
+Verdana, sans-serif; color: rgb(240, 0, 0); font-weight: bold;"><span =
+lang=3D"EN-US" style=3D"font-size: 9pt;">2014-04-30</span></span><span =
+lang=3D"EN-US" style=3D"font-size: 9pt; font-family: Verdana, =
+sans-serif; color: rgb(61, 61, 61);">&nbsp;</span><span class=3D"style11" =
+style=3D"font-family: Verdana, sans-serif; color: rgb(61, 61, =
+61);"><span style=3D"font-size: 9pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=
+=8E=E9=AB=94, =
+serif;">=E5=88=B0=E6=9C=9F=EF=BC=8C=E7=82=BA=E7=A2=BA=E4=BF=9D=E8=B2=B4=E5=
+=85=AC=E5=8F=B8=E7=9A=84=E4=BD=BF=E7=94=A8=E6=AC=8A=E7=9B=8A=EF=BC=8C=E6=8F=
+=90=E9=86=92=E6=82=A8=EF=BC=8C=E8=AB=8B=E5=84=98=E5=BF=AB=E8=88=87=E7=B6=B2=
+=E6=93=8E=E8=B3=87=E8=A8=8A=EF=BC=88</span></span><span class=3D"style11" =
+style=3D"font-family: Verdana, sans-serif; color: rgb(61, 61, =
+61);"><span lang=3D"EN-US" style=3D"font-size: =
+9pt;">Openfind</span></span><span class=3D"style11" style=3D"font-family: =
+Verdana, sans-serif; color: rgb(61, 61, 61);"><span style=3D"font-size: =
+9pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;">=EF=BC=89=E8=81=AF=E7=B9=AB=EF=BC=8C=E6=B4=BD=E8=AB=87=E8=B2=B4=E5=
+=85=AC=E5=8F=B8=E5=B9=B4=E5=BA=A6=E7=BA=8C=E7=B4=84=E6=9B=B4=E6=96=B0=E4=BA=
+=8B=E5=AE=9C=E3=80=82=E4=BB=A5=E4=B8=8B=E7=82=BA=E6=A5=AD=E5=8B=99=E4=BA=BA=
+=E5=93=A1=E8=81=AF=E7=B5=A1=E6=96=B9=E5=BC=8F=EF=BC=9A</span></span><span =
+lang=3D"EN-US"><o:p></o:p></span></p><table class=3D"MsoNormalTable" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"560" =
+style=3D"width: 420pt;"><tbody><tr><td style=3D"background-color: =
+rgb(203, 154, 36); padding: 3.75pt; background-position: initial =
+initial; background-repeat: initial initial;"><div style=3D"margin: 0cm =
+0cm 0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=
+=AB=94, serif; line-height: 15pt;"><b><span style=3D"font-size: 10pt; =
+color: white;">=E3=80=80=E6=A5=AD=E5=8B=99=E4=BA=BA=E5=93=A1=E8=81=AF=E7=B5=
+=A1=E6=96=B9=E5=BC=8F</span></b><span =
+lang=3D"EN-US"><o:p></o:p></span></div></td></tr><tr><td valign=3D"top" =
+style=3D"background-color: rgb(255, 254, 193); padding: 3.75pt; =
+background-position: initial initial; background-repeat: initial =
+initial;"><div style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; =
+font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif; line-height: =
+16pt;"><b><span style=3D"font-size: 9pt; color: rgb(240, 0, =
+0);">=E3=80=80</span></b><b><span style=3D"font-size: 9pt; font-family: =
+=E7=B4=B0=E6=98=8E=E9=AB=94; color: rgb(240, 0, =
+0);">=E2=80=A7</span></b><b><span style=3D"font-size: 9pt; color: =
+rgb(240, 0, 0);">=E5=A7=93=E5=90=8D=EF=BC=9A=E9=97=95=E4=BC=8A=E6=9D=90</s=
+pan></b><b><span style=3D"font-size: 9pt; font-family: Verdana, =
+sans-serif; color: rgb(240, 0, 0);">&nbsp;</span></b><b><span =
+style=3D"font-size: 9pt; color: rgb(240, 0, =
+0);">=E5=85=88=E7=94=9F</span></b><b><span lang=3D"EN-US" =
+style=3D"font-size: 9pt; font-family: Verdana, sans-serif; color: =
+rgb(240, 0, 0);">/</span></b><b><span style=3D"font-size: 9pt; color: =
+rgb(240, 0, 0);">=E5=B0=8F=E5=A7=90</span></b><b><span lang=3D"EN-US" =
+style=3D"font-size: 9pt; font-family: Verdana, sans-serif; color: =
+rgb(240, 0, 0);"><br></span></b><b><span style=3D"font-size: 9pt; color: =
+rgb(240, 0, 0);">=E3=80=80</span></b><b><span style=3D"font-size: 9pt; =
+font-family: =E7=B4=B0=E6=98=8E=E9=AB=94; color: rgb(240, 0, =
+0);">=E2=80=A7</span></b><b><span style=3D"font-size: 9pt; color: =
+rgb(240, 0, 0);">=E8=81=AF=E7=B5=A1=E9=9B=BB=E8=A9=B1=EF=BC=9A</span></b><=
+b><span lang=3D"EN-US" style=3D"font-size: 9pt; font-family: Verdana, =
+sans-serif; color: rgb(240, 0, 0);">02-2553-2000<span =
+class=3D"Apple-converted-space">&nbsp;</span></span></b><b><span =
+style=3D"font-size: 9pt; color: rgb(240, 0, =
+0);">=E5=88=86=E6=A9=9F</span></b><b><span lang=3D"EN-US" =
+style=3D"font-size: 9pt; font-family: Verdana, sans-serif; color: =
+rgb(240, 0, 0);"><span =
+class=3D"Apple-converted-space">&nbsp;</span>798<br></span></b><b><span =
+style=3D"font-size: 9pt; color: rgb(240, 0, 0);">=E3=80=80</span></b><b><s=
+pan style=3D"font-size: 9pt; font-family: =E7=B4=B0=E6=98=8E=E9=AB=94; =
+color: rgb(240, 0, 0);">=E2=80=A7</span></b><b><span lang=3D"EN-US" =
+style=3D"font-size: 9pt; font-family: Verdana, sans-serif; color: =
+rgb(240, 0, 0);">E-mail</span></b><b><span style=3D"font-size: 9pt; =
+color: rgb(240, 0, 0);">=EF=BC=9A</span></b><b><span lang=3D"EN-US" =
+style=3D"font-size: 9pt; font-family: Verdana, sans-serif; color: =
+rgb(240, 0, 0);"><a href=3D"mailto:billy_chueh@openfind.com.tw" =
+style=3D"color: purple; text-decoration: =
+underline;">billy_chueh@openfind.com.tw</a></span></b><span =
+lang=3D"EN-US"><o:p></o:p></span></div></td></tr></tbody></table><p =
+style=3D"margin-right: 0cm; margin-left: 0cm; font-size: 12pt; =
+font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif; line-height: =
+15pt;"><span lang=3D"EN-US" style=3D"font-size: 9pt; font-family: =
+Verdana, sans-serif; color: rgb(61, 61, 61);"><br></span><span =
+class=3D"style11" style=3D"font-family: Verdana, sans-serif; color: =
+rgb(61, 61, 61);"><span style=3D"font-size: 9pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;">=E5=A6=82=E5=B7=B2=E5=AE=8C=E6=88=90=E7=BA=8C=E7=B4=84=E8=80=85=EF=
+=BC=8C=E6=95=AC=E8=AB=8B=E5=BF=BD=E7=95=A5=E6=AD=A4=E9=80=9A=E7=9F=A5=E3=80=
+=82</span></span><span lang=3D"EN-US" style=3D"font-size: 9pt; =
+font-family: Verdana, sans-serif; color: rgb(61, 61, =
+61);"><br></span><span class=3D"style11" style=3D"font-family: Verdana, =
+sans-serif; color: rgb(61, 61, 61);"><span style=3D"font-size: 9pt; =
+font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;">=E8=8B=A5=E6=82=A8=E9=82=84=E6=9C=89=E4=BB=BB=E4=BD=95=E7=9A=84=E5=
+=95=8F=E9=A1=8C=EF=BC=8C=E6=AD=A1=E8=BF=8E=E6=82=A8=E9=9A=A8=E6=99=82=E4=BE=
+=86=E9=9B=BB=E6=88=96=E4=BE=86=E4=BF=A1=E8=A9=A2=E5=95=8F=E3=80=82</span><=
+/span><span class=3D"style11" style=3D"font-family: Verdana, sans-serif; =
+color: rgb(61, 61, 61);"><span style=3D"font-size: =
+9pt;"></span></span><span lang=3D"EN-US"><o:p></o:p></span></p><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif; line-height: 15pt;"><span =
+class=3D"style11" style=3D"font-family: Verdana, sans-serif; color: =
+rgb(61, 61, 61);"><span style=3D"font-size: 9pt; font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;">=E6=95=AC=E7=A5=9D=E3=80=80=E3=80=80=E3=80=80=E5=95=86=E7=A5=BA=EF=
+=BC=81</span></span><span class=3D"style11" style=3D"font-family: =
+Verdana, sans-serif; color: rgb(61, 61, 61);"><span style=3D"font-size: =
+9pt;">&nbsp;</span></span><span lang=3D"EN-US" style=3D"font-size: 9pt; =
+font-family: Verdana, sans-serif; color: rgb(61, 61, =
+61);"><br></span><span class=3D"style11" style=3D"font-family: Verdana, =
+sans-serif; color: rgb(61, 61, 61);"><span style=3D"font-size: 9pt; =
+font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;">=E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A=E8=BB=9F=E9=AB=94=E8=82=A1=E4=
+=BB=BD=E6=9C=89=E9=99=90=E5=85=AC=E5=8F=B8=E3=80=80=E6=95=AC=E5=95=9F</spa=
+n></span><span =
+lang=3D"EN-US"><o:p></o:p></span></div></td></tr></tbody></table></div></t=
+d></tr><tr><td valign=3D"top" style=3D"background-color: white; padding: =
+0cm; background-position: initial initial; background-repeat: initial =
+initial;"><div style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; =
+font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif; text-align: =
+center;"><span lang=3D"EN-US" style=3D"border: 1pt solid windowtext; =
+padding: 0cm;"><span>&lt;image006.jpg&gt;</span></span><span =
+lang=3D"EN-US"><o:p></o:p></span></div></td></tr><tr><td valign=3D"top" =
+style=3D"background-color: white; padding: 0cm; background-position: =
+initial initial; background-repeat: initial initial;"><div =
+align=3D"center"><table class=3D"MsoNormalTable" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"562" style=3D"width: =
+421.5pt;"><tbody><tr><td valign=3D"top" style=3D"padding: 0cm;"><p =
+class=3D"style1" style=3D"margin-right: 0cm; margin-left: 0cm; =
+font-size: 9pt; font-family: Verdana, sans-serif; line-height: 15pt; =
+color: rgb(61, 61, 61);"><strong><span lang=3D"EN-US" =
+style=3D"font-family: Verdana, sans-serif;">Dear =
+Sir/Madam:</span></strong><span lang=3D"EN-US"><br>Your P-Marker had =
+expired on 2014-04-30.<br>Regading to P-Marker License renewal, please =
+contact with Openfind sales people ASAP.<br>Name</span><span =
+style=3D"font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;">=EF=BC=9A</span><span lang=3D"EN-US"><br>TEL</span><span =
+style=3D"font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;">=EF=BC=9A</span><span lang=3D"EN-US">02-2553-2000 ext. =
+798<br>Cell Phone</span><span style=3D"font-family: =E6=96=B0=E7=B4=B0=E6=98=
+=8E=E9=AB=94, serif;">=EF=BC=9A</span><span =
+lang=3D"EN-US"><br>E-mail</span><span style=3D"font-family: =
+=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">=EF=BC=9A</span><span =
+lang=3D"EN-US"><a href=3D"mailto:billy_chueh@openfind.com.tw" =
+style=3D"color: purple; text-decoration: =
+underline;">billy_chueh@openfind.com.tw</a><o:p></o:p></span></p><p =
+class=3D"style1" style=3D"margin-right: 0cm; margin-left: 0cm; =
+font-size: 9pt; font-family: Verdana, sans-serif; line-height: 15pt; =
+color: rgb(61, 61, 61);"><span lang=3D"EN-US">Best =
+regards,<o:p></o:p></span></p></td></tr></tbody></table></div></td></tr><t=
+r><td valign=3D"top" style=3D"background-color: white; padding: 0cm; =
+background-position: initial initial; background-repeat: initial =
+initial;"><div style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; =
+font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span =
+lang=3D"EN-US">&nbsp;<o:p></o:p></span></div></td></tr><tr><td =
+valign=3D"top" style=3D"background-color: white; padding: 0cm; =
+background-position: initial initial; background-repeat: initial =
+initial;"><div style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; =
+font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span =
+lang=3D"EN-US" style=3D"border: 1pt solid windowtext; padding: =
+0cm;"><span>&lt;image007.jpg&gt;</span></span><span =
+lang=3D"EN-US"><o:p></o:p></span></div></td></tr><tr style=3D"height: =
+4.5pt;"><td valign=3D"top" style=3D"background-color: white; padding: =
+0cm; height: 4.5pt; background-position: initial initial; =
+background-repeat: initial initial;"><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif;"><span =
+lang=3D"EN-US">&nbsp;<o:p></o:p></span></div></td></tr></tbody></table></t=
+d></tr></tbody></table></td><td width=3D"10" valign=3D"top" =
+style=3D"width: 7.2pt; padding: 0cm;"><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94=
+, serif; text-align: right;"><span lang=3D"EN-US" style=3D"border: 1pt =
+solid windowtext; padding: =
+0cm;"><span>&lt;image003.jpg&gt;</span></span><span =
+lang=3D"EN-US"><o:p></o:p></span></div></td></tr></tbody></table></td></tr=
+></tbody></table></div><div style=3D"margin: 0cm 0cm 0.0001pt; =
+font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, =
+serif;"><span lang=3D"EN-US">&nbsp;<o:p></o:p></span></div><p =
+style=3D"margin-right: 0cm; margin-left: 0cm; font-size: 12pt; =
+font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;"><span =
+lang=3D"EN-US">-----------------------------------------------------------=
+-------------------<br>CONFIDENTIALITY NOTICE: If you have received this =
+email in error,<br>please immediately notify the sender by e-mail at the =
+address shown.&nbsp;<span =
+class=3D"Apple-converted-space">&nbsp;</span><br>This email transmission =
+may contain confidential information.&nbsp; This<span =
+class=3D"Apple-converted-space">&nbsp;</span><br>information is intended =
+only for the use of the individual(s) or entity to<span =
+class=3D"Apple-converted-space">&nbsp;</span><br>whom it is intended =
+even if addressed incorrectly.&nbsp; Please delete it from<span =
+class=3D"Apple-converted-space">&nbsp;</span><br>your files if you are =
+not the intended recipient.&nbsp; Thank you for your<span =
+class=3D"Apple-converted-space">&nbsp;</span><br>compliance.&nbsp; =
+Copyright (c) 2014 =
+Cigna<br>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D<o:p></o:p></span></p><p style=3D"margin-right: 0cm; =
+margin-left: 0cm; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=
+=E9=AB=94, serif;"><span =
+lang=3D"EN-US">-----------------------------------------------------------=
+-------------------<br>CONFIDENTIALITY NOTICE: If you have received this =
+email in error,<br>please immediately notify the sender by e-mail at the =
+address shown.&nbsp;<span =
+class=3D"Apple-converted-space">&nbsp;</span><br>This email transmission =
+may contain confidential information.&nbsp; This<span =
+class=3D"Apple-converted-space">&nbsp;</span><br>information is intended =
+only for the use of the individual(s) or entity to<span =
+class=3D"Apple-converted-space">&nbsp;</span><br>whom it is intended =
+even if addressed incorrectly.&nbsp; Please delete it from<span =
+class=3D"Apple-converted-space">&nbsp;</span><br>your files if you are =
+not the intended recipient.&nbsp; Thank you for your<span =
+class=3D"Apple-converted-space">&nbsp;</span><br>compliance.&nbsp; =
+Copyright (c) 2014 =
+Cigna<br>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D<o:p></o:p></span></p></div><p style=3D"margin-right: =
+0cm; margin-left: 0cm; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=
+=98=8E=E9=AB=94, =
+serif;">------------------------------------------------------------------=
+------------<br>CONFIDENTIALITY NOTICE: If you have received this email =
+in error,<br>please immediately notify the sender by e-mail at the =
+address shown.&nbsp;<span =
+class=3D"Apple-converted-space">&nbsp;</span><br>This email transmission =
+may contain confidential information.&nbsp; This<span =
+class=3D"Apple-converted-space">&nbsp;</span><br>information is intended =
+only for the use of the individual(s) or entity to<span =
+class=3D"Apple-converted-space">&nbsp;</span><br>whom it is intended =
+even if addressed incorrectly.&nbsp; Please delete it from<span =
+class=3D"Apple-converted-space">&nbsp;</span><br>your files if you are =
+not the intended recipient.&nbsp; Thank you for your<span =
+class=3D"Apple-converted-space">&nbsp;</span><br>compliance.&nbsp; =
+Copyright (c) 2014 =
+Cigna<br>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D</p></div></blockquote></div><br></div></body></html>=
+
+--Apple-Mail=_E8F0FC7C-3B4A-488A-A99B-9CFCFB911843--

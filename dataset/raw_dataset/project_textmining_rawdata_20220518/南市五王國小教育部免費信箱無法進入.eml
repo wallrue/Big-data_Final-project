@@ -1,0 +1,109 @@
+X-M2K-MATCHED-RULE: USER_FILTER
+X-ADIFSPAM: YES/114
+X-ADIFSPAM-CT: NO/1
+Received: from 3.3.3.3
+	by ms2.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(9852:0:AUTH_NONE)
+	(envelope-from <minjun8@gmail.com>); Fri, 25 Sep 2015 11:06:31 +0800 (CST)
+Return-Path: <minjun8@gmail.com>
+X-M2KSPAM: NO/0
+Received: from 3.3.3.3
+	by asp6.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(86829:0:AUTH_RELAY)
+	(envelope-from <minjun8@gmail.com>); Fri, 25 Sep 2015 11:06:30 +0800 (CST)
+Return-Path: <minjun8@gmail.com>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(31058:0:AUTH_RELAY)
+	(envelope-from <minjun8@gmail.com>); Fri, 25 Sep 2015 11:06:28 +0800 (CST)
+Return-Path: <minjun8@gmail.com>
+Received: By OpenMail Mailer;Fri, 25 Sep 2015 11:06:28 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(22349:0:AUTH_NONE)
+	(envelope-from <minjun8@gmail.com>); Fri, 25 Sep 2015 11:06:27 +0800 (CST)
+Return-Path: <minjun8@gmail.com>
+X-M2KSPAM: NO/0
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(16408:1:AUTH_NONE)
+	(envelope-from <minjun8@gmail.com>); Fri, 25 Sep 2015 11:06:16 +0800 (CST)
+Return-Path: <minjun8@gmail.com>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)(FROMBW:2,PASS)(FROMBW:2,
+	PASS)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 172.16.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(24631:0:AUTH_RELAY)
+	(envelope-from <minjun8@gmail.com>); Fri, 25 Sep 2015 11:06:09 +0800 (CST)
+Return-Path: <minjun8@gmail.com>
+Received: By OpenMail Mailer;Fri, 25 Sep 2015 11:06:09 +0800 (CST)
+Received: from 172.16.0.96
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V7.00(27551:0:AUTH_RELAY)
+	(envelope-from <minjun8@gmail.com>); Fri, 25 Sep 2015 11:06:08 +0800 (CST)
+Return-Path: <minjun8@gmail.com>
+X-M2KPolicyIP: 172.16.0.96 (#NOT FOUND)
+X-MailGates: (RBL:2,PASS,0.000000e+00)(BATV:2,PASS,sender not empty)(fla
+	g:1,RELAY:PASS)(IPF:2,PASS)(FROMBW:2,PASS)(FROMBW:2,PASS)(bayesian:SCORE
+	-38,0.00,2)(commtouch:PASS,1,str=0001.0A150205.5604BA20.000F,ss=1,re=0.0
+	00,fgs=0,2)(localsimi:PASS,2)(mail_charset:PASS,2)(compute_score:HAM,2,0
+	)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 209.85.223.181
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(24647:0:AUTH_NONE)
+	(envelope-from <minjun8@gmail.com>); Fri, 25 Sep 2015 11:06:05 +0800 (CST)
+Return-Path: <minjun8@gmail.com>
+Received: by iofh134 with SMTP id h134so97844652iof.0
+        for <edu@openfind.com>; Thu, 24 Sep 2015 20:06:03 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=ykvNtyAUGTnHkOdT7frwAiNVHCDB59FcmXc9doX6zLo=;
+        b=YViltuTEoVD8miVisTBRLzlKb87H8337Ri3om4VDr48Vp3Nu360DsojwlVe8K8RjoE
+         pAW+uE1OKlbz44CJRKWEUxNemUsB+OTmFOmgX1O7OgpfdHOQKUNIiVMIS7zRg6CEEBRV
+         9Qxs4shFsB00Vo4vv1w6Me6U7Ltvys3J/DY1lAK7Sv9F+pIir5U37Pwn8+Ks8anS6+Ce
+         r3zrXpr3J253/7pQWFGsAtKQIse44bYfEfeHlMifNaXcHKls+OWPK5fFs9Llbeo1LXuH
+         rYVC1EytvcewWSn9QbTD1nz2pUOty7zfd0qZi+IPVqyntjLvEiDFUy11PeV+VZFpIS1u
+         z3cw==
+MIME-Version: 1.0
+X-Received: by 10.107.12.94 with SMTP id w91mr3889580ioi.33.1443150363487;
+ Thu, 24 Sep 2015 20:06:03 -0700 (PDT)
+Received: by 10.50.85.164 with HTTP; Thu, 24 Sep 2015 20:06:03 -0700 (PDT)
+Date: Fri, 25 Sep 2015 11:06:03 +0800
+Message-ID: <CAOpoxfcKUMRv_uBr+BS2G-ZHo_jcizdvFfoqf1rgc5a5uWUrew@mail.gmail.com>
+Subject: =?UTF-8?B?5Y2X5biC5LqU546L5ZyL5bCP5pWZ6IKy6YOo5YWN6LK75L+h566x54Sh5rOV6YCy5YWl?=
+From: =?UTF-8?B?5piO5Y6f6Kyd?= <minjun8@gmail.com>
+To: edu@openfind.com
+Content-Type: multipart/alternative; boundary=001a113e06a8c5f7f0052089a08a
+
+--001a113e06a8c5f7f0052089a08a
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+5oKo5aW977yaDQrmiJHmmK/ljZfluILkupTnjovlnIvlsI/os4foqIrmlZnluKsNCuW+nuaYqOaX
+peS4i+WNiOiHs+S7iuaXpeacrOagoeWtuOeUn+WcqOWtuOagoeeEoeazlemAsuWFpeS/oeeusQ0K
+5Zyo56K66KqN6Lqr5YiG5b6M77yM5LiA55u05Zyo562J5YCZ5Zue5oeJ77yM54Sh5rOV6YCy5YWl
+5L+h566xDQrnhanoq4vmgqjljZTliqnomZXnkIbvvIzmhJ/mgakNCg0KDQoNCg0KLS0gDQoq55yL
+6I696I6957SF5aG177yM6Kqw5bCH6Z+25YWJ5YG35o+bKg0KKiAgIOS6uuS5n+Wlve+8jOmtguS5
+n+Wlve+8jOS4jemBjuS4gOaKueadseiNtyoq5b2xKg0K
+--001a113e06a8c5f7f0052089a08a
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PGRpdiBkaXI9Imx0ciI+PGRpdj7mgqjlpb3vvJo8L2Rpdj48ZGl2PuaIkeaYr+WNl+W4guS6lOeO
+i+Wci+Wwj+izh+ioiuaVmeW4qzwvZGl2PjxkaXY+5b6e5pio5pel5LiL5Y2I6Iez5LuK5pel5pys
+5qCh5a2455Sf5Zyo5a245qCh54Sh5rOV6YCy5YWl5L+h566xPC9kaXY+PGRpdj7lnKjnorroqo3o
+uqvliIblvozvvIzkuIDnm7TlnKjnrYnlgJnlm57mh4nvvIznhKHms5XpgLLlhaXkv6HnrrE8L2Rp
+dj48ZGl2PueFqeiri+aCqOWNlOWKqeiZleeQhu+8jOaEn+aBqTwvZGl2PjxkaXY+PGJyPjwvZGl2
+PjxkaXY+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoCA8L2Rpdj48ZGl2
+PjxiciBjbGVhcj0iYWxsIj48YnI+LS0gPGJyPjwvZGl2PjxkaXYgY2xhc3M9ImdtYWlsX3NpZ25h
+dHVyZSI+PGRpdiBkaXI9Imx0ciI+PGRpdj48Zm9udCBmYWNlPSJhcmlhbCBibGFjayxzYW5zLXNl
+cmlmIj48ZGl2Pjxmb250IGZhY2U9ImFyaWFsIGJsYWNrLHNhbnMtc2VyaWYiIHNpemU9IjQiPjxz
+dHJvbmc+55yL6I696I6957SF5aG177yM6Kqw5bCH6Z+25YWJ5YG35o+bPC9zdHJvbmc+PC9mb250
+PjwvZGl2PjxkaXY+PHN0cm9uZz48Zm9udCBmYWNlPSJBcmlhbCBCbGFjayI+wqDCoCA8Zm9udCBz
+aXplPSI0Ij7kurrkuZ/lpb3vvIzprYLkuZ/lpb3vvIzkuI3pgY7kuIDmirnmnbHojbc8L2ZvbnQ+
+PC9mb250Pjwvc3Ryb25nPjxzdHJvbmc+PGZvbnQgZmFjZT0iQXJpYWwgQmxhY2siIHNpemU9IjQi
+PuW9sTwvZm9udD48L3N0cm9uZz48L2Rpdj48L2ZvbnQ+PGRpdj7CoDwvZGl2PjwvZGl2PjwvZGl2
+PjwvZGl2Pg0KPC9kaXY+DQo=
+--001a113e06a8c5f7f0052089a08a--

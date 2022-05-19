@@ -1,0 +1,80 @@
+Message-ID: <1129729731.393376.online_se@mail2000.com.tw>
+X-M2KSPAM: NO/0
+Received: from 3.3.3.3
+	by asp8.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(96026:0:AUTH_RELAY)
+	(envelope-from <online_se@mail2000.com.tw>); Tue, 07 May 2013 15:01:31 +0800 (CST)
+Return-Path: <online_se@mail2000.com.tw>
+Received: from 10.0.0.40
+	by bak1.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(81304:0:AUTH_RELAY)
+	(envelope-from <online_se@mail2000.com.tw>); Tue, 07 May 2013 14:59:20 +0800 (CST)
+Return-Path: <online_se@mail2000.com.tw>
+M2KForward: Yes
+Received: By OpenMail Mailer;Tue, 07 May 2013 14:59:20 +0800 (CST)
+Received: from 203.69.82.34
+	by m0.mail2000.com.tw with Mail2000 ESMTP Server V3.20M(87484:0:AUTH_NONE)
+	(envelope-from <online_se@mail2000.com.tw>); Tue, 07 May 2013 14:59:19 +0800 (CST)
+Return-Path: <online_se@mail2000.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 203.69.82.96
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(1116:5:AUTH_NONE)
+	(envelope-from <online_se@mail2000.com.tw>); Tue, 07 May 2013 14:59:19 +0800 (CST)
+Return-Path: <online_se@mail2000.com.tw>
+X-M2KPolicyIP: 203.69.82.96 (py7.mail2000.com.tw)
+Received: from 10.0.0.16
+	by bak7.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(11442:0:AUTH_RELAY)
+	(envelope-from <online_se@mail2000.com.tw>); Tue, 07 May 2013 14:56:50 +0800 (CST)
+Return-Path: <online_se@mail2000.com.tw>
+X-M2KSPAM: NO/0
+From: Mail2000 System<online_se@mail2000.com.tw>
+To: undisclosed-recipients:;
+Subject: Domain:arashi-duke.com Modify Success
+Content-Type: text/html; charset=big5
+
+<html>
+<head></head>
+<body>
+<p>Modify Success</p>
+<table border=1>
+    <tr>
+        <td>Domain Name：</td>
+        <td>arashi-duke.com</td>
+    </tr>
+    <tr>
+        <td>公司名稱：</td>
+        <td>匯智資訊股份有限公司</td>
+    </tr>
+    <tr>
+        <td>連絡人：</td>
+        <td>WIS 匯智客服部</td>
+    </tr>
+    <tr>
+        <td>連絡電話：</td>
+        <td>02-2718-7200</td>
+    </tr>
+    <tr>
+        <td>Email：</td>
+        <td>service@wis.com.tw</td>
+    </tr>
+    <tr>
+        <td>到期日(西元年份/月/日)：</td>
+        <td>2013/05/08</td>
+    </tr>
+    <tr>
+        <td>授權帳號數量：</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>授權空間：</td>
+        <td>1500 MB</td>
+    </tr>
+    <tr>
+        <td>公用檔案空間：</td>
+        <td>0 MB</td>
+    </tr>
+</table>
+
+<p>更改到期日(西元年份/月/日)：2013/04/28-->2013/05/08<br>
+更改授權帳號數量：2-->3<br>
+</p>
+</body>
+</html>

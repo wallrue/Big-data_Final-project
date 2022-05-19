@@ -1,0 +1,1846 @@
+X-M2K-MATCHED-RULE: SPAM_FILTER-InADB
+X-M2K-MATCHED-RESULT: Mail Header From In ADB/m2k_adm@mail2000.com.tw
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 3.3.3.3
+	by ms2.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(4257:1:AUTH_NONE)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Tue, 17 Mar 2015 17:12:04 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 3.3.3.3
+	by asp6.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(63259:0:AUTH_RELAY)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Tue, 17 Mar 2015 17:12:04 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=mail2000.com.tw;
+	s=1404201787.mail2000; t=1426583524;
+	bh=+vYKcjoe+0MuP132ulOktKQxag4=;
+	h=Received:Return-Path:Received:Received:Return-Path:X-M2KSPAM:
+	 Received:Return-Path:X-M2KPolicyIP:Received:Return-Path:Message-ID:
+	 From:To:Cc:References:In-Reply-To:Subject:Date:MIME-Version:
+	 Content-Type:X-Priority:X-MSMail-Priority:Importance:X-Mailer:
+	 X-MimeOLE;
+	b=aIfosfspnYU3Wmc0CM39Dp4fLTbWyTf2UgraGGGV3z6v7yF/NPnADFgNmpGBQsd+T
+	 1Uo/sE6In1UT3ibtd21f1+5HC+ff69Bj6MwqPO4iu3aUHtu1nPw1/+nJMD/Qdmgekc
+	 vBSDwlhS63X5O7t+2aKc2dy89inZdHg8aZrpifo4=
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(31056:0:AUTH_RELAY)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Tue, 17 Mar 2015 17:11:57 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+Received: By OpenMail Mailer;Tue, 17 Mar 2015 17:11:57 +0800 (CST)
+Received: from 203.69.82.35
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(6666:0:AUTH_NONE)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Tue, 17 Mar 2015 17:11:55 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 203.69.82.32
+	by mx3.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(50666:2:AUTH_NONE)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Tue, 17 Mar 2015 17:11:55 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+X-M2KPolicyIP: 203.69.82.32 (www2.mail2000.com.tw)
+Received: from 210.59.162.125
+	by www2.mail2000.com.tw with Mail2000 ESMTP Server V4.50M(9940:0:AUTH_LOGIN)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Tue, 17 Mar 2015 17:11:54 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+Message-ID: <B63057574C5E4AD09D4AFB7A4AA77ADC@tp.office.openfind.com.tw>
+From: =?big5?B?TWFpbDIwMDAgq8iqQaSkpN8=?= <m2k_adm@mail2000.com.tw>
+To: "cloud_se" <cloud_se@openfind.com>
+Cc: "m2k_service" <m2k_service@mail2000.com.tw>
+References: <1426218221.12852.m2k_adm@mail2000.com.tw><1426229162.28046.cloud_se@openfind.com ><1426234428.10165.m2k_adm@mail2000.com.tw><1426235637.68057.cloud_se@openfind.com ><1426471945.14408.m2k_adm@mail2000.com.tw><1426473556.79579.cloud_se@openfind.com ><1426476985.13734.m2k_adm@mail2000.com.tw><1426478463.10872.cloud_se@openfind.com ><1426578684.6530.m2k_adm@mail2000.com.tw> <1426580597.58578.cloud_se@openfind.com >
+In-Reply-To: <1426580597.58578.cloud_se@openfind.com >
+Subject: =?big5?B?UmU6IE0yayAtIHl1cGV5IC0gpqyrSLDdw0QgLSBzaGluZ0B1dGFpcGVpLmVkdQ==?=
+	=?big5?B?LnR3ILVMqmuxSKtIqOwgTWFpbDIwMDAgq0i9Yw==?=
+Date: Tue, 17 Mar 2015 17:10:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0200_01D060D5.54DCC740"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 16.4.3528.331
+X-MimeOLE: Produced By Microsoft MimeOLE V16.4.3528.331
+
+這是 MIME 格式的 Multipart 郵件。
+
+------=_NextPart_000_0200_01D060D5.54DCC740
+Content-Type: text/plain;
+	charset="big5"
+Content-Transfer-Encoding: quoted-printable
+
+=B1z=A6n=A1A
+
+
+1. =A5L=AD=CC=A6=B3=B5o=B2{=A5u=ADn SMTP =
+=B3s=A8=EC=A7=DA=AD=CC=A5D=BE=F7=A4=A7=AB=E1=A1A
+=B0e=A5X helo =B4N=A8S=A6=B3=A5=F4=A6=F3=A6^=C0=B3=A4F=A1C
+
+2. =
+=A5L=AD=CC=AA=BA=A8=BE=A4=F5=C0=F0=A4w=B8g=A8S=A6=B3=B0=B5=A5=F4=A6=F3=C4=
+d=BAI=A1A=C1=D9=ACO=B5L=AAk=B1H=ABH=A8=EC Mail2000=A1A
+=A6=FD=ACO=B1H=A8=EC=A8=E4=A5L=A6a=A4=E8=B3=A3=A8S=B0=DD=C3D=A1A=A5u=A6=B3=
+=B1H=A8=EC  Mail2000 =A6=B3=B0=DD=C3D=A1C
+
+3. =A5L03.16 =B0=B5=A4F=A4@=AD=D3=B3]=A9w=A1A
+=A5L=BB=A1=A5L=A7=E2=B3=D5=B7R=AE=D5=B0=CF(=A6=B3=B0=DD=C3D=AA=BA=A1A=A5x=
+=A4j TANET) =AA=BA=ABH=C2=E0=A8=EC=A4=D1=A5=C0=AE=D5=B0=CF=B5o=B0e=A1A
+=A4=D1=A5=C0=AE=D5=B0=CF (=ACF=A4j TANET) =B5o=B0e=A8=EC Mail2000 =
+=B4N=A5=BF=B1`=A1C
+
+4. =A7=DA=AD=E8=AD=E8=BD=D0=A5L=A4=E2=B0=CA SMTP =
+=B4=FA=B8=D5=AC=DD=AC=DD=A1A=A8=C3=B1N=B5=B2=AAG=B4=A3=A8=D1=B5=B9=A7=DA=AD=
+=CC=A1A
+=A4=A7=AB=E1=A6=AC=A8=EC=B7|=A6b=B4=A3=A8=D1=B5=B9=B1z=A1C
+
+=A5t=A5~=A1A=A5D=BE=F7=B9=EF=A5D=BE=F7=A4=A7=B6=A1=AA=BA=B3s=BDu=BBP=B4=FA=
+=B8=D5=B0=DD=C3D
+=AF=E0=A7_=BD=D0=B1z=AA=BD=B1=B5=B8=F2=B9=EF=A4=E8=BDT=BB{=A5i=A5H=AB=E7=BB=
+=F2=B0=B5=B4=FA=B8=D5=ACd=B8=DF=B0=DD=C3D=A1A
+=A9=CE=ACO=A4=F1=B8=FB=AB=D8=C4=B3=A5=D1=A7=DA=AD=CC MIS =
+=B8=F2=B9=EF=A4=E8=C1p=C3=B4=A4]=BD=D0=A7i=AA=BE=A1C
+
+=B7P=C1=C2=A1C
+
+Kate
+
+=C1=C2=C1=C2=B1z=B9=EF Mail2000 =AA=BA=B7R=A5=CE=A1C
+=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6A=A6=B8=AC=A2=B8=DF=A1C
+
+Mail2000 =AB=C8=AAA=A4=A4=A4=DF =B7q=A4W
+-----------------------------------------------------------------------
+Mail2000 =AB=C8=AAA=A4=A4=A4=DF
+=AB=C8=AAA=B1M=BDu=A1G02-2553-7272
+=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956
+=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw
+Mail2000=B9q=A4l=ABH=BDc http://mail2000.com.tw/
+=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8 http://www.mailcloud.com.tw =
+
+=BA=F4=C0=BA Openfind =A5=F8=B7~=BA=F4=AF=B8 =
+http://www.openfind.com/taiwan
+-----------------------------------------------------------------------
+
+From: cloud_se@openfind.com=20
+Sent: Tuesday, March 17, 2015 4:23 PM
+To: Mail2000 =AB=C8=AAA=A4=A4=A4=DF=20
+Cc: m2k_service ; cloud_se=20
+Subject: Re: M2k - yupey - =A6=AC=ABH=B0=DD=C3D - shing@utaipei.edu.tw =
+=B5L=AAk=B1H=ABH=A8=EC Mail2000 =ABH=BDc
+
+Hi, Jasmine
+
+=C6[=B9=EE=B9=EF=A4=E8=A6V=A7=DA=AD=CC=B3s=BDu=AE=C9=A5i=A5=BF=B1`=B6}=B1=
+=D2=B3s=BDu=A1A
+=A6=FD=A7=DA=AD=CC=AA=BA=A5D=BE=F7=B5=A5=A4=A3=A8=EC=B9=EF=A4=E8=B6=C7=B0=
+e=B1=B5=A4U=A8=D3=AA=BA=AB=FC=A5O=A1A
+=A6]=A6=B9=B6W=B9L=B9O=AE=C9=AE=C9=B6=A1=AB=E1=ABK=B3Q=A7=DA=AD=CC=AA=BA=A5=
+D=BE=F7=A4=A4=C2_=B3s=BDu=A1C
+
+## SMTP =B3s=BDu=AC=F6=BF=FD
+[2015/03/14 09:40:04] [163.21.236.10:51171-4] Connection initialized.
+[2015/03/14 09:41:35] [163.21.236.10:51171-4] Client idle too long, =
+closing connection.
+[2015/03/14 09:41:35] [163.21.236.10:51171-4] Connection =
+closed.(91s.-218138u)
+
+=A5i=A7_=BD=D0=B9=EF=A4=E8=A9=F3=AC=DB=B9=EF=C0=B3=AA=BA=AE=C9=B6=A1=ACd=B8=
+=DF=A5L=AD=CC=B6l=A5=F3=A5D=BE=F7=A4W=AA=BA LOG=A1A
+=BDT=BB{=ACO=A7_=A6=B3=A5=F4=A6=F3=B2=A7=AA=AC=A1C
+
+=C1=C2=C1=C2=A1I
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=A1=BB =B6=B3=BA=DD=BA=FB=B9B cloud_se@openfind.com
+=A1=BB =A8t=B2=CE=A4=E4=B4=A9=A4u=B5{=AEv Rick Lin
+=A1=BB MailCloud =A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8 =
+http://www.mailcloud.com.tw/
+=A1=BB Mail2000  =B9q=A4l=B6l=A5=F3 http://www.mail2000.com.tw/
+=A1=BB Openfind  =BA=F4=C0=BA=B8=EA=B0T http://www.openfind.com/
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+-----Original message-----
+From:Mail2000 =AB=C8=AAA=A4=A4=A4=DF<m2k_adm@mail2000.com.tw>
+To:cloud_se<cloud_se@openfind.com>
+Cc:m2k_service<m2k_service@mail2000.com.tw>
+Date: Tue, 17 Mar 2015 15:51:24
+Subject: Re: M2k - yupey - =A6=AC=ABH=B0=DD=C3D - shing@utaipei.edu.tw =
+=B5L=AAk=B1H=ABH=A8=EC Mail2000 =ABH=BDc
+
+=B1z=A6n=A1A
+
+=AA=FE=C0=C9=ACO=A5x=A5_=A5=AB=A5=DF=A4j=BE=C7=ADp=BA=F4=A4=A4=A4=DF=B0t=A6=
+X=B9q=B8=A3=BCt=B0=D3=B3=AF=A5=FD=A5=CD=B4=A3=A8=D1=AA=BA tracert =
+=B0T=AE=A7=A1C
+=A6P=AE=C9=A6=B3=B1N=B0=DD=C3D=A6P=AE=C9=A4=CF=C0=B3=B5=B9 =
+TANET=A1A=A6=FD=ACO=B9=EF=A4=E8=BB=A1=A8S=A6=B3=B0=DD=C3D=A1A
+=A5t=A5~=B4=A3=A8=EC SE =B4=FA=B8=D5=A8=EC=B3=CC=AB=E1=B7|=A5X=B2{ =
+(*)=ACP=B8=B9=ACO=A6]=AC=B0=A6=B3=B3]=A9w
+=A4=A3=C5=FD=A8=E4=A5L=A4H=A8=CF=A5=CE =
+ping=A1A=B3o=AD=D3=ACO=A5=BF=B1`=A6^=C0=B3=A1A
+=BE=C7=AE=D5=B3o=B8=CC=AA=BA=A8=BE=A4=F5=C0=F0=A8S=A6=B3=B0=B5=AFS=AE=ED=AA=
+=BA=AD=AD=A8=EE=A1A
+=A5=D8=ABe=A5u=A6=B3=B1H=A8=EC Mail2000 =
+=AA=BA=ABH=B7|=B1H=A4=A3=A8=EC=A1A
+=A4]=B7Q=BD=D0=BA=F4=C0=BA=AA=BA=A4u=B5{=A4H=AD=FB=C0=B0=A6=A3=AC=DD=AC=DD=
+=C1=D9=A6=B3=A4=B0=BB=F2=A4=E8=AAk=A5i=A5H=B1=C6=B0=A3?
+
+=BD=D0=B0=DD=B3o=AD=D3=B0=DD=C3D=A6p=AAG=C1=D9=ACO=B5L=AAk=B1=C6=B0=A3=A1=
+A=ACO=A7_=A6=B3=A5i=AF=E0=BD=D0 SE =
+=AA=BD=B1=B5=A9M=B9q=B8=A3=BCt=B0=D3=B3s=B5=B8=A9O?
+=B3=C2=B7=D0=B1z=A4F=A1A
+=C1=C2=C1=C2=A1C
+
+
+
+
+
+
+=C1=C2=C1=C2=B1z=B9=EF Mail2000 =AA=BA=B7R=A5=CE=A1C
+=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6A=A6=B8=AC=A2=B8=DF=A1C
+-------------------------------------------------------------------------=
+--
+Mail2000 =B7s=A5\=AF=E0=A4W=BDu=A1=D0=AA=FE=C0=C9=BB=B4=C3P=A6s=A8=EC =
+SecuShare =A4=C0=A8=C9=B6=B3
+
+Keep Everything =B3=C6=A5=F7=B6=B3
+=B4=BF=B8g=A6=B3=B3=C6=A5=F7=B9q=B8=A3=AA=BA=A9=C0=C0Y=A1A=ABo=A4=A3=AA=BE=
+=B8=D3=A6p=A6=F3=B5=DB=A4=E2=A1H
+=B4=BF=B8g=A6]=AC=B0=A4@=AAM=A9@=B0=D8=C5x=A4F=A1A=C5=FD=A7A=AA=BA=B5=A7=B9=
+q=A4@=BA=CE=A4=A3=B0_=A1H
+=BA=F4=C0=BA=B1=C0=A5X=A7K=B6O=AD=D3=A4H=B9q=B8=A3=B3=C6=A5=F7=AAA=B0=C8 =
+Keep Everything =B3=C6=A5=F7=B6=B3
+-------------------------------------------------------------------------=
+---
+Mail2000 =AB=C8=AAA=A4=A4=A4=DF =B7q=A4W
+
+Mail2000 =AB=C8=AAA=A4=A4=A4=DF
+=AB=C8=AAA=B1M=BDu=A1G02-2553-7272
+=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956
+=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw
+Mail2000=B9q=A4l=ABH=BDc http://mail2000.com.tw/
+=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8 http://www.mailcloud.com.tw =
+
+=BA=F4=C0=BA Openfind =A5=F8=B7~=BA=F4=AF=B8 =
+http://www.openfind.com/taiwan
+
+
+-----Original message-----
+From:cloud_se<cloud_se@openfind.com >
+To:Mail2000 =AB=C8=AAA=A4=A4=A4=DF<m2k_adm@mail2000.com.tw>
+Cc:m2k_service<m2k_service@mail2000.com.tw>,cloud_se<cloud_se@openfind.co=
+m>
+Date: Mon, 16 Mar 2015 12:01:03
+Subject: Re: M2k - yupey - =A6=AC=ABH=B0=DD=C3D - shing@utaipei.edu.tw =
+=B5L=AAk=B1H=ABH=A8=EC Mail2000 =ABH=BDc
+
+Hi, Jasmine
+
+1.=20
+203.69.82.34 tracert =A8=EC 163.21.236.10 =AA=BA=B5=B2=AAG=A1A
+=A8=EC=ACY=B8`=C2I=A4=A7=AB=E1=ABK=A4@=AA=BD=A8S=A6=B3=A6^=C0=B3=A1A
+
+> traceroute 163.21.236.10
+traceroute to 163.21.236.10 (163.21.236.10), 64 hops max, 40 byte =
+packets
+1  203.69.82.126 (203.69.82.126)  11.458 ms  1.157 ms  3.249 ms
+2  203.69.80.34 (203.69.80.34)  0.372 ms  0.375 ms  0.316 ms
+3  tpdt-3307.hinet.net (211.22.226.162)  0.441 ms
+    tpdt-3308.hinet.net (211.22.226.166)  0.505 ms
+    tpdt-3307.hinet.net (211.22.226.162)  0.362 ms
+4  TPDT-3012.hinet.net (220.128.4.106)  4.480 ms
+    TPDT-3012.hinet.net (220.128.4.102)  11.707 ms  10.891 ms
+5  tpdb-3312.hinet.net (220.128.1.5)  0.590 ms
+    tpdb-3312.hinet.net (220.128.2.1)  0.633 ms
+    tpdb-3312.hinet.net (220.128.1.5)  0.522 ms
+6  202-39-199-101.HINET-IP.hinet.net (202.39.199.101)  0.761 ms  0.806 =
+ms
+    211.20.43.61 (211.20.43.61)  0.829 ms
+7  192.192.7.238 (192.192.7.238)  0.638 ms  0.854 ms  0.889 ms
+8  192.192.7.10 (192.192.7.10)  1.014 ms  0.955 ms  0.952 ms
+9  * * *
+10  * * *
+11  * * *
+
+2.=20
+=A5i=BD=D0=B9=EF=A4=E8 tracert =A8=EC 203.69.82.34
+=A9=CE=A6b=AC=DB=A6=FC=BA=F4=B8=F4=C0=F4=B9=D2=A8=CF=A5=CE=B4=FA=B3t=A4u=A8=
+=E3=A1C
+
+=C1=C2=C1=C2=A1I
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=A1=BB =B6=B3=BA=DD=BA=FB=B9B cloud_se@openfind.com
+=A1=BB =A8t=B2=CE=A4=E4=B4=A9=A4u=B5{=AEv Rick Lin
+=A1=BB MailCloud =A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8 =
+http://www.mailcloud.com.tw/
+=A1=BB Mail2000  =B9q=A4l=B6l=A5=F3 http://www.mail2000.com.tw/
+=A1=BB Openfind  =BA=F4=C0=BA=B8=EA=B0T http://www.openfind.com/
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+-----Original message-----
+From:Mail2000 =AB=C8=AAA=A4=A4=A4=DF<m2k_adm@mail2000.com.tw>
+To:cloud_se<cloud_se@openfind.com>
+Cc:m2k_service<m2k_service@mail2000.com.tw>
+Date: Mon, 16 Mar 2015 11:36:25
+Subject: Re: M2k - yupey - =A6=AC=ABH=B0=DD=C3D - shing@utaipei.edu.tw =
+=B5L=AAk=B1H=ABH=A8=EC Mail2000 =ABH=BDc
+
+=B1z=A6n=A1A
+
+=A7=DA=AD=E8=A4~=A6=B3=A9M=A5x=A5_=A5=AB=A5=DF=A4j=BE=C7=AA=BA=B0t=A6X=BC=
+t=B0=D3=B3=AF=A5=FD=A5=CD=B3s=B5=B8=A1A
+=B3=AF=A5=FD=A5=CD=B4=A3=A8=EC=BE=C7=AE=D5=A5i=A5H=A5=BF=B1`=A6=AC=B5o=A8=
+=E4=A5L=BA=F4=B0=EC=AA=BA=ABH=A5=F3=A1A
+=BE=C7=AE=D5=B9=EF Mail2000 =
+=AA=BA=ABH=A5u=AF=E0=A6=AC=A4=A3=AF=E0=B1H=A1A
+=A6]=AC=B0=BE=C7=AE=D5=B7|=B1q TANET =B3s=A5X=A5h=A1A
+=C3h=BA=C3=ACO TANET =B3s=A8=EC Mail2000 =B3o=B8=CC=A6=B3=B0=DD=C3D=A1A
+=B7Q=ADn=B4=A3=A8=D1=B0=DD=C3D=B8=EA=B0T=B5=B9 TANET =BDT=BB{=A1A
+=B3=AF=A5=FD=A5=CD=B8=DF=B0=DD=ACO=A7_=AF=E0=BD=D0 SE =
+=A8=F3=A7U=B4=FA=B8=D5
+1. Tracert =A8=EC 163.21.236.10
+2. =B4=A3=A8=D1=A5i=A5H=B0=B5 Tracert =AA=BA IP =
+=A6=EC=A7}=A1A=A5t=A5~=A6=B3=B3s=B9L .33=B3s=A4=A3=A8=EC
+
+=A6p=AAG=B0=DD=C3D=A4=B4=B5M=B5L=AAk=B1=C6=B0=A3=A1A
+=BD=D0=B0=DD=ACO=A7_=AF=E0=A5=D1 SE =
+=B3o=B8=CC=C0=B0=A6=A3=B3s=B5=B8=B3=AF=A5=FD=A5=CD=BDT=BB{=AA=AC=AAp=A1A
+=B3=C2=B7=D0=B1z=A4F=A1A
+=C1=C2=C1=C2=A1C
+
+
+Jasmine
+
+
+=C1=C2=C1=C2=B1z=B9=EF Mail2000 =AA=BA=B7R=A5=CE=A1C
+=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6A=A6=B8=AC=A2=B8=DF=A1C
+-------------------------------------------------------------------------=
+--
+Mail2000 =B7s=A5\=AF=E0=A4W=BDu=A1=D0=AA=FE=C0=C9=BB=B4=C3P=A6s=A8=EC =
+SecuShare =A4=C0=A8=C9=B6=B3
+
+Keep Everything =B3=C6=A5=F7=B6=B3
+=B4=BF=B8g=A6=B3=B3=C6=A5=F7=B9q=B8=A3=AA=BA=A9=C0=C0Y=A1A=ABo=A4=A3=AA=BE=
+=B8=D3=A6p=A6=F3=B5=DB=A4=E2=A1H
+=B4=BF=B8g=A6]=AC=B0=A4@=AAM=A9@=B0=D8=C5x=A4F=A1A=C5=FD=A7A=AA=BA=B5=A7=B9=
+q=A4@=BA=CE=A4=A3=B0_=A1H
+=BA=F4=C0=BA=B1=C0=A5X=A7K=B6O=AD=D3=A4H=B9q=B8=A3=B3=C6=A5=F7=AAA=B0=C8 =
+Keep Everything =B3=C6=A5=F7=B6=B3
+-------------------------------------------------------------------------=
+---
+Mail2000 =AB=C8=AAA=A4=A4=A4=DF =B7q=A4W
+
+Mail2000 =AB=C8=AAA=A4=A4=A4=DF
+=AB=C8=AAA=B1M=BDu=A1G02-2553-7272
+=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956
+=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw
+Mail2000=B9q=A4l=ABH=BDc http://mail2000.com.tw/
+=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8 http://www.mailcloud.com.tw =
+
+=BA=F4=C0=BA Openfind =A5=F8=B7~=BA=F4=AF=B8 =
+http://www.openfind.com/taiwan
+
+
+-----Original message-----
+From:cloud_se<cloud_se@openfind.com >
+To:Mail2000 =AB=C8=AAA=A4=A4=A4=DF<m2k_adm@mail2000.com.tw>
+Cc:m2k_service<m2k_service@mail2000.com.tw>,cloud_se<cloud_se@openfind.co=
+m>
+Date: Mon, 16 Mar 2015 10:39:16
+Subject: Re: M2k - yupey - =A6=AC=ABH=B0=DD=C3D - shing@utaipei.edu.tw =
+=B5L=AAk=B1H=ABH=A8=EC Mail2000 =ABH=BDc
+
+Hi, Jasmine
+
+3/14 =AA=BA=B3s=BDu=AC=F6=BF=FD=A6p=A6P=A4=A7=ABe=A9=D2=B4=A3=AA=BA=A1A
+=B3s=BDu=AE=C9=A5=BC=B6=C7=B0e=A5=F4=A6=F3=AB=FC=A5O=B3=CC=AB=E1=A6]=B6=A2=
+=B8m=B9L=A4[=B3Q=A7=DA=AD=CC=A5D=BE=F7=B1j=A8=EE=C2_=BDu=A1C
+
+[2015/03/14 09:17:42] [163.21.236.10:51127-5] Connection initialized.
+[2015/03/14 09:19:13] [163.21.236.10:51127-5] Client idle too long, =
+closing connection.
+[2015/03/14 09:19:13] [163.21.236.10:51127-5] Connection =
+closed.(91s.-23642u)
+[2015/03/14 09:28:53] [163.21.236.10:51150-0] Connection initialized.
+[2015/03/14 09:30:24] [163.21.236.10:51150-0] Client idle too long, =
+closing connection.
+[2015/03/14 09:30:24] [163.21.236.10:51150-0] Connection =
+closed.(91s.-20061u)
+[2015/03/14 09:40:04] [163.21.236.10:51171-4] Connection initialized.
+[2015/03/14 09:41:35] [163.21.236.10:51171-4] Client idle too long, =
+closing connection.
+[2015/03/14 09:41:35] [163.21.236.10:51171-4] Connection =
+closed.(91s.-218138u)
+
+=A5i=A6A=BD=D0=A8=CF=A5=CE=AA=CC=B0t=A6X=AA=BA=BCt=B0=D3=ACd=B8=DF=A8=BE=A4=
+=F5=C0=F0=ACO=A7_=A6=B3=AFS=AE=ED=AD=AD=A8=EE=A1A
+=B3y=A6=A8=B5L=AAk=A7=B9=A6=A8=B3s=BDu=A1C
+
+=C1=C2=C1=C2=A1I
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=A1=BB =B6=B3=BA=DD=BA=FB=B9B cloud_se@openfind.com
+=A1=BB =A8t=B2=CE=A4=E4=B4=A9=A4u=B5{=AEv Rick Lin
+=A1=BB MailCloud =A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8 =
+http://www.mailcloud.com.tw/
+=A1=BB Mail2000  =B9q=A4l=B6l=A5=F3 http://www.mail2000.com.tw/
+=A1=BB Openfind  =BA=F4=C0=BA=B8=EA=B0T http://www.openfind.com/
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+-----Original message-----
+From:Mail2000 =AB=C8=AAA=A4=A4=A4=DF<m2k_adm@mail2000.com.tw>
+To:cloud_se<cloud_se@openfind.com>
+Cc:m2k_service<m2k_service@mail2000.com.tw>
+Date: Mon, 16 Mar 2015 10:12:25
+Subject: Re: M2k - yupey - =A6=AC=ABH=B0=DD=C3D - shing@utaipei.edu.tw =
+=B5L=AAk=B1H=ABH=A8=EC Mail2000 =ABH=BDc
+
+=B1z=A6n=A1A
+
+=A5x=A5_=A5=AB=A5=DF=A4j=BE=C7=A6b 03-14 =
+=A4W=A4=C8=A6=B3=A6A=B1H=ABH=A8=EC Mail2000 =A4=B4=B5M=B3Q=B0h=ABH=A1A
+=B3=C2=B7=D0=B1z=A6A=C0=B0=A6=A3=BDT=BB{ 03-14 =
+=AA=BA=A8=D3=ABH=B3s=BDu=B1=A1=A7=CE=A1A
+=B1H=ABH IP =A6=EC=A7}=A1G
+163.21.236.10
+163.21.236.15
+163.21.236.16
+163.21.236.170
+
+=C1=C2=C1=C2=A1C
+
+
+
+Jasmine
+
+
+
+=C1=C2=C1=C2=B1z=B9=EF Mail2000 =AA=BA=B7R=A5=CE=A1C
+=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6A=A6=B8=AC=A2=B8=DF=A1C
+-------------------------------------------------------------------------=
+--
+Mail2000 =B7s=A5\=AF=E0=A4W=BDu=A1=D0=AA=FE=C0=C9=BB=B4=C3P=A6s=A8=EC =
+SecuShare =A4=C0=A8=C9=B6=B3
+
+Keep Everything =B3=C6=A5=F7=B6=B3
+=B4=BF=B8g=A6=B3=B3=C6=A5=F7=B9q=B8=A3=AA=BA=A9=C0=C0Y=A1A=ABo=A4=A3=AA=BE=
+=B8=D3=A6p=A6=F3=B5=DB=A4=E2=A1H
+=B4=BF=B8g=A6]=AC=B0=A4@=AAM=A9@=B0=D8=C5x=A4F=A1A=C5=FD=A7A=AA=BA=B5=A7=B9=
+q=A4@=BA=CE=A4=A3=B0_=A1H
+=BA=F4=C0=BA=B1=C0=A5X=A7K=B6O=AD=D3=A4H=B9q=B8=A3=B3=C6=A5=F7=AAA=B0=C8 =
+Keep Everything =B3=C6=A5=F7=B6=B3
+-------------------------------------------------------------------------=
+---
+Mail2000 =AB=C8=AAA=A4=A4=A4=DF =B7q=A4W
+
+Mail2000 =AB=C8=AAA=A4=A4=A4=DF
+=AB=C8=AAA=B1M=BDu=A1G02-2553-7272
+=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956
+=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw
+Mail2000=B9q=A4l=ABH=BDc http://mail2000.com.tw/
+=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8 http://www.mailcloud.com.tw =
+
+=BA=F4=C0=BA Openfind =A5=F8=B7~=BA=F4=AF=B8 =
+http://www.openfind.com/taiwan
+
+
+
+-----Original message-----
+From:ybao<ybao.chen@gmail.com>
+To:m2k_adm<m2k_adm@mail2000.com.tw>
+Date: Sat, 14 Mar 2015 12:43:36
+Subject: Fwd: FW: =A5x=A5_=A5=AB=A4j=BE=C7 =B1H=B0e =
+=B4=FA=B8=D5=ABH=A5=F3!! =A6=AC=A8=EC =AB=E1 =
+=BD=D0=C0=B0=A6=A3=A6^=B4_=A4@=A4U ,, =A5H=ABK=BDT=BB{
+
+Hi Mail 2000  =BA=DE=B2z=AA=CC =B1z=A6n!!
+=A6=B3=C3=F6 =A5x=A5_=A5=AB=A4j=BE=C7  =ABH=A5=F3=B5L=AAk=B1H=B0e  =
+=A8=EC =B1z=B6Q=A4=BD=A5q  =BA=F4=B0=EC!1
+=BD=D0=B1z=ACO=A7_ =A5i=A5H=A6b =A8=F3=A7U=BDT=BB{=20
+
+=B3o=ACO  =A5H=A4U =ACO=A7=DA  =A4W=A4=C8  =B1H=B0e=20
+=A6=FD=ACO =A7=DA=AD=CC =ACO=B3Q=B1z=AD=CC=B0h=A6^!
+
+
+=A4U=A6C=B2=D5=C2=B4=A4w=A9=DA=B5=B4=B1z=AA=BA=B6l=A5=F3: =
+mx2.mail2000.com.tw [203.69.82.34]=A1C
+
+
+
+=A7=DA=AD=CC =B1H=B0e=AA=BA IP  =A6@=A6=B3=A5|=AD=D3!!
+
+163.21.236.10
+
+163.21.236.15
+
+163.21.236.16
+
+163.21.236.170
+
+=B1z=A4=E8=ABK=AA=BA=B8=DC =
+=B5=B9=A5i=BC=B7=A5=B4=A7=DA=AA=BA=A4=E2=BE=F7   0917899218
+
+
+
+
+-------------------------------------------------------------------------=
+-------
+
+=B1q: spamadmin@utaipei.edu.tw [spamadmin@utaipei.edu.tw]
+=B1H=A5=F3=A4=E9=B4=C1: 2015=A6~3=A4=EB14=A4=E9 =A4W=A4=C8 09:41
+=A6=DC: m2k_adm@mail2000.com.tw
+=A5D=A6=AE: =A5=BC=B6=C7=BB=BC=AA=BA=A5D=A6=AE: =A5x=A5_=A5=AB=A4j=BE=C7 =
+=B1H=B0e =B4=FA=B8=D5=ABH=A5=F3!! =A6=AC=A8=EC =AB=E1 =
+=BD=D0=C0=B0=A6=A3=A6^=B4_=A4@=A4U ,, =A5H=ABK=BDT=BB{
+
+
+=B6=C7=BB=BC=A6=DC=A4U=A6C=A6=AC=A5=F3=AA=CC=A9=CE=B8s=B2=D5=A5=A2=B1=D1:=
+
+
+m2k_adm@mail2000.com.tw
+=B1N=A6=B9=B6l=A5=F3=B6=C7=B0e=A8=EC=B3o=AD=D3=B9q=A4l=B6l=A5=F3=A6a=A7}=AE=
+=C9=B5o=A5=CD=B0=DD=C3D=A1C=BD=D0=B9=C1=B8=D5=AD=AB=B7s=B6=C7=B0e=A6=B9=B6=
+l=A5=F3=A1C=A6p=AAG=B0=DD=C3D=AB=F9=C4=F2=B5o=A5=CD=A1A=BD=D0=B3s=B5=B8=A4=
+=E4=B4=A9=A4H=AD=FB=A1C
+
+
+=A4U=A6C=B2=D5=C2=B4=A4w=A9=DA=B5=B4=B1z=AA=BA=B6l=A5=F3: =
+mx2.mail2000.com.tw [203.69.82.34]=A1C
+
+=A8t=B2=CE=BA=DE=B2z=AD=FB=AA=BA=B6E=C2_=B8=EA=B0T:=20
+=B2=A3=A5=CD=AA=BA=A6=F8=AAA=BE=B9: spam.utaipei.edu.tw
+
+m2k_adm@mail2000.com.tw
+mx2.mail2000.com.tw [203.69.82.34] #<mx2.mail2000.com.tw [203.69.82.34] =
+#5.0.0 SMTP; Deferred: Connection refused by mx3.mail2000.com.tw> #SMTP#
+
+=AD=EC=A9l=B6l=A5=F3=BC=D0=C0Y:
+
+Received: from mail.utaipei.edu.tw [(163.21.236.15)] by =
+spam.utaipei.edu.tw
+	(envelope-from <beadmin@utaipei.edu.tw>)
+	(Cellopoint E-mail Firewall v3.9.11 Build 1007 with TLS)
+	with ESMTP id 1928608265; Sat, 14 Mar 2015 07:54:01 +0800
+Received: from HQ-MAIL-170.utaipei.edu.tw ([fe80::fced:522f:5c32:37f1]) =
+by
+ HQ-Mail-15.utaipei.edu.tw ([163.21.236.15]) with mapi id =
+14.03.0224.002; Sat,
+ 14 Mar 2015 07:54:00 +0800
+From: Backup Exec Administrator <BEadmin@utaipei.edu.tw>
+To: "m2k_adm@mail2000.com.tw" <m2k_adm@mail2000.com.tw>
+Subject: =
+=3D?big5?B?pXilX6WrpGq+xyCxSLBlILT6uNWrSKXzISEgIKasqOwgq+EgIL3QwLCmo6ZetF=
+8=3D?=3D
+ =3D?big5?B?pECkVSAsLCClSKtLvVS7ew=3D=3D?=3D
+Thread-Topic: =
+=3D?big5?B?pXilX6WrpGq+xyCxSLBlILT6uNWrSKXzISEgIKasqOwgq+EgIL3QwLCmo6ZetF=
+8=3D?=3D
+ =3D?big5?B?pECkVSAsLCClSKtLvVS7ew=3D=3D?=3D
+Thread-Index: AdBd6Pl+q1tnWbN2RY+/mHHkw47s7g=3D=3D
+Date: Fri, 13 Mar 2015 23:53:59 +0000
+Message-ID: =
+<4ACA3EDE3D05AE4EBC5B8E3F19A1F58C1F4A78B7@HQ-Mail-170.utaipei.edu.tw>
+Accept-Language: zh-TW, en-US
+Content-Language: zh-TW
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [163.21.236.13]
+Content-Type: text/plain
+MIME-Version: 1.0
+
+
+
+-----Original message-----
+From:cloud_se<cloud_se@openfind.com >
+To:Mail2000 =AB=C8=AAA=A4=A4=A4=DF<m2k_adm@mail2000.com.tw>
+Cc:m2k_service<m2k_service@mail2000.com.tw>,cloud_se<cloud_se@openfind.co=
+m>
+Date: Fri, 13 Mar 2015 16:33:57
+Subject: Re: M2k - yupey - =A6=AC=ABH=B0=DD=C3D - shing@utaipei.edu.tw =
+=B5L=AAk=B1H=ABH=A8=EC Mail2000 =ABH=BDc
+
+Hi, Jasmine
+
+=ACd=B8=DF=A5D=BE=F7=A8=C3=A5=BC=AA=FD=BE=D7
+
+163.21.236.10
+163.21.236.15
+163.21.236.16
+
+=B3o=A4T=B2=D5 IP=A1A
+
+=ACd=B8=DF=B3s=BDu=AC=F6=BF=FD=B6=C8=A6=B3 163.21.236.10 =
+=A6=B3=B8=F2=A7=DA=AD=CC=AA=BA=A5D=BE=F7=B4=BF=B6i=A6=E6=B9L=B3s=BDu=A1C
+
+=A6=D3=A5B=A6b 3/5 =A4=A7=ABe=ACO=A6=B3=B3s=BDu=AC=F6=BF=FD=AA=BA=A1A
+
+[2015/03/05 10:33:19] [163.21.236.10:4133-2] Connection initialized.
+[2015/03/05 10:33:19] [163.21.236.10:4133-2] [MSG]IP policy applied. =
+(log/$host/*)
+[2015/03/05 10:33:19] [163.21.236.10:4133-2] EHLO spam.utaipei.edu.tw
+[2015/03/05 10:33:19] [163.21.236.10:4133-2] MAIL =
+FROM:<huilan2012@utaipei.edu.tw> SIZE=3D71942
+[2015/03/05 10:33:19] [163.21.236.10:4133-2] RCPT =
+TO:<pcmall@mail2000.com.tw>
+[2015/03/05 10:33:19] [163.21.236.10:4133-2] DATA
+[2015/03/05 10:33:19] [163.21.236.10:4133-2] Message 54F7C06F.000284CB =
+accepted (70961 bytes).
+[2015/03/05 10:33:19] [163.21.236.10:4133-2] Read EOF,closing =
+connection.
+[2015/03/05 10:33:19] [163.21.236.10:4133-2] Connection =
+closed.(0s.18960u)
+
+=A5u=ACO=A8C=B5=A7=B3s=BDu=ABH=A5=F3=B1H=A5X=AB=E1=B7|=B2=A7=B1`=A4=A4=C2=
+_ Read EOF,=20
+
+=B1q 3/6 =A4=A7=AB=E1=ABK=A5u=A6=B3=A4U=A6C=AC=F6=BF=FD=A1A
+=B3s=BDu=AE=C9=A5=BC=B6=C7=B0e=A5=F4=A6=F3=AB=FC=A5O=B3=CC=AB=E1=A6]=B6=A2=
+=B8m=B9L=A4[=B3Q=A7=DA=AD=CC=A5D=BE=F7=B1j=A8=EE=C2_=BDu=A1C
+
+[2015/03/06 10:54:46] [163.21.236.10:4037-1] Connection initialized.
+[2015/03/06 10:56:17] [163.21.236.10:4037-1] Client idle too long, =
+closing connection.
+[2015/03/06 10:56:17] [163.21.236.10:4037-1] Connection =
+closed.(91s.-911034u)
+
+=A5i=A6A=BD=D0=A8=CF=A5=CE=AA=CC=B0t=A6X=AA=BA=BCt=B0=D3=ACd=B8=DF=A8=BE=A4=
+=F5=C0=F0=ACO=A7_=A6=B3=AFS=AE=ED=AD=AD=A8=EE=A1A
+=B3y=A6=A8=B5L=AAk=A7=B9=A6=A8=B3s=BDu=A1C
+
+=C1=C2=C1=C2=A1I
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=A1=BB =B6=B3=BA=DD=BA=FB=B9B cloud_se@openfind.com
+=A1=BB =A8t=B2=CE=A4=E4=B4=A9=A4u=B5{=AEv Rick Lin
+=A1=BB MailCloud =A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8 =
+http://www.mailcloud.com.tw/
+=A1=BB Mail2000  =B9q=A4l=B6l=A5=F3 http://www.mail2000.com.tw/
+=A1=BB Openfind  =BA=F4=C0=BA=B8=EA=B0T http://www.openfind.com/
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+-----Original message-----
+From:Mail2000 =AB=C8=AAA=A4=A4=A4=DF<m2k_adm@mail2000.com.tw>
+To:cloud_se<cloud_se@openfind.com>
+Cc:m2k_service<m2k_service@mail2000.com.tw>
+Date: Fri, 13 Mar 2015 16:13:48
+Subject: Re: M2k - yupey - =A6=AC=ABH=B0=DD=C3D - shing@utaipei.edu.tw =
+=B5L=AAk=B1H=ABH=A8=EC Mail2000 =ABH=BDc
+
+=B1z=A6n=A1A
+
+=A5x=A5_=A5=AB=A5=DF=A4j=BE=C7=ADp=BA=F4=A4=A4=A4=DF
+=B4=A3=A8=EC=BE=C7=AE=D5=AA=BA=B6l=A5=F3 IP =A6=EC=A7}=A6=B3 3 =
+=B2=D5=A1A
+163.21.236.10
+163.21.236.15
+163.21.236.16
+
+=B3=C2=B7=D0=B1z=A6A=C0=B0=A6=A3=BDT=BB{=ACO=A7_=A6=B3=AA=FD=BE=D7=A1A
+
+=C1=C2=C1=C2=A1C
+
+
+
+
+Jasmine
+
+
+=C1=C2=C1=C2=B1z=B9=EF Mail2000 =AA=BA=B7R=A5=CE=A1C
+=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6A=A6=B8=AC=A2=B8=DF=A1C
+-------------------------------------------------------------------------=
+--
+Mail2000 =B7s=A5\=AF=E0=A4W=BDu=A1=D0=AA=FE=C0=C9=BB=B4=C3P=A6s=A8=EC =
+SecuShare =A4=C0=A8=C9=B6=B3
+
+Keep Everything =B3=C6=A5=F7=B6=B3
+=B4=BF=B8g=A6=B3=B3=C6=A5=F7=B9q=B8=A3=AA=BA=A9=C0=C0Y=A1A=ABo=A4=A3=AA=BE=
+=B8=D3=A6p=A6=F3=B5=DB=A4=E2=A1H
+=B4=BF=B8g=A6]=AC=B0=A4@=AAM=A9@=B0=D8=C5x=A4F=A1A=C5=FD=A7A=AA=BA=B5=A7=B9=
+q=A4@=BA=CE=A4=A3=B0_=A1H
+=BA=F4=C0=BA=B1=C0=A5X=A7K=B6O=AD=D3=A4H=B9q=B8=A3=B3=C6=A5=F7=AAA=B0=C8 =
+Keep Everything =B3=C6=A5=F7=B6=B3
+-------------------------------------------------------------------------=
+---
+Mail2000 =AB=C8=AAA=A4=A4=A4=DF =B7q=A4W
+
+Mail2000 =AB=C8=AAA=A4=A4=A4=DF
+=AB=C8=AAA=B1M=BDu=A1G02-2553-7272
+=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956
+=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw
+Mail2000=B9q=A4l=ABH=BDc http://mail2000.com.tw/
+=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8 http://www.mailcloud.com.tw =
+
+=BA=F4=C0=BA Openfind =A5=F8=B7~=BA=F4=AF=B8 =
+http://www.openfind.com/taiwan
+
+-----Original message-----
+From:=B3=AF=DEm=A4=E5<ayachen@go.utaipei.edu.tw>
+To:m2k_adm<m2k_adm@mail2000.com.tw>
+Date: Fri, 13 Mar 2015 15:27:01
+Subject: =B0=AA=A4p=A9j=B1z=A6n =A7=DA=ACO=A5x=A5_=A5=AB=A5=DF=A4j=BE=C7
+
+
+=A5=D8=ABe=BCt=B0=D3=A7i=AA=BE=BE=C7=AE=D5=A4=BAMAIL=A5D=BE=F7IP=AC=B0=A4=
+U=A6C=A4T=B2=D5
+163.21.236.10  163.21.236.15  163.21.236.16
+=B3=C2=B7=D0=A4F                                          =20
+                                                             =
+=C1=C2=C1=C2=20
+
+
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+  =A5x=A5_=A5=AB=A5=DF=A4j=BE=C7
+=ADp=BA=F4=A4=A4=A4=DF : =B3=AF=DEm=A4=E5
+=A4=C0=BE=F7 : (02)2311-3040-8520
+=A6=E6=B0=CA : 0936-523-456
+=B6l=A5=F3=A6a=A7} : ayachen@utaipei.edu.tw
+
+-----Original message-----
+From:cloud_se<cloud_se@openfind.com >
+To:Mail2000 =AB=C8=AAA=A4=A4=A4=DF<m2k_adm@mail2000.com.tw>
+Cc:m2k_service<m2k_service@mail2000.com.tw>,Cloud =
+SE<cloud_se@openfind.com>
+Date: Fri, 13 Mar 2015 14:46:02
+Subject: Re: M2k - yupey - =A6=AC=ABH=B0=DD=C3D - shing@utaipei.edu.tw =
+=B5L=AAk=B1H=ABH=A8=EC Mail2000 =ABH=BDc
+
+
+Hi, Jasmine
+
+=B1q=A8=CF=A5=CE=AA=CC=A9=D2=B4=A3=A8=D1=AA=BA=ABH=A5=F3=A8=D3=AC=DD=ABH=B3=
+=CC=AB=E1=A5=D1 spam.utaipei.edu.tw =B1H=A5X=A1A
+=A6=D3=ABH=A5=F3=A4W=A8=C3=A5=BC=BB=A1=A9=FA spam.utaipei.edu.tw =
+=A5~=B1H=A8=CF=A5=CE=AA=BA IP=A1A
+=A6]=A6=B9=AA=BD=B1=B5=B1q=ACd=B8=DF=AB=E1=B1o=A8=EC=AA=BA IP =
+163.21.236.10 =B0=B5=B6i=A4@=A8B=ACd=B8=DF=A1A
+=A9=F3=A7=DA=AD=CC=AA=BA=A5D=BE=F7=A4W=C5=E3=A5=DC=AC=F6=BF=FD=A6p=A4U=A1=
+G
+
+
+[2015/03/12 10:36:10] [163.21.236.10:50658-4] Connection initialized.
+[2015/03/12 10:37:41] [163.21.236.10:50658-4] Client idle too long, =
+closing connection.
+[2015/03/12 10:37:41] [163.21.236.10:50658-4] Connection =
+closed.(91s.-963210u)
+[2015/03/12 10:47:21] [163.21.236.10:50661-6] Connection initialized.
+[2015/03/12 10:48:52] [163.21.236.10:50661-6] Client idle too long, =
+closing connection.
+[2015/03/12 10:48:52] [163.21.236.10:50661-6] Connection =
+closed.(91s.-918287u)
+[2015/03/12 10:58:32] [163.21.236.10:50653-3] Connection initialized.
+[2015/03/12 11:00:03] [163.21.236.10:50653-3] Client idle too long, =
+closing connection.
+[2015/03/12 11:00:03] [163.21.236.10:50653-3] Connection =
+closed.(91s.-887089u)
+
+=BDT=BB{=A7=DA=AD=CC=A5=BC=AA=FD=BE=D7 163.21.236.10 =B3o IP=A1A
+=A4]=A6A=B7=D0=BD=D0=B1z=A6V=A8=CF=A5=CE=AA=CC=BDT=BB{=A5~=B1H=AE=C9=A9=D2=
+=A8=CF=A5=CE=AA=BA IP=A1C
+
+=C1=C2=C1=C2=A1I
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=A1=BB =B6=B3=BA=DD=BA=FB=B9B cloud_se@openfind.com
+=A1=BB =A8t=B2=CE=A4=E4=B4=A9=A4u=B5{=AEv Rick Lin
+=A1=BB MailCloud =A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8 =
+http://www.mailcloud.com.tw/
+=A1=BB Mail2000  =B9q=A4l=B6l=A5=F3 http://www.mail2000.com.tw/
+=A1=BB Openfind  =BA=F4=C0=BA=B8=EA=B0T http://www.openfind.com/
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+-----Original message-----
+From:Mail2000 =AB=C8=AAA=A4=A4=A4=DF<m2k_adm@mail2000.com.tw>
+To:Cloud SE<cloud_se@openfind.com>
+Cc:m2k_service<m2k_service@mail2000.com.tw>
+Date: Fri, 13 Mar 2015 11:43:41
+Subject: M2k - yupey - =A6=AC=ABH=B0=DD=C3D - shing@utaipei.edu.tw =
+=B5L=AAk=B1H=ABH=A8=EC Mail2000 =ABH=BDc
+
+=B1z=A6n=A1A
+
+=B1b=B8=B9=A1Gyupey@mail2000.com.tw
+
+
+
+=B0=DD=C3D=A1G
+=B1H=ABH=B4=C1=B6=A1=A1G3=A4=EB=A5=F7
+=A8=CF=A5=CE=AA=CC=A4=CF=C0=B3 shing@utaipei.edu.tw =
+=B5L=AAk=B1H=ABH=A8=EC Mail2000=A1A
+=B1H=A5=F3=A4H=A6=B3=A6=AC=A8=EC=B0h=ABH=A1A=AE=B3=A8=EC=B0h=ABH=AB=E1=B7=
+|=B8=C9=B1H=A1A
+=BD=D0=B1z=A5=FD=C0=B0=A6=A3=C0=CB=ACd=ACO=A7_=A6=B3=AA=FD=BE=D7=B3o=AD=D3=
+=A8=D3=B7=BD=B1H=A8=D3=AA=BA=ABH=A1A
+=B3=C2=B7=D0=B1z=A4F=A1A
+=C1=C2=C1=C2=A1C
+
+
+
+Jasmine
+
+
+=C1=C2=C1=C2=B1z=B9=EF Mail2000 =AA=BA=B7R=A5=CE=A1C
+=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6A=A6=B8=AC=A2=B8=DF=A1C
+-------------------------------------------------------------------------=
+--
+Mail2000 =B7s=A5\=AF=E0=A4W=BDu=A1=D0=AA=FE=C0=C9=BB=B4=C3P=A6s=A8=EC =
+SecuShare =A4=C0=A8=C9=B6=B3
+
+Keep Everything =B3=C6=A5=F7=B6=B3
+=B4=BF=B8g=A6=B3=B3=C6=A5=F7=B9q=B8=A3=AA=BA=A9=C0=C0Y=A1A=ABo=A4=A3=AA=BE=
+=B8=D3=A6p=A6=F3=B5=DB=A4=E2=A1H
+=B4=BF=B8g=A6]=AC=B0=A4@=AAM=A9@=B0=D8=C5x=A4F=A1A=C5=FD=A7A=AA=BA=B5=A7=B9=
+q=A4@=BA=CE=A4=A3=B0_=A1H
+=BA=F4=C0=BA=B1=C0=A5X=A7K=B6O=AD=D3=A4H=B9q=B8=A3=B3=C6=A5=F7=AAA=B0=C8 =
+Keep Everything =B3=C6=A5=F7=B6=B3
+-------------------------------------------------------------------------=
+---
+Mail2000 =AB=C8=AAA=A4=A4=A4=DF =B7q=A4W
+
+Mail2000 =AB=C8=AAA=A4=A4=A4=DF
+=AB=C8=AAA=B1M=BDu=A1G02-2553-7272
+=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956
+=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw
+Mail2000=B9q=A4l=ABH=BDc http://mail2000.com.tw/
+=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8 http://www.mailcloud.com.tw =
+
+=BA=F4=C0=BA Openfind =A5=F8=B7~=BA=F4=AF=B8 =
+http://www.openfind.com/taiwan
+
+------=_NextPart_000_0200_01D060D5.54DCC740
+Content-Type: text/html;
+	charset="big5"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: =
+'=B7L=B3n=A5=BF=B6=C2=C5=E9'; COLOR: #000000">
+<DIV>=B1z=A6n=A1A<BR></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>1. =A5L=AD=CC=A6=B3=B5o=B2{=A5u=ADn SMTP =
+=B3s=A8=EC=A7=DA=AD=CC=A5D=BE=F7=A4=A7=AB=E1=A1A</DIV>
+<DIV>=B0e=A5X helo =B4N=A8S=A6=B3=A5=F4=A6=F3=A6^=C0=B3=A4F=A1C</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>2. =
+=A5L=AD=CC=AA=BA=A8=BE=A4=F5=C0=F0=A4w=B8g=A8S=A6=B3=B0=B5=A5=F4=A6=F3=C4=
+d=BAI=A1A=C1=D9=ACO=B5L=AAk=B1H=ABH=A8=EC Mail2000=A1A</DIV>
+<DIV>=A6=FD=ACO=B1H=A8=EC=A8=E4=A5L=A6a=A4=E8=B3=A3=A8S=B0=DD=C3D=A1A=A5u=
+=A6=B3=B1H=A8=EC&nbsp; Mail2000 =A6=B3=B0=DD=C3D=A1C</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>3. =A5L03.16 =B0=B5=A4F=A4@=AD=D3=B3]=A9w=A1A</DIV>
+<DIV>=A5L=BB=A1=A5L=A7=E2=B3=D5=B7R=AE=D5=B0=CF(=A6=B3=B0=DD=C3D=AA=BA=A1=
+A=A5x=A4j TANET) =
+=AA=BA=ABH=C2=E0=A8=EC=A4=D1=A5=C0=AE=D5=B0=CF=B5o=B0e=A1A</DIV>
+<DIV>=A4=D1=A5=C0=AE=D5=B0=CF (=ACF=A4j TANET) =B5o=B0e=A8=EC Mail2000 =
+=B4N=A5=BF=B1`=A1C</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>4. =A7=DA=AD=E8=AD=E8=BD=D0=A5L=A4=E2=B0=CA SMTP =
+=B4=FA=B8=D5=AC=DD=AC=DD=A1A=A8=C3=B1N=B5=B2=AAG=B4=A3=A8=D1=B5=B9=A7=DA=AD=
+=CC=A1A</DIV>
+<DIV>=A4=A7=AB=E1=A6=AC=A8=EC=B7|=A6b=B4=A3=A8=D1=B5=B9=B1z=A1C</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=A5t=A5~=A1A=A5D=BE=F7=B9=EF=A5D=BE=F7=A4=A7=B6=A1=AA=BA=B3s=BDu=BBP=
+=B4=FA=B8=D5=B0=DD=C3D</DIV>
+<DIV>=AF=E0=A7_=BD=D0=B1z=AA=BD=B1=B5=B8=F2=B9=EF=A4=E8=BDT=BB{=A5i=A5H=AB=
+=E7=BB=F2=B0=B5=B4=FA=B8=D5=ACd=B8=DF=B0=DD=C3D=A1A</DIV>
+<DIV>=A9=CE=ACO=A4=F1=B8=FB=AB=D8=C4=B3=A5=D1=A7=DA=AD=CC MIS =
+=B8=F2=B9=EF=A4=E8=C1p=C3=B4=A4]=BD=D0=A7i=AA=BE=A1C</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=B7P=C1=C2=A1C</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Kate</DIV>
+<DIV><BR>=C1=C2=C1=C2=B1z=B9=EF Mail2000 =
+=AA=BA=B7R=A5=CE=A1C<BR>=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6=
+A=A6=B8=AC=A2=B8=DF=A1C<BR><BR>Mail2000 =AB=C8=AAA=A4=A4=A4=DF=20
+=B7q=A4W<BR>-------------------------------------------------------------=
+----------<BR>Mail2000=20
+=AB=C8=AAA=A4=A4=A4=DF<BR>=AB=C8=AAA=B1M=BDu=A1G02-2553-7272<BR>=AB=C8=AA=
+A=B6=C7=AFu=A1G02-2553-5956<BR>=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com=
+.tw<BR>Mail2000=B9q=A4l=ABH=BDc=20
+http://mail2000.com.tw/<BR>=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8 =
+http://www.mailcloud.com.tw <BR>=BA=F4=C0=BA Openfind=20
+=A5=F8=B7~=BA=F4=AF=B8=20
+http://www.openfind.com/taiwan<BR>---------------------------------------=
+--------------------------------</DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV style=3D"FONT: 10pt tahoma">
+<DIV>&nbsp;</DIV>
+<DIV style=3D"BACKGROUND: #f5f5f5">
+<DIV style=3D"font-color: black"><B>From:</B> cloud_se@openfind.com =
+</DIV>
+<DIV><B>Sent:</B> Tuesday, March 17, 2015 4:23 PM</DIV>
+<DIV><B>To:</B> <A title=3Dm2k_adm@mail2000.com.tw=20
+href=3D"mailto:m2k_adm@mail2000.com.tw">Mail2000 =
+=AB=C8=AAA=A4=A4=A4=DF</A> </DIV>
+<DIV><B>Cc:</B> <A title=3Dm2k_service@mail2000.com.tw=20
+href=3D"mailto:m2k_service@mail2000.com.tw">m2k_service</A> ; <A=20
+title=3Dcloud_se@openfind.com =
+href=3D"mailto:cloud_se@openfind.com">cloud_se</A>=20
+</DIV>
+<DIV><B>Subject:</B> Re: M2k - yupey - =A6=AC=ABH=B0=DD=C3D - =
+shing@utaipei.edu.tw =B5L=AAk=B1H=ABH=A8=EC=20
+Mail2000 =ABH=BDc</DIV></DIV></DIV>
+<DIV>&nbsp;</DIV></DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV>Hi, Jasmine</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=C6[=B9=EE=B9=EF=A4=E8=A6V=A7=DA=AD=CC=B3s=BDu=AE=C9=A5i=A5=BF=B1`=B6=
+}=B1=D2=B3s=BDu=A1A</DIV>
+<DIV>=A6=FD=A7=DA=AD=CC=AA=BA=A5D=BE=F7=B5=A5=A4=A3=A8=EC=B9=EF=A4=E8=B6=C7=
+=B0e=B1=B5=A4U=A8=D3=AA=BA=AB=FC=A5O=A1A</DIV>
+<DIV>=A6]=A6=B9=B6W=B9L=B9O=AE=C9=AE=C9=B6=A1=AB=E1=ABK=B3Q=A7=DA=AD=CC=AA=
+=BA=A5D=BE=F7=A4=A4=C2_=B3s=BDu=A1C</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>## SMTP =B3s=BDu=AC=F6=BF=FD</DIV>
+<DIV>
+<DIV>[2015/03/14 09:40:04] [163.21.236.10:51171-4] Connection =
+initialized.</DIV>
+<DIV>[2015/03/14 09:41:35] [163.21.236.10:51171-4] Client idle too long, =
+closing=20
+connection.</DIV>
+<DIV>[2015/03/14 09:41:35] [163.21.236.10:51171-4] Connection=20
+closed.(91s.-218138u)</DIV></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=A5i=A7_=BD=D0=B9=EF=A4=E8=A9=F3=AC=DB=B9=EF=C0=B3=AA=BA=AE=C9=B6=A1=
+=ACd=B8=DF=A5L=AD=CC=B6l=A5=F3=A5D=BE=F7=A4W=AA=BA LOG=A1A</DIV>
+<DIV>=BDT=BB{=ACO=A7_=A6=B3=A5=F4=A6=F3=B2=A7=AA=AC=A1C</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=C1=C2=C1=C2=A1I</DIV>
+<DIV>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</DI=
+V>
+<DIV>=A1=BB =B6=B3=BA=DD=BA=FB=B9B<SPAN class=3DApple-tab-span =
+style=3D"WHITE-SPACE: pre">=20
+</SPAN>cloud_se@openfind.com</DIV>
+<DIV>=A1=BB =A8t=B2=CE=A4=E4=B4=A9=A4u=B5{=AEv<SPAN =
+class=3DApple-tab-span style=3D"WHITE-SPACE: pre"> </SPAN>Rick=20
+Lin</DIV>
+<DIV>=A1=BB MailCloud =A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8<SPAN =
+class=3DApple-tab-span style=3D"WHITE-SPACE: pre">=20
+</SPAN>http://www.mailcloud.com.tw/</DIV>
+<DIV>=A1=BB Mail2000&nbsp; =B9q=A4l=B6l=A5=F3<SPAN =
+class=3DApple-tab-span style=3D"WHITE-SPACE: pre">=20
+</SPAN>http://www.mail2000.com.tw/</DIV>
+<DIV>=A1=BB Openfind&nbsp; =BA=F4=C0=BA=B8=EA=B0T<SPAN =
+class=3DApple-tab-span style=3D"WHITE-SPACE: pre">=20
+</SPAN>http://www.openfind.com/</DIV>
+<DIV>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</DI=
+V>
+<DIV class=3D"vimiumReset vimiumHUD"=20
+style=3D"RIGHT: 150px; DISPLAY: none; opacity: =
+0"></DIV><BR>-----Original=20
+message-----<BR><B>From:</B>Mail2000=20
+=AB=C8=AAA=A4=A4=A4=DF&lt;m2k_adm@mail2000.com.tw&gt;<BR><B>To:</B>cloud_=
+se&lt;cloud_se@openfind.com&gt;<BR><B>Cc:</B>m2k_service&lt;m2k_service@m=
+ail2000.com.tw&gt;<BR><B>Date:=20
+</B>Tue, 17 Mar 2015 15:51:24<BR><B>Subject:</B> Re: M2k - yupey - =
+=A6=AC=ABH=B0=DD=C3D -=20
+shing@utaipei.edu.tw =B5L=AAk=B1H=ABH=A8=EC Mail2000 =ABH=BDc<BR>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>=B1z=A6n=A1A</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=AA=FE=C0=C9=ACO=A5x=A5_=A5=AB=A5=DF=A4j=BE=C7=ADp=BA=F4=A4=A4=A4=DF=
+=B0t=A6X=B9q=B8=A3=BCt=B0=D3=B3=AF=A5=FD=A5=CD=B4=A3=A8=D1=AA=BA tracert =
+=B0T=AE=A7=A1C<BR>=A6P=AE=C9=A6=B3=B1N=B0=DD=C3D=A6P=AE=C9=A4=CF=C0=B3=B5=
+=B9=20
+TANET=A1A=A6=FD=ACO=B9=EF=A4=E8=BB=A1=A8S=A6=B3=B0=DD=C3D=A1A<BR>=A5t=A5~=
+=B4=A3=A8=EC SE =B4=FA=B8=D5=A8=EC=B3=CC=AB=E1=B7|=A5X=B2{ =
+(*)=ACP=B8=B9=ACO=A6]=AC=B0=A6=B3=B3]=A9w<BR>=A4=A3=C5=FD=A8=E4=A5L=A4H=A8=
+=CF=A5=CE=20
+ping=A1A=B3o=AD=D3=ACO=A5=BF=B1`=A6^=C0=B3=A1A<BR>=BE=C7=AE=D5=B3o=B8=CC=AA=
+=BA=A8=BE=A4=F5=C0=F0=A8S=A6=B3=B0=B5=AFS=AE=ED=AA=BA=AD=AD=A8=EE=A1A<BR>=
+=A5=D8=ABe=A5u=A6=B3=B1H=A8=EC Mail2000=20
+=AA=BA=ABH=B7|=B1H=A4=A3=A8=EC=A1A<BR>=A4]=B7Q=BD=D0=BA=F4=C0=BA=AA=BA=A4=
+u=B5{=A4H=AD=FB=C0=B0=A6=A3=AC=DD=AC=DD=C1=D9=A6=B3=A4=B0=BB=F2=A4=E8=AAk=
+=A5i=A5H=B1=C6=B0=A3?<BR><BR>=BD=D0=B0=DD=B3o=AD=D3=B0=DD=C3D=A6p=AAG=C1=D9=
+=ACO=B5L=AAk=B1=C6=B0=A3=A1A=ACO=A7_=A6=B3=A5i=AF=E0=BD=D0 SE=20
+=AA=BD=B1=B5=A9M=B9q=B8=A3=BCt=B0=D3=B3s=B5=B8=A9O?<BR>=B3=C2=B7=D0=B1z=A4=
+F=A1A<BR>=C1=C2=C1=C2=A1C<BR><BR></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=C1=C2=C1=C2=B1z=B9=EF Mail2000 =
+=AA=BA=B7R=A5=CE=A1C<BR>=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6=
+A=A6=B8=AC=A2=B8=DF=A1C</DIV>
+<DIV></DIV>
+<DIV>
+<DIV>--------------------------------------------------------------------=
+-------</DIV>
+<DIV>
+<DIV><FONT color=3D#ff0000><B><FONT color=3D#0000ff>Mail2000 =
+=B7s=A5\=AF=E0=A4W=BDu=A1=D0=AA=FE=C0=C9=BB=B4=C3P=A6s=A8=EC <A=20
+href=3D"http://doc.mail2000.com.tw/news/1405/AttachToSS.htm">SecuShare=20
+=A4=C0=A8=C9=B6=B3</A></FONT><BR><BR>Keep Everything =
+=B3=C6=A5=F7=B6=B3</B></FONT></DIV>
+<DIV>=B4=BF=B8g=A6=B3=B3=C6=A5=F7=B9q=B8=A3=AA=BA=A9=C0=C0Y=A1A=ABo=A4=A3=
+=AA=BE=B8=D3=A6p=A6=F3=B5=DB=A4=E2=A1H</DIV>
+<DIV>=B4=BF=B8g=A6]=AC=B0=A4@=AAM=A9@=B0=D8=C5x=A4F=A1A=C5=FD=A7A=AA=BA=B5=
+=A7=B9q=A4@=BA=CE=A4=A3=B0_=A1H</DIV>
+<DIV>=BA=F4=C0=BA=B1=C0=A5X=A7K=B6O=AD=D3=A4H=B9q=B8=A3=B3=C6=A5=F7=AAA=B0=
+=C8 <B><A href=3D"http://www.keepeverything.com">Keep Everything=20
+=B3=C6=A5=F7=B6=B3</A></B></DIV></DIV>
+<DIV></DIV>
+<DIV>--------------------------------------------------------------------=
+--------</DIV>
+<DIV></DIV>
+<DIV></DIV>
+<DIV>Mail2000 =AB=C8=AAA=A4=A4=A4=DF =B7q=A4W</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Mail2000 =AB=C8=AAA=A4=A4=A4=DF</DIV>
+<DIV>=AB=C8=AAA=B1M=BDu=A1G02-2553-7272</DIV>
+<DIV>=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956</DIV>
+<DIV>=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw</DIV>
+<DIV>Mail2000=B9q=A4l=ABH=BDc <A href=3D"http://mail2000.com.tw/"=20
+target=3D_blank>http://mail2000.com.tw/</A></DIV>
+<DIV>=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8 <A =
+href=3D"http://www.mailcloud.com.tw/"=20
+target=3D_blank>http://www.mailcloud.com.tw</A> </DIV>
+<DIV>=BA=F4=C0=BA Openfind =A5=F8=B7~=BA=F4=AF=B8 <A =
+href=3D"http://www.openfind.com/taiwan"=20
+target=3D_blank>http://www.openfind.com/taiwan</A></DIV>
+<DIV>&nbsp;</DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></=
+DIV></DIV></DIV></DIV></DIV></DIV><BR>-----Original=20
+message-----<BR><B>From:</B>cloud_se&lt;cloud_se@openfind.com=20
+&gt;<BR><B>To:</B>Mail2000=20
+=AB=C8=AAA=A4=A4=A4=DF&lt;m2k_adm@mail2000.com.tw&gt;<BR><B>Cc:</B>m2k_se=
+rvice&lt;m2k_service@mail2000.com.tw&gt;,cloud_se&lt;cloud_se@openfind.co=
+m&gt;<BR><B>Date:=20
+</B>Mon, 16 Mar 2015 12:01:03<BR><B>Subject:</B> Re: M2k - yupey - =
+=A6=AC=ABH=B0=DD=C3D -=20
+shing@utaipei.edu.tw =B5L=AAk=B1H=ABH=A8=EC Mail2000 =ABH=BDc<BR>
+<DIV>Hi, Jasmine</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>1. </DIV>
+<DIV>203.69.82.34 tracert =A8=EC 163.21.236.10 =
+=AA=BA=B5=B2=AAG=A1A</DIV>
+<DIV>=A8=EC=ACY=B8`=C2I=A4=A7=AB=E1=ABK=A4@=AA=BD=A8S=A6=B3=A6^=C0=B3=A1A=
+</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>
+<DIV>&gt; traceroute 163.21.236.10</DIV>
+<DIV>traceroute to 163.21.236.10 (163.21.236.10), 64 hops max, 40 byte=20
+packets</DIV>
+<DIV>1&nbsp; 203.69.82.126 (203.69.82.126)&nbsp; 11.458 ms&nbsp; 1.157 =
+ms&nbsp;=20
+3.249 ms</DIV>
+<DIV>2&nbsp; 203.69.80.34 (203.69.80.34)&nbsp; 0.372 ms&nbsp; 0.375 =
+ms&nbsp;=20
+0.316 ms</DIV>
+<DIV>3&nbsp; tpdt-3307.hinet.net (211.22.226.162)&nbsp; 0.441 ms</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; tpdt-3308.hinet.net (211.22.226.166)&nbsp; 0.505 =
+
+ms</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; tpdt-3307.hinet.net (211.22.226.162)&nbsp; 0.362 =
+
+ms</DIV>
+<DIV>4&nbsp; TPDT-3012.hinet.net (220.128.4.106)&nbsp; 4.480 ms</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; TPDT-3012.hinet.net (220.128.4.102)&nbsp; 11.707 =
+
+ms&nbsp; 10.891 ms</DIV>
+<DIV>5&nbsp; tpdb-3312.hinet.net (220.128.1.5)&nbsp; 0.590 ms</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; tpdb-3312.hinet.net (220.128.2.1)&nbsp; 0.633 =
+ms</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; tpdb-3312.hinet.net (220.128.1.5)&nbsp; 0.522 =
+ms</DIV>
+<DIV>6&nbsp; 202-39-199-101.HINET-IP.hinet.net (202.39.199.101)&nbsp; =
+0.761=20
+ms&nbsp; 0.806 ms</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 211.20.43.61 (211.20.43.61)&nbsp; 0.829 ms</DIV>
+<DIV>7&nbsp; 192.192.7.238 (192.192.7.238)&nbsp; 0.638 ms&nbsp; 0.854 =
+ms&nbsp;=20
+0.889 ms</DIV>
+<DIV>8&nbsp; 192.192.7.10 (192.192.7.10)&nbsp; 1.014 ms&nbsp; 0.955 =
+ms&nbsp;=20
+0.952 ms</DIV>
+<DIV>9&nbsp; * * *</DIV>
+<DIV>10&nbsp; * * *</DIV>
+<DIV>11&nbsp; * * *</DIV></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>2. </DIV>
+<DIV>=A5i=BD=D0=B9=EF=A4=E8 tracert =A8=EC 203.69.82.34</DIV>
+<DIV>=A9=CE=A6b=AC=DB=A6=FC=BA=F4=B8=F4=C0=F4=B9=D2=A8=CF=A5=CE=B4=FA=B3t=
+=A4u=A8=E3=A1C</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=C1=C2=C1=C2=A1I</DIV>
+<DIV>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</DI=
+V>
+<DIV>=A1=BB =B6=B3=BA=DD=BA=FB=B9B<SPAN class=3DApple-tab-span =
+style=3D"WHITE-SPACE: pre">=20
+</SPAN>cloud_se@openfind.com</DIV>
+<DIV>=A1=BB =A8t=B2=CE=A4=E4=B4=A9=A4u=B5{=AEv<SPAN =
+class=3DApple-tab-span style=3D"WHITE-SPACE: pre"> </SPAN>Rick=20
+Lin</DIV>
+<DIV>=A1=BB MailCloud =A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8<SPAN =
+class=3DApple-tab-span style=3D"WHITE-SPACE: pre">=20
+</SPAN>http://www.mailcloud.com.tw/</DIV>
+<DIV>=A1=BB Mail2000&nbsp; =B9q=A4l=B6l=A5=F3<SPAN =
+class=3DApple-tab-span style=3D"WHITE-SPACE: pre">=20
+</SPAN>http://www.mail2000.com.tw/</DIV>
+<DIV>=A1=BB Openfind&nbsp; =BA=F4=C0=BA=B8=EA=B0T<SPAN =
+class=3DApple-tab-span style=3D"WHITE-SPACE: pre">=20
+</SPAN>http://www.openfind.com/</DIV>
+<DIV>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</DI=
+V>
+<DIV class=3D"vimiumReset vimiumHUD"=20
+style=3D"RIGHT: 150px; DISPLAY: none; opacity: =
+0"></DIV><BR>-----Original=20
+message-----<BR><B>From:</B>Mail2000=20
+=AB=C8=AAA=A4=A4=A4=DF&lt;m2k_adm@mail2000.com.tw&gt;<BR><B>To:</B>cloud_=
+se&lt;cloud_se@openfind.com&gt;<BR><B>Cc:</B>m2k_service&lt;m2k_service@m=
+ail2000.com.tw&gt;<BR><B>Date:=20
+</B>Mon, 16 Mar 2015 11:36:25<BR><B>Subject:</B> Re: M2k - yupey - =
+=A6=AC=ABH=B0=DD=C3D -=20
+shing@utaipei.edu.tw =B5L=AAk=B1H=ABH=A8=EC Mail2000 =ABH=BDc<BR>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>=B1z=A6n=A1A</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=A7=DA=AD=E8=A4~=A6=B3=A9M=A5x=A5_=A5=AB=A5=DF=A4j=BE=C7=AA=BA=B0t=A6=
+X=BCt=B0=D3=B3=AF=A5=FD=A5=CD=B3s=B5=B8=A1A<BR>=B3=AF=A5=FD=A5=CD=B4=A3=A8=
+=EC=BE=C7=AE=D5=A5i=A5H=A5=BF=B1`=A6=AC=B5o=A8=E4=A5L=BA=F4=B0=EC=AA=BA=AB=
+H=A5=F3=A1A<BR>=BE=C7=AE=D5=B9=EF Mail2000=20
+=AA=BA=ABH=A5u=AF=E0=A6=AC=A4=A3=AF=E0=B1H=A1A<BR>=A6]=AC=B0=BE=C7=AE=D5=B7=
+|=B1q TANET =B3s=A5X=A5h=A1A<BR>=C3h=BA=C3=ACO TANET =B3s=A8=EC Mail2000 =
+=B3o=B8=CC=A6=B3=B0=DD=C3D=A1A<BR>=B7Q=ADn=B4=A3=A8=D1=B0=DD=C3D=B8=EA=B0=
+T=B5=B9=20
+TANET =BDT=BB{=A1A<BR>=B3=AF=A5=FD=A5=CD=B8=DF=B0=DD=ACO=A7_=AF=E0=BD=D0 =
+SE =A8=F3=A7U=B4=FA=B8=D5<BR>1. Tracert =A8=EC 163.21.236.10<BR>2. =
+=B4=A3=A8=D1=A5i=A5H=B0=B5 Tracert=20
+=AA=BA IP =A6=EC=A7}=A1A=A5t=A5~=A6=B3=B3s=B9L =
+.33=B3s=A4=A3=A8=EC<BR><BR>=A6p=AAG=B0=DD=C3D=A4=B4=B5M=B5L=AAk=B1=C6=B0=A3=
+=A1A<BR>=BD=D0=B0=DD=ACO=A7_=AF=E0=A5=D1 SE=20
+=B3o=B8=CC=C0=B0=A6=A3=B3s=B5=B8=B3=AF=A5=FD=A5=CD=BDT=BB{=AA=AC=AAp=A1A<=
+BR>=B3=C2=B7=D0=B1z=A4F=A1A<BR>=C1=C2=C1=C2=A1C<BR><BR><BR>Jasmine<BR></D=
+IV>
+<DIV>&nbsp;</DIV>
+<DIV>=C1=C2=C1=C2=B1z=B9=EF Mail2000 =
+=AA=BA=B7R=A5=CE=A1C<BR>=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6=
+A=A6=B8=AC=A2=B8=DF=A1C</DIV>
+<DIV></DIV>
+<DIV>
+<DIV>--------------------------------------------------------------------=
+-------</DIV>
+<DIV>
+<DIV><FONT color=3D#ff0000><B><FONT color=3D#0000ff>Mail2000 =
+=B7s=A5\=AF=E0=A4W=BDu=A1=D0=AA=FE=C0=C9=BB=B4=C3P=A6s=A8=EC <A=20
+href=3D"http://doc.mail2000.com.tw/news/1405/AttachToSS.htm">SecuShare=20
+=A4=C0=A8=C9=B6=B3</A></FONT><BR><BR>Keep Everything =
+=B3=C6=A5=F7=B6=B3</B></FONT></DIV>
+<DIV>=B4=BF=B8g=A6=B3=B3=C6=A5=F7=B9q=B8=A3=AA=BA=A9=C0=C0Y=A1A=ABo=A4=A3=
+=AA=BE=B8=D3=A6p=A6=F3=B5=DB=A4=E2=A1H</DIV>
+<DIV>=B4=BF=B8g=A6]=AC=B0=A4@=AAM=A9@=B0=D8=C5x=A4F=A1A=C5=FD=A7A=AA=BA=B5=
+=A7=B9q=A4@=BA=CE=A4=A3=B0_=A1H</DIV>
+<DIV>=BA=F4=C0=BA=B1=C0=A5X=A7K=B6O=AD=D3=A4H=B9q=B8=A3=B3=C6=A5=F7=AAA=B0=
+=C8 <B><A href=3D"http://www.keepeverything.com">Keep Everything=20
+=B3=C6=A5=F7=B6=B3</A></B></DIV></DIV>
+<DIV></DIV>
+<DIV>--------------------------------------------------------------------=
+--------</DIV>
+<DIV></DIV>
+<DIV></DIV>
+<DIV>Mail2000 =AB=C8=AAA=A4=A4=A4=DF =B7q=A4W</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Mail2000 =AB=C8=AAA=A4=A4=A4=DF</DIV>
+<DIV>=AB=C8=AAA=B1M=BDu=A1G02-2553-7272</DIV>
+<DIV>=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956</DIV>
+<DIV>=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw</DIV>
+<DIV>Mail2000=B9q=A4l=ABH=BDc <A href=3D"http://mail2000.com.tw/"=20
+target=3D_blank>http://mail2000.com.tw/</A></DIV>
+<DIV>=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8 <A =
+href=3D"http://www.mailcloud.com.tw/"=20
+target=3D_blank>http://www.mailcloud.com.tw</A> </DIV>
+<DIV>=BA=F4=C0=BA Openfind =A5=F8=B7~=BA=F4=AF=B8 <A =
+href=3D"http://www.openfind.com/taiwan"=20
+target=3D_blank>http://www.openfind.com/taiwan</A></DIV>
+<DIV>&nbsp;</DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></=
+DIV></DIV></DIV></DIV></DIV></DIV><BR>-----Original=20
+message-----<BR><B>From:</B>cloud_se&lt;cloud_se@openfind.com=20
+&gt;<BR><B>To:</B>Mail2000=20
+=AB=C8=AAA=A4=A4=A4=DF&lt;m2k_adm@mail2000.com.tw&gt;<BR><B>Cc:</B>m2k_se=
+rvice&lt;m2k_service@mail2000.com.tw&gt;,cloud_se&lt;cloud_se@openfind.co=
+m&gt;<BR><B>Date:=20
+</B>Mon, 16 Mar 2015 10:39:16<BR><B>Subject:</B> Re: M2k - yupey - =
+=A6=AC=ABH=B0=DD=C3D -=20
+shing@utaipei.edu.tw =B5L=AAk=B1H=ABH=A8=EC Mail2000 =ABH=BDc<BR>
+<DIV>Hi, Jasmine</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>3/14 =
+=AA=BA=B3s=BDu=AC=F6=BF=FD=A6p=A6P=A4=A7=ABe=A9=D2=B4=A3=AA=BA=A1A</DIV>
+<DIV>=B3s=BDu=AE=C9=A5=BC=B6=C7=B0e=A5=F4=A6=F3=AB=FC=A5O=B3=CC=AB=E1=A6]=
+=B6=A2=B8m=B9L=A4[=B3Q=A7=DA=AD=CC=A5D=BE=F7=B1j=A8=EE=C2_=BDu=A1C</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>
+<DIV>[2015/03/14 09:17:42] [163.21.236.10:51127-5] Connection =
+initialized.</DIV>
+<DIV>[2015/03/14 09:19:13] [163.21.236.10:51127-5] Client idle too long, =
+closing=20
+connection.</DIV>
+<DIV>[2015/03/14 09:19:13] [163.21.236.10:51127-5] Connection=20
+closed.(91s.-23642u)</DIV>
+<DIV>[2015/03/14 09:28:53] [163.21.236.10:51150-0] Connection =
+initialized.</DIV>
+<DIV>[2015/03/14 09:30:24] [163.21.236.10:51150-0] Client idle too long, =
+closing=20
+connection.</DIV>
+<DIV>[2015/03/14 09:30:24] [163.21.236.10:51150-0] Connection=20
+closed.(91s.-20061u)</DIV>
+<DIV>[2015/03/14 09:40:04] [163.21.236.10:51171-4] Connection =
+initialized.</DIV>
+<DIV>[2015/03/14 09:41:35] [163.21.236.10:51171-4] Client idle too long, =
+closing=20
+connection.</DIV>
+<DIV>[2015/03/14 09:41:35] [163.21.236.10:51171-4] Connection=20
+closed.(91s.-218138u)</DIV></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>
+<DIV>=A5i=A6A=BD=D0=A8=CF=A5=CE=AA=CC=B0t=A6X=AA=BA=BCt=B0=D3=ACd=B8=DF=A8=
+=BE=A4=F5=C0=F0=ACO=A7_=A6=B3=AFS=AE=ED=AD=AD=A8=EE=A1A</DIV>
+<DIV>=B3y=A6=A8=B5L=AAk=A7=B9=A6=A8=B3s=BDu=A1C</DIV></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=C1=C2=C1=C2=A1I</DIV>
+<DIV>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</DI=
+V>
+<DIV>=A1=BB =B6=B3=BA=DD=BA=FB=B9B<SPAN class=3DApple-tab-span =
+style=3D"WHITE-SPACE: pre">=20
+</SPAN>cloud_se@openfind.com</DIV>
+<DIV>=A1=BB =A8t=B2=CE=A4=E4=B4=A9=A4u=B5{=AEv<SPAN =
+class=3DApple-tab-span style=3D"WHITE-SPACE: pre"> </SPAN>Rick=20
+Lin</DIV>
+<DIV>=A1=BB MailCloud =A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8<SPAN =
+class=3DApple-tab-span style=3D"WHITE-SPACE: pre">=20
+</SPAN>http://www.mailcloud.com.tw/</DIV>
+<DIV>=A1=BB Mail2000&nbsp; =B9q=A4l=B6l=A5=F3<SPAN =
+class=3DApple-tab-span style=3D"WHITE-SPACE: pre">=20
+</SPAN>http://www.mail2000.com.tw/</DIV>
+<DIV>=A1=BB Openfind&nbsp; =BA=F4=C0=BA=B8=EA=B0T<SPAN =
+class=3DApple-tab-span style=3D"WHITE-SPACE: pre">=20
+</SPAN>http://www.openfind.com/</DIV>
+<DIV>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</DI=
+V>
+<DIV class=3D"vimiumReset vimiumHUD"=20
+style=3D"RIGHT: 150px; DISPLAY: none; opacity: =
+0"></DIV><BR>-----Original=20
+message-----<BR><B>From:</B>Mail2000=20
+=AB=C8=AAA=A4=A4=A4=DF&lt;m2k_adm@mail2000.com.tw&gt;<BR><B>To:</B>cloud_=
+se&lt;cloud_se@openfind.com&gt;<BR><B>Cc:</B>m2k_service&lt;m2k_service@m=
+ail2000.com.tw&gt;<BR><B>Date:=20
+</B>Mon, 16 Mar 2015 10:12:25<BR><B>Subject:</B> Re: M2k - yupey - =
+=A6=AC=ABH=B0=DD=C3D -=20
+shing@utaipei.edu.tw =B5L=AAk=B1H=ABH=A8=EC Mail2000 =ABH=BDc<BR>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>=B1z=A6n=A1A</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=A5x=A5_=A5=AB=A5=DF=A4j=BE=C7=A6b 03-14 =
+=A4W=A4=C8=A6=B3=A6A=B1H=ABH=A8=EC Mail2000 =
+=A4=B4=B5M=B3Q=B0h=ABH=A1A<BR>=B3=C2=B7=D0=B1z=A6A=C0=B0=A6=A3=BDT=BB{ =
+03-14 =AA=BA=A8=D3=ABH=B3s=BDu=B1=A1=A7=CE=A1A<BR>=B1H=ABH IP=20
+=A6=EC=A7}=A1G<BR>163.21.236.10<BR>163.21.236.15<BR>163.21.236.16<BR>163.=
+21.236.170<BR><BR>=C1=C2=C1=C2=A1C<BR><BR></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Jasmine<BR></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=C1=C2=C1=C2=B1z=B9=EF Mail2000 =
+=AA=BA=B7R=A5=CE=A1C<BR>=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6=
+A=A6=B8=AC=A2=B8=DF=A1C</DIV>
+<DIV></DIV>
+<DIV>
+<DIV>--------------------------------------------------------------------=
+-------</DIV>
+<DIV>
+<DIV><FONT color=3D#ff0000><B><FONT color=3D#0000ff>Mail2000 =
+=B7s=A5\=AF=E0=A4W=BDu=A1=D0=AA=FE=C0=C9=BB=B4=C3P=A6s=A8=EC <A=20
+href=3D"http://doc.mail2000.com.tw/news/1405/AttachToSS.htm">SecuShare=20
+=A4=C0=A8=C9=B6=B3</A></FONT><BR><BR>Keep Everything =
+=B3=C6=A5=F7=B6=B3</B></FONT></DIV>
+<DIV>=B4=BF=B8g=A6=B3=B3=C6=A5=F7=B9q=B8=A3=AA=BA=A9=C0=C0Y=A1A=ABo=A4=A3=
+=AA=BE=B8=D3=A6p=A6=F3=B5=DB=A4=E2=A1H</DIV>
+<DIV>=B4=BF=B8g=A6]=AC=B0=A4@=AAM=A9@=B0=D8=C5x=A4F=A1A=C5=FD=A7A=AA=BA=B5=
+=A7=B9q=A4@=BA=CE=A4=A3=B0_=A1H</DIV>
+<DIV>=BA=F4=C0=BA=B1=C0=A5X=A7K=B6O=AD=D3=A4H=B9q=B8=A3=B3=C6=A5=F7=AAA=B0=
+=C8 <B><A href=3D"http://www.keepeverything.com">Keep Everything=20
+=B3=C6=A5=F7=B6=B3</A></B></DIV></DIV>
+<DIV></DIV>
+<DIV>--------------------------------------------------------------------=
+--------</DIV>
+<DIV></DIV>
+<DIV></DIV>
+<DIV>Mail2000 =AB=C8=AAA=A4=A4=A4=DF =B7q=A4W</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Mail2000 =AB=C8=AAA=A4=A4=A4=DF</DIV>
+<DIV>=AB=C8=AAA=B1M=BDu=A1G02-2553-7272</DIV>
+<DIV>=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956</DIV>
+<DIV>=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw</DIV>
+<DIV>Mail2000=B9q=A4l=ABH=BDc <A href=3D"http://mail2000.com.tw/"=20
+target=3D_blank>http://mail2000.com.tw/</A></DIV>
+<DIV>=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8 <A =
+href=3D"http://www.mailcloud.com.tw/"=20
+target=3D_blank>http://www.mailcloud.com.tw</A> </DIV>
+<DIV>=BA=F4=C0=BA Openfind =A5=F8=B7~=BA=F4=AF=B8 <A =
+href=3D"http://www.openfind.com/taiwan"=20
+target=3D_blank>http://www.openfind.com/taiwan</A></DIV>
+<DIV><BR><BR><BR>-----Original=20
+message-----<BR><B>From:</B>ybao&lt;ybao.chen@gmail.com&gt;<BR><B>To:</B>=
+m2k_adm&lt;m2k_adm@mail2000.com.tw&gt;<BR><B>Date:=20
+</B>Sat, 14 Mar 2015 12:43:36<BR><B>Subject:</B> Fwd: FW: =
+=A5x=A5_=A5=AB=A4j=BE=C7 =B1H=B0e =B4=FA=B8=D5=ABH=A5=F3!! =A6=AC=A8=EC =
+=AB=E1=20
+=BD=D0=C0=B0=A6=A3=A6^=B4_=A4@=A4U ,, =A5H=ABK=BDT=BB{<BR>
+<DIV>Hi Mail 2000&nbsp; =BA=DE=B2z=AA=CC =B1z=A6n!!</DIV>
+<DIV>=A6=B3=C3=F6 =A5x=A5_=A5=AB=A4j=BE=C7&nbsp; =
+=ABH=A5=F3=B5L=AAk=B1H=B0e&nbsp; =A8=EC =B1z=B6Q=A4=BD=A5q&nbsp; =
+=BA=F4=B0=EC!1</DIV>
+<DIV>=BD=D0=B1z=ACO=A7_ =A5i=A5H=A6b =A8=F3=A7U=BDT=BB{ </DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=B3o=ACO&nbsp; =A5H=A4U =ACO=A7=DA&nbsp; =A4W=A4=C8&nbsp; =B1H=B0e =
+</DIV>
+<DIV>=A6=FD=ACO =A7=DA=AD=CC =ACO=B3Q=B1z=AD=CC=B0h=A6^!</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV =
+class=3Dgmail_quote>=A4U=A6C=B2=D5=C2=B4=A4w=A9=DA=B5=B4=B1z=AA=BA=B6l=A5=
+=F3: <A href=3D"http://mx2.mail2000.com.tw/"=20
+target=3D_blank>mx2.mail2000.com.tw</A> [203.69.82.34]=A1C<BR>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: tahoma; COLOR: rgb(0,0,0); =
+DIRECTION: ltr">
+<P>&nbsp;</P>
+<P>=A7=DA=AD=CC =B1H=B0e=AA=BA IP&nbsp; =A6@=A6=B3=A5|=AD=D3!!</P>
+<P>163.21.236.10</P>
+<P>163.21.236.15</P>
+<P>163.21.236.16</P>
+<P>163.21.236.170</P>
+<P><STRONG><FONT size=3D4>=B1z=A4=E8=ABK=AA=BA=B8=DC =
+=B5=B9=A5i=BC=B7=A5=B4=A7=DA=AA=BA=A4=E2=BE=F7&nbsp;&nbsp;=20
+0917899218</FONT></STRONG></P>
+<P>&nbsp;</P>
+<DIV style=3D"FONT-SIZE: 16px; FONT-FAMILY: times new roman; COLOR: =
+rgb(0,0,0)">
+<HR>
+
+<DIV style=3D"DIRECTION: ltr"><FONT color=3D#000000 =
+face=3DTahoma><B>=B1q:</B> <A=20
+href=3D"mailto:spamadmin@utaipei.edu.tw"=20
+target=3D_blank>spamadmin@utaipei.edu.tw</A> [<A=20
+href=3D"mailto:spamadmin@utaipei.edu.tw"=20
+target=3D_blank>spamadmin@utaipei.edu.tw</A>]<BR><B>=B1H=A5=F3=A4=E9=B4=C1=
+:</B> 2015=A6~3=A4=EB14=A4=E9 =A4W=A4=C8=20
+09:41<BR><B>=A6=DC:</B> <A href=3D"mailto:m2k_adm@mail2000.com.tw"=20
+target=3D_blank>m2k_adm@mail2000.com.tw</A><BR><B>=A5D=A6=AE:</B> =
+=A5=BC=B6=C7=BB=BC=AA=BA=A5D=A6=AE: =A5x=A5_=A5=AB=A4j=BE=C7 =B1H=B0e =
+=B4=FA=B8=D5=ABH=A5=F3!!=20
+=A6=AC=A8=EC =AB=E1 =BD=D0=C0=B0=A6=A3=A6^=B4_=A4@=A4U ,, =
+=A5H=ABK=BDT=BB{<BR></FONT><BR></DIV>
+<DIV>
+<P><B><FONT color=3D#000066 size=3D3 =
+face=3DArial>=B6=C7=BB=BC=A6=DC=A4U=A6C=A6=AC=A5=F3=AA=CC=A9=CE=B8s=B2=D5=
+=A5=A2=B1=D1:</FONT></B></P><FONT=20
+color=3D#000000 face=3DTahoma>
+<P><A href=3D"mailto:m2k_adm@mail2000.com.tw"=20
+target=3D_blank>m2k_adm@mail2000.com.tw</A><BR>=B1N=A6=B9=B6l=A5=F3=B6=C7=
+=B0e=A8=EC=B3o=AD=D3=B9q=A4l=B6l=A5=F3=A6a=A7}=AE=C9=B5o=A5=CD=B0=DD=C3D=A1=
+C=BD=D0=B9=C1=B8=D5=AD=AB=B7s=B6=C7=B0e=A6=B9=B6l=A5=F3=A1C=A6p=AAG=B0=DD=
+=C3D=AB=F9=C4=F2=B5o=A5=CD=A1A=BD=D0=B3s=B5=B8=A4=E4=B4=A9=A4H=AD=FB=A1C<=
+BR></P>
+<P>=A4U=A6C=B2=D5=C2=B4=A4w=A9=DA=B5=B4=B1z=AA=BA=B6l=A5=F3: <A =
+href=3D"http://mx2.mail2000.com.tw"=20
+target=3D_blank>mx2.mail2000.com.tw</A>=20
+[203.69.82.34]=A1C</P></FONT><B>=A8t=B2=CE=BA=DE=B2z=AD=FB=AA=BA=B6E=C2_=B8=
+=EA=B0T:</B><FONT color=3D#808080 face=3DTahoma>=20
+<P>=B2=A3=A5=CD=AA=BA=A6=F8=AAA=BE=B9: <A =
+href=3D"http://spam.utaipei.edu.tw"=20
+target=3D_blank>spam.utaipei.edu.tw</A></P>
+<P><A href=3D"mailto:m2k_adm@mail2000.com.tw"=20
+target=3D_blank>m2k_adm@mail2000.com.tw</A><BR><A=20
+href=3D"http://mx2.mail2000.com.tw" =
+target=3D_blank>mx2.mail2000.com.tw</A>=20
+[203.69.82.34] #&lt;<A href=3D"http://mx2.mail2000.com.tw"=20
+target=3D_blank>mx2.mail2000.com.tw</A> [203.69.82.34] #5.0.0 SMTP; =
+Deferred:=20
+Connection refused by <A href=3D"http://mx3.mail2000.com.tw"=20
+target=3D_blank>mx3.mail2000.com.tw</A>&gt; #SMTP#</P>
+<P>=AD=EC=A9l=B6l=A5=F3=BC=D0=C0Y:</P><PRE>Received: from <A =
+href=3D"http://mail.utaipei.edu.tw" =
+target=3D_blank>mail.utaipei.edu.tw</A> [(163.21.236.15)] by <A =
+href=3D"http://spam.utaipei.edu.tw" =
+target=3D_blank>spam.utaipei.edu.tw</A>
+	(envelope-from &lt;<A href=3D"mailto:beadmin@utaipei.edu.tw" =
+target=3D_blank>beadmin@utaipei.edu.tw</A>&gt;)
+	(Cellopoint E-mail Firewall v3.9.11 Build 1007 with TLS)
+	with ESMTP id 1928608265; Sat, 14 Mar 2015 07:54:01 +0800
+Received: from <A href=3D"http://HQ-MAIL-170.utaipei.edu.tw" =
+target=3D_blank>HQ-MAIL-170.utaipei.edu.tw</A> =
+([fe80::fced:522f:5c32:37f1]) by
+ <A href=3D"http://HQ-Mail-15.utaipei.edu.tw" =
+target=3D_blank>HQ-Mail-15.utaipei.edu.tw</A> ([163.21.236.15]) with =
+mapi id 14.03.0224.002; Sat,
+ 14 Mar 2015 07:54:00 +0800
+From: Backup Exec Administrator &lt;<A =
+href=3D"mailto:BEadmin@utaipei.edu.tw" =
+target=3D_blank>BEadmin@utaipei.edu.tw</A>&gt;
+To: "<A href=3D"mailto:m2k_adm@mail2000.com.tw" =
+target=3D_blank>m2k_adm@mail2000.com.tw</A>" &lt;<A =
+href=3D"mailto:m2k_adm@mail2000.com.tw" =
+target=3D_blank>m2k_adm@mail2000.com.tw</A>&gt;
+Subject: =
+=3D?big5?B?pXilX6WrpGq+xyCxSLBlILT6uNWrSKXzISEgIKasqOwgq+EgIL3QwLCmo6ZetF=
+8=3D?=3D
+ =3D?big5?B?pECkVSAsLCClSKtLvVS7ew=3D=3D?=3D
+Thread-Topic: =
+=3D?big5?B?pXilX6WrpGq+xyCxSLBlILT6uNWrSKXzISEgIKasqOwgq+EgIL3QwLCmo6ZetF=
+8=3D?=3D
+ =3D?big5?B?pECkVSAsLCClSKtLvVS7ew=3D=3D?=3D
+Thread-Index: AdBd6Pl+q1tnWbN2RY+/mHHkw47s7g=3D=3D
+Date: Fri, 13 Mar 2015 23:53:59 +0000
+Message-ID: &lt;<A =
+href=3D"mailto:4ACA3EDE3D05AE4EBC5B8E3F19A1F58C1F4A78B7@HQ-Mail-170.utaip=
+ei.edu.tw" =
+target=3D_blank>4ACA3EDE3D05AE4EBC5B8E3F19A1F58C1F4A78B7@HQ-Mail-170.utai=
+pei.edu.tw</A>&gt;
+Accept-Language: zh-TW, en-US
+Content-Language: zh-TW
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [163.21.236.13]
+Content-Type: text/plain
+MIME-Version: 1.0
+</PRE></FONT></DIV></DIV></DIV></DIV></DIV>
+<DIV>&nbsp;</DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></=
+DIV></DIV></DIV></DIV></DIV></DIV></DIV><BR><BR>-----Original=20
+message-----<BR><B>From:</B>cloud_se&lt;cloud_se@openfind.com=20
+&gt;<BR><B>To:</B>Mail2000=20
+=AB=C8=AAA=A4=A4=A4=DF&lt;m2k_adm@mail2000.com.tw&gt;<BR><B>Cc:</B>m2k_se=
+rvice&lt;m2k_service@mail2000.com.tw&gt;,cloud_se&lt;cloud_se@openfind.co=
+m&gt;<BR><B>Date:=20
+</B>Fri, 13 Mar 2015 16:33:57<BR><B>Subject:</B> Re: M2k - yupey - =
+=A6=AC=ABH=B0=DD=C3D -=20
+shing@utaipei.edu.tw =B5L=AAk=B1H=ABH=A8=EC Mail2000 =ABH=BDc<BR>
+<DIV>Hi, Jasmine</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=ACd=B8=DF=A5D=BE=F7=A8=C3=A5=BC=AA=FD=BE=D7</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>
+<DIV>163.21.236.10</DIV>
+<DIV>163.21.236.15</DIV>
+<DIV>163.21.236.16</DIV></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=B3o=A4T=B2=D5 IP=A1A</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=ACd=B8=DF=B3s=BDu=AC=F6=BF=FD=B6=C8=A6=B3 163.21.236.10 =
+=A6=B3=B8=F2=A7=DA=AD=CC=AA=BA=A5D=BE=F7=B4=BF=B6i=A6=E6=B9L=B3s=BDu=A1C<=
+/DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=A6=D3=A5B=A6b 3/5 =
+=A4=A7=ABe=ACO=A6=B3=B3s=BDu=AC=F6=BF=FD=AA=BA=A1A</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>
+<DIV>[2015/03/05 10:33:19] [163.21.236.10:4133-2] Connection =
+initialized.</DIV>
+<DIV>[2015/03/05 10:33:19] [163.21.236.10:4133-2] [MSG]IP policy =
+applied.=20
+(log/$host/*)</DIV>
+<DIV>[2015/03/05 10:33:19] [163.21.236.10:4133-2] EHLO =
+spam.utaipei.edu.tw</DIV>
+<DIV>[2015/03/05 10:33:19] [163.21.236.10:4133-2] MAIL=20
+FROM:&lt;huilan2012@utaipei.edu.tw&gt; SIZE=3D71942</DIV>
+<DIV>[2015/03/05 10:33:19] [163.21.236.10:4133-2] RCPT=20
+TO:&lt;pcmall@mail2000.com.tw&gt;</DIV>
+<DIV>[2015/03/05 10:33:19] [163.21.236.10:4133-2] DATA</DIV>
+<DIV>[2015/03/05 10:33:19] [163.21.236.10:4133-2] Message =
+54F7C06F.000284CB=20
+accepted (70961 bytes).</DIV>
+<DIV>[2015/03/05 10:33:19] [163.21.236.10:4133-2] Read EOF,closing=20
+connection.</DIV>
+<DIV>[2015/03/05 10:33:19] [163.21.236.10:4133-2] Connection=20
+closed.(0s.18960u)</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=A5u=ACO=A8C=B5=A7=B3s=BDu=ABH=A5=F3=B1H=A5X=AB=E1=B7|=B2=A7=B1`=A4=A4=
+=C2_ Read EOF, </DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=B1q 3/6 =A4=A7=AB=E1=ABK=A5u=A6=B3=A4U=A6C=AC=F6=BF=FD=A1A</DIV>
+<DIV>=B3s=BDu=AE=C9=A5=BC=B6=C7=B0e=A5=F4=A6=F3=AB=FC=A5O=B3=CC=AB=E1=A6]=
+=B6=A2=B8m=B9L=A4[=B3Q=A7=DA=AD=CC=A5D=BE=F7=B1j=A8=EE=C2_=BDu=A1C</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>[2015/03/06 10:54:46] [163.21.236.10:4037-1] Connection =
+initialized.</DIV>
+<DIV>[2015/03/06 10:56:17] [163.21.236.10:4037-1] Client idle too long, =
+closing=20
+connection.</DIV>
+<DIV>[2015/03/06 10:56:17] [163.21.236.10:4037-1] Connection=20
+closed.(91s.-911034u)</DIV></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=A5i=A6A=BD=D0=A8=CF=A5=CE=AA=CC=B0t=A6X=AA=BA=BCt=B0=D3=ACd=B8=DF=A8=
+=BE=A4=F5=C0=F0=ACO=A7_=A6=B3=AFS=AE=ED=AD=AD=A8=EE=A1A</DIV>
+<DIV>=B3y=A6=A8=B5L=AAk=A7=B9=A6=A8=B3s=BDu=A1C</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=C1=C2=C1=C2=A1I</DIV>
+<DIV>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</DI=
+V>
+<DIV>=A1=BB =B6=B3=BA=DD=BA=FB=B9B<SPAN class=3DApple-tab-span =
+style=3D"WHITE-SPACE: pre">=20
+</SPAN>cloud_se@openfind.com</DIV>
+<DIV>=A1=BB =A8t=B2=CE=A4=E4=B4=A9=A4u=B5{=AEv<SPAN =
+class=3DApple-tab-span style=3D"WHITE-SPACE: pre"> </SPAN>Rick=20
+Lin</DIV>
+<DIV>=A1=BB MailCloud =A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8<SPAN =
+class=3DApple-tab-span style=3D"WHITE-SPACE: pre">=20
+</SPAN>http://www.mailcloud.com.tw/</DIV>
+<DIV>=A1=BB Mail2000&nbsp; =B9q=A4l=B6l=A5=F3<SPAN =
+class=3DApple-tab-span style=3D"WHITE-SPACE: pre">=20
+</SPAN>http://www.mail2000.com.tw/</DIV>
+<DIV>=A1=BB Openfind&nbsp; =BA=F4=C0=BA=B8=EA=B0T<SPAN =
+class=3DApple-tab-span style=3D"WHITE-SPACE: pre">=20
+</SPAN>http://www.openfind.com/</DIV>
+<DIV>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</DI=
+V>
+<DIV class=3D"vimiumReset vimiumHUD"=20
+style=3D"RIGHT: 150px; DISPLAY: none; opacity: =
+0"></DIV><BR>-----Original=20
+message-----<BR><B>From:</B>Mail2000=20
+=AB=C8=AAA=A4=A4=A4=DF&lt;m2k_adm@mail2000.com.tw&gt;<BR><B>To:</B>cloud_=
+se&lt;cloud_se@openfind.com&gt;<BR><B>Cc:</B>m2k_service&lt;m2k_service@m=
+ail2000.com.tw&gt;<BR><B>Date:=20
+</B>Fri, 13 Mar 2015 16:13:48<BR><B>Subject:</B> Re: M2k - yupey - =
+=A6=AC=ABH=B0=DD=C3D -=20
+shing@utaipei.edu.tw =B5L=AAk=B1H=ABH=A8=EC Mail2000 =ABH=BDc<BR>
+<DIV></DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>=B1z=A6n=A1A</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=A5x=A5_=A5=AB=A5=DF=A4j=BE=C7=ADp=BA=F4=A4=A4=A4=DF</DIV>
+<DIV>=B4=A3=A8=EC=BE=C7=AE=D5=AA=BA=B6l=A5=F3 IP =A6=EC=A7}=A6=B3 3 =
+=B2=D5=A1A</DIV>
+<DIV>163.21.236.10</DIV>
+<DIV>163.21.236.15</DIV>
+<DIV>163.21.236.16</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=B3=C2=B7=D0=B1z=A6A=C0=B0=A6=A3=BDT=BB{=ACO=A7_=A6=B3=AA=FD=BE=D7=A1=
+A<BR></DIV>
+<DIV>=C1=C2=C1=C2=A1C<BR></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Jasmine</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=C1=C2=C1=C2=B1z=B9=EF Mail2000 =
+=AA=BA=B7R=A5=CE=A1C<BR>=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6=
+A=A6=B8=AC=A2=B8=DF=A1C</DIV>
+<DIV></DIV>
+<DIV>
+<DIV>--------------------------------------------------------------------=
+-------</DIV>
+<DIV>
+<DIV><FONT color=3D#ff0000><B><FONT color=3D#0000ff>Mail2000 =
+=B7s=A5\=AF=E0=A4W=BDu=A1=D0=AA=FE=C0=C9=BB=B4=C3P=A6s=A8=EC <A=20
+href=3D"http://doc.mail2000.com.tw/news/1405/AttachToSS.htm">SecuShare=20
+=A4=C0=A8=C9=B6=B3</A></FONT><BR><BR>Keep Everything =
+=B3=C6=A5=F7=B6=B3</B></FONT></DIV>
+<DIV>=B4=BF=B8g=A6=B3=B3=C6=A5=F7=B9q=B8=A3=AA=BA=A9=C0=C0Y=A1A=ABo=A4=A3=
+=AA=BE=B8=D3=A6p=A6=F3=B5=DB=A4=E2=A1H</DIV>
+<DIV>=B4=BF=B8g=A6]=AC=B0=A4@=AAM=A9@=B0=D8=C5x=A4F=A1A=C5=FD=A7A=AA=BA=B5=
+=A7=B9q=A4@=BA=CE=A4=A3=B0_=A1H</DIV>
+<DIV>=BA=F4=C0=BA=B1=C0=A5X=A7K=B6O=AD=D3=A4H=B9q=B8=A3=B3=C6=A5=F7=AAA=B0=
+=C8 <B><A href=3D"http://www.keepeverything.com">Keep Everything=20
+=B3=C6=A5=F7=B6=B3</A></B></DIV></DIV>
+<DIV></DIV>
+<DIV>--------------------------------------------------------------------=
+--------</DIV>
+<DIV></DIV>
+<DIV></DIV>
+<DIV>Mail2000 =AB=C8=AAA=A4=A4=A4=DF =B7q=A4W</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Mail2000 =AB=C8=AAA=A4=A4=A4=DF</DIV>
+<DIV>=AB=C8=AAA=B1M=BDu=A1G02-2553-7272</DIV>
+<DIV>=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956</DIV>
+<DIV>=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw</DIV>
+<DIV>Mail2000=B9q=A4l=ABH=BDc <A href=3D"http://mail2000.com.tw/"=20
+target=3D_blank>http://mail2000.com.tw/</A></DIV>
+<DIV>=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8 <A =
+href=3D"http://www.mailcloud.com.tw/"=20
+target=3D_blank>http://www.mailcloud.com.tw</A> </DIV>
+<DIV>=BA=F4=C0=BA Openfind =A5=F8=B7~=BA=F4=AF=B8 <A =
+href=3D"http://www.openfind.com/taiwan"=20
+target=3D_blank>http://www.openfind.com/taiwan</A></DIV>
+<DIV>&nbsp;</DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></=
+DIV></DIV></DIV></DIV></DIV></DIV>
+<P>-----Original=20
+message-----<BR><B>From:</B>=B3=AF=DEm=A4=E5&lt;ayachen@go.utaipei.edu.tw=
+&gt;<BR><B>To:</B>m2k_adm&lt;m2k_adm@mail2000.com.tw&gt;<BR><B>Date:=20
+</B>Fri, 13 Mar 2015 15:27:01<BR><B>Subject:</B> =B0=AA=A4p=A9j=B1z=A6n =
+=A7=DA=ACO=A5x=A5_=A5=AB=A5=DF=A4j=BE=C7<BR></P>
+<DIV =
+dir=3Dltr>=A5=D8=ABe=BCt=B0=D3=A7i=AA=BE=BE=C7=AE=D5=A4=BAMAIL=A5D=BE=F7I=
+P=AC=B0=A4U=A6C=A4T=B2=D5<BR clear=3Dall>163.21.236.10&nbsp;=20
+163.21.236.15&nbsp;=20
+163.21.236.16<BR>=B3=C2=B7=D0=A4F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+
+=C1=C2=C1=C2 <BR>
+<DIV class=3Dgmail_signature>
+<DIV dir=3Dltr>
+<DIV><BR><BR>
+<DIV style=3D"FONT-SIZE: 13px; FONT-FAMILY: tahoma">
+<DIV style=3D"FONT-SIZE: 12px; FONT-FAMILY: =B2=D3=A9=FA=C5=E9"><FONT =
+size=3D3=20
+face=3D=B7L=B3n=A5=BF=B6=C2=C5=E9>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</FONT></DIV>
+<DIV style=3D"FONT-SIZE: 12px; FONT-FAMILY: =B2=D3=A9=FA=C5=E9"><FONT =
+size=3D3 face=3D=B7L=B3n=A5=BF=B6=C2=C5=E9>&nbsp;=20
+=A5x=A5_=A5=AB=A5=DF=A4j=BE=C7</FONT></DIV>
+<DIV style=3D"FONT-SIZE: 12px; FONT-FAMILY: =B2=D3=A9=FA=C5=E9"><FONT =
+size=3D3 face=3D=B7L=B3n=A5=BF=B6=C2=C5=E9>=ADp=BA=F4=A4=A4=A4=DF :=20
+=B3=AF=DEm=A4=E5</FONT></DIV>
+<DIV style=3D"FONT-SIZE: 12px; FONT-FAMILY: =B2=D3=A9=FA=C5=E9"><FONT =
+size=3D3 face=3D=B7L=B3n=A5=BF=B6=C2=C5=E9>
+<DIV>=A4=C0=BE=F7 : (02)2311-3040-8520</DIV>
+<DIV>=A6=E6=B0=CA : 0936-523-456</DIV></FONT></DIV>
+<DIV style=3D"FONT-SIZE: 12px; FONT-FAMILY: =B2=D3=A9=FA=C5=E9"><FONT =
+size=3D3 face=3D=B7L=B3n=A5=BF=B6=C2=C5=E9>=B6l=A5=F3=A6a=A7} : <A=20
+href=3D"https://mail.utaipei.edu.tw/owa/ayachen@utaipei.edu.tw"=20
+target=3D_blank>ayachen@utaipei.edu.tw</A></FONT></DIV>
+<DIV=20
+style=3D"FONT-SIZE: 12px; FONT-FAMILY: =
+=B2=D3=A9=FA=C5=E9"></DIV></DIV></DIV></DIV></DIV></DIV>
+<P><BR>-----Original=20
+message-----<BR><B>From:</B>cloud_se&lt;cloud_se@openfind.com=20
+&gt;<BR><B>To:</B>Mail2000=20
+=AB=C8=AAA=A4=A4=A4=DF&lt;m2k_adm@mail2000.com.tw&gt;<BR><B>Cc:</B>m2k_se=
+rvice&lt;m2k_service@mail2000.com.tw&gt;,Cloud=20
+SE&lt;cloud_se@openfind.com&gt;<BR><B>Date: </B>Fri, 13 Mar 2015=20
+14:46:02<BR><B>Subject:</B> Re: M2k - yupey - =A6=AC=ABH=B0=DD=C3D - =
+shing@utaipei.edu.tw =B5L=AAk=B1H=ABH=A8=EC=20
+Mail2000 =ABH=BDc<BR></P>
+<DIV>Hi, Jasmine</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>
+<DIV>=B1q=A8=CF=A5=CE=AA=CC=A9=D2=B4=A3=A8=D1=AA=BA=ABH=A5=F3=A8=D3=AC=DD=
+=ABH=B3=CC=AB=E1=A5=D1 spam.utaipei.edu.tw =B1H=A5X=A1A</DIV>
+<DIV>=A6=D3=ABH=A5=F3=A4W=A8=C3=A5=BC=BB=A1=A9=FA spam.utaipei.edu.tw =
+=A5~=B1H=A8=CF=A5=CE=AA=BA IP=A1A</DIV>
+<DIV>=A6]=A6=B9=AA=BD=B1=B5=B1q=ACd=B8=DF=AB=E1=B1o=A8=EC=AA=BA IP =
+163.21.236.10 =B0=B5=B6i=A4@=A8B=ACd=B8=DF=A1A</DIV>
+<DIV>=A9=F3=A7=DA=AD=CC=AA=BA=A5D=BE=F7=A4W=C5=E3=A5=DC=AC=F6=BF=FD=A6p=A4=
+U=A1G<BR><BR>
+<DIV>[2015/03/12 10:36:10] [163.21.236.10:50658-4] Connection =
+initialized.</DIV>
+<DIV>[2015/03/12 10:37:41] [163.21.236.10:50658-4] Client idle too long, =
+closing=20
+connection.</DIV>
+<DIV>[2015/03/12 10:37:41] [163.21.236.10:50658-4] Connection=20
+closed.(91s.-963210u)</DIV>
+<DIV>[2015/03/12 10:47:21] [163.21.236.10:50661-6] Connection =
+initialized.</DIV>
+<DIV>[2015/03/12 10:48:52] [163.21.236.10:50661-6] Client idle too long, =
+closing=20
+connection.</DIV>
+<DIV>[2015/03/12 10:48:52] [163.21.236.10:50661-6] Connection=20
+closed.(91s.-918287u)</DIV>
+<DIV>[2015/03/12 10:58:32] [163.21.236.10:50653-3] Connection =
+initialized.</DIV>
+<DIV>[2015/03/12 11:00:03] [163.21.236.10:50653-3] Client idle too long, =
+closing=20
+connection.</DIV>
+<DIV>[2015/03/12 11:00:03] [163.21.236.10:50653-3] Connection=20
+closed.(91s.-887089u)</DIV></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=BDT=BB{=A7=DA=AD=CC=A5=BC=AA=FD=BE=D7 163.21.236.10 =B3o =
+IP=A1A</DIV>
+<DIV>=A4]=A6A=B7=D0=BD=D0=B1z=A6V=A8=CF=A5=CE=AA=CC=BDT=BB{=A5~=B1H=AE=C9=
+=A9=D2=A8=CF=A5=CE=AA=BA IP=A1C</DIV></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=C1=C2=C1=C2=A1I</DIV>
+<DIV>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</DI=
+V>
+<DIV>=A1=BB =B6=B3=BA=DD=BA=FB=B9B<SPAN class=3DApple-tab-span =
+style=3D"WHITE-SPACE: pre">=20
+</SPAN>cloud_se@openfind.com</DIV>
+<DIV>=A1=BB =A8t=B2=CE=A4=E4=B4=A9=A4u=B5{=AEv<SPAN =
+class=3DApple-tab-span style=3D"WHITE-SPACE: pre"> </SPAN>Rick=20
+Lin</DIV>
+<DIV>=A1=BB MailCloud =A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8<SPAN =
+class=3DApple-tab-span style=3D"WHITE-SPACE: pre">=20
+</SPAN>http://www.mailcloud.com.tw/</DIV>
+<DIV>=A1=BB Mail2000&nbsp; =B9q=A4l=B6l=A5=F3<SPAN =
+class=3DApple-tab-span style=3D"WHITE-SPACE: pre">=20
+</SPAN>http://www.mail2000.com.tw/</DIV>
+<DIV>=A1=BB Openfind&nbsp; =BA=F4=C0=BA=B8=EA=B0T<SPAN =
+class=3DApple-tab-span style=3D"WHITE-SPACE: pre">=20
+</SPAN>http://www.openfind.com/</DIV>
+<DIV>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</DI=
+V>
+<DIV class=3D"vimiumReset vimiumHUD"=20
+style=3D"RIGHT: 150px; DISPLAY: none; opacity: 0"></DIV>
+<DIV><BR>-----Original message-----<BR><B>From:</B>Mail2000=20
+=AB=C8=AAA=A4=A4=A4=DF&lt;m2k_adm@mail2000.com.tw&gt;<BR><B>To:</B>Cloud =
+
+SE&lt;cloud_se@openfind.com&gt;<BR><B>Cc:</B>m2k_service&lt;m2k_service@m=
+ail2000.com.tw&gt;<BR><B>Date:=20
+</B>Fri, 13 Mar 2015 11:43:41<BR><B>Subject:</B> M2k - yupey - =
+=A6=AC=ABH=B0=DD=C3D -=20
+shing@utaipei.edu.tw =B5L=AAk=B1H=ABH=A8=EC Mail2000 =ABH=BDc<BR></DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV>=B1z=A6n=A1A</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=B1b=B8=B9=A1Gyupey@mail2000.com.tw<BR><BR><BR><BR>=B0=DD=C3D=A1G<BR=
+>=B1H=ABH=B4=C1=B6=A1=A1G3=A4=EB=A5=F7<BR>=A8=CF=A5=CE=AA=CC=A4=CF=C0=B3 =
+
+shing@utaipei.edu.tw =B5L=AAk=B1H=ABH=A8=EC=20
+Mail2000=A1A<BR>=B1H=A5=F3=A4H=A6=B3=A6=AC=A8=EC=B0h=ABH=A1A=AE=B3=A8=EC=B0=
+h=ABH=AB=E1=B7|=B8=C9=B1H=A1A<BR>=BD=D0=B1z=A5=FD=C0=B0=A6=A3=C0=CB=ACd=AC=
+O=A7_=A6=B3=AA=FD=BE=D7=B3o=AD=D3=A8=D3=B7=BD=B1H=A8=D3=AA=BA=ABH=A1A<BR>=
+=B3=C2=B7=D0=B1z=A4F=A1A<BR>=C1=C2=C1=C2=A1C<BR></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Jasmine<BR></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=C1=C2=C1=C2=B1z=B9=EF Mail2000 =
+=AA=BA=B7R=A5=CE=A1C<BR>=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6=
+A=A6=B8=AC=A2=B8=DF=A1C</DIV>
+<DIV></DIV>
+<DIV>
+<DIV>--------------------------------------------------------------------=
+-------</DIV>
+<DIV>
+<DIV><FONT color=3D#ff0000><B><FONT color=3D#0000ff>Mail2000 =
+=B7s=A5\=AF=E0=A4W=BDu=A1=D0=AA=FE=C0=C9=BB=B4=C3P=A6s=A8=EC <A=20
+href=3D"http://doc.mail2000.com.tw/news/1405/AttachToSS.htm">SecuShare=20
+=A4=C0=A8=C9=B6=B3</A></FONT><BR><BR>Keep Everything =
+=B3=C6=A5=F7=B6=B3</B></FONT></DIV>
+<DIV>=B4=BF=B8g=A6=B3=B3=C6=A5=F7=B9q=B8=A3=AA=BA=A9=C0=C0Y=A1A=ABo=A4=A3=
+=AA=BE=B8=D3=A6p=A6=F3=B5=DB=A4=E2=A1H</DIV>
+<DIV>=B4=BF=B8g=A6]=AC=B0=A4@=AAM=A9@=B0=D8=C5x=A4F=A1A=C5=FD=A7A=AA=BA=B5=
+=A7=B9q=A4@=BA=CE=A4=A3=B0_=A1H</DIV>
+<DIV>=BA=F4=C0=BA=B1=C0=A5X=A7K=B6O=AD=D3=A4H=B9q=B8=A3=B3=C6=A5=F7=AAA=B0=
+=C8 <B><A href=3D"http://www.keepeverything.com">Keep Everything=20
+=B3=C6=A5=F7=B6=B3</A></B></DIV></DIV>
+<DIV></DIV>
+<DIV>--------------------------------------------------------------------=
+--------</DIV>
+<DIV></DIV>
+<DIV></DIV>
+<DIV>Mail2000 =AB=C8=AAA=A4=A4=A4=DF =B7q=A4W</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Mail2000 =AB=C8=AAA=A4=A4=A4=DF</DIV>
+<DIV>=AB=C8=AAA=B1M=BDu=A1G02-2553-7272</DIV>
+<DIV>=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956</DIV>
+<DIV>=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw</DIV>
+<DIV>Mail2000=B9q=A4l=ABH=BDc <A href=3D"http://mail2000.com.tw/"=20
+target=3D_blank>http://mail2000.com.tw/</A></DIV>
+<DIV>=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8 <A =
+href=3D"http://www.mailcloud.com.tw/"=20
+target=3D_blank>http://www.mailcloud.com.tw</A> </DIV>
+<DIV>=BA=F4=C0=BA Openfind =A5=F8=B7~=BA=F4=AF=B8 <A =
+href=3D"http://www.openfind.com/taiwan"=20
+target=3D_blank>http://www.openfind.com/taiwan</A></DIV>
+<DIV>&nbsp;</DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></=
+DIV></DIV></DIV></DIV></DIV></DIV>
+<DIV class=3D"vimiumReset vimiumHUD"=20
+style=3D"RIGHT: 150px; DISPLAY: none; opacity: 0"></DIV>
+<DIV class=3D"vimiumReset vimiumHUD"=20
+style=3D"RIGHT: 150px; DISPLAY: none; opacity: 0"></DIV>
+<DIV class=3D"vimiumReset vimiumHUD"=20
+style=3D"RIGHT: 150px; DISPLAY: none; opacity: 0"></DIV>
+<DIV class=3D"vimiumReset vimiumHUD"=20
+style=3D"RIGHT: 150px; DISPLAY: none; opacity: 0"></DIV>
+<DIV class=3D"vimiumReset vimiumHUD"=20
+style=3D"RIGHT: 150px; DISPLAY: none; opacity: =
+0"></DIV></DIV></DIV></DIV></BODY></HTML>
+
+------=_NextPart_000_0200_01D060D5.54DCC740--
+

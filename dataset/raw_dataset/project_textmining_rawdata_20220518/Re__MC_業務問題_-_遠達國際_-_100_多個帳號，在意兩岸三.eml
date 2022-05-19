@@ -1,0 +1,262 @@
+X-M2K-MATCHED-RULE: SPAM_FILTER-InADB
+X-M2K-MATCHED-RESULT: Mail Header From In ADB/alison_tsai@openfind.com.tw
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 220.130.127.163
+	by ms1.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(27242:0:AUTH_NONE)
+	(envelope-from <prvs=122355B8B9=alison_tsai@openfind.com.tw>); Wed, 22 Feb 2017 17:16:49 +0800 (CST)
+Return-Path: <prvs=122355B8B9=alison_tsai@openfind.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(22145:0:AUTH_RELAY)
+	(envelope-from <prvs=122355B8B9=alison_tsai@openfind.com.tw>); Wed, 22 Feb 2017 17:16:48 +0800 (CST)
+Return-Path: <prvs=122355B8B9=alison_tsai@openfind.com.tw>
+Received: By OpenMail Mailer;Wed, 22 Feb 2017 17:16:48 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(2895:0:AUTH_NONE)
+	(envelope-from <prvs=122355B8B9=alison_tsai@openfind.com.tw>); Wed, 22 Feb 2017 17:16:48 +0800 (CST)
+Return-Path: <prvs=122355B8B9=alison_tsai@openfind.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(53709:1:AUTH_NONE)
+	(envelope-from <prvs=122355B8B9=alison_tsai@openfind.com.tw>); Wed, 22 Feb 2017 17:16:47 +0800 (CST)
+Return-Path: <prvs=122355B8B9=alison_tsai@openfind.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)(audit_rules:rules.audit_
+	out1311132448.system#,,,aDELIVER,R/m2k_service@mail2000.com.tw,4,ou)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=openfind.com.tw;
+	s=MailGates; t=1487755006;
+	bh=agopVRnbmKvjOwGTuyzy6hxTQRm16Pi9Oyit8CGl5Ro=; l=12119;
+	h=From:Subject:Message-ID:To:Date:MIME-Version;
+	b=dV+8j2htiKrnHnagCcI6IVTnjcGjr50xMyBDFYG8nPjZH+edPynVQj2/MV8x/cK+W
+	 GaXgOgWthas8c9Yetg6rI/tDWYvfs9y1ioAGmKWO1U/0pWc1W+7wR5s7raAeSZ/MG2
+	 fnLxX0eNgj3ik0aBrY1DTFZI2YpnNiQfKzdj0nKw=
+X-MGADT: rules.audit_out1311132448.system#,R/m2k_service@mail2000.com.tw
+Received: from 172.16.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V5.0(3801:2:AUTH_RELAY)
+	(envelope-from <alison_tsai@openfind.com.tw>); Wed, 22 Feb 2017 17:11:30 +0800 (CST)
+Return-Path: <alison_tsai@openfind.com.tw>
+Received: By OpenMail Mailer;Wed, 22 Feb 2017 17:11:29 +0800 (CST)
+From: "=?utf-8?B?57ay5pOO6LOH6KiK4pmlQWxpc29u?=" <alison_tsai@openfind.com.tw>
+Reply-To: "=?utf-8?B?57ay5pOO6LOH6KiK4pmlQWxpc29u?=" <alison_tsai@openfind.com.tw>
+Subject: =?utf-8?B?UmU6IE1DIOalreWLmeWVj+mhjCAtIOmBoOmBlA==?=
+	=?utf-8?B?5ZyL6ZqbIC0gMTAwIOWkmuWAi+W4s+iZn++8jA==?=
+	=?utf-8?B?5Zyo5oSP5YWp5bK45LiJ5Zyw5rqd6YCa5ZOB?=
+	=?utf-8?B?6LOq?=
+Message-ID: <1487754688.4571.alison_tsai@openfind.com.tw>
+In-Reply-To: <1487653252.5571.service@mailcloud.com.tw>
+References: <1487653252.5571.service@mailcloud.com.tw>
+To: "=?utf-8?B?TWFpbENsb3VkIOWuouacjeS4reW/gw==?=" <service@mailcloud.com.tw>
+Cc: "M2k_service" <m2k_service@mail2000.com.tw>,
+	"=?utf-8?B?TWFpbENsb3VkIOalreWLmQ==?=" <mailasp_sales@openfind.com.tw>
+Date: Wed, 22 Feb 2017 17:11:28 +0800 (CST)
+MIME-Version: 1.0
+Return-Path: alison_tsai@openfind.com.tw
+Content-Type: multipart/alternative;
+	boundary="---k:SA?OYY(SBy0HsmehEEq322/CV"
+
+-----k:SA?OYY(SBy0HsmehEEq322/CV
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear=20Kate,
+=E3=80=80
+=E5=B7=B2=E8=81=AF=E7=B9=AB=EF=BC=8C=E6=84=9F=E8=AC=9D=EF=BC=81
+=E3=80=80
+Best=20regards,
+Alison
+
+
+-----Original=20message-----
+From:MailCloud=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83<service@mailcloud.com.=
+tw>
+To:MailCloud=20=E6=A5=AD=E5=8B=99<mailasp_sales@openfind.com.tw>
+Cc:M2k_service<m2k_service@mail2000.com.tw>
+Date:=20Tue,=2021=20Feb=202017=2013:00:52
+Subject:=20MC=20=E6=A5=AD=E5=8B=99=E5=95=8F=E9=A1=8C=20-=20=E9=81=A0=E9=81=94=
+=E5=9C=8B=E9=9A=9B=20-=20100=20=E5=A4=9A=E5=80=8B=E5=B8=B3=E8=99=9F=EF=BC=8C=
+=E5=9C=A8=E6=84=8F=E5=85=A9=E5=B2=B8=E4=B8=89=E5=9C=B0=E6=BA=9D=E9=80=9A=E5=93=
+=81=E8=B3=AA
+
+=E6=82=A8=E5=A5=BD=EF=BC=8C
+=20
+=E9=81=A0=E9=81=94=E5=9C=8B=E9=9A=9B
+0920683635
+=E8=BE=9B=E5=85=88=E7=94=9F
+rohechin@pml-intl.com
+
+=E5=95=8F=E9=A1=8C=EF=BC=9A
+=E9=9C=80=E8=A6=81=20100=20=E5=A4=9A=E5=80=8B=E5=B8=B3=E8=99=9F=EF=BC=8C
+=E7=89=B9=E5=88=A5=E5=9C=A8=E6=84=8F=E5=85=A9=E5=B2=B8=E4=B8=89=E5=9C=B0=E7=9A=
+=84=E6=BA=9D=E9=80=9A=E5=93=81=E8=B3=AA=E5=95=8F=E9=A1=8C=EF=BC=8C
+=E6=9C=89=E5=85=88=E8=B7=9F=E7=94=A8=E6=88=B6=E6=8F=90=E5=88=B0=E5=85=A9=E5=B2=
+=B8=E6=BC=AB=E9=81=8A=E9=80=9A=E6=9C=8D=E5=8B=99=EF=BC=8C
+=E8=AB=8B=E6=82=A8=E5=8D=94=E5=8A=A9=E8=AA=AA=E6=98=8E=EF=BC=8C=E6=84=9F=E8=AC=
+=9D=E3=80=82
+
+
+Kate
+
+
+=20
+=20
+=E8=8B=A5=E6=82=A8=E5=B0=8D=E4=BB=A5=E4=B8=8A=E5=9B=9E=E8=A6=86=E6=9C=89=E4=BB=
+=BB=E4=BD=95=E7=96=91=E5=95=8F=EF=BC=8C
+=E6=AD=A1=E8=BF=8E=E6=82=A8=E5=8F=8D=E6=98=A0=E7=B5=A6=E6=88=91=E5=80=91=E3=80=
+=82
+
+
+
+MailCloud=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83=20=E6=95=AC=E4=B8=8A
+=20
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D
+MailCloud=20=E8=A1=8C=E5=8B=95=E5=90=8C=E6=AD=A5=EF=BC=9A=E4=B8=80=E6=AC=A1=E8=
+=A8=AD=E5=A5=BD=EF=BC=8C=E8=B3=87=E8=A8=8A=E5=B8=B6=E8=91=97=E8=B7=91=EF=BC=81=
+
+
+MailCloud=20=E6=94=AF=E6=8F=B4=E8=A1=8C=E5=8B=95=E5=90=8C=E6=AD=A5=EF=BC=8C=E5=
+=8F=AF=20SYNC=20=E6=82=A8=E7=9A=84=E9=80=9A=E8=A8=8A=E9=8C=84=E3=80=81=E8=A1=
+=8C=E4=BA=8B=E6=9B=86=EF=BC=8C=E8=88=87=E9=83=B5=E4=BB=B6=E5=88=B0=E6=89=8B=E6=
+=A9=9F
+=E4=BB=A5=E5=89=8D=E4=BD=A0=E6=9C=83=E8=AA=AA=EF=BC=9A=E3=80=8E=E7=AD=89=E6=88=
+=91=E5=9B=9E=E8=BE=A6=E5=85=AC=E5=AE=A4=E7=9C=8B=E9=9B=BB=E8=85=A6=E5=86=8D=E7=
+=A2=BA=E8=AA=8D=E3=80=8F=E5=85=8D=EF=BC=81=E7=8F=BE=E5=9C=A8=E9=A6=AC=E4=B8=8A=
+=E7=A2=BA=E8=AA=8D=E4=B8=8D=E7=94=A8=E7=AD=89=EF=BC=81
+=E4=B8=8B=E8=BC=89=E5=90=8C=E6=AD=A5=E6=95=99=E5=AD=B8=E3=80=80=20http://www=
+.mailcloud.com.tw/sync.html
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D
+
+
+MailCloud=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83
+=E5=AE=A2=E6=9C=8D=E5=B0=88=E7=B7=9A=EF=BC=9A02-25537272
+=E5=AE=A2=E6=9C=8D=E4=BF=A1=E7=AE=B1=EF=BC=9Aservice@mailcloud.com.tw
+=E7=B6=B2=E6=93=8E=E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99=20h=
+ttp://www.mailcloud.com.tw/
+Mail2000=E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1=20http://mail2000.com.tw/
+=E7=B6=B2=E6=93=8E=20Openfind=20=E4=BC=81=E6=A5=AD=E7=B6=B2=E7=AB=99=20http:=
+//www.openfind.com/taiwan/
+
+-----k:SA?OYY(SBy0HsmehEEq322/CV
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE=20html><html><head><meta=20http-equiv=3D"X-UA-Compatible"=20conten=
+t=3D"IE=3Dedge"=20/></head><body><font=20size=3D"2"><div><div><font=20face=3D=
+"=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94"=20size=3D"3">Dear=20Kate,</f=
+ont></div><div><font=20face=3D"=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94=
+"=20size=3D"3">=E3=80=80</font></div><div><font=20face=3D"=E5=BE=AE=E8=BB=9F=
+=E6=AD=A3=E9=BB=91=E9=AB=94"=20size=3D"3">=E5=B7=B2=E8=81=AF=E7=B9=AB=EF=BC=8C=
+=E6=84=9F=E8=AC=9D=EF=BC=81</font></div><div><font=20face=3D"=E5=BE=AE=E8=BB=
+=9F=E6=AD=A3=E9=BB=91=E9=AB=94"=20size=3D"3">=E3=80=80</font></div><div><fon=
+t=20face=3D"=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94"=20size=3D"3">Best=
+=20regards,</font></div><div><font=20face=3D"=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=
+=91=E9=AB=94"=20size=3D"3">Alison</font></div><div><font=20face=3D"=E5=BE=AE=
+=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94"=20size=3D"3"></font><br></div></div></=
+font><div><br>
+-----Original=20message-----<br>
+
+<b>From:</b>MailCloud=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83&lt;service@mail=
+cloud.com.tw&gt;<br>
+<b>To:</b>MailCloud=20=E6=A5=AD=E5=8B=99&lt;mailasp_sales@openfind.com.tw&gt=
+;<br>
+<b>Cc:</b>M2k_service&lt;m2k_service@mail2000.com.tw&gt;<br>
+<b>Date:=20</b>=20Tue,=2021=20Feb=202017=2013:00:52<br>
+<b>Subject:</b>=20MC=20=E6=A5=AD=E5=8B=99=E5=95=8F=E9=A1=8C=20-=20=E9=81=A0=E9=
+=81=94=E5=9C=8B=E9=9A=9B=20-=20100=20=E5=A4=9A=E5=80=8B=E5=B8=B3=E8=99=9F=EF=
+=BC=8C=E5=9C=A8=E6=84=8F=E5=85=A9=E5=B2=B8=E4=B8=89=E5=9C=B0=E6=BA=9D=E9=80=9A=
+=E5=93=81=E8=B3=AA<br>
+<div=20style=3D"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94=
+;=20font-size:=2016px;">=E6=82=A8=E5=A5=BD=EF=BC=8C</div><div=20style=3D"fon=
+t-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94;=20font-size:=2016=
+px;">&nbsp;</div><div=20style=3D"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=
+=BB=91=E9=AB=94;=20font-size:=2016px;">=E9=81=A0=E9=81=94=E5=9C=8B=E9=9A=9B<=
+/div><div><font=20face=3D"=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94">092=
+0683635</font></div><div><font=20face=3D"=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=
+=E9=AB=94">=E8=BE=9B=E5=85=88=E7=94=9F</font></div><div><font=20face=3D"=E5=BE=
+=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94">rohechin@pml-intl.com</font></div><=
+div><font=20face=3D"=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94"><br></fon=
+t></div><div><font=20face=3D"=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94">=
+=E5=95=8F=E9=A1=8C=EF=BC=9A</font></div><div><font=20face=3D"=E5=BE=AE=E8=BB=
+=9F=E6=AD=A3=E9=BB=91=E9=AB=94">=E9=9C=80=E8=A6=81&nbsp;</font><font=20face=3D=
+"=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94">100=20=E5=A4=9A=E5=80=8B=E5=B8=
+=B3=E8=99=9F=EF=BC=8C</font></div><div><font=20face=3D"=E5=BE=AE=E8=BB=9F=E6=
+=AD=A3=E9=BB=91=E9=AB=94">=E7=89=B9=E5=88=A5=E5=9C=A8=E6=84=8F=E5=85=A9=E5=B2=
+=B8=E4=B8=89=E5=9C=B0=E7=9A=84=E6=BA=9D=E9=80=9A=E5=93=81=E8=B3=AA=E5=95=8F=E9=
+=A1=8C=EF=BC=8C</font></div><div><font=20face=3D"=E5=BE=AE=E8=BB=9F=E6=AD=A3=
+=E9=BB=91=E9=AB=94">=E6=9C=89=E5=85=88=E8=B7=9F=E7=94=A8=E6=88=B6=E6=8F=90=E5=
+=88=B0=E5=85=A9=E5=B2=B8=E6=BC=AB=E9=81=8A=E9=80=9A=E6=9C=8D=E5=8B=99=EF=BC=8C=
+</font></div><div><font=20face=3D"=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=
+=94">=E8=AB=8B=E6=82=A8=E5=8D=94=E5=8A=A9=E8=AA=AA=E6=98=8E=EF=BC=8C=E6=84=9F=
+=E8=AC=9D=E3=80=82</font></div><div><font=20face=3D"=E5=BE=AE=E8=BB=9F=E6=AD=
+=A3=E9=BB=91=E9=AB=94"><br></font></div><div><br></div><div><font=20face=3D"=
+=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94">Kate</font></div><div><span=20=
+style=3D"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94;=20fon=
+t-size:=2016px;"><br></span></div><div><span=20style=3D"font-family:=20=E5=BE=
+=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94;=20font-size:=2016px;"><br></span></=
+div><div=20style=3D"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=
+=94;=20font-size:=2016px;">&nbsp;</div><div=20style=3D"font-family:=20=E5=BE=
+=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94;=20font-size:=2016px;">&nbsp;</div><=
+div=20style=3D"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94;=
+=20font-size:=2016px;">=E8=8B=A5=E6=82=A8=E5=B0=8D=E4=BB=A5=E4=B8=8A=E5=9B=9E=
+=E8=A6=86=E6=9C=89=E4=BB=BB=E4=BD=95=E7=96=91=E5=95=8F=EF=BC=8C</div><div=20=
+style=3D"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94;=20fon=
+t-size:=2016px;">=E6=AD=A1=E8=BF=8E=E6=82=A8=E5=8F=8D=E6=98=A0=E7=B5=A6=E6=88=
+=91=E5=80=91=E3=80=82</div><div=20style=3D"font-family:=20=E5=BE=AE=E8=BB=9F=
+=E6=AD=A3=E9=BB=91=E9=AB=94;=20font-size:=2016px;"><p=20style=3D"margin:=200=
+in;"><br></p><div>MailCloud=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83=20=E6=95=AC=
+=E4=B8=8A</div><div>&nbsp;</div><div><p=20class=3D"MsoNormal"=20style=3D"mar=
+gin:=200cm=200cm=200pt;"><span=20lang=3D"EN-US"><font=20face=3D"=E6=96=B0=E7=
+=B4=B0=E6=98=8E=E9=AB=94">=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</font></span></p><p=20class=3D=
+"MsoNormal"=20style=3D"margin:=200cm=200cm=200pt;"><font=20color=3D"#ff0000"=
+><b><span=20lang=3D"EN-US">MailCloud&nbsp;</span></b><b>=E8=A1=8C=E5=8B=95=E5=
+=90=8C=E6=AD=A5=EF=BC=9A=E4=B8=80=E6=AC=A1=E8=A8=AD=E5=A5=BD=EF=BC=8C=E8=B3=87=
+=E8=A8=8A=E5=B8=B6=E8=91=97=E8=B7=91=EF=BC=81<br><span=20lang=3D"EN-US"></sp=
+an></b></font></p><p=20class=3D"MsoNormal"=20style=3D"margin:=200cm=200cm=20=
+0pt;"><span=20lang=3D"EN-US">MailCloud&nbsp;</span>=E6=94=AF=E6=8F=B4=E8=A1=8C=
+=E5=8B=95=E5=90=8C=E6=AD=A5=EF=BC=8C=E5=8F=AF&nbsp;<span=20lang=3D"EN-US">SY=
+NC&nbsp;</span>=E6=82=A8=E7=9A=84=E9=80=9A=E8=A8=8A=E9=8C=84=E3=80=81=E8=A1=8C=
+=E4=BA=8B=E6=9B=86=EF=BC=8C=E8=88=87=E9=83=B5=E4=BB=B6=E5=88=B0=E6=89=8B=E6=A9=
+=9F<span=20lang=3D"EN-US"><br></span>=E4=BB=A5=E5=89=8D=E4=BD=A0=E6=9C=83=E8=
+=AA=AA=EF=BC=9A=E3=80=8E=E7=AD=89=E6=88=91=E5=9B=9E=E8=BE=A6=E5=85=AC=E5=AE=A4=
+=E7=9C=8B=E9=9B=BB=E8=85=A6=E5=86=8D=E7=A2=BA=E8=AA=8D=E3=80=8F<strong>=E5=85=
+=8D=EF=BC=81=E7=8F=BE=E5=9C=A8=E9=A6=AC=E4=B8=8A=E7=A2=BA=E8=AA=8D=E4=B8=8D=E7=
+=94=A8=E7=AD=89=EF=BC=81</strong><span=20lang=3D"EN-US"><br><a=20href=3D"htt=
+p://www.mailcloud.com.tw/sync.html"=20target=3D"_blank"><font=20color=3D"#00=
+00ff"><strong><span=20lang=3D"EN-US"><span=20lang=3D"EN-US">=E4=B8=8B=E8=BC=89=
+</span></span><span=20lang=3D"EN-US"><span=20lang=3D"EN-US">=E5=90=8C=E6=AD=A5=
+</span></span><span=20lang=3D"EN-US"><span=20lang=3D"EN-US">=E6=95=99=E5=AD=B8=
+</span></span></strong></font></a></span>=E3=80=80&nbsp;<span=20lang=3D"EN-U=
+S"><a=20href=3D"http://www.mailcloud.com.tw/sync.html"=20target=3D"_blank"><=
+font=20color=3D"#0000ff"><strong>http://www.mailcloud.com.tw/sync.html</stro=
+ng></font></a></span><span=20lang=3D"EN-US"></span></p><p=20class=3D"MsoNorm=
+al"=20style=3D"margin:=200cm=200cm=200pt;"><span=20lang=3D"EN-US"><font=20fa=
+ce=3D"=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94">=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</font></span=
+></p><p=20style=3D"margin:=200in;"></p></div><div><br></div></div><div=20sty=
+le=3D"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94;=20font-s=
+ize:=2016px;">MailCloud=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83</div><div=20s=
+tyle=3D"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94;=20font=
+-size:=2016px;">=E5=AE=A2=E6=9C=8D=E5=B0=88=E7=B7=9A=EF=BC=9A02-25537272</di=
+v><div=20style=3D"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94=
+;=20font-size:=2016px;">=E5=AE=A2=E6=9C=8D=E4=BF=A1=E7=AE=B1=EF=BC=9Aservice=
+@mailcloud.com.tw</div><div=20style=3D"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=
+=A3=E9=BB=91=E9=AB=94;=20font-size:=2016px;">=E7=B6=B2=E6=93=8E=E4=BC=81=E6=A5=
+=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99&nbsp;<a=20href=3D"http://www.mailclo=
+ud.com.tw/"=20target=3D"_blank">http://www.mailcloud.com.tw/</a></div><div=20=
+style=3D"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94;=20fon=
+t-size:=2016px;">Mail2000=E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1&nbsp;<a=20href=
+=3D"http://mail2000.com.tw/"=20target=3D"_blank">http://mail2000.com.tw/</a>=
+</div><div=20style=3D"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=
+=AB=94;=20font-size:=2016px;">=E7=B6=B2=E6=93=8E=20Openfind=20=E4=BC=81=E6=A5=
+=AD=E7=B6=B2=E7=AB=99&nbsp;<a=20href=3D"http://www.openfind.com/taiwan/"=20t=
+arget=3D"_blank">http://www.openfind.com/taiwan/</a></div></div></body></htm=
+l>
+-----k:SA?OYY(SBy0HsmehEEq322/CV--

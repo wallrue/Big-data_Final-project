@@ -1,0 +1,231 @@
+X-M2K-MATCHED-RULE: SPAM_FILTER-InADB
+X-M2K-MATCHED-RESULT: Mail Header From In ADB/kate_lin@openfind.com.tw
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 210.59.162.122
+	by ms1.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(25695:1:AUTH_NONE)
+	(envelope-from <prvs=1118424867=kate_lin@openfind.com.tw>); Tue, 08 Nov 2016 13:30:08 +0800 (CST)
+Return-Path: <prvs=1118424867=kate_lin@openfind.com.tw>
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)(FROMBW:2,PASS)(FROMBW:2,
+	PASS)
+Received: from 172.16.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V5.0(1914:0:AUTH_RELAY)
+	(envelope-from <prvs=1118424867=kate_lin@openfind.com.tw>); Tue, 08 Nov 2016 12:34:18 +0800 (CST)
+Return-Path: <prvs=1118424867=kate_lin@openfind.com.tw>
+Received: By OpenMail Mailer;Tue, 08 Nov 2016 12:34:18 +0800 (CST)
+Received: from 172.16.0.96
+	by mail2.office.openfind.com.tw with Mail2000 ESMTP Server V7.00(2785:0:AUTH_RELAY)
+	(envelope-from <prvs=1118424867=kate_lin@openfind.com.tw>); Tue, 08 Nov 2016 12:34:17 +0800 (CST)
+Return-Path: <prvs=1118424867=kate_lin@openfind.com.tw>
+X-M2KPolicyIP: 172.16.0.96 (#NOT FOUND)
+X-MailGates: (flag:1,DYNAMIC,RELAY,NOHOST,LAN:PASS)(IPF:0,HAM,220.130.12
+	7.163)(FROMBW:0,HAM,*@openfind.com.tw)(FROMBW:2,PASS)(ipmatch:pattern.ip
+	trust.system,,HAM,220.130.127.163,0)
+Received: from 220.130.127.163
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V5.0(1914:1:AUTH_NONE)
+	(envelope-from <prvs=1118424867=kate_lin@openfind.com.tw>); Tue, 08 Nov 2016 12:34:15 +0800 (CST)
+Return-Path: <prvs=1118424867=kate_lin@openfind.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(5126:0:AUTH_RELAY)
+	(envelope-from <prvs=1118424867=kate_lin@openfind.com.tw>); Tue, 08 Nov 2016 12:34:12 +0800 (CST)
+Return-Path: <prvs=1118424867=kate_lin@openfind.com.tw>
+Received: By OpenMail Mailer;Tue, 08 Nov 2016 12:34:12 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(14377:0:AUTH_NONE)
+	(envelope-from <prvs=1118424867=kate_lin@openfind.com.tw>); Tue, 08 Nov 2016 12:34:11 +0800 (CST)
+Return-Path: <prvs=1118424867=kate_lin@openfind.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(88634:1:AUTH_NONE)
+	(envelope-from <prvs=1118424867=kate_lin@openfind.com.tw>); Tue, 08 Nov 2016 12:34:10 +0800 (CST)
+Return-Path: <prvs=1118424867=kate_lin@openfind.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)(FROMBW:2,PASS)(FROMBW:2,
+	PASS)(audit_rules:rules.audit_out1311132448.system#,,,aDELIVER,R/m2k_ser
+	vice@mail2000.com.tw,4,ou)
+X-MGADT: rules.audit_out1311132448.system#,R/m2k_service@mail2000.com.tw
+Received: from 172.16.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V5.0(1926:0:AUTH_RELAY)
+	(envelope-from <kate_lin@openfind.com.tw>); Tue, 08 Nov 2016 12:31:35 +0800 (CST)
+Return-Path: <kate_lin@openfind.com.tw>
+Received: from 172.16.14.51
+	by mail2.office.openfind.com.tw with Mail2000 ESMTPSA Server V7.00(2790:0:AUTH_LOGIN)
+	(envelope-from <kate_lin@openfind.com.tw>)
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256/256); Tue, 08 Nov 2016 12:31:35 +0800 (CST)
+Return-Path: <kate_lin@openfind.com.tw>
+X-M2KPolicyIP: 172.16.14.51 (#NOT FOUND)
+Message-ID: <75AB6370DADC47AD8A908071307B339B@tp.office.openfind.com.tw>
+From: =?UTF-8?B?57ay5pOO6LOH6KiKL+ael+WGoOS8tg==?= <kate_lin@openfind.com.tw>
+To: "cloud_se" <cloud_se@openfind.com>
+Cc: <m2k_service@mail2000.com.tw>
+Subject: =?UTF-8?B?TTJLIC0ga2F0ZV9saW4gLSDmiYvmqZ/nhKHms5XmraPluLjkvb/nlKg=?=
+	=?UTF-8?B?5buj5ZGK5L+h5aCx6KGo?=
+Date: Tue, 8 Nov 2016 12:27:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01E3_01D239BB.86861F10"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 16.4.3528.331
+X-MimeOLE: Produced By Microsoft MimeOLE V16.4.3528.331
+
+這是 MIME 格式的 Multipart 郵件。
+
+------=_NextPart_000_01E3_01D239BB.86861F10
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=E6=82=A8=E5=A5=BD=EF=BC=8C
+
+kate_lin@mail2000.com.tw
+
+=E5=95=8F=E9=A1=8C=EF=BC=9A
+=E6=9C=80=E8=BF=91=E5=9C=A8=E6=89=8B=E6=A9=9F=E4=B8=8A=E6=93=8D=E4=BD=9C=E5=
+=BB=A3=E5=91=8A=E4=BF=A1=E5=A0=B1=E8=A1=A8=E6=80=AA=E6=80=AA=E7=9A=84=EF=BC=
+=8C
+=E7=84=A1=E6=B3=95=E5=BE=9E=E5=BB=A3=E5=91=8A=E4=BF=A1=E5=A0=B1=E8=A1=A8=E4=
+=B8=AD=EF=BC=8C=E9=BB=9E=E6=A8=99=E9=A1=8C=E9=80=B2=E5=8E=BB=E7=9C=8B=E4=BF=
+=A1=E4=BB=B6=E7=9A=84=E5=85=A7=E5=AE=B9=E3=80=82
+
+- =
+=E6=88=91=E4=BF=A1=E7=AE=B1=E4=B8=AD=E9=82=84=E6=9C=89=E4=B8=80=E5=B0=81=E6=
+=9C=89=E5=95=8F=E9=A1=8C=E7=9A=84=E5=A0=B1=E8=A1=A8=EF=BC=8C
+=E5=A0=B1=E8=A1=A8=E7=9A=84=E6=97=A5=E6=9C=9F=E6=99=82=E9=96=93=E6=98=AF =
+11.05  05:15 =EF=BC=8C
+=E5=A0=B1=E8=A1=A8=E4=B8=AD=E7=84=A1=E6=B3=95=E9=96=8B=E5=95=9F=E7=9A=84=E4=
+=BF=A1=E4=BB=B6=E6=A8=99=E9=A1=8C=E6=98=AF =EF=BD=A2test =
+=E9=A0=90=E7=B4=84=E5=AF=84=E4=BF=A1=EF=BD=A3=E3=80=82
+- =E6=89=8B=E6=A9=9F=E6=98=AF htc m9=E3=80=81android 6.0=20
+
+=E7=97=87=E7=8B=80=E5=A6=82=E4=B8=8B=EF=BC=9A
+
+1. IMAP =E6=94=B6=E4=BF=A1=EF=BC=9A
+=E5=BE=9E=E5=BB=A3=E5=91=8A=E4=BF=A1=E5=A0=B1=E8=A1=A8=E9=BB=9E=E4=BF=A1=E4=
+=BB=B6=E6=A8=99=E9=A1=8C=EF=BC=8C=E6=9C=83=E5=B8=B6=E5=87=BA=E8=A1=8C=E5=8B=
+=95=E7=89=88=E9=A0=81=E9=9D=A2=EF=BC=8C
+=E4=B9=8B=E5=89=8D=E6=9C=83=E9=A1=AF=E7=A4=BA=E4=BF=A1=E4=BB=B6=E5=85=A7=E5=
+=AE=B9=EF=BC=8C
+=E4=BD=86=E7=8F=BE=E5=9C=A8=E5=8F=AA=E6=9C=83=E9=80=B2=E5=88=B0=E8=A1=8C=E5=
+=8B=95=E7=89=88=E7=9A=84=E6=94=B6=E4=BF=A1=E5=8C=A3=EF=BC=8C
+=E8=80=8C=E4=B8=94=E6=9C=83 loading =
+=E5=85=A9=E6=AC=A1=E3=80=81=E9=83=BD=E9=A1=AF=E7=A4=BA=E6=94=B6=E4=BF=A1=E5=
+=8C=A3=E3=80=82
+
+2. =E4=BD=BF=E7=94=A8 @mail2000=EF=BC=9A
+=E9=96=8B=E5=95=9F=E5=BB=A3=E5=91=8A=E4=BF=A1=E5=A0=B1=E8=A1=A8=E5=BE=8C=E9=
+=BB=9E=E4=BF=A1=E4=BB=B6=E6=A8=99=E9=A1=8C=EF=BC=8C
+=E4=B8=80=E6=A8=A3=E5=8F=AA=E6=9C=83=E5=87=BA=E7=8F=BE=E6=94=B6=E4=BF=A1=E5=
+=8C=A3=E7=9A=84=E7=95=AB=E9=9D=A2=E3=80=81=E4=B8=80=E6=A8=A3 loading =
+=E5=85=A9=E6=AC=A1=EF=BC=8C
+=E5=85=A9=E6=AC=A1=E9=83=BD=E9=A1=AF=E7=A4=BA=E6=94=B6=E4=BF=A1=E5=8C=A3=E3=
+=80=82
+
+
+
+=E8=AB=8B=E6=82=A8=E5=8D=94=E5=8A=A9=E7=A2=BA=E8=AA=8D=E4=B8=80=E4=B8=8B=EF=
+=BC=8C=E6=84=9F=E8=AC=9D=E3=80=82
+
+
+Best Regards,
+Kate
+
+
+=E6=9E=97=E5=86=A0=E4=BC=B6 Kate Lin
+=E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A=E8=BB=9F=E9=AB=94=E8=82=A1=E4=BB=BD=E6=
+=9C=89=E9=99=90=E5=85=AC=E5=8F=B8 / =E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99
+Online Service Dept., Openfind Information Technology, Inc.
+=E5=8F=B0=E5=8C=97=E5=B8=82=E5=A4=A7=E5=90=8C=E5=8D=80=E9=87=8D=E6=85=B6=E5=
+=8C=97=E8=B7=AF=E4=BA=8C=E6=AE=B5 243 =E8=99=9F 7 =E6=A8=93
+Email: kate_lin@openfind.com.tw
+TEL:+886 2 25532000 ext.745
+
+=E7=B6=B2=E6=93=8E=E4=BC=81=E6=A5=AD=E9=83=B5=E4=BB=B6=E4=BB=A3=E7=AE=A1 =
+http://www.mailasp.com.tw/
+Mail2000 =E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1 http://mail2000.com.tw/
+Openfind =E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A http://www.openfind.com/
+------=_NextPart_000_01E3_01D239BB.86861F10
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: =
+'=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94'; COLOR: #000000">
+<DIV>=E6=82=A8=E5=A5=BD=EF=BC=8C</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><A=20
+href=3D"mailto:kate_lin@mail2000.com.tw">kate_lin@mail2000.com.tw</A></DI=
+V>
+<DIV>&nbsp;</DIV>
+<DIV>=E5=95=8F=E9=A1=8C=EF=BC=9A</DIV>
+<DIV>=E6=9C=80=E8=BF=91=E5=9C=A8=E6=89=8B=E6=A9=9F=E4=B8=8A=E6=93=8D=E4=BD=
+=9C=E5=BB=A3=E5=91=8A=E4=BF=A1=E5=A0=B1=E8=A1=A8=E6=80=AA=E6=80=AA=E7=9A=84=
+=EF=BC=8C</DIV>
+<DIV>=E7=84=A1=E6=B3=95=E5=BE=9E=E5=BB=A3=E5=91=8A=E4=BF=A1=E5=A0=B1=E8=A1=
+=A8=E4=B8=AD=EF=BC=8C=E9=BB=9E=E6=A8=99=E9=A1=8C=E9=80=B2=E5=8E=BB=E7=9C=8B=
+=E4=BF=A1=E4=BB=B6=E7=9A=84=E5=85=A7=E5=AE=B9=E3=80=82</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>- =
+=E6=88=91=E4=BF=A1=E7=AE=B1=E4=B8=AD=E9=82=84=E6=9C=89=E4=B8=80=E5=B0=81=E6=
+=9C=89=E5=95=8F=E9=A1=8C=E7=9A=84=E5=A0=B1=E8=A1=A8=EF=BC=8C</DIV>
+<DIV>=E5=A0=B1=E8=A1=A8=E7=9A=84=E6=97=A5=E6=9C=9F=E6=99=82=E9=96=93=E6=98=
+=AF 11.05&nbsp; 05:15 =EF=BC=8C</DIV>
+<DIV>=E5=A0=B1=E8=A1=A8=E4=B8=AD=E7=84=A1=E6=B3=95=E9=96=8B=E5=95=9F=E7=9A=
+=84=E4=BF=A1=E4=BB=B6=E6=A8=99=E9=A1=8C=E6=98=AF =EF=BD=A2test =
+=E9=A0=90=E7=B4=84=E5=AF=84=E4=BF=A1=EF=BD=A3=E3=80=82</DIV>
+<DIV><FONT style=3D"size: +0">- =E6=89=8B=E6=A9=9F=E6=98=AF htc =
+m9=E3=80=81android 6.0 </FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=E7=97=87=E7=8B=80=E5=A6=82=E4=B8=8B=EF=BC=9A</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>1. IMAP =E6=94=B6=E4=BF=A1=EF=BC=9A</DIV>
+<DIV>=E5=BE=9E=E5=BB=A3=E5=91=8A=E4=BF=A1=E5=A0=B1=E8=A1=A8=E9=BB=9E=E4=BF=
+=A1=E4=BB=B6=E6=A8=99=E9=A1=8C=EF=BC=8C=E6=9C=83=E5=B8=B6=E5=87=BA=E8=A1=8C=
+=E5=8B=95=E7=89=88=E9=A0=81=E9=9D=A2=EF=BC=8C</DIV>
+<DIV>=E4=B9=8B=E5=89=8D=E6=9C=83=E9=A1=AF=E7=A4=BA=E4=BF=A1=E4=BB=B6=E5=85=
+=A7=E5=AE=B9=EF=BC=8C</DIV>
+<DIV>=E4=BD=86=E7=8F=BE=E5=9C=A8=E5=8F=AA=E6=9C=83=E9=80=B2=E5=88=B0=E8=A1=
+=8C=E5=8B=95=E7=89=88=E7=9A=84=E6=94=B6=E4=BF=A1=E5=8C=A3=EF=BC=8C</DIV>
+<DIV>=E8=80=8C=E4=B8=94=E6=9C=83 loading =
+=E5=85=A9=E6=AC=A1=E3=80=81=E9=83=BD=E9=A1=AF=E7=A4=BA=E6=94=B6=E4=BF=A1=E5=
+=8C=A3=E3=80=82</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>2. =E4=BD=BF=E7=94=A8 @mail2000=EF=BC=9A</DIV>
+<DIV>=E9=96=8B=E5=95=9F=E5=BB=A3=E5=91=8A=E4=BF=A1=E5=A0=B1=E8=A1=A8=E5=BE=
+=8C=E9=BB=9E=E4=BF=A1=E4=BB=B6=E6=A8=99=E9=A1=8C=EF=BC=8C</DIV>
+<DIV>=E4=B8=80=E6=A8=A3=E5=8F=AA=E6=9C=83=E5=87=BA=E7=8F=BE=E6=94=B6=E4=BF=
+=A1=E5=8C=A3=E7=9A=84=E7=95=AB=E9=9D=A2=E3=80=81=E4=B8=80=E6=A8=A3 =
+loading =E5=85=A9=E6=AC=A1=EF=BC=8C</DIV>
+<DIV>=E5=85=A9=E6=AC=A1=E9=83=BD=E9=A1=AF=E7=A4=BA=E6=94=B6=E4=BF=A1=E5=8C=
+=A3=E3=80=82</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV=20
+style=3D"FONT-SIZE: 12pt; FONT-FAMILY: =
+'=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94'; COLOR: =
+#000000">=E8=AB=8B=E6=82=A8=E5=8D=94=E5=8A=A9=E7=A2=BA=E8=AA=8D=E4=B8=80=E4=
+=B8=8B=EF=BC=8C=E6=84=9F=E8=AC=9D=E3=80=82<BR><BR><BR>Best=20
+Regards,<BR>Kate<BR><BR><BR>=E6=9E=97=E5=86=A0=E4=BC=B6 Kate =
+Lin<BR>=E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A=E8=BB=9F=E9=AB=94=E8=82=A1=E4=
+=BB=BD=E6=9C=89=E9=99=90=E5=85=AC=E5=8F=B8 / =
+=E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99<BR>Online=20
+Service Dept., Openfind Information Technology, =
+Inc.<BR>=E5=8F=B0=E5=8C=97=E5=B8=82=E5=A4=A7=E5=90=8C=E5=8D=80=E9=87=8D=E6=
+=85=B6=E5=8C=97=E8=B7=AF=E4=BA=8C=E6=AE=B5 243 =E8=99=9F 7=20
+=E6=A8=93<BR>Email: kate_lin@openfind.com.tw<BR>TEL:+886 2 25532000=20
+ext.745<BR><BR>=E7=B6=B2=E6=93=8E=E4=BC=81=E6=A5=AD=E9=83=B5=E4=BB=B6=E4=BB=
+=A3=E7=AE=A1 http://www.mailasp.com.tw/<BR>Mail2000 =
+=E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1=20
+http://mail2000.com.tw/<BR>Openfind =E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A =
+
+http://www.openfind.com/</DIV></DIV></DIV></BODY></HTML>
+
+------=_NextPart_000_01E3_01D239BB.86861F10--
+

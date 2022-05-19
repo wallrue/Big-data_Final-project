@@ -1,0 +1,91 @@
+X-M2K-MATCHED-RULE: USER_FILTER
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: YES/3
+Received: from 220.130.127.157
+	by ms1.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(19094:0:AUTH_NONE)
+	(envelope-from <service@mailcloud.com.tw>); Wed, 11 Oct 2017 03:09:21 +0800 (CST)
+Return-Path: <service@mailcloud.com.tw>
+X-M2K-MSG-ID: 1N6QTC1SIM70OME6
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=mailcloud.com.tw;
+	s=1487762788.mailcloud; t=1507662561;
+	bh=hkdwXfV9qYHVpYuVPch962lrs7E=;
+	h=Received:Return-Path:X-ADIFSPAM:X-ADIFSPAM-CT:Received:Received:
+	 Return-Path:X-M2KSPAM:Received:Return-Path:X-M2KPolicyIP:Received:
+	 Received:From:Reply-To:Content-Transfer-Encoding:X-Mailer:
+	 Mime-Version:Content-Type:Subject:Message-Id:Date:To;
+	b=thjxPiMbLAkncmLNM8Tt4AGctAZVC+GnMyF8Tz1E2KgVIIpFqWnM9jHQ/aPdZfq9n
+	 HHyFz41GJxeX2MeFBI5CYRs+xaMvqqUFP7SdYqFQ/7EqhsDWWHOFE4Pg2KK6P76Dqe
+	 zr5mjEw6Kfgr3C8TTtTJ2bcwLbfLm0E2NcPhgmzY=
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: YES/3
+Received: from 10.0.0.49
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(22149:0:AUTH_RELAY)
+	(envelope-from <service@mailcloud.com.tw>); Wed, 11 Oct 2017 03:09:21 +0800 (CST)
+Return-Path: <service@mailcloud.com.tw>
+X-ADIFSPAM: NO/-6
+X-ADIFSPAM-CT: NO/-6
+Received: By OpenMail Mailer;Wed, 11 Oct 2017 03:09:21 +0800 (CST)
+Received: from 203.69.82.35
+	by gsa.mail2000.com.tw with Mail2000 ESMTP Server V6.00(2570:0:AUTH_NONE)
+	(envelope-from <service@mailcloud.com.tw>); Wed, 11 Oct 2017 03:09:19 +0800 (CST)
+Return-Path: <service@mailcloud.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 203.69.82.23
+	by mx3.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(20099:1:AUTH_NONE)
+	(envelope-from <service@mailcloud.com.tw>); Wed, 11 Oct 2017 03:09:19 +0800 (CST)
+Return-Path: <service@mailcloud.com.tw>
+X-M2KPolicyIP: 203.69.82.23 (vhost.mailasp.com.tw)
+Received: from vhost.mailcloud.com.tw (localhost [127.0.0.1])
+	by vhost.mailcloud.com.tw (Postfix) with ESMTP id 15A3B521EBF
+	for <plesk@mail2000.com.tw>; Wed, 11 Oct 2017 03:09:16 +0800 (CST)
+Received: from localhost (localhost [127.0.0.1])
+	by vhost.mailcloud.com.tw (Postfix) with ESMTP
+	for <plesk@mail2000.com.tw>; Wed, 11 Oct 2017 03:09:16 +0800 (CST)
+From: =?UTF-8?Q?MailCloud=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83?= <service@mailcloud.com.tw>
+Reply-To: =?UTF-8?Q?MailCloud=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83?= <service@mailcloud.com.tw>
+Content-Transfer-Encoding: 8bit
+X-Mailer: PHP/5.2.6
+Mime-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Subject: =?UTF-8?Q?=3Cvhost=2Emailcloud=2Ecom=2Etw=3E=20MailCloud=20=E7=B6=B2=E7=AB=99=E4=BB=A3=E7=AE=A1=E7=B3=BB=E7=B5=B1=E9=80=9A=E7=9F=A5=EF=BC=9A=E7=A1=AC=E7=A2=9F=E7=A9=BA=E9=96=93=E2=88=95=E7=B6=B2=E7=AB=99=E9=A0=BB=E5=AF=AC=E8=B6=85=E9=81=8E=E4=BD=BF=E7=94=A8=E9=99=90=E5=88=B6?=
+Message-Id: <20171010190916.15A3B521EBF@vhost.mailcloud.com.tw>
+Date: Wed, 11 Oct 2017 03:09:16 +0800 (CST)
+To: undisclosed-recipients:;
+
+親愛的用戶，您好
+
+您的網域名稱：v7test.mailcloud.com.tw
+已使用硬碟空間：212 KB
+可使用硬碟空間：無限制
+已使用網路頻寬：1.01 KB/月
+可使用網路頻寬：無限制
+ 
+若您是『付費型』用戶：
+
+若是您的硬碟空間超過使用限制，您將會因硬碟容量不足而無法上傳資料，請儘速調整您的硬碟空間使用量，在您將空間使用量調整到可用空間限制以內之前，您將會每天收到此系統通知。若您的硬碟空間常有超過使用限制的狀況，建議您加購硬碟空間，每 100MB 費用 1,800 元/年。相關費用資料請參考 MailCloud 網站代管的服務內容。（網址：http://www.mailcloud.com.tw/price_wh.html）
+若您的網站頻寬超過使用限制，在您收到此通知信的隔日起，將以每月 1G 費用 100 元的計費方式，直接從您網站代管的使用天數中扣減。
+扣減天數計算方式，請參考 MailCloud 網站代管的常見問題。
+（網址：http://www.mailcloud.com.tw/faq_wh.html）
+ 
+ 
+若您是『免費型』用戶：
+ 
+若您硬碟空間超過使用限制，您將會因硬碟容量不足而無法上傳資料，請儘速調整您的硬碟空間使用量或付費購買 MailCloud 網站代管服務。在您將空間使用量調整到可用空間限制以內之前，您將會每天收到此系統通知，且將會一直無法上傳資料。
+ 
+若您的網站頻寬超過使用限制，在收到第一次通知的 7 天內，請儘速決定是否付費購買付費型的 MailCloud 網站代管服務，若 7 天後您決定繼續使用免費型的網站代管服務，則我們將在您收到第一次通知信的第 8 天起關閉您的網站直到當月結束，您的網站將於次月一日自動恢復，並重新計算頻寬。
+ 
+若您的硬碟空間或網站頻寬常有超過使用限制的狀況，建議您付費購買 MailCloud 網站代管服務，您將可享有 1G 的硬碟空間、5G的流量上限，以及次網域、MySQL 資料庫，多網址指向同一部主機及其他加值服務等功能，相關內容及費用資料請參考 MailCloud 網站代管的服務內容。
+（網址：http://www.mailcloud.com.tw/price_wh.html）
+ 
+若您有任何疑慮，也歡迎您隨時跟我們聯絡，謝謝。
+ 
+MailCloud 企業雲端服務 敬上
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+MailCloud 客服中心
+客服專線：02-2553-7272
+客服傳真：02-2553-5956
+客服信箱：service@mailcloud.com.tw 
+MailCloud 企業雲端服務 http://www.mailcloud.com.tw 
+Mail2000 個人付費信箱 http://mail2000.com.tw 
+網擎 Openfind 企業網站 http://www.openfind.com/taiwan
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝

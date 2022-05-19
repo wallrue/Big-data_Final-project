@@ -1,0 +1,261 @@
+X-M2KSPAM: YES/100
+Received: from 3.3.3.3
+	by asp7.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(55388:1:AUTH_RELAY)
+	(envelope-from <Antony@mitake.com.tw>); Fri, 29 Mar 2013 18:49:42 +0800 (CST)
+Return-Path: <Antony@mitake.com.tw>
+Received: from 10.0.0.81
+	by bak3.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(1184:0:AUTH_RELAY)
+	(envelope-from <Antony@mitake.com.tw>); Fri, 29 Mar 2013 18:19:45 +0800 (CST)
+Return-Path: <Antony@mitake.com.tw>
+Received: from 10.0.0.40
+	by bak1.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(1111:0:AUTH_RELAY)
+	(envelope-from <Antony@mitake.com.tw>); Fri, 29 Mar 2013 18:19:41 +0800 (CST)
+Return-Path: <Antony@mitake.com.tw>
+M2KForward: Yes
+Received: By OpenMail Mailer;Fri, 29 Mar 2013 18:19:41 +0800 (CST)
+Received: from 203.69.82.34
+	by m0.mail2000.com.tw with Mail2000 ESMTP Server V3.20M(87476:0:AUTH_NONE)
+	(envelope-from <Antony@mitake.com.tw>); Fri, 29 Mar 2013 18:19:39 +0800 (CST)
+Return-Path: <Antony@mitake.com.tw>
+X-M2KSPAM: YES/100
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(96747:0:AUTH_NONE)
+	(envelope-from <Antony@mitake.com.tw>); Fri, 29 Mar 2013 18:19:36 +0800 (CST)
+Return-Path: <Antony@mitake.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 10.0.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(7244:0:AUTH_RELAY)
+	(envelope-from <Antony@mitake.com.tw>); Fri, 29 Mar 2013 18:19:38 +0800 (CST)
+Return-Path: <Antony@mitake.com.tw>
+Received: By OpenMail Mailer;Fri, 29 Mar 2013 18:19:33 +0800 (CST)
+Received: from 203.69.82.124
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V6.00(78608:0:AUTH_RELAY)
+	(envelope-from <Antony@mitake.com.tw>); Fri, 29 Mar 2013 18:19:32 +0800 (CST)
+Return-Path: <Antony@mitake.com.tw>
+X-M2KPolicyIP: 203.69.82.124 (#NOT FOUND)
+X-MailGates: (RBL:2,PASS,0.000000e+00)(flag:0:PASS)(IPF:2,PASS)(bayesian
+	:SCORE-38,0.00,2)(commtouch:PASS,1,str=0001.0A150202.51556AB3.01F6:SCFST
+	AT17213367,ss=1,re=-4.000,fgs=0,2)(mail_charset:PASS,2)(compute_score:HA
+	M,2,0)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 118.163.25.226
+	by mg.openfind.com.tw with MailGates ESMTP Server V4.0(17069:0:AUTH_NONE)
+	(envelope-from <Antony@mitake.com.tw>); Fri, 29 Mar 2013 18:19:27 +0800 (CST)
+Return-Path: <Antony@mitake.com.tw>
+Received: from MBX-02.mitake.com.tw ([fe80::b5a3:c120:a98f:8642]) by
+ CAS-01.mitake.com.tw ([::1]) with mapi id 14.02.0318.004; Fri, 29 Mar 2013
+ 18:19:27 +0800
+From: =?big5?B?TUlTLbFpxKPEbg==?= <Antony@mitake.com.tw>
+To: "p-marker@openfind.com.tw" <p-marker@openfind.com.tw>
+Subject: =?big5?B?vdCw3ajPpc62UaS9pXGquqFprdO46r1MwkmqQbDIxenF56jpoWqhQaZiQ2xpZW50?=
+ =?big5?B?ILrdsPWm5qe5UC1NYXJrZXIgpc6k4brdvUzCSbNuxemr4aFBrdO46qxPp1+3fLbH?=
+ =?big5?B?sGWm3Lr0wLqqulAtTWFya2VyIENsb3VkIKRXLi4u?=
+Thread-Topic: =?big5?B?vdCw3ajPpc62UaS9pXGquqFprdO46r1MwkmqQbDIxenF56jpoWqhQaZiQ2xpZW50?=
+ =?big5?B?ILrdsPWm5qe5UC1NYXJrZXIgpc6k4brdvUzCSbNuxemr4aFBrdO46qxPp1+3fLbH?=
+ =?big5?B?sGWm3Lr0wLqqulAtTWFya2VyIENsb3VkIKRXLi4u?=
+Thread-Index: Ac4sZuONs2y8PoTyR5qHzKQonMUwhA==
+Importance: high
+X-Priority: 1
+Date: Fri, 29 Mar 2013 10:19:26 +0000
+Message-ID: <5512A2881986BE4ABEEAC11E1A839F7B188E04F7@MBX-02.mitake.com.tw>
+Accept-Language: zh-TW, en-US
+Content-Language: zh-TW
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.1.5.107]
+Content-Type: multipart/alternative;
+	boundary="_000_5512A2881986BE4ABEEAC11E1A839F7B188E04F7MBX02mitakecomt_"
+MIME-Version: 1.0
+
+--_000_5512A2881986BE4ABEEAC11E1A839F7B188E04F7MBX02mitakecomt_
+Content-Type: text/plain; charset="big5"
+Content-Transfer-Encoding: base64
+
+SGksIFNpcg0KvdCw3ajPpc62UaS9pXGquqFprdO46r1MwkmqQbDIxenF56jpoWqhQaZiQ2xpZW50
+ILrdsPWm5qe5UC1NYXJrZXIgpc6k4brdvUzCSbNuxemr4aFBrdO46qxPp1+3fLbHsGWm3Lr0wLqq
+ulAtTWFya2VyIENsb3VkIKRXoUENCqZwqkesT6FLs2+8y7ZRpL2lcbd8prOrT69kq8ik4brdrdO4
+6qq6sN3DRKFLDQoNCg0KsWnEo8RuIEFudG9ueSBDaGFuZw0KpFSmy7jqsFSq0aX3prOtraS9pXEN
+Ck1pdGFrZSBJbmZvcm1hdGlvbiBDb3Jwb3JhdGlvbg0KpmGnfaFHpXilX6WrpKSkc7DPt3OlzaVf
+uPSkR6xxMzm4uTExvNMNClRFTKFHKDAyKTI1NjMtOTk5OSCkwL73oUcxMzA2DQpGQVihRygwMiky
+NTY3LTE5NjgNCk1vYmlsZaFHMDk1Mi0wNjAxMDANCkUtbWFpbKFHYW50b255QG1pdGFrZS5jb20u
+dHc8bWFpbHRvOnN5bHZpYUBtaXRha2UuY29tLnR3Pg0KDQoNCqywwdenS6jPpc6qzLZ9sdKndKaz
+r2ascqnOxK/Czqq6tmyl86FBpbukvaVxtmyl86VEvvewd7nvtmyl86eosWGkp6r+wMmmV67mpqGs
+sLD1pubAyajTtmmm5rlMwm+hQb3QqM+lzqrMtn2x0rZspfOq/qVbwMmuyaX9puaxvaxyoUMNCg0K
+TWl0YWtlIEluZm9ybWF0aW9uIENvLiBMdGQuIHRvIHJldmlldyBhbmQgcmV0YWluIGFsbCBpbmNv
+bWluZyBhbmQgb3V0Z29pbmcgZW1haWwgY29udGVudCBhbmQgY29tcGxpYW5jZSBwdXJwb3Nlcy4g
+QWxsIHNlbnQgZnJvbSBNSVRBS0UgRS1tYWlsIChpbmNsdWRpbmcgYXR0YWNobWVudHMpIG1heSBj
+b250YWluIGNvbmZpZGVudGlhbCBvciBsZWdhbGx5IGNvbmZpZGVudGlhbCBpbmZvcm1hdGlvbiwg
+b25seSBzZW50IHRvIHRoZSBuYW1lZCBpbmRpdmlkdWFsIG9yIGJ1c2luZXNzIGUtbWFpbCBhZGRy
+ZXNzLiBOb3RpY2UgaXMgaGVyZWJ5IGdpdmVuOiBJZiB5b3UgYXJlIG5vdCB0aGUgaW50ZW5kZWQg
+cmVjaXBpZW50LCBkaXNjbG9zdXJlIGlzIHByb2hpYml0ZWQsIHNhdmUgb3IgY29weSwgZm9yd2Fy
+ZGVkIHRvIGFueSBjb250ZW50IG9mIHRoaXMgZS1tYWlsIGFuZCBkZWxldGUgdGhlIHJlY2VpdmVk
+IGUtbWFpbCBjb250ZW50IGFzIHNvb24gYXMgcG9zc2libGUuDQoNCk1pdGFrZSwgSW5jLiA8aHR0
+cDovL3d3dy5taXRha2UuY29tLnR3Pg0KDQo=
+
+--_000_5512A2881986BE4ABEEAC11E1A839F7B188E04F7MBX02mitakecomt_
+Content-Type: text/html; charset="big5"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dbig5">
+<style>
+<!--
+@font-face
+	{font-family:=B7s=B2=D3=A9=FA=C5=E9}
+@font-face
+	{font-family:"Cambria Math"}
+@font-face
+	{font-family:Cambria}
+@font-face
+	{font-family:Calibri}
+@font-face
+	{font-family:"\@=B7s=B2=D3=A9=FA=C5=E9"}
+@font-face
+	{font-family:=B7L=B3n=A5=BF=B6=C2=C5=E9}
+@font-face
+	{font-family:"\@=B7L=B3n=A5=BF=B6=C2=C5=E9"}
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri","sans-serif"}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline}
+span.EmailStyle17
+	{font-family:"Cambria","serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+.MsoChpDefault
+	{}
+@page WordSection1
+	{margin:72.0pt 90.0pt 72.0pt 90.0pt}
+div.WordSection1
+	{}
+-->
+</style>
+</head>
+<body lang=3D"ZH-TW" link=3D"blue" vlink=3D"purple" style=3D"">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Camb=
+ria&quot;,&quot;serif&quot;">Hi, Sir</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;">=BD=D0=B0=DD=A8=CF=A5=CE=B6Q=A4=BD=
+=A5q=AA=BA=A1i=AD=D3=B8=EA=BDL=C2I=AAA=B0=C8=C5=E9=C5=E7=A8=E9=A1j=A1A=A6b<=
+/span><span lang=3D"EN-US" style=3D"font-family:&quot;Cambria&quot;,&quot;s=
+erif&quot;">Client
+</span><span style=3D"font-family:&quot;=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&q=
+uot;sans-serif&quot;">=BA=DD=B0=F5=A6=E6=A7=B9</span><span lang=3D"EN" styl=
+e=3D"font-size:11.5pt; font-family:&quot;Cambria&quot;,&quot;serif&quot;">P=
+-Marker
+</span><span style=3D"font-size:11.5pt; font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;">=A5=CE=A4=E1=BA=DD=BDL=C2I=B3n=C5=
+=E9=AB=E1=A1A=AD=D3=B8=EA=ACO=A7_=B7|=B6=C7=B0e=A6=DC=BA=F4=C0=BA=AA=BA</sp=
+an><span lang=3D"EN" style=3D"font-size:11.5pt; font-family:&quot;Cambria&q=
+uot;,&quot;serif&quot;">P-Marker Cloud
+</span><span style=3D"font-size:11.5pt; font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;">=A4W=A1A</span><span lang=3D"EN" st=
+yle=3D"font-size:11.5pt; font-family:&quot;Cambria&quot;,&quot;serif&quot;"=
+></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.5pt; font-family:&quot;=
+=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;">=A6p=AAG=ACO<span =
+lang=3D"EN">=A1K</span>=B3o=BC=CB=B6Q=A4=BD=A5q=B7|=A6=B3=ABO=AFd=AB=C8=A4=
+=E1=BA=DD=AD=D3=B8=EA=AA=BA=B0=DD=C3D<span lang=3D"EN">=A1K</span></span><s=
+pan lang=3D"EN" style=3D"font-size:11.5pt; font-family:&quot;Cambria&quot;,=
+&quot;serif&quot;"></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN" style=3D"font-size:11.5pt; font-fa=
+mily:&quot;Cambria&quot;,&quot;serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Camb=
+ria&quot;,&quot;serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><b><span style=3D"fon=
+t-size:11.0pt; font-family:&quot;=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;san=
+s-serif&quot;">=B1i=C4=A3=C4n</span></b><b><span lang=3D"EN-US" style=3D"fo=
+nt-size:11.0pt; font-family:&quot;Cambria&quot;,&quot;serif&quot;"> Antony =
+Chang
+</span></b><span lang=3D"EN-US"></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt; font-family:&quot;=
+=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=A4T=
+=A6=CB=B8=EA=B0T=AA=D1=A5=F7=A6=B3=AD=AD=A4=BD=A5q</span><span lang=3D"EN-U=
+S" style=3D"font-size:10.0pt; font-family:&quot;Cambria&quot;,&quot;serif&q=
+uot;; color:blue">
+<br>
+Mitake Information Corporation<br>
+</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=A6a=A7}=A1G=A5x=A5_=A5=
+=AB=A4=A4=A4s=B0=CF=B7s=A5=CD=A5_=B8=F4=A4G=ACq</span><span lang=3D"EN-US" =
+style=3D"font-size:10.0pt; font-family:&quot;Cambria&quot;,&quot;serif&quot=
+;; color:blue">39</span><span style=3D"font-size:10.0pt; font-family:&quot;=
+=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=B8=B9=
+</span><span lang=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Ca=
+mbria&quot;,&quot;serif&quot;; color:blue">11</span><span style=3D"font-siz=
+e:10.0pt; font-family:&quot;=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-ser=
+if&quot;; color:blue">=BC=D3</span><span lang=3D"EN-US" style=3D"font-size:=
+10.0pt; font-family:&quot;Cambria&quot;,&quot;serif&quot;; color:blue"><br>
+TEL</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7L=B3n=A5=BF=
+=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=A1G</span><span lan=
+g=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Cambria&quot;,&quo=
+t;serif&quot;; color:blue">(02)2563-9999
+</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=A4=C0=BE=F7=A1G</span>=
+<span lang=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Cambria&q=
+uot;,&quot;serif&quot;; color:blue">1306<br>
+FAX</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7L=B3n=A5=BF=
+=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=A1G</span><span lan=
+g=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Cambria&quot;,&quo=
+t;serif&quot;; color:blue">(02)2567-1968<br>
+Mobile</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7L=B3n=A5=
+=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=A1G</span><span =
+lang=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Cambria&quot;,&=
+quot;serif&quot;; color:blue">0952-060100<br>
+E-mail</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7L=B3n=A5=
+=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=A1G</span><u><sp=
+an lang=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Cambria&quot=
+;,&quot;serif&quot;; color:blue"><a href=3D"mailto:sylvia@mitake.com.tw"><s=
+pan style=3D"color:blue">antony@mitake.com.tw</span></a></span></u><span la=
+ng=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Cambria&quot;,&qu=
+ot;serif&quot;; color:blue">
+</span><span lang=3D"EN-US" style=3D"font-family:&quot;Cambria&quot;,&quot;=
+serif&quot;"></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p>
+</div>
+<div style=3D"background-color:#D5EAFF; border:1px dotted #003333; padding:=
+.8em">
+<p style=3D"font-size:10pt; line-height:10pt; font-family:'Cambria','times =
+roman',serif">
+=AC=B0=C1=D7=A7K=A8=CF=A5=CE=AA=CC=B6}=B1=D2=A7t=A6=B3=AFf=ACr=A9=CE=C4=AF=
+=C2=CE=AA=BA=B6l=A5=F3=A1A=A5=BB=A4=BD=A5q=B6l=A5=F3=A5D=BE=F7=B0w=B9=EF=B6=
+l=A5=F3=A7=A8=B1a=A4=A7=AA=FE=C0=C9=A6W=AE=E6=A6=A1=AC=B0=B0=F5=A6=E6=C0=C9=
+=A8=D3=B6i=A6=E6=B9L=C2o=A1A=BD=D0=A8=CF=A5=CE=AA=CC=B6}=B1=D2=B6l=A5=F3=AA=
+=FE=A5[=C0=C9=AE=C9=A5=FD=A6=E6=B1=BD=ACr=A1C </p>
+<p style=3D"font-size:10pt; line-height:10pt; font-family:'Cambria','times =
+roman',serif">
+Mitake Information Co. Ltd. to review and retain all incoming and outgoing =
+email content and compliance purposes. All sent from MITAKE E-mail (includi=
+ng attachments) may contain confidential or legally confidential informatio=
+n, only sent to the named individual
+ or business e-mail address. Notice is hereby given: If you are not the int=
+ended recipient, disclosure is prohibited, save or copy, forwarded to any c=
+ontent of this e-mail and delete the received e-mail content as soon as pos=
+sible.
+</p>
+<span style=3D"padding-top:10px; font-weight:bold; color:#CC0000; font-size=
+:10pt; font-family:'Calibri',Arial,sans-serif"><a href=3D"http://www.mitake=
+.com.tw">Mitake, Inc.
+</a></span><br>
+<br>
+</div>
+</body>
+</html>
+
+--_000_5512A2881986BE4ABEEAC11E1A839F7B188E04F7MBX02mitakecomt_--

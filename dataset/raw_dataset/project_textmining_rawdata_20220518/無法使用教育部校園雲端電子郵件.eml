@@ -1,0 +1,83 @@
+X-M2K-MATCHED-RULE: USER_FILTER
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 3.3.3.3
+	by ms3.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(19139:1:AUTH_NONE)
+	(envelope-from <prvs=1726B94600=tch602@tn.edu.tw>); Mon, 12 Oct 2015 11:39:33 +0800 (CST)
+Return-Path: <prvs=1726B94600=tch602@tn.edu.tw>
+X-M2KSPAM: YES/100
+Received: from 3.3.3.3
+	by asp6.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(56673:0:AUTH_RELAY)
+	(envelope-from <prvs=1726B94600=tch602@tn.edu.tw>); Mon, 12 Oct 2015 11:39:30 +0800 (CST)
+Return-Path: <prvs=1726B94600=tch602@tn.edu.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(31061:0:AUTH_RELAY)
+	(envelope-from <prvs=1726B94600=tch602@tn.edu.tw>); Mon, 12 Oct 2015 11:39:22 +0800 (CST)
+Return-Path: <prvs=1726B94600=tch602@tn.edu.tw>
+Received: By OpenMail Mailer;Mon, 12 Oct 2015 11:39:22 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(22347:0:AUTH_NONE)
+	(envelope-from <prvs=1726B94600=tch602@tn.edu.tw>); Mon, 12 Oct 2015 11:39:20 +0800 (CST)
+Return-Path: <prvs=1726B94600=tch602@tn.edu.tw>
+X-M2KSPAM: NO/0
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(16405:0:AUTH_NONE)
+	(envelope-from <prvs=1726B94600=tch602@tn.edu.tw>); Mon, 12 Oct 2015 11:39:19 +0800 (CST)
+Return-Path: <prvs=1726B94600=tch602@tn.edu.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)(FROMBW:2,PASS)(FROMBW:2,
+	PASS)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 172.16.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(24649:0:AUTH_RELAY)
+	(envelope-from <prvs=1726B94600=tch602@tn.edu.tw>); Mon, 12 Oct 2015 11:39:17 +0800 (CST)
+Return-Path: <prvs=1726B94600=tch602@tn.edu.tw>
+Received: By OpenMail Mailer;Mon, 12 Oct 2015 11:39:17 +0800 (CST)
+Received: from 172.16.0.96
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V7.00(30911:0:AUTH_RELAY)
+	(envelope-from <prvs=1726B94600=tch602@tn.edu.tw>); Mon, 12 Oct 2015 11:39:16 +0800 (CST)
+Return-Path: <prvs=1726B94600=tch602@tn.edu.tw>
+X-M2KPolicyIP: 172.16.0.96 (#NOT FOUND)
+X-MailGates: (RBL:2,PASS,0.000000e+00)(BATV:2,PASS,sender not empty)(fla
+	g:0,LAN:PASS)(IPF:2,PASS)(FROMBW:2,PASS)(FROMBW:2,PASS)(bayesian:SCORE-3
+	8,0.00,2)(commtouch:PASS,1,str=0001.0A15020A.561B2B63.02A1,ss=1,re=0.000
+	,fgs=0,2)(localsimi:PASS,2)(mail_charset:PASS,2)(compute_score:HAM,2,0)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 163.26.1.64
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(24644:0:AUTH_NONE)
+	(envelope-from <prvs=1726B94600=tch602@tn.edu.tw>); Mon, 12 Oct 2015 11:39:12 +0800 (CST)
+Return-Path: <prvs=1726B94600=tch602@tn.edu.tw>
+X-MailGates: (flag:1,DYNAMIC,RELAY,NOHOST,LAN:PASS)(FROMBW:2,PASS)(FROMB
+	W:2,PASS)(compute_score:DELIVER,40,3)
+Received: from 163.26.1.100
+	by mg2.tn.edu.tw with MailGates ESMTP Server V3.0(10935:0:AUTH_RELAY)
+	(envelope-from <tch602@tn.edu.tw>); Mon, 12 Oct 2015 11:33:29 +0800 (CST)
+Return-Path: <tch602@tn.edu.tw>
+Received: By OpenMail Mailer;Mon, 12 Oct 2015 11:39:09 +0800 (CST)
+From: "tch602" <tch602@tn.edu.tw>
+Reply-To: "tch602" <tch602@tn.edu.tw>
+Subject: =?big5?B?tUyqa6jPpc6x0Kh8s6Gu1bbptrO63blxpGy2bKXz?=
+Message-ID: <1444621149.17466.tch602@tn.edu.tw>
+To: "edu" <edu@openfind.com>
+Cc: "cloudmail" <cloudmail@mail.moe.gov.tw>
+Date: Mon, 12 Oct 2015 11:39:09 +0800 (CST)
+MIME-Version: 1.0
+Return-Path: tch602@tn.edu.tw
+Content-Type: text/plain; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+=A5=BB=A8=D3=A5i=A5H=A5=BF=B1`=A8=CF=A5=CE=B8=D3=A8t=B2=CE=A1A=A4=A3=B9L=B5=F9=
+=A5U=A4F=B1=D0=A8|=B6=B3=A1]http://cloud.edu.tw/=A1^=A4=A7=AB=E1=B4N=B5L=AAk=
+=A8=CF=A5=CE=A4F=A1C
+=B1=A1=A7=CE=ACO=A8=CF=A5=CEopenid=B5n=A4J=AB=E1=B5e=AD=B1=AA=C5=A5=D5=A1A=A4=
+j=AC=F9=A5=D83=A4=C0=C4=C1=AB=E1=A5X=B2{=A1uGateway=20Time-out=A1v=A1A=B7=D0=
+=BD=D0=A8=F3=A7U=B3B=B2z=A1A=B7P=C1=C2=A1I
+
+=A5x=ABn=A5=AB=A1@=B7s=A4=C6=B0=EA=A4p=A1@=BEG=B5=A4=AEx=20=A6=D1=AEv=20=B7q=
+=A4W

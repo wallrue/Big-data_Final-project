@@ -1,0 +1,876 @@
+X-M2K-MATCHED-RULE: SPAM_FILTER-InADB
+X-M2K-MATCHED-RESULT: Mail Header From In ADB/edu@openfind.com.tw
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 3.3.3.3
+	by ms1.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(2559:0:AUTH_NONE)
+	(envelope-from <prvs=1881CD99B2=edu@openfind.com.tw>); Mon, 10 Dec 2018 12:06:17 +0800 (CST)
+Return-Path: <prvs=1881CD99B2=edu@openfind.com.tw>
+X-M2K-MSG-ID: PHPR0E6DPREIM4TA
+X-M2K-DINF: v=1;em=2;eh=1c343546/6fICbl;ec=dd7e446c;m=5+nXzF7XyhzN1s+UjxdoDbEP
+   FSv0c149g+YALP9FYuqyjAPIux4O4upj9RzrGYhwMr2jXmBDaMYx7nWcPQU24Q53bSnn8nQwvrc+
+   XymkjPgkzm1yot4uTHSDNGGTOsTJQSWTUq1B5j733SOCHnNoEj/Txx/qR4IWSLvFq5VyEugYTCRH
+   OgO7VOF3WG9Vx8Xif+O/adYz6XuOmr1FuQ+EcGz+mdjKwZdVcuhLTBpYDxY=
+X-MailGates: (RBL:2,PASS,0.000000e+00)(SPF:2,PASS,pass)(BATV:2,PASS,send
+	er not empty)(DKIM:2,PASS,Success(0))(DMARC:2,PASS,Policy Success(15))(f
+	lag:2,DYNAMIC,RELAY:PASS)(IPF:2,PASS)(FROMBW:0,HAM,*@openfind.com.tw)(FR
+	OMBW:2,PASS)(FROMBW:2,PASS)(FROMBW:2,PASS)(FROMBW:2,PASS)(FROMBW:2,PASS)
+	(ipmatch:pattern.iptrust.system,,HAM,3.3.3.3,0)
+Received: from 220.130.127.157
+	by mxs.mailcloud.com.tw with MailAudit ESMTP Server V5.0(29536:0:AUTH_NONE)
+	(envelope-from <prvs=1881CD99B2=edu@openfind.com.tw>); Mon, 10 Dec 2018 12:06:11 +0800 (CST)
+Return-Path: <prvs=1881CD99B2=edu@openfind.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(1799:0:AUTH_RELAY)
+	(envelope-from <prvs=1881CD99B2=edu@openfind.com.tw>); Mon, 10 Dec 2018 12:04:50 +0800 (CST)
+Return-Path: <prvs=1881CD99B2=edu@openfind.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: By OpenMail Mailer;Mon, 10 Dec 2018 12:04:40 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(11016:0:AUTH_NONE)
+	(envelope-from <prvs=1881CD99B2=edu@openfind.com.tw>); Mon, 10 Dec 2018 12:04:31 +0800 (CST)
+Return-Path: <prvs=1881CD99B2=edu@openfind.com.tw>
+X-M2KSPAM: NO/0
+Received: from 10.0.1.7
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(37528:0:AUTH_NONE)
+	(envelope-from <prvs=1881CD99B2=edu@openfind.com.tw>); Mon, 10 Dec 2018 12:04:20 +0800 (CST)
+Return-Path: <prvs=1881CD99B2=edu@openfind.com.tw>
+X-M2KPolicyIP: 10.0.1.7 (#NOT FOUND)
+Received: from spamfilter2.mailcloud.com.tw (localhost [127.0.0.1])
+	by spamfilter2.mailcloud.com.tw (Postfix) with ESMTP id B6BE954002B
+	for <m2k_service@mail2000.com.tw>; Mon, 10 Dec 2018 12:04:20 +0800 (CST)
+Received: from l4.mailcloud.com.tw (mta.mailcloud.com.tw [10.0.0.3])
+	by spamfilter2.mailcloud.com.tw (Postfix) with ESMTP
+	for <m2k_service@mail2000.com.tw>; Mon, 10 Dec 2018 12:04:20 +0800 (CST)
+X-M2K-DINF: v=1;em=2;eh=1c343546/cBsYPA;ec=0c131dc5;m=5Y4wm+YZrJnkmITe8WmOQoE2
+   qUp1qyyiDJ92PDqCeU+bOSSgjQtaa4cPaKJ7ZQ7CbWZRIi976PIZ/Vtp2h/xmPM0B6hzyFjsj++O
+   q/e5+qa4HKk7REl2EJou1QZ3IsNc3StAO4IsNsR21m4nKd1DFYPFrFiW+FA67unbwiPO5PaUp57l
+   4D2Mtu9Cm/6aMuq06jUUTH9qlS7l/nRnV+1N45HHcm2HsNQhO5+zzIDOwLY=
+X-MailGates: (DK:2,PASS,no signature)(DKIM:2,PASS,Success(0))(flag:3,DYN
+	AMIC,RELAY,NOHOST:PASS)(IPF:0,HAM,3.3.3.3)(FROMBW:2,PASS)(FROMBW:2,PASS)
+	(ipmatch:pattern.iptrust.system,,HAM,3.3.3.3,0)
+Received: from 3.3.3.3
+	by mta.mailcloud.com.tw with MailAudit ESMTP Server V5.0(10424:1:AUTH_NONE)
+	(envelope-from <prvs=1881CD99B2=edu@openfind.com.tw>); Mon, 10 Dec 2018 12:04:20 +0800 (CST)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)(audit_rules:rules.audit_
+	out1311132448.system#,,,aDELIVER,R/m2k_service@mail2000.com.tw,4,ou)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=openfind.com.tw;
+	s=MailGates; t=1544414659;
+	bh=kHvYW/MLY6aATWSV5nQ3tIdliUDyLWrdo/Y+bDlI0AI=; l=39044;
+	h=From:Subject:Message-ID:To:Date:MIME-Version;
+	b=U3CnHa6RjTRBzQT4fxrtBDMWvJ0zeNHVgZXy1VQQh0F+g3KKX8GG5WmiPIKhXIJTG
+	 15NdwBUcyOFuQ2JvbL7Z67QKP5/ayVppe2/mgtpSvnbp6MVys5iQbv4rIsIZb0ud9R
+	 M3VyMMvtAC0QwqlCxNWrw8Vrf1f3VRyXD+/x7ICM=
+X-MGADT: rules.audit_out1311132448.system#,R/m2k_service@mail2000.com.tw
+Received: from 172.16.0.95
+	by mg2.office.openfind.com.tw with MailGates ESMTP Server V5.0(15464:0:AUTH_RELAY)
+	(envelope-from <edu@openfind.com.tw>); Mon, 10 Dec 2018 11:52:58 +0800 (CST)
+Received: By OpenMail Mailer;Mon, 10 Dec 2018 12:03:52 +0800 (CST)
+Received: By OpenMail Mailer;Mon, 10 Dec 2018 12:03:52 +0800 (CST)
+From: "=?utf-8?B?5pWZ6IKy6YOo5qCh5ZyS6Zuy56uv6Zu75a2Q6YO1?=
+	=?utf-8?B?5Lu2?=" <edu@openfind.com.tw>
+Reply-To: "=?utf-8?B?5pWZ6IKy6YOo5qCh5ZyS6Zuy56uv6Zu75a2Q6YO1?=
+	=?utf-8?B?5Lu2?=" <edu@openfind.com.tw>
+Subject: =?utf-8?B?UmU6IEZXOiAxMjIwMTgxMTI2MDAxLeW4s+iZnw==?=
+	=?utf-8?B?55m75YWl5ZWP6aGMLeeUqOe4o+W4guW4s+iZnw==?=
+	=?utf-8?B?55m75YWl5rKS5pyJ5ZWP6aGM77yM5L2G5piv?=
+	=?utf-8?B?54Sh5rOV5pS25L+h?=
+Message-ID: <1544414631.10167.edu@openfind.com.tw>
+In-Reply-To: <MWHPR22MB0669AE6C51F507086883C1ACB6D00@MWHPR22MB0669.namprd22.prod.outlook.com>
+References: <1211890421.108.1543212900078.JavaMail.root@CloudPortalWebAdmin2>
+	<008301d485f2$16fe9570$44fbc050$@mail.edu.tw>
+	<1543289969.1364.edu@openfind.com.tw>
+	<MWHPR22MB0669AE6C51F507086883C1ACB6D00@MWHPR22MB0669.namprd22.prod.outlook.com>
+To: "s s" <ronnd66@hotmail.com>
+Cc: "=?utf-8?B?5pWZ6IKy6YOo5qCh5ZyS6Zuy56uv6Zu75a2Q6YO1?=
+	=?utf-8?B?5Lu2?=" <edu@openfind.com>
+Date: Mon, 10 Dec 2018 12:03:51 +0800 (CST)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="---m.2(Ccl+vqMlwB9mUAJAR)FOSkx"
+X-DCC-Body-Count: 1
+X-DCC-Fuz1-Count: 1
+X-DCC-Fuz2-Count: 1
+X-DCC--Metrics: spamfilter2.mailcloud.com.tw 1325; Body=1 Fuz1=1 Fuz2=1
+
+-----m.2(Ccl+vqMlwB9mUAJAR)FOSkx
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+=E6=82=A8=E5=A5=BD=EF=BC=8C
+
+
+=E6=8A=B1=E6=AD=89=E8=AE=93=E6=82=A8=E4=B9=85=E7=AD=89=E4=BA=86=E3=80=82
+=20
+=E6=82=A8=E7=95=B6=E6=99=82=E7=99=BB=E5=85=A5=E5=A4=B1=E6=95=97=E7=9A=84=E7=8B=
+=80=E6=B3=81=E7=B6=93=E7=9B=B8=E9=97=9C=E5=96=AE=E4=BD=8D=E5=88=86=E6=9E=90=E5=
+=BE=8C=EF=BC=8C
+=E6=8E=A8=E6=B8=AC=E6=98=AF=E7=95=B6=E4=B8=8B=20OpenID=20Server=20=E5=8F=AF=E8=
+=83=BD=E6=9C=89=E7=95=B0=E5=B8=B8=EF=BC=8C
+=E7=84=A1=E6=B3=95=E9=A9=97=E8=AD=89=E9=83=B5=E4=BB=B6=E7=B3=BB=E7=B5=B1=E5=9B=
+=9E=E5=82=B3=E7=9A=84=E8=B3=87=E8=A8=8A=EF=BC=8C
+=E4=BD=86=E7=94=B1=E6=96=BC=E8=B3=87=E8=A8=8A=E4=B8=8D=E8=B6=B3=E7=84=A1=E6=B3=
+=95=E7=A2=BA=E8=AA=8D=E5=AF=A6=E9=9A=9B=E7=9A=84=E5=8E=9F=E5=9B=A0=EF=BC=8C
+=E7=9B=B8=E9=97=9C=E5=96=AE=E4=BD=8D=E5=B7=B2=E8=AA=BF=E6=95=B4=E7=B3=BB=E7=B5=
+=B1=E5=8F=83=E6=95=B8=E5=A2=9E=E5=8A=A0=20log=20=E7=9A=84=E8=A8=98=E9=8C=84=E8=
+=B3=87=E8=A8=8A=EF=BC=8C
+=E4=B9=9F=E8=AB=8B=E6=82=A8=E5=86=8D=E8=A7=80=E5=AF=9F=E7=9C=8B=E7=9C=8B=E6=98=
+=AF=E5=90=A6=E9=82=84=E6=9C=83=E7=99=BC=E7=94=9F=EF=BC=8C
+=E8=8B=A5=E7=99=BC=E7=94=9F=E5=90=8C=E6=A8=A3=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=B9=
+=9F=E8=AB=8B=E6=82=A8=E5=B0=87=E5=95=8F=E9=A1=8C=E7=95=AB=E9=9D=A2=E6=8F=90=E4=
+=BE=9B=E7=B5=A6=E6=88=91=E5=80=91=EF=BC=8C
+=E8=AC=9D=E8=AC=9D=E6=82=A8=E7=9A=84=E8=80=90=E5=BF=83=E9=85=8D=E5=90=88=E3=80=
+=82
+=20
+=E6=88=AA=E5=9C=96=E7=9A=84=E6=96=B9=E5=BC=8F=E5=A6=82=E4=B8=8B=EF=BC=9A
+=20
+1.=20=E5=88=B0=E8=A6=81=E9=8C=AF=E8=AA=A4=E8=A8=8A=E6=81=AF=E5=87=BA=E7=8F=BE=
+=E7=9A=84=E9=A0=81=E9=9D=A2
+2.=20=E6=8C=89=E9=8D=B5=E7=9B=A4=E7=9A=84=20Print=20Screen
+3.=20=E6=89=93=E9=96=8B=E5=B0=8F=E7=95=AB=E5=AE=B6
+4.=20=E9=81=B8=E6=93=87=E7=B7=A8=E8=BC=AF=20->=20=E8=B2=BC=E4=B8=8A
+5.=20=E5=84=B2=E5=AD=98=E6=AA=94=E6=A1=88=20(=E5=AD=98=E6=88=90=20jpg=20=E6=AA=
+=94)
+6.=20=E5=B0=87=E5=9C=96=E6=AA=94=E5=AF=84=E7=B5=A6=E6=88=91=E5=80=91
+
+
+
+=E8=8B=A5=E4=BB=A5=E4=B8=8A=E5=9B=9E=E8=A6=86=E7=84=A1=E6=B3=95=E8=A7=A3=E6=B1=
+=BA=E6=82=A8=E9=81=87=E5=88=B0=E7=9A=84=E5=95=8F=E9=A1=8C=EF=BC=8C
+=E6=88=96=E6=9C=89=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=
+=AF=E9=9B=BB=E5=AD=90=E9=83=B5=E4=BB=B6=E7=9A=84=E7=9B=B8=E9=97=9C=E7=96=91=E5=
+=95=8F=EF=BC=8C
+=E6=AD=A1=E8=BF=8E=E6=82=A8=E5=86=8D=E5=8F=8D=E6=87=89=E7=B5=A6=E6=88=91=E5=80=
+=91=E3=80=82
+
+
+=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E9=9B=BB=E5=AD=
+=90=E9=83=B5=E4=BB=B6=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83
+
+----------------------------------------------------------------------------=
+--
+=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E9=9B=BB=E5=AD=
+=90=E9=83=B5=E4=BB=B6=20powered=20by=20Openfind=20=E7=B6=B2=E6=93=8E=E8=B3=87=
+=E8=A8=8A
+
+=E4=BA=9E=E6=B4=B2=E5=B8=82=E5=A0=B4=E9=83=B5=E4=BB=B6=E5=AE=89=E5=85=A8=E9=A0=
+=98=E5=B0=8E=E5=93=81=E7=89=8C=20|=20=E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A=20=
+Openfind
+=E7=B6=B2=E6=93=8E=20Openfind=20=E4=BC=81=E6=A5=AD=E7=B6=B2=E7=AB=99=20http:=
+//www.openfind.com/
+=E7=B6=B2=E6=93=8E=20MailCloud=20=E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=
+=E5=8B=99=20http://www.mailcloud.com.tw/
+----------------------------------------------------------------------------=
+--
+
+-----Original=20message-----
+From:s=20s<ronnd66@hotmail.com>
+To:=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E9=9B=BB=E5=
+=AD=90=E9=83=B5=E4=BB=B6<edu@openfind.com.tw>
+Date:=20Tue,=2027=20Nov=202018=2013:52:08
+Subject:=20Re:=20FW:=201220181126001-=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E5=
+=95=8F=E9=A1=8C-=E7=94=A8=E7=B8=A3=E5=B8=82=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=
+=A5=E6=B2=92=E6=9C=89=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=BD=86=E6=98=AF=E7=84=A1=E6=
+=B3=95=E6=94=B6=E4=BF=A1
+
+=E4=BD=A0=E5=A5=BD=EF=BC=8C=E5=85=88=E7=94=A8=E6=88=91=E7=9A=84=E6=B8=AC=E8=A9=
+=A6=E5=A5=BD=E4=BA=86=EF=BC=8C=E6=88=91=E7=9A=84=E5=B8=B3=E8=99=9F=E6=98=AFr=
+onnd66si@mail.edu.tw=20=20
+=E7=94=A8=E7=B8=A3=E5=B8=82=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E6=98=AFOK=E7=
+=9A=84=EF=BC=8C=E8=A6=81=E6=94=B6=E4=BF=A1=E5=B0=B1=E6=9C=83=E6=94=B6=E5=88=B0=
+=E9=8C=AF=E8=AA=A4=E8=A8=8A=E6=81=AF
+
+=E5=A6=82=E6=9E=9C=E7=9B=B4=E6=8E=A5=E7=94=A8ronnd66si@mail.edu.tw=E7=99=BB=E5=
+=85=A5=20=E4=B9=9F=E6=9C=83=E5=87=BA=E7=8F=BE=E9=8C=AF=E8=AA=A4=E8=A8=8A=E6=81=
+=AF=20=20
+=E9=8C=AF=E8=AA=A4=E8=A8=8A=E6=81=AF=20=20=E5=A6=82=E9=99=84=E6=AA=94
+From:=20=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E9=9B=
+=BB=E5=AD=90=E9=83=B5=E4=BB=B6=20<edu@openfind.com.tw>
+Sent:=20Tuesday,=20November=2027,=202018=2011:39=20AM
+To:=20ronnd66
+Cc:=20oidcservice;=20=E6=95=99=E8=82=B2=E9=83=A8=E8=B3=87=E7=A7=91=E5=8F=B8-=
+=E9=99=B3=E5=86=A0=E5=AE=87
+Subject:=20Re:=20FW:=201220181126001-=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E5=
+=95=8F=E9=A1=8C-=E7=94=A8=E7=B8=A3=E5=B8=82=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=
+=A5=E6=B2=92=E6=9C=89=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=BD=86=E6=98=AF=E7=84=A1=E6=
+=B3=95=E6=94=B6=E4=BF=A1=20
+=20
+
+=E6=96=BD=E8=80=81=E5=B8=AB=20=E6=82=A8=E5=A5=BD=EF=BC=8C
+
+=E9=97=9C=E6=96=BC=E6=82=A8=E6=8F=90=E5=88=B0=E7=84=A1=E6=B3=95=E6=94=B6=E4=BF=
+=A1=E7=9A=84=E5=95=8F=E9=A1=8C=EF=BC=8C=20
+=E8=AB=8B=E5=95=8F=E7=84=A1=E6=B3=95=E6=94=B6=E4=BF=A1=E7=9A=84=E5=AD=B8=E7=94=
+=9F=E7=9A=84=E5=B8=B3=E8=99=9F=E6=98=AF=E4=BB=80=E9=BA=BC=E5=91=A2=EF=BC=9F
+=E8=83=BD=E5=90=A6=E8=AB=8B=E6=82=A8=E5=B0=87=E5=90=8C=E5=AD=B8=E7=9A=84=E4=BF=
+=A1=E7=AE=B1=E5=B8=B3=E8=99=9F=E7=B5=A6=E6=88=91=E5=80=91=EF=BC=8C
+=E4=BB=A5=E4=BE=BF=E5=B7=A5=E7=A8=8B=E4=BA=BA=E5=93=A1=E5=84=98=E9=80=9F=E7=A2=
+=BA=E8=AA=8D=E5=95=8F=E9=A1=8C=E5=8E=9F=E5=9B=A0=E3=80=82
+
+
+
+=E8=8B=A5=E4=BB=A5=E4=B8=8A=E5=9B=9E=E8=A6=86=E7=84=A1=E6=B3=95=E8=A7=A3=E6=B1=
+=BA=E6=82=A8=E9=81=87=E5=88=B0=E7=9A=84=E5=95=8F=E9=A1=8C=EF=BC=8C
+=E6=88=96=E6=9C=89=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=
+=AF=E9=9B=BB=E5=AD=90=E9=83=B5=E4=BB=B6=E7=9A=84=E7=9B=B8=E9=97=9C=E7=96=91=E5=
+=95=8F=EF=BC=8C
+=E6=AD=A1=E8=BF=8E=E6=82=A8=E5=86=8D=E5=8F=8D=E6=87=89=E7=B5=A6=E6=88=91=E5=80=
+=91=E3=80=82
+
+
+=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E9=9B=BB=E5=AD=
+=90=E9=83=B5=E4=BB=B6=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83
+
+----------------------------------------------------------------------------=
+--
+=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E9=9B=BB=E5=AD=
+=90=E9=83=B5=E4=BB=B6=20powered=20by=20Openfind=20=E7=B6=B2=E6=93=8E=E8=B3=87=
+=E8=A8=8A
+
+=E4=BA=9E=E6=B4=B2=E5=B8=82=E5=A0=B4=E9=83=B5=E4=BB=B6=E5=AE=89=E5=85=A8=E9=A0=
+=98=E5=B0=8E=E5=93=81=E7=89=8C=20|=20=E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A=20=
+Openfind
+=E7=B6=B2=E6=93=8E=20Openfind=20=E4=BC=81=E6=A5=AD=E7=B6=B2=E7=AB=99=20http:=
+//www.openfind.com/
+=E7=B6=B2=E6=93=8E=20MailCloud=20=E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=
+=E5=8B=99=20http://www.mailcloud.com.tw/
+----------------------------------------------------------------------------=
+--
+
+-----Original=20message-----
+From:oidcservice<oidcservice@mail.edu.tw>
+To:'=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E9=9B=BB=
+=E5=AD=90=E9=83=B5=E4=BB=B6'<edu@openfind.com.tw>,keyboard<keyboard@mail.moe=
+.gov.tw>
+Date:=20Tue,=2027=20Nov=202018=2009:39:51
+Subject:=20FW:=201220181126001-=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E5=95=8F=
+=E9=A1=8C-=E7=94=A8=E7=B8=A3=E5=B8=82=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E6=
+=B2=92=E6=9C=89=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=BD=86=E6=98=AF=E7=84=A1=E6=B3=95=
+=E6=94=B6=E4=BF=A1
+
+=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E5=AE=A2=E6=9C=8D=E6=82=A8=E5=A5=BD:=20=
+
+=20
+=E4=BD=BF=E7=94=A8=E8=80=85=E4=BE=86=E4=BF=A1=E8=A1=A8=E7=A4=BA=E6=96=BC=E6=A0=
+=A1=E5=9C=92=E9=9B=BB=E9=83=B5=E7=99=BB=E5=85=A5=E5=BE=8C=E5=87=BA=E7=8F=BE=E9=
+=8C=AF=E8=AA=A4=E8=A8=8A=E6=81=AF
+=E8=AB=8B=E5=8D=94=E5=8A=A9=E6=AA=A2=E6=9F=A5=E7=8B=80=E6=B3=81
+=E9=BA=BB=E7=85=A9=E6=82=A8!
+=20
+=E6=95=99=E8=82=B2=E9=9B=B2=E7=AB=AF=E5=B8=B3=E8=99=9F=E7=B6=AD=E9=81=8B=E5=B0=
+=8F=E7=B5=84=20=20=E6=95=AC=E4=B8=8A
+=20
+From:=20=E7=AE=A1=E7=90=86=E5=B9=B3=E5=8F=B0=20[mailto:educloud@mail.moe.gov=
+.tw]=20
+Sent:=20Monday,=20November=2026,=202018=202:15=20PM
+To:=20educloudteam106@gmail.com;=20cindy@whatsmedia.com;=20oidcservice@mail.=
+edu.tw;=20yaitinghsu@mail.moe.gov.tw
+Subject:=201220181126001-=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E5=95=8F=E9=A1=
+=8C-=E7=94=A8=E7=B8=A3=E5=B8=82=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E6=B2=92=
+=E6=9C=89=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=BD=86=E6=98=AF=E7=84=A1=E6=B3=95=E6=94=
+=B6=E4=BF=A1
+=20
+
+
+=E6=95=99=E8=82=B2=E9=9B=B2=E5=85=A5=E5=8F=A3=E7=B6=B2
+
+
+=E8=99=95=E7=90=86=E7=8B=80=E6=85=8B=EF=BC=9A=20[0=E3=80=81=E6=96=B0=E7=94=B3=
+=E8=AB=8B]=E3=80=80=E3=80=80=20=E5=A6=82=E6=9E=9C=E6=82=A8=E9=9C=80=E8=A6=81=
+=E4=BF=AE=E6=94=B9=E6=A1=88=E4=BB=B6=E7=8B=80=E6=85=8B=E6=88=96=E8=A3=9C=E5=85=
+=85=E5=85=A7=E5=AE=B9=EF=BC=8C=E8=AB=8B=E6=8C=89=E6=AD=A4=20
+=E7=B7=A8=E8=99=9F=20
+1220181126001
+=E7=94=B3=E8=AB=8B=E6=97=A5=E6=9C=9F
+2018/11/26=2014:12
+
+=E5=A7=94=E8=A8=97=E5=96=AE=E4=BD=8D
+=E5=85=A5=E5=8F=A3=E7=B6=B2=E6=9C=83=E5=93=A1
+=E7=94=B3=E8=AB=8B=E4=BA=BA
+=E6=96=BD=E6=B7=91=E5=AA=9B
+
+=E5=B0=88=E6=A1=88=E5=90=8D=E7=A8=B1
+=E6=95=99=E8=82=B2=E9=9B=B2=E7=AB=AF=E5=B8=B3=E8=99=9F
+=E5=95=8F=E9=A1=8C=E7=A8=AE=E9=A1=9E
+=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E5=95=8F=E9=A1=8C
+
+=E5=95=8F=E9=A1=8C=E4=B8=BB=E8=BF=B0
+=E7=94=A8=E7=B8=A3=E5=B8=82=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E6=B2=92=E6=9C=
+=89=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=BD=86=E6=98=AF=E7=84=A1=E6=B3=95=E6=94=B6=E4=
+=BF=A1
+
+=E7=8B=80=E6=B3=81=E7=99=BC=E7=94=9F=E6=99=82=E9=96=93
+2018/11/26=2014:14
+=E6=9C=9F=E6=9C=9B=E5=AE=8C=E6=88=90=E6=97=A5=E6=9C=9F
+2018/12/10=2014:14
+
+=E5=95=8F=E9=A1=8C=E5=85=A7=E5=AE=B9
+=E5=AD=B8=E7=94=9F=E7=94=A8=E7=B8=A3=E5=B8=82=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=
+=A5=E4=BF=A1=E7=AE=B1=E6=B2=92=E6=9C=89=E5=95=8F=E9=A1=8C=E3=80=82=E6=94=B6=E4=
+=BF=A1=E6=99=82=E6=9C=83=E5=87=BA=E7=8F=BE=E9=8C=AF=E8=AA=A4=E8=A8=8A=E6=81=AF=
+=EF=BC=8C=E5=A6=82=E5=9C=96
+
+=E5=9B=9E=E5=A0=B1=E4=BA=BA=E4=BF=A1=E7=AE=B1=EF=BC=9Aronnd66@hotmail.com
+=E5=9B=9E=E5=A0=B1=E4=BA=BA=E8=81=AF=E7=B5=A1=E9=9B=BB=E8=A9=B1=EF=BC=9A0920=
+539540
+=E9=81=A0=E7=AB=AF=E8=AA=8D=E8=AD=89=E5=A4=B1=E6=95=97_201811261412.png
+
+=C2=A9=202016=20-=20=E6=95=99=E8=82=B2=E9=9B=B2=E5=85=A5=E5=8F=A3=E7=B6=B2.=20=
+All=20Rights=20Reserved=20
+
+-----m.2(Ccl+vqMlwB9mUAJAR)FOSkx
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE=20html><html><head><meta=20http-equiv=3D"X-UA-Compatible"=20conten=
+t=3D"IE=3Dedge"=20/><style=20data-m2k-style=3D"">html,body{height:100%;}body=
+{box-sizing:border-box;padding:8px;margin:0;}</style></head><body><br>=E6=82=
+=A8=E5=A5=BD=EF=BC=8C<br><br>
+<div>=E6=8A=B1=E6=AD=89=E8=AE=93=E6=82=A8=E4=B9=85=E7=AD=89=E4=BA=86=E3=80=82=
+</div>
+<div>&nbsp;</div>
+<div>=E6=82=A8=E7=95=B6=E6=99=82=E7=99=BB=E5=85=A5=E5=A4=B1=E6=95=97=E7=9A=84=
+=E7=8B=80=E6=B3=81=E7=B6=93=E7=9B=B8=E9=97=9C=E5=96=AE=E4=BD=8D=E5=88=86=E6=9E=
+=90=E5=BE=8C=EF=BC=8C</div>
+<div>=E6=8E=A8=E6=B8=AC=E6=98=AF=E7=95=B6=E4=B8=8B=20OpenID=20Server=20=E5=8F=
+=AF=E8=83=BD=E6=9C=89=E7=95=B0=E5=B8=B8=EF=BC=8C</div>
+<div>=E7=84=A1=E6=B3=95=E9=A9=97=E8=AD=89=E9=83=B5=E4=BB=B6=E7=B3=BB=E7=B5=B1=
+=E5=9B=9E=E5=82=B3=E7=9A=84=E8=B3=87=E8=A8=8A=EF=BC=8C</div>
+<div>=E4=BD=86=E7=94=B1=E6=96=BC=E8=B3=87=E8=A8=8A=E4=B8=8D=E8=B6=B3=E7=84=A1=
+=E6=B3=95=E7=A2=BA=E8=AA=8D=E5=AF=A6=E9=9A=9B=E7=9A=84=E5=8E=9F=E5=9B=A0=EF=BC=
+=8C</div>
+<div>=E7=9B=B8=E9=97=9C=E5=96=AE=E4=BD=8D=E5=B7=B2=E8=AA=BF=E6=95=B4=E7=B3=BB=
+=E7=B5=B1=E5=8F=83=E6=95=B8=E5=A2=9E=E5=8A=A0=20log=20=E7=9A=84=E8=A8=98=E9=8C=
+=84=E8=B3=87=E8=A8=8A=EF=BC=8C</div>
+<div>=E4=B9=9F=E8=AB=8B=E6=82=A8=E5=86=8D=E8=A7=80=E5=AF=9F=E7=9C=8B=E7=9C=8B=
+=E6=98=AF=E5=90=A6=E9=82=84=E6=9C=83=E7=99=BC=E7=94=9F=EF=BC=8C</div>
+<div>=E8=8B=A5=E7=99=BC=E7=94=9F=E5=90=8C=E6=A8=A3=E5=95=8F=E9=A1=8C=EF=BC=8C=
+=E4=B9=9F=E8=AB=8B=E6=82=A8=E5=B0=87=E5=95=8F=E9=A1=8C=E7=95=AB=E9=9D=A2=E6=8F=
+=90=E4=BE=9B=E7=B5=A6=E6=88=91=E5=80=91=EF=BC=8C</div>
+<div>=E8=AC=9D=E8=AC=9D=E6=82=A8=E7=9A=84=E8=80=90=E5=BF=83=E9=85=8D=E5=90=88=
+=E3=80=82</div>
+<div>&nbsp;</div>
+<div>=E6=88=AA=E5=9C=96=E7=9A=84=E6=96=B9=E5=BC=8F=E5=A6=82=E4=B8=8B=EF=BC=9A=
+</div>
+<div>&nbsp;</div>
+<div>1.=20=E5=88=B0=E8=A6=81=E9=8C=AF=E8=AA=A4=E8=A8=8A=E6=81=AF=E5=87=BA=E7=
+=8F=BE=E7=9A=84=E9=A0=81=E9=9D=A2</div>
+<div>2.=20=E6=8C=89=E9=8D=B5=E7=9B=A4=E7=9A=84=20Print=20Screen</div>
+<div>3.=20=E6=89=93=E9=96=8B=E5=B0=8F=E7=95=AB=E5=AE=B6</div>
+<div>4.=20=E9=81=B8=E6=93=87=E7=B7=A8=E8=BC=AF=20-&gt;=20=E8=B2=BC=E4=B8=8A<=
+/div>
+<div>5.=20=E5=84=B2=E5=AD=98=E6=AA=94=E6=A1=88=20(=E5=AD=98=E6=88=90=20jpg=20=
+=E6=AA=94)</div>
+<div>6.=20=E5=B0=87=E5=9C=96=E6=AA=94=E5=AF=84=E7=B5=A6=E6=88=91=E5=80=91</d=
+iv>
+<br>
+<br>
+<br>
+=E8=8B=A5=E4=BB=A5=E4=B8=8A=E5=9B=9E=E8=A6=86=E7=84=A1=E6=B3=95=E8=A7=A3=E6=B1=
+=BA=E6=82=A8=E9=81=87=E5=88=B0=E7=9A=84=E5=95=8F=E9=A1=8C=EF=BC=8C<br>
+=E6=88=96=E6=9C=89=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=
+=AF=E9=9B=BB=E5=AD=90=E9=83=B5=E4=BB=B6=E7=9A=84=E7=9B=B8=E9=97=9C=E7=96=91=E5=
+=95=8F=EF=BC=8C<br>
+=E6=AD=A1=E8=BF=8E=E6=82=A8=E5=86=8D=E5=8F=8D=E6=87=89=E7=B5=A6=E6=88=91=E5=80=
+=91=E3=80=82<br>
+<br>
+<br>
+=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E9=9B=BB=E5=AD=
+=90=E9=83=B5=E4=BB=B6=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83<br>
+<br>
+----------------------------------------------------------------------------=
+--<br>
+=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E9=9B=BB=E5=AD=
+=90=E9=83=B5=E4=BB=B6=20powered=20by=20Openfind=20=E7=B6=B2=E6=93=8E=E8=B3=87=
+=E8=A8=8A<br>
+<br>
+=E4=BA=9E=E6=B4=B2=E5=B8=82=E5=A0=B4=E9=83=B5=E4=BB=B6=E5=AE=89=E5=85=A8=E9=A0=
+=98=E5=B0=8E=E5=93=81=E7=89=8C=20|=20=E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A=20=
+Openfind<br>
+=E7=B6=B2=E6=93=8E=20Openfind=20=E4=BC=81=E6=A5=AD=E7=B6=B2=E7=AB=99=20<a=20=
+href=3D"http://www.openfind.com/"=20target=3D"new_win">http://www.openfind.c=
+om/</a><br>
+=E7=B6=B2=E6=93=8E=20MailCloud=20=E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=
+=E5=8B=99=20<a=20href=3D"http://www.mailcloud.com.tw/"=20target=3D"new_win">=
+http://www.mailcloud.com.tw/</a><br>
+----------------------------------------------------------------------------=
+--<br>
+<br>
+-----Original=20message-----<br>
+
+
+
+
+
+<b>From:</b>s=20s&lt;ronnd66@hotmail.com&gt;<br>
+<b>To:</b>=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E9=
+=9B=BB=E5=AD=90=E9=83=B5=E4=BB=B6&lt;edu@openfind.com.tw&gt;<br>
+<b>Date:=20</b>=20Tue,=2027=20Nov=202018=2013:52:08<br>
+<b>Subject:</b>=20Re:=20FW:=201220181126001-=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=
+=A5=E5=95=8F=E9=A1=8C-=E7=94=A8=E7=B8=A3=E5=B8=82=E5=B8=B3=E8=99=9F=E7=99=BB=
+=E5=85=A5=E6=B2=92=E6=9C=89=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=BD=86=E6=98=AF=E7=84=
+=A1=E6=B3=95=E6=94=B6=E4=BF=A1<br>
+
+
+<meta=20http-equiv=3D"Content-Type"=20content=3D"text/html;=20charset=3Dutf-=
+8">
+<style=20type=3D"text/css"=20style=3D"display:none;">=20P=20{margin-top:0;ma=
+rgin-bottom:0;}=20</style>
+
+
+<div=20style=3D"font-family:Calibri,Helvetica,sans-serif;=20font-size:12pt;=20=
+color:rgb(0,0,0)">
+=E4=BD=A0=E5=A5=BD=EF=BC=8C=E5=85=88=E7=94=A8=E6=88=91=E7=9A=84=E6=B8=AC=E8=A9=
+=A6=E5=A5=BD=E4=BA=86=EF=BC=8C=E6=88=91=E7=9A=84=E5=B8=B3=E8=99=9F=E6=98=AFr=
+onnd66si@mail.edu.tw&nbsp;&nbsp;</div>
+<div=20style=3D"font-family:Calibri,Helvetica,sans-serif;=20font-size:12pt;=20=
+color:rgb(0,0,0)">
+=E7=94=A8=E7=B8=A3=E5=B8=82=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E6=98=AFOK=E7=
+=9A=84=EF=BC=8C=E8=A6=81=E6=94=B6=E4=BF=A1=E5=B0=B1=E6=9C=83=E6=94=B6=E5=88=B0=
+=E9=8C=AF=E8=AA=A4=E8=A8=8A=E6=81=AF</div>
+<div=20style=3D"font-family:Calibri,Helvetica,sans-serif;=20font-size:12pt;=20=
+color:rgb(0,0,0)">
+<br>
+</div>
+<div=20style=3D"font-family:Calibri,Helvetica,sans-serif;=20font-size:12pt;=20=
+color:rgb(0,0,0)">
+=E5=A6=82=E6=9E=9C=E7=9B=B4=E6=8E=A5=E7=94=A8ronnd66si@mail.edu.tw=E7=99=BB=E5=
+=85=A5=20=E4=B9=9F=E6=9C=83=E5=87=BA=E7=8F=BE=E9=8C=AF=E8=AA=A4=E8=A8=8A=E6=81=
+=AF&nbsp;&nbsp;</div>
+<div=20style=3D"font-family:Calibri,Helvetica,sans-serif;=20font-size:12pt;=20=
+color:rgb(0,0,0)">
+=E9=8C=AF=E8=AA=A4=E8=A8=8A=E6=81=AF&nbsp;=20=E5=A6=82=E9=99=84=E6=AA=94</di=
+v>
+<div=20style=3D"font-family:Calibri,Helvetica,sans-serif;=20font-size:12pt;=20=
+color:rgb(0,0,0)">
+</div>
+<hr=20tabindex=3D"-1"=20style=3D"display:inline-block;=20width:98%">
+<div=20id=3D"divRplyFwdMsg"=20dir=3D"ltr"><font=20face=3D"Calibri,=20sans-se=
+rif"=20color=3D"#000000"=20style=3D"font-size:11pt"><b>From:</b>=20=E6=95=99=
+=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E9=9B=BB=E5=AD=90=E9=83=
+=B5=E4=BB=B6=20&lt;edu@openfind.com.tw&gt;<br>
+<b>Sent:</b>=20Tuesday,=20November=2027,=202018=2011:39=20AM<br>
+<b>To:</b>=20ronnd66<br>
+<b>Cc:</b>=20oidcservice;=20=E6=95=99=E8=82=B2=E9=83=A8=E8=B3=87=E7=A7=91=E5=
+=8F=B8-=E9=99=B3=E5=86=A0=E5=AE=87<br>
+<b>Subject:</b>=20Re:=20FW:=201220181126001-=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=
+=A5=E5=95=8F=E9=A1=8C-=E7=94=A8=E7=B8=A3=E5=B8=82=E5=B8=B3=E8=99=9F=E7=99=BB=
+=E5=85=A5=E6=B2=92=E6=9C=89=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=BD=86=E6=98=AF=E7=84=
+=A1=E6=B3=95=E6=94=B6=E4=BF=A1</font>
+<div>&nbsp;</div>
+</div>
+<div><br>
+=E6=96=BD=E8=80=81=E5=B8=AB=20=E6=82=A8=E5=A5=BD=EF=BC=8C<br>
+<br>
+=E9=97=9C=E6=96=BC=E6=82=A8=E6=8F=90=E5=88=B0=E7=84=A1=E6=B3=95=E6=94=B6=E4=BF=
+=A1=E7=9A=84=E5=95=8F=E9=A1=8C=EF=BC=8C
+<div>=E8=AB=8B=E5=95=8F=E7=84=A1=E6=B3=95=E6=94=B6=E4=BF=A1=E7=9A=84=E5=AD=B8=
+=E7=94=9F=E7=9A=84=E5=B8=B3=E8=99=9F=E6=98=AF=E4=BB=80=E9=BA=BC=E5=91=A2=EF=BC=
+=9F</div>
+<div>=E8=83=BD=E5=90=A6=E8=AB=8B=E6=82=A8=E5=B0=87=E5=90=8C=E5=AD=B8=E7=9A=84=
+=E4=BF=A1=E7=AE=B1=E5=B8=B3=E8=99=9F=E7=B5=A6=E6=88=91=E5=80=91=EF=BC=8C</di=
+v>
+<div>=E4=BB=A5=E4=BE=BF=E5=B7=A5=E7=A8=8B=E4=BA=BA=E5=93=A1=E5=84=98=E9=80=9F=
+=E7=A2=BA=E8=AA=8D=E5=95=8F=E9=A1=8C=E5=8E=9F=E5=9B=A0=E3=80=82<br>
+<br>
+<br>
+<br>
+=E8=8B=A5=E4=BB=A5=E4=B8=8A=E5=9B=9E=E8=A6=86=E7=84=A1=E6=B3=95=E8=A7=A3=E6=B1=
+=BA=E6=82=A8=E9=81=87=E5=88=B0=E7=9A=84=E5=95=8F=E9=A1=8C=EF=BC=8C<br>
+=E6=88=96=E6=9C=89=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=
+=AF=E9=9B=BB=E5=AD=90=E9=83=B5=E4=BB=B6=E7=9A=84=E7=9B=B8=E9=97=9C=E7=96=91=E5=
+=95=8F=EF=BC=8C<br>
+=E6=AD=A1=E8=BF=8E=E6=82=A8=E5=86=8D=E5=8F=8D=E6=87=89=E7=B5=A6=E6=88=91=E5=80=
+=91=E3=80=82<br>
+<br>
+<br>
+=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E9=9B=BB=E5=AD=
+=90=E9=83=B5=E4=BB=B6=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83<br>
+<br>
+----------------------------------------------------------------------------=
+--<br>
+=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E9=9B=BB=E5=AD=
+=90=E9=83=B5=E4=BB=B6=20powered=20by=20Openfind=20=E7=B6=B2=E6=93=8E=E8=B3=87=
+=E8=A8=8A<br>
+<br>
+=E4=BA=9E=E6=B4=B2=E5=B8=82=E5=A0=B4=E9=83=B5=E4=BB=B6=E5=AE=89=E5=85=A8=E9=A0=
+=98=E5=B0=8E=E5=93=81=E7=89=8C=20|=20=E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A=20=
+Openfind<br>
+=E7=B6=B2=E6=93=8E=20Openfind=20=E4=BC=81=E6=A5=AD=E7=B6=B2=E7=AB=99=20<a=20=
+href=3D"http://www.openfind.com/"=20target=3D"new_win">http://www.openfind.c=
+om/</a><br>
+=E7=B6=B2=E6=93=8E=20MailCloud=20=E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=
+=E5=8B=99=20<a=20href=3D"http://www.mailcloud.com.tw/"=20target=3D"new_win">=
+http://www.mailcloud.com.tw/</a><br>
+----------------------------------------------------------------------------=
+--<br>
+<br>
+-----Original=20message-----<br>
+<b>From:</b>oidcservice&lt;oidcservice@mail.edu.tw&gt;<br>
+<b>To:</b>'=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E9=
+=9B=BB=E5=AD=90=E9=83=B5=E4=BB=B6'&lt;edu@openfind.com.tw&gt;,keyboard&lt;ke=
+yboard@mail.moe.gov.tw&gt;<br>
+<b>Date:=20</b>Tue,=2027=20Nov=202018=2009:39:51<br>
+<b>Subject:</b>=20FW:=201220181126001-=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E5=
+=95=8F=E9=A1=8C-=E7=94=A8=E7=B8=A3=E5=B8=82=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=
+=A5=E6=B2=92=E6=9C=89=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=BD=86=E6=98=AF=E7=84=A1=E6=
+=B3=95=E6=94=B6=E4=BF=A1<br>
+<meta=20name=3D"Generator"=20content=3D"Microsoft=20Word=2015=20(filtered=20=
+medium)">
+<div=20class=3D"x_WordSection1">
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;">
+<span=20style=3D"color:#1F497D">=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E5=AE=A2=
+=E6=9C=8D=E6=82=A8=E5=A5=BD</span><span=20lang=3D"EN-US"=20style=3D"font-fam=
+ily:&quot;Calibri&quot;,sans-serif;=20color:#1F497D">:
+</span></p>
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;">
+<span=20lang=3D"EN-US"=20style=3D"font-family:&quot;Calibri&quot;,sans-serif=
+;=20color:#1F497D">&nbsp;</span></p>
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;">
+<span=20style=3D"color:#1F497D">=E4=BD=BF=E7=94=A8=E8=80=85=E4=BE=86=E4=BF=A1=
+=E8=A1=A8=E7=A4=BA=E6=96=BC=E6=A0=A1=E5=9C=92=E9=9B=BB=E9=83=B5=E7=99=BB=E5=85=
+=A5=E5=BE=8C=E5=87=BA=E7=8F=BE=E9=8C=AF=E8=AA=A4=E8=A8=8A=E6=81=AF</span><sp=
+an=20lang=3D"EN-US"=20style=3D"font-family:&quot;Calibri&quot;,sans-serif;=20=
+color:#1F497D"></span></p>
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;">
+<span=20style=3D"color:#1F497D">=E8=AB=8B=E5=8D=94=E5=8A=A9=E6=AA=A2=E6=9F=A5=
+=E7=8B=80=E6=B3=81</span><span=20lang=3D"EN-US"=20style=3D"font-family:&quot=
+;Calibri&quot;,sans-serif;=20color:#1F497D"></span></p>
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;">
+<span=20style=3D"color:#1F497D">=E9=BA=BB=E7=85=A9=E6=82=A8</span><span=20la=
+ng=3D"EN-US"=20style=3D"font-family:&quot;Calibri&quot;,sans-serif;=20color:=
+#1F497D">!</span></p>
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;">
+<span=20lang=3D"EN-US"=20style=3D"font-family:&quot;Calibri&quot;,sans-serif=
+;=20color:#1F497D">&nbsp;</span></p>
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;">
+<span=20style=3D"color:#1F497D">=E6=95=99=E8=82=B2=E9=9B=B2=E7=AB=AF=E5=B8=B3=
+=E8=99=9F=E7=B6=AD=E9=81=8B=E5=B0=8F=E7=B5=84</span><span=20lang=3D"EN-US"=20=
+style=3D"font-family:&quot;Calibri&quot;,sans-serif;=20color:#1F497D">&nbsp;=
+
+</span><span=20style=3D"color:#1F497D">=E6=95=AC=E4=B8=8A</span><span=20lang=
+=3D"EN-US"=20style=3D"font-family:&quot;Calibri&quot;,sans-serif;=20color:#1=
+F497D"></span></p>
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;">
+<span=20lang=3D"EN-US"=20style=3D"font-family:&quot;Calibri&quot;,sans-serif=
+;=20color:#1F497D">&nbsp;</span></p>
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;">
+<b><span=20lang=3D"EN-US"=20style=3D"font-size:11.0pt;=20font-family:&quot;C=
+alibri&quot;,sans-serif">From:</span></b><span=20lang=3D"EN-US"=20style=3D"f=
+ont-size:11.0pt;=20font-family:&quot;Calibri&quot;,sans-serif">
+</span><span=20style=3D"font-size:11.0pt">=E7=AE=A1=E7=90=86=E5=B9=B3=E5=8F=B0=
+</span><span=20lang=3D"EN-US"=20style=3D"font-size:11.0pt;=20font-family:&qu=
+ot;Calibri&quot;,sans-serif">=20[mailto:educloud@mail.moe.gov.tw]
+<br>
+<b>Sent:</b>=20Monday,=20November=2026,=202018=202:15=20PM<br>
+<b>To:</b>=20educloudteam106@gmail.com;=20cindy@whatsmedia.com;=20oidcservic=
+e@mail.edu.tw;=20yaitinghsu@mail.moe.gov.tw<br>
+<b>Subject:</b>=201220181126001-</span><span=20style=3D"font-size:11.0pt">=E5=
+=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E5=95=8F=E9=A1=8C</span><span=20lang=3D"EN=
+-US"=20style=3D"font-size:11.0pt;=20font-family:&quot;Calibri&quot;,sans-ser=
+if">-</span><span=20style=3D"font-size:11.0pt">=E7=94=A8=E7=B8=A3=E5=B8=82=E5=
+=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E6=B2=92=E6=9C=89=E5=95=8F=E9=A1=8C=EF=BC=8C=
+=E4=BD=86=E6=98=AF=E7=84=A1=E6=B3=95=E6=94=B6=E4=BF=A1</span><span=20lang=3D=
+"EN-US"=20style=3D"font-size:11.0pt;=20font-family:&quot;Calibri&quot;,sans-=
+serif"></span></p>
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;">
+<span=20lang=3D"EN-US">&nbsp;</span></p>
+<div>
+<table=20class=3D"x_MsoNormalTable"=20border=3D"0"=20cellpadding=3D"0">
+<tbody>
+<tr=20style=3D"height:22.5pt">
+<td=20style=3D"padding:.75pt=20.75pt=20.75pt=20.75pt;=20height:22.5pt">
+<p=20class=3D"x_MsoNormal"=20align=3D"center"=20style=3D"margin:=200cm=200cm=
+=200.0001pt;=20font-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=
+=E9=AB=94,=20serif;text-align:center">
+<span=20lang=3D"EN-US"=20style=3D"font-size:21.0pt;=20color:white"><img=20id=
+=3D"x__x0000_i1025"=20src=3D"https://webadmin.cloud.edu.tw/resource/image/lo=
+go.png"></span></p>
+</td>
+<td=20width=3D"370"=20style=3D"width:277.5pt;=20padding:3.75pt=203.75pt=203.=
+75pt=203.75pt;=20height:22.5pt;=20float:left">
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;">
+<span=20style=3D"font-size:21.0pt;=20color:#777777">=E6=95=99=E8=82=B2=E9=9B=
+=B2=E5=85=A5=E5=8F=A3=E7=B6=B2</span><span=20lang=3D"EN-US"=20style=3D"font-=
+size:21.0pt;=20font-family:&quot;Arial&quot;,sans-serif;=20color:#777777"></=
+span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<div=20style=3D"margin-top:3.75pt;=20margin-bottom:3.75pt">
+<div>
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;">
+<b><span=20style=3D"color:#777777">=E8=99=95=E7=90=86=E7=8B=80=E6=85=8B=EF=BC=
+=9A</span></b><span=20lang=3D"EN-US"=20style=3D"color:#777777">=20[0</span><=
+span=20style=3D"color:#777777">=E3=80=81=E6=96=B0=E7=94=B3=E8=AB=8B<span=20l=
+ang=3D"EN-US">]</span>=E3=80=80=E3=80=80
+<span=20lang=3D"EN-US"><a=20href=3D"https://webadmin.cloud.edu.tw/qa?m=3Ddis=
+playApply&amp;uuid=3D0db24a00-cbc3-42dd-8826-902ddeca80f9"><b><span=20lang=3D=
+"EN-US"=20style=3D"font-size:18.0pt;=20color:red"><span=20lang=3D"EN-US">=E5=
+=A6=82=E6=9E=9C=E6=82=A8=E9=9C=80=E8=A6=81=E4=BF=AE=E6=94=B9=E6=A1=88=E4=BB=B6=
+=E7=8B=80=E6=85=8B=E6=88=96=E8=A3=9C=E5=85=85=E5=85=A7=E5=AE=B9=EF=BC=8C=E8=AB=
+=8B=E6=8C=89=E6=AD=A4</span></span></b></a>
+</span></span></p>
+</div>
+<div>
+<table=20class=3D"x_MsoNormalTable"=20border=3D"1"=20cellspacing=3D"0"=20cel=
+lpadding=3D"0"=20width=3D"800"=20style=3D"width:600.0pt;=20border-collapse:c=
+ollapse;=20border:none">
+<tbody>
+<tr>
+<td=20width=3D"15%"=20style=3D"width:15.0%;=20border:solid=20#DDDDDD=201.0pt=
+;=20border-right:solid=20#DDDDDD=202.25pt;=20padding:3.75pt=203.75pt=203.75p=
+t=203.75pt">
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;line-height:18.0pt">
+<b><span=20style=3D"font-size:9.0pt;=20color:#777777">=E7=B7=A8=E8=99=9F=20<=
+span=20lang=3D"EN-US"></span></span></b></p>
+</td>
+<td=20width=3D"35%"=20style=3D"width:35.0%;=20border:solid=20#DDDDDD=201.0pt=
+;=20border-left:none;=20padding:3.75pt=203.75pt=203.75pt=203.75pt">
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;line-height:18.0pt">
+<span=20lang=3D"EN-US"=20style=3D"font-size:9.0pt">1220181126001</span></p>
+</td>
+<td=20width=3D"15%"=20style=3D"width:15.0%;=20border-top:solid=20#DDDDDD=201=
+.0pt;=20border-left:none;=20border-bottom:solid=20#DDDDDD=201.0pt;=20border-=
+right:solid=20#DDDDDD=202.25pt;=20padding:3.75pt=203.75pt=203.75pt=203.75pt"=
+>
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;line-height:18.0pt">
+<b><span=20style=3D"font-size:9.0pt;=20color:#777777">=E7=94=B3=E8=AB=8B=E6=97=
+=A5=E6=9C=9F<span=20lang=3D"EN-US"></span></span></b></p>
+</td>
+<td=20style=3D"border:solid=20#DDDDDD=201.0pt;=20border-left:none;=20padding=
+:3.75pt=203.75pt=203.75pt=203.75pt">
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;line-height:18.0pt">
+<span=20lang=3D"EN-US"=20style=3D"font-size:9.0pt">2018/11/26=2014:12</span>=
+</p>
+</td>
+</tr>
+<tr>
+<td=20style=3D"border-top:none;=20border-left:solid=20#DDDDDD=201.0pt;=20bor=
+der-bottom:solid=20#DDDDDD=201.0pt;=20border-right:solid=20#DDDDDD=202.25pt;=
+=20padding:3.75pt=203.75pt=203.75pt=203.75pt">
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;line-height:18.0pt">
+<b><span=20style=3D"font-size:9.0pt;=20color:#777777">=E5=A7=94=E8=A8=97=E5=96=
+=AE=E4=BD=8D<span=20lang=3D"EN-US"></span></span></b></p>
+</td>
+<td=20style=3D"border-top:none;=20border-left:none;=20border-bottom:solid=20=
+#DDDDDD=201.0pt;=20border-right:solid=20#DDDDDD=201.0pt;=20padding:3.75pt=20=
+3.75pt=203.75pt=203.75pt">
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;line-height:18.0pt">
+<span=20style=3D"font-size:9.0pt">=E5=85=A5=E5=8F=A3=E7=B6=B2=E6=9C=83=E5=93=
+=A1<span=20lang=3D"EN-US"></span></span></p>
+</td>
+<td=20style=3D"border-top:none;=20border-left:none;=20border-bottom:solid=20=
+#DDDDDD=201.0pt;=20border-right:solid=20#DDDDDD=202.25pt;=20padding:3.75pt=20=
+3.75pt=203.75pt=203.75pt">
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;line-height:18.0pt">
+<b><span=20style=3D"font-size:9.0pt;=20color:#777777">=E7=94=B3=E8=AB=8B=E4=BA=
+=BA<span=20lang=3D"EN-US"></span></span></b></p>
+</td>
+<td=20style=3D"border-top:none;=20border-left:none;=20border-bottom:solid=20=
+#DDDDDD=201.0pt;=20border-right:solid=20#DDDDDD=201.0pt;=20padding:3.75pt=20=
+3.75pt=203.75pt=203.75pt">
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;line-height:18.0pt">
+<span=20style=3D"font-size:9.0pt">=E6=96=BD=E6=B7=91=E5=AA=9B<span=20lang=3D=
+"EN-US"></span></span></p>
+</td>
+</tr>
+<tr>
+<td=20style=3D"border-top:none;=20border-left:solid=20#DDDDDD=201.0pt;=20bor=
+der-bottom:solid=20#DDDDDD=201.0pt;=20border-right:solid=20#DDDDDD=202.25pt;=
+=20padding:3.75pt=203.75pt=203.75pt=203.75pt">
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;line-height:18.0pt">
+<b><span=20style=3D"font-size:9.0pt;=20color:#777777">=E5=B0=88=E6=A1=88=E5=90=
+=8D=E7=A8=B1<span=20lang=3D"EN-US"></span></span></b></p>
+</td>
+<td=20style=3D"border-top:none;=20border-left:none;=20border-bottom:solid=20=
+#DDDDDD=201.0pt;=20border-right:solid=20#DDDDDD=201.0pt;=20padding:3.75pt=20=
+3.75pt=203.75pt=203.75pt">
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;line-height:18.0pt">
+<span=20style=3D"font-size:9.0pt">=E6=95=99=E8=82=B2=E9=9B=B2=E7=AB=AF=E5=B8=
+=B3=E8=99=9F<span=20lang=3D"EN-US"></span></span></p>
+</td>
+<td=20style=3D"border-top:none;=20border-left:none;=20border-bottom:solid=20=
+#DDDDDD=201.0pt;=20border-right:solid=20#DDDDDD=202.25pt;=20padding:3.75pt=20=
+3.75pt=203.75pt=203.75pt">
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;line-height:18.0pt">
+<b><span=20style=3D"font-size:9.0pt;=20color:#777777">=E5=95=8F=E9=A1=8C=E7=A8=
+=AE=E9=A1=9E<span=20lang=3D"EN-US"></span></span></b></p>
+</td>
+<td=20style=3D"border-top:none;=20border-left:none;=20border-bottom:solid=20=
+#DDDDDD=201.0pt;=20border-right:solid=20#DDDDDD=201.0pt;=20padding:3.75pt=20=
+3.75pt=203.75pt=203.75pt">
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;line-height:18.0pt">
+<span=20style=3D"font-size:9.0pt">=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E5=95=
+=8F=E9=A1=8C<span=20lang=3D"EN-US"></span></span></p>
+</td>
+</tr>
+<tr>
+<td=20style=3D"border-top:none;=20border-left:solid=20#DDDDDD=201.0pt;=20bor=
+der-bottom:solid=20#DDDDDD=201.0pt;=20border-right:solid=20#DDDDDD=202.25pt;=
+=20padding:3.75pt=203.75pt=203.75pt=203.75pt">
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;line-height:18.0pt">
+<b><span=20style=3D"font-size:9.0pt;=20color:#777777">=E5=95=8F=E9=A1=8C=E4=B8=
+=BB=E8=BF=B0<span=20lang=3D"EN-US"></span></span></b></p>
+</td>
+<td=20colspan=3D"3"=20style=3D"border-top:none;=20border-left:none;=20border=
+-bottom:solid=20#DDDDDD=201.0pt;=20border-right:solid=20#DDDDDD=201.0pt;=20p=
+adding:3.75pt=203.75pt=203.75pt=203.75pt">
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;line-height:18.0pt">
+<span=20style=3D"font-size:9.0pt">=E7=94=A8=E7=B8=A3=E5=B8=82=E5=B8=B3=E8=99=
+=9F=E7=99=BB=E5=85=A5=E6=B2=92=E6=9C=89=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=BD=86=E6=
+=98=AF=E7=84=A1=E6=B3=95=E6=94=B6=E4=BF=A1<span=20lang=3D"EN-US"></span></sp=
+an></p>
+</td>
+</tr>
+<tr>
+<td=20style=3D"border-top:none;=20border-left:solid=20#DDDDDD=201.0pt;=20bor=
+der-bottom:solid=20#DDDDDD=201.0pt;=20border-right:solid=20#DDDDDD=202.25pt;=
+=20padding:3.75pt=203.75pt=203.75pt=203.75pt">
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;line-height:18.0pt">
+<b><span=20style=3D"font-size:9.0pt;=20color:#777777">=E7=8B=80=E6=B3=81=E7=99=
+=BC=E7=94=9F=E6=99=82=E9=96=93<span=20lang=3D"EN-US"></span></span></b></p>
+</td>
+<td=20style=3D"border-top:none;=20border-left:none;=20border-bottom:solid=20=
+#DDDDDD=201.0pt;=20border-right:solid=20#DDDDDD=201.0pt;=20padding:3.75pt=20=
+3.75pt=203.75pt=203.75pt">
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;line-height:18.0pt">
+<span=20lang=3D"EN-US"=20style=3D"font-size:9.0pt">2018/11/26=2014:14</span>=
+</p>
+</td>
+<td=20style=3D"border-top:none;=20border-left:none;=20border-bottom:solid=20=
+#DDDDDD=201.0pt;=20border-right:solid=20#DDDDDD=202.25pt;=20padding:3.75pt=20=
+3.75pt=203.75pt=203.75pt">
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;line-height:18.0pt">
+<b><span=20style=3D"font-size:9.0pt;=20color:#777777">=E6=9C=9F=E6=9C=9B=E5=AE=
+=8C=E6=88=90=E6=97=A5=E6=9C=9F<span=20lang=3D"EN-US"></span></span></b></p>
+</td>
+<td=20style=3D"border-top:none;=20border-left:none;=20border-bottom:solid=20=
+#DDDDDD=201.0pt;=20border-right:solid=20#DDDDDD=201.0pt;=20padding:3.75pt=20=
+3.75pt=203.75pt=203.75pt">
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;line-height:18.0pt">
+<span=20lang=3D"EN-US"=20style=3D"font-size:9.0pt">2018/12/10=2014:14</span>=
+</p>
+</td>
+</tr>
+<tr=20style=3D"height:75.0pt">
+<td=20valign=3D"top"=20style=3D"border-top:none;=20border-left:solid=20#DDDD=
+DD=201.0pt;=20border-bottom:solid=20#DDDDDD=201.0pt;=20border-right:solid=20=
+#DDDDDD=202.25pt;=20padding:3.75pt=203.75pt=203.75pt=203.75pt;=20height:75.0=
+pt">
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;line-height:18.0pt">
+<b><span=20style=3D"font-size:9.0pt;=20color:#777777">=E5=95=8F=E9=A1=8C=E5=85=
+=A7=E5=AE=B9<span=20lang=3D"EN-US"></span></span></b></p>
+</td>
+<td=20colspan=3D"3"=20valign=3D"top"=20style=3D"border-top:none;=20border-le=
+ft:none;=20border-bottom:solid=20#DDDDDD=201.0pt;=20border-right:solid=20#DD=
+DDDD=201.0pt;=20padding:3.75pt=203.75pt=203.75pt=203.75pt;=20height:75.0pt;=20=
+word-wrap:break-word">
+<p=20class=3D"x_MsoNormal"=20style=3D"margin:=200cm=200cm=200.0001pt;=20font=
+-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,=20seri=
+f;line-height:18.0pt;=20word-break:break-all">
+<span=20style=3D"font-size:9.0pt">=E5=AD=B8=E7=94=9F=E7=94=A8=E7=B8=A3=E5=B8=
+=82=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E4=BF=A1=E7=AE=B1=E6=B2=92=E6=9C=89=E5=
+=95=8F=E9=A1=8C=E3=80=82=E6=94=B6=E4=BF=A1=E6=99=82=E6=9C=83=E5=87=BA=E7=8F=BE=
+=E9=8C=AF=E8=AA=A4=E8=A8=8A=E6=81=AF=EF=BC=8C=E5=A6=82=E5=9C=96<span=20lang=3D=
+"EN-US"><br>
+<br>
+</span>=E5=9B=9E=E5=A0=B1=E4=BA=BA=E4=BF=A1=E7=AE=B1=EF=BC=9A<span=20lang=3D=
+"EN-US"><a=20href=3D"mailto:ronnd66@hotmail.com">ronnd66@hotmail.com</a><br>=
+
+</span>=E5=9B=9E=E5=A0=B1=E4=BA=BA=E8=81=AF=E7=B5=A1=E9=9B=BB=E8=A9=B1=EF=BC=
+=9A<span=20lang=3D"EN-US">0920539540<br>
+<a=20href=3D"https://webadmin.cloud.edu.tw/qa/download?filename=3D%E9%81%A0%=
+E7%AB%AF%E8%AA%8D%E8%AD%89%E5%A4%B1%E6%95%97_201811261412.png"=20target=3D"_=
+blank"><span=20lang=3D"EN-US"><span=20lang=3D"EN-US">=E9=81=A0=E7=AB=AF=E8=AA=
+=8D=E8=AD=89=E5=A4=B1=E6=95=97_201811261412.png</span></span></a></span></sp=
+an></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p=20class=3D"x_MsoNormal"=20align=3D"right"=20style=3D"margin:=200cm=200cm=20=
+0.0001pt;=20font-size:=2012pt;=20font-family:=20=E6=96=B0=E7=B4=B0=E6=98=8E=E9=
+=AB=94,=20serif;text-align:right;=20background:#3C3D37">
+<span=20lang=3D"EN-US"=20style=3D"font-size:9.0pt;=20color:white">=C2=A9=202=
+016=20-=20</span><span=20style=3D"font-size:9.0pt;=20color:white">=E6=95=99=E8=
+=82=B2=E9=9B=B2=E5=85=A5=E5=8F=A3=E7=B6=B2<span=20lang=3D"EN-US">.=20All=20R=
+ights=20Reserved
+</span></span></p>
+</div>
+</div>
+</div>
+</div>
+
+
+</body></html>
+-----m.2(Ccl+vqMlwB9mUAJAR)FOSkx--

@@ -1,0 +1,81 @@
+Message-ID: <2118866298.969777.online_se@mail2000.com.tw>
+X-M2KSPAM: YES/100
+Received: from 203.69.82.98
+	by asp7.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(37578:0:AUTH_NONE)
+	(envelope-from <online_se@mail2000.com.tw>); Tue, 01 Oct 2013 17:14:46 +0800 (CST)
+Return-Path: <online_se@mail2000.com.tw>
+X-M2KPolicyIP: 203.69.82.98 (py9.mail2000.com.tw)
+Received: from 10.0.0.40
+	by bak1.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(22546:0:AUTH_RELAY)
+	(envelope-from <online_se@mail2000.com.tw>); Tue, 01 Oct 2013 17:14:40 +0800 (CST)
+Return-Path: <online_se@mail2000.com.tw>
+M2KForward: Yes
+Received: By OpenMail Mailer;Tue, 01 Oct 2013 17:14:40 +0800 (CST)
+Received: from 203.69.82.34
+	by m0.mail2000.com.tw with Mail2000 ESMTP Server V3.20M(53388:0:AUTH_NONE)
+	(envelope-from <online_se@mail2000.com.tw>); Tue, 01 Oct 2013 17:14:38 +0800 (CST)
+Return-Path: <online_se@mail2000.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 203.69.82.96
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(33760:0:AUTH_NONE)
+	(envelope-from <online_se@mail2000.com.tw>); Tue, 01 Oct 2013 17:14:38 +0800 (CST)
+Return-Path: <online_se@mail2000.com.tw>
+X-M2KPolicyIP: 203.69.82.96 (py7.mail2000.com.tw)
+Received: from 10.0.0.17
+	by bak7.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(1565:0:AUTH_RELAY)
+	(envelope-from <online_se@mail2000.com.tw>); Tue, 01 Oct 2013 17:14:31 +0800 (CST)
+Return-Path: <online_se@mail2000.com.tw>
+X-M2KSPAM: YES/100
+From: Mail2000 System<online_se@mail2000.com.tw>
+To: undisclosed-recipients:;
+Subject: Domain:eastek.com.tw Modify Success
+Content-Type: text/html; charset=big5
+
+<html>
+<head></head>
+<body>
+<p>Modify Success</p><br>
+<font color=red></font>
+<table border=1>
+    <tr>
+        <td>Domain Name：</td>
+        <td>eastek.com.tw</td>
+    </tr>
+    <tr>
+        <td>公司名稱：</td>
+        <td>亞太電信股份有限公司(匯智)</td>
+    </tr>
+    <tr>
+        <td>連絡人：</td>
+        <td>亞太電信客服中心</td>
+    </tr>
+    <tr>
+        <td>連絡電話：</td>
+        <td>02-4058-5000</td>
+    </tr>
+    <tr>
+        <td>Email：</td>
+        <td>idc-cs@aptg.com.tw</td>
+    </tr>
+    <tr>
+        <td>到期日(西元年份/月/日)：</td>
+        <td>2014/07/27</td>
+    </tr>
+    <tr>
+        <td>授權帳號數量：</td>
+        <td>33</td>
+    </tr>
+    <tr>
+        <td>授權空間：</td>
+        <td>16500 MB</td>
+    </tr>
+    <tr>
+        <td>公用檔案空間：</td>
+        <td>0 MB</td>
+    </tr>
+</table>
+
+<p>更改授權帳號數量：28-->33<br>
+</p>
+</body>
+</html>

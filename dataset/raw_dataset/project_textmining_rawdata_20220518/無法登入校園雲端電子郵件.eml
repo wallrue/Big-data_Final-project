@@ -1,0 +1,109 @@
+X-M2K-MATCHED-RULE: USER_FILTER
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 3.3.3.3
+	by ms2.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(21300:0:AUTH_NONE)
+	(envelope-from <jinweihl@gmail.com>); Wed, 26 Aug 2015 23:19:07 +0800 (CST)
+Return-Path: <jinweihl@gmail.com>
+X-M2KSPAM: NO/1
+Received: from 3.3.3.3
+	by asp6.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(96393:0:AUTH_RELAY)
+	(envelope-from <jinweihl@gmail.com>); Wed, 26 Aug 2015 23:19:05 +0800 (CST)
+Return-Path: <jinweihl@gmail.com>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(31046:0:AUTH_RELAY)
+	(envelope-from <jinweihl@gmail.com>); Wed, 26 Aug 2015 23:18:55 +0800 (CST)
+Return-Path: <jinweihl@gmail.com>
+Received: By OpenMail Mailer;Wed, 26 Aug 2015 23:18:55 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(26512:0:AUTH_NONE)
+	(envelope-from <jinweihl@gmail.com>); Wed, 26 Aug 2015 23:18:55 +0800 (CST)
+Return-Path: <jinweihl@gmail.com>
+X-M2KSPAM: NO/1
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(16388:0:AUTH_NONE)
+	(envelope-from <jinweihl@gmail.com>); Wed, 26 Aug 2015 23:18:54 +0800 (CST)
+Return-Path: <jinweihl@gmail.com>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)(FROMBW:2,PASS)(FROMBW:2,
+	PASS)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 172.16.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(23023:0:AUTH_RELAY)
+	(envelope-from <jinweihl@gmail.com>); Wed, 26 Aug 2015 23:18:52 +0800 (CST)
+Return-Path: <jinweihl@gmail.com>
+Received: By OpenMail Mailer;Wed, 26 Aug 2015 23:18:53 +0800 (CST)
+Received: from 172.16.0.96
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V7.00(15739:0:AUTH_RELAY)
+	(envelope-from <jinweihl@gmail.com>); Wed, 26 Aug 2015 23:18:51 +0800 (CST)
+Return-Path: <jinweihl@gmail.com>
+X-M2KPolicyIP: 172.16.0.96 (#NOT FOUND)
+X-MailGates: (RBL:2,PASS,0.000000e+00)(BATV:2,PASS,sender not empty)(fla
+	g:1,RELAY:PASS)(IPF:2,PASS)(FROMBW:2,PASS)(FROMBW:2,PASS)(bayesian:SCORE
+	-38,0.00,2)(commtouch:PASS,1,str=0001.0A150205.55DDD8DB.0087,ss=1,re=0.0
+	00,fgs=0,2)(localsimi:PASS,2)(mail_charset:PASS,2)(compute_score:HAM,2,0
+	)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 209.85.223.176
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(23022:1:AUTH_NONE)
+	(envelope-from <jinweihl@gmail.com>); Wed, 26 Aug 2015 23:18:47 +0800 (CST)
+Return-Path: <jinweihl@gmail.com>
+Received: by iods203 with SMTP id s203so22576505iod.0
+        for <edu@openfind.com>; Wed, 26 Aug 2015 08:18:46 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=ZloGBPg16hBfabUpHE4ODtrIbfpdclEiO/vjo37sh5Y=;
+        b=H3aeRoKIcDzMe19PcXbxUq0G3HKADOjaLGW83GgOf5s1f/9woI+LyZvBnsjP9ugavf
+         op2P6cDoBOh0p7J72FKBWqLvJfJdsbvx7d2yjs43OORxZWTe5XG9C1hdCoA9880C5uZc
+         /tZwgUDEDlQIWJ3Ymz9ncZcEGU5IXttLMBqBsWUyBW6+hl/f2xpCNm0WKgfGu25jHDPe
+         vIn6TmMWX3JWHdD08y7CSfWDi4R26MOnHQLnnGPWcfctUYbZV2GQk2Cl4n8c3Ud+C/cz
+         VMVY1/vtrIVY6dpWiEmHmMScBMjxr8FeNlK2bHrgA7F6WNiLetjGzh+J50eFNS8eHWUD
+         tEmw==
+MIME-Version: 1.0
+X-Received: by 10.107.19.94 with SMTP id b91mr4269105ioj.144.1440602325864;
+ Wed, 26 Aug 2015 08:18:45 -0700 (PDT)
+Received: by 10.36.9.147 with HTTP; Wed, 26 Aug 2015 08:18:45 -0700 (PDT)
+Date: Wed, 26 Aug 2015 23:18:45 +0800
+Message-ID: <CAJw7NUFF6xpQrmy2KiFo0diWxtjNW2knrRzUmJ=UZ+Tnih88Xw@mail.gmail.com>
+Subject: =?UTF-8?B?54Sh5rOV55m75YWl5qCh5ZyS6Zuy56uv6Zu75a2Q6YO15Lu2?=
+From: =?UTF-8?B?6Kyd5pWs5bCJ?= <jinweihl@gmail.com>
+To: edu@openfind.com
+Content-Type: multipart/alternative; boundary=001a113f3c70e55756051e385d74
+
+--001a113f3c70e55756051e385d74
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+5om/6L6m5Lq65L2g5aW977yaDQoNCuWboOeZu+WFpembu+WtkOmDteS7tuezu+e1seaZgu+8jOWP
+r+S7pemBjuiKseiTrue4o29wZW5pZOiqjeitie+8jOS9huWNu+eEoeazleeci+WIsOmbu+WtkOmD
+teS7tueVq+mdouOAgg0K54S25b6M57O757Wx5bCx55u05o6l6YCj5LiK5pWZ6IKy6Zuy57O757Wx
+77yM5YaN5qyh6Ly45YWlb3Blbmlk5biz6Jmf44CC5Y+v55m75YWl5pWZ6IKy6Zuy57O757Wx44CC
+DQrmlZnogrLpm7LkuK3poa/npLrmiJHnmoTluLPomZ/ngrpqaW53ZWlobEBtYWlsLmVkdS50d+OA
+gg0K5LiN55+l5ZWP6aGM5Zyo6YKj77yM6KuL5om/6L6m5Lq65Y2U5Yqp44CCDQoNCnBzLuS8vOS5
+juS7peWJjeacieS9v+eUqGppbndlaeW4s+iZn+eZu+iomOmBju+8jOiLpeaYr+S4jeefpeWPr+WQ
+puWIqumZpGppbndlaeW4s+iZn++8jOS7pemHjeaWsOeUs+i+puOAgg0K5oSf6Kyd5Y2U5Yqp44CC
+DQoNCuiKseiTrue4o+aVmeW4qyDorJ3mlazlsIkNCg==
+--001a113f3c70e55756051e385d74
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PGRpdiBkaXI9Imx0ciI+5om/6L6m5Lq65L2g5aW977yaPGRpdj48YnI+PC9kaXY+PGRpdj7lm6Dn
+mbvlhaXpm7vlrZDpg7Xku7bns7vntbHmmYLvvIzlj6/ku6XpgY7oirHok67nuKNvcGVuaWToqo3o
+rYnvvIzkvYbljbvnhKHms5XnnIvliLDpm7vlrZDpg7Xku7bnlavpnaLjgII8L2Rpdj48ZGl2PueE
+tuW+jOezu+e1seWwseebtOaOpemAo+S4iuaVmeiCsumbsuezu+e1se+8jOWGjeasoei8uOWFpW9w
+ZW5pZOW4s+iZn+OAguWPr+eZu+WFpeaVmeiCsumbsuezu+e1seOAgjwvZGl2PjxkaXY+5pWZ6IKy
+6Zuy5Lit6aGv56S65oiR55qE5biz6Jmf54K6PGEgaHJlZj0ibWFpbHRvOmppbndlaWhsQG1haWwu
+ZWR1LnR3Ij5qaW53ZWlobEBtYWlsLmVkdS50dzwvYT7jgII8L2Rpdj48ZGl2PuS4jeefpeWVj+mh
+jOWcqOmCo++8jOiri+aJv+i+puS6uuWNlOWKqeOAgjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+
+cHMu5Ly85LmO5Lul5YmN5pyJ5L2/55Soamlud2Vp5biz6Jmf55m76KiY6YGO77yM6Iul5piv5LiN
+55+l5Y+v5ZCm5Yiq6Zmkamlud2Vp5biz6Jmf77yM5Lul6YeN5paw55Sz6L6m44CCPC9kaXY+PGRp
+dj7mhJ/orJ3ljZTliqnjgII8L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PuiKseiTrue4o+aVmeW4
+qyDorJ3mlazlsIk8L2Rpdj48L2Rpdj4NCg==
+--001a113f3c70e55756051e385d74--

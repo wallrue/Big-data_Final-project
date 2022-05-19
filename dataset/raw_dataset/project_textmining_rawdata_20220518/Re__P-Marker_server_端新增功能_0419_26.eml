@@ -1,0 +1,387 @@
+X-M2KSPAM: NO/-6
+Received: from 210.59.162.122
+	by asp6.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(93632:1:AUTH_NONE)
+	(envelope-from <prvs=182317CE3F=kate_lin@openfind.com.tw>); Mon, 22 Apr 2013 17:42:46 +0800 (CST)
+Return-Path: <prvs=182317CE3F=kate_lin@openfind.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (N/A)
+Received: from 10.0.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(29430:0:AUTH_RELAY)
+	(envelope-from <prvs=182317CE3F=kate_lin@openfind.com.tw>); Mon, 22 Apr 2013 17:39:00 +0800 (CST)
+Return-Path: <prvs=182317CE3F=kate_lin@openfind.com.tw>
+Received: By OpenMail Mailer;Mon, 22 Apr 2013 17:38:55 +0800 (CST)
+Received: from 10.0.0.96
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V6.00(78611:0:AUTH_RELAY)
+	(envelope-from <prvs=182317CE3F=kate_lin@openfind.com.tw>); Mon, 22 Apr 2013 17:38:53 +0800 (CST)
+Return-Path: <prvs=182317CE3F=kate_lin@openfind.com.tw>
+X-M2KPolicyIP: 10.0.0.96 (#NOT FOUND)
+X-MailGates: (RBL:2,PASS,0.000000e+00)(BATV:2,PASS,sender not empty)(fla
+	g:0,RELAY,LAN:PASS)(IPF:2,PASS)(bayesian:SCORE-38,0.00,2)(commtouch:PASS
+	,1,str=0001.0A150207.5175052C.01A1:SCFMA4218066,ss=1,re=-4.000,fgs=0,2)(
+	header_match_any:pattern.fromtrust.system,,HAM,*@openfind.com.tw,0)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 203.69.82.69
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(29466:0:AUTH_NONE)
+	(envelope-from <prvs=182317CE3F=kate_lin@openfind.com.tw>); Mon, 22 Apr 2013 17:38:56 +0800 (CST)
+Return-Path: <prvs=182317CE3F=kate_lin@openfind.com.tw>
+Received: from 10.0.0.40
+	by bak1.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(1104:0:AUTH_RELAY)
+	(envelope-from <prvs=182317CE3F=kate_lin@openfind.com.tw>); Mon, 22 Apr 2013 17:38:49 +0800 (CST)
+Return-Path: <prvs=182317CE3F=kate_lin@openfind.com.tw>
+M2KForward: Yes
+Received: By OpenMail Mailer;Mon, 22 Apr 2013 17:38:49 +0800 (CST)
+Received: from 203.69.82.34
+	by m0.mail2000.com.tw with Mail2000 ESMTP Server V3.20M(87475:0:AUTH_NONE)
+	(envelope-from <prvs=182317CE3F=kate_lin@openfind.com.tw>); Mon, 22 Apr 2013 17:38:47 +0800 (CST)
+Return-Path: <prvs=182317CE3F=kate_lin@openfind.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(1061:3:AUTH_NONE)
+	(envelope-from <prvs=182317CE3F=kate_lin@openfind.com.tw>); Mon, 22 Apr 2013 17:38:47 +0800 (CST)
+Return-Path: <prvs=182317CE3F=kate_lin@openfind.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (audit_rules:rules.audit_out1311132448.system#,,aDELIVER,R/
+	m2k_service@mail2000.com.tw,4,ou)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+X-MGADT: rules.audit_out1311132448.system#,R/m2k_service@mail2000.com.tw
+X-MGADT: rules.audit_out1311132448.system#,R/solos@mail2000.com.tw
+Received: from 10.0.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(7230:0:AUTH_RELAY)
+	(envelope-from <kate_lin@openfind.com.tw>); Mon, 22 Apr 2013 17:24:09 +0800 (CST)
+Return-Path: <kate_lin@openfind.com.tw>
+Received: from 10.0.55.3
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V6.00(78605:0:AUTH_LOGIN)
+	(envelope-from <kate_lin@openfind.com.tw>); Mon, 22 Apr 2013 17:24:03 +0800 (CST)
+Return-Path: <kate_lin@openfind.com.tw>
+X-M2KPolicyIP: 10.0.55.3 (#NOT FOUND)
+Message-ID: <7AB5F2EE4FEC4B5E8D738D8D52F03F28@tp.office.openfind.com.tw>
+From: =?utf-8?B?57ay5pOO6LOH6KiKIC/mnpflhqDkvLY=?= <kate_lin@openfind.com.tw>
+To: <solos@mail2000.com.tw>,
+	"m2k_service" <m2k_service@mail2000.com.tw>,
+	"jingfun_wu" <jingfun_wu@openfind.com>,
+	"online_se" <online_se@openfind.com>,
+	"maggie_chang" <maggie_chang@openfind.com>,
+	"pro" <pro@mail2000.com.tw>
+References: <1366341732.9433.solos@mail2000.com.tw>
+In-Reply-To: <1366341732.9433.solos@mail2000.com.tw>
+Subject: =?utf-8?Q?Re:_P-Marker_server_=E7=AB=AF=E6=96=B0=E5=A2=9E=E5=8A=9F?=
+	=?utf-8?Q?=E8=83=BD_0419?=
+Date: Mon, 22 Apr 2013 17:22:33 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0352_01CE3F7D.FA0FE290"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 15.4.3555.308
+X-MimeOLE: Produced By Microsoft MimeOLE V15.4.3555.308
+
+這是 MIME 格式的 Multipart 郵件。
+
+------=_NextPart_000_0352_01CE3F7D.FA0FE290
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=E6=82=A8=E5=A5=BD=EF=BC=8C
+
+=E6=8E=83=E7=9E=84=E9=81=8E=E5=B9=BE=E6=AC=A1=EF=BC=8C=E6=8E=83=E7=9E=84=E7=
+=9A=84=E6=AC=A1=E6=95=B8=E6=9C=89=E9=A1=AF=E7=A4=BA=E5=9C=A8=E7=B4=80=E9=8C=
+=84=E4=B8=AD=E3=80=82
+
+=E4=B8=8D=E9=81=8E=E4=BD=BF=E7=94=A8 no ui =
+=E6=8E=83=E7=9E=84=E6=99=82=EF=BC=8C
+=E7=99=BC=E7=8F=BE scan.complete =
+=E5=B7=B2=E7=B6=93=E5=87=BA=E7=8F=BE=E4=BA=86=EF=BC=8C
+=E4=BD=86=E6=98=AF=E5=9C=A8 server =
+=E7=AB=AF=E9=82=84=E6=98=AF=E9=A1=AF=E7=A4=BA=E6=B8=85=E6=9F=A5=E4=B8=AD=EF=
+=BC=8C
+=E8=A6=81=E9=81=8E=E4=B8=80=E9=99=A3=E5=AD=90=E6=89=8D=E6=9C=83=E6=94=B9=E7=
+=82=BA=E5=B7=B2=E5=AE=8C=E6=88=90=E3=80=82
+
+
+Kate
+
+
+From: solos=20
+Sent: Friday, April 19, 2013 11:22 AM
+To: m2k_service ; jingfun_wu ; online_se ; maggie_chang ; pro=20
+Subject: Fw: P-Marker server =
+=E7=AB=AF=E6=96=B0=E5=A2=9E=E5=8A=9F=E8=83=BD 0419
+
+Hi,=20
+
+P-Marker Server =
+=E6=98=A8=E5=A4=A9=E6=9C=89=E5=A4=A7=E6=94=B9=E7=89=88=EF=BC=8C=E9=BA=BB=E7=
+=85=A9=E5=90=84=E4=BD=8D=E6=92=A5=E5=86=97=E6=B8=AC=E8=A9=A6=E3=80=82
+
+=E9=80=99=E6=AC=A1=E6=96=B0=E5=A2=9E=E4=BA=86=E5=B9=BE=E5=80=8B=E7=AE=A1=E7=
+=90=86=E4=BB=8B=E9=9D=A2=E5=8A=9F=E8=83=BD=EF=BC=8C=E5=8F=AF=E7=9B=B4=E6=8E=
+=A5=E7=9C=8B=E4=B8=8B=E9=9D=A2 Odie =E7=9A=84=E4=BF=A1=EF=BC=8C
+=E6=9C=89=E5=95=8F=E9=A1=8C=E5=8F=AF=E9=9A=A8=E6=99=82 skype =E6=88=96 =
+mail =E7=B5=A6=E6=88=91=E3=80=82
+
+
+=E6=B8=AC=E8=A9=A6=E4=B8=BB=E6=A9=9F=E5=92=8C=E7=99=BB=E5=85=A5=E5=B8=B3=E5=
+=AF=86=EF=BC=9A
+http://10.0.4.108
+openfind / openfind
+
+
+=E8=AC=9D=E8=AC=9D=EF=BC=81
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D
+=E2=97=86=E6=9C=8D=E5=8B=99=E4=BF=A1=E7=AE=B1=E3=80=80=E3=80=80=E3=80=80=E3=
+=80=80=E3=80=80online_se@openfind.com
+=E2=97=86=E6=8A=80=E8=A1=93=E7=B6=93=E7=90=86=E3=80=80=E3=80=80=E3=80=80=E3=
+=80=80=E3=80=80Solos Chang
+=E2=97=86Openfind=E7=B6=B2=E8=B7=AF=E8=B3=87=E6=BA=90=E3=80=80http://www.=
+openfind.com/
+=E2=97=86Mail2000=E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1=E3=80=80http://www.=
+mail2000.com.tw/
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D
+-----Forwarded message-----
+From:odie_ke<odie_ke@openfind.com.tw>
+To:Mclee<mclee@openfind.com.tw>,Solos<solos_chang@openfind.com.tw>
+Cc:Mario<mario_wang@openfind.com.tw>,Phantom<phantom_weng@openfind.com.tw=
+>
+Date: Fri, 19 Apr 2013 10:18:43
+Subject: P-Marker server =E7=AB=AF=E6=96=B0=E5=A2=9E=E5=8A=9F=E8=83=BD =
+0419
+=E6=82=A8=E5=A5=BD=EF=BC=9A
+
+=E9=80=99=E6=AC=A1P-Marker =
+server=E7=AB=AF=E6=96=B0=E5=8A=9F=E8=83=BD=E7=82=BA"=E7=9B=A4=E9=BB=9E=E6=
+=AD=B7=E7=A8=8B=E7=B4=80=E9=8C=84"=EF=BC=8C=E5=8D=B3=E4=BD=BF=E7=94=A8=E8=
+=80=85=E5=8F=AF=E4=BB=A5=E9=80=8F=E9=81=8E=E6=AD=A4=E5=8A=9F=E8=83=BD=E7=9E=
+=AD=E8=A7=A3=E5=90=84=E5=8F=B0=E9=9B=BB=E8=85=A6=E9=81=8E=E5=8E=BB=E6=B6=88=
+=E8=80=97=E7=9A=84=E6=8E=83=E7=9E=84=E6=AC=A1=E6=95=B8=E3=80=82=E8=AA=AA=E6=
+=98=8E=E5=A6=82=E4=B8=8B=EF=BC=9A
+
+1. =
+=E7=99=BB=E5=85=A5server=E5=BE=8C=EF=BC=8C=E5=9C=A8"=E7=94=A8=E6=88=B6=E7=
+=AE=A1=E7=90=86"=E9=A0=81=E9=9D=A2=E5=B7=A6=E4=B8=8B=E6=96=B9=E6=9C=89=E4=
+=B8=80=E5=80=8B"=E4=BA=BA=E5=93=A1=E5=88=97=E8=A1=A8"=E6=90=9C=E5=B0=8B=E5=
+=8A=9F=E8=83=BD=EF=BC=8C=E5=9C=A8=E9=80=99=E5=80=8B=E6=90=9C=E5=B0=8B=E5=8A=
+=9F=E8=83=BD=E7=9A=84=E7=B5=90=E6=9E=9C=E9=A0=81=E9=9D=A2=EF=BC=8C=E6=96=B0=
+=E5=A2=9E=E4=BA=86=E6=9C=80=E5=BE=8C=E4=B8=80=E5=80=8B=E6=AC=84=E4=BD=8D"=
+=E7=B4=80=E9=8C=84"=E3=80=82=E9=A1=AF=E7=A4=BA=E6=96=87=E5=AD=97=E7=82=BA=
+"=E7=B4=80=E9=8C=84(=E6=95=B8=E5=AD=97)"=EF=BC=8C=E6=8B=AC=E8=99=9F=E5=85=
+=A7=E7=9A=84=E6=95=B8=E5=AD=97=E8=A1=A8=E7=A4=BA=E9=80=99=E5=8F=B0=E9=9B=BB=
+=E8=85=A6=E5=9C=A8=E6=90=9C=E5=B0=8B=E6=99=82=E9=96=93=E5=8D=80=E9=96=93=E5=
+=85=A7=E6=89=80=E6=B6=88=E8=80=97=E7=9A=84=E6=8E=83=E7=9E=84=E6=AC=A1=E6=95=
+=B8=EF=BC=88=E5=B7=B2=E5=AE=8C=E6=88=90=E3=80=81=E6=B8=85=E6=9F=A5=E4=B8=AD=
+=E9=83=BD=E6=9C=83=E7=AE=97=E4=B8=80=E6=AC=A1=EF=BC=89=E3=80=82=E9=BB=9E=E9=
+=80=B2=E5=8E=BB=E5=BE=8C=E6=9C=83=E7=9C=8B=E8=A6=8B=E9=80=99=E5=8F=B0=E9=9B=
+=BB=E8=85=A6=E5=9C=A8=E9=80=99=E6=AE=B5=E6=99=82=E9=96=93=E5=85=A7=E7=9A=84=
+=E6=8E=83=E7=9E=84=E7=8B=80=E6=B3=81=EF=BC=8C=E5=8C=85=E6=8B=AC=E4=BA=BA=E5=
+=93=A1=E3=80=81=E9=83=A8=E9=96=80=E5=90=8D=E7=A8=B1=E3=80=81=E6=8E=83=E7=9E=
+=84=E8=B5=B7=E5=A7=8B=E6=99=82=E9=96=93=E3=80=82=E6=9C=80=E5=BE=8C=E6=9C=89=
+=E4=B8=80=E5=80=8B"=E5=88=AA=E9=99=A4"=E7=9A=84=E9=80=A3=E7=B5=90=EF=BC=8C=
+=E5=8F=AF=E5=B0=87=E8=A9=B2=E7=AD=86=E6=8E=83=E7=9E=84=E7=B5=90=E6=9E=9C=E5=
+=BE=9Eserver=E4=B8=AD=E5=88=AA=E9=99=A4=E3=80=82
+
+2. =
+=E5=90=8C=E6=A8=A3=E5=9C=A8=E7=99=BB=E5=85=A5=E5=BE=8C=EF=BC=8C=E5=8E=9F=E6=
+=9C=AC=E6=9C=89=E4=BA=94=E5=80=8B=E5=8A=9F=E8=83=BD=E9=A0=81=E9=9D=A2=EF=BC=
+=8C=E7=8F=BE=E5=9C=A8=E6=96=B0=E5=A2=9E=E6=9C=80=E5=8F=B3=E6=96=B9=E7=9A=84=
+"=E7=B4=80=E9=8C=84"=E9=A0=81=E9=9D=A2=EF=BC=8C=E6=9C=83=E4=BE=9D=E6=99=82=
+=E9=96=93=E9=A0=86=E5=BA=8F=E9=A1=AF=E7=A4=BA=E9=81=8E=E5=8E=BB=E7=9A=84=E6=
+=8E=83=E7=9E=84=E6=AD=B7=E7=A8=8B=E3=80=82=E5=92=8C=E4=B8=8A=E9=9D=A2=E4=B8=
+=8D=E5=90=8C=E4=B9=8B=E8=99=95=E5=9C=A8=E6=96=BC=E9=80=99=E8=A3=A1=E4=B8=8D=
+=E6=9C=83=E5=8D=80=E5=88=86=E4=B8=8D=E5=90=8C=E7=9A=84=E9=9B=BB=E8=85=A6=EF=
+=BC=8C=E8=80=8C=E6=98=AF=E6=8C=89=E6=99=82=E9=96=93=E6=8E=92=E5=BA=8F=E3=80=
+=82=E4=B8=8A=E6=96=B9=E6=9C=83=E9=A1=AF=E7=A4=BA=E7=9B=A4=E9=BB=9E"=E5=AE=
+=8C=E6=88=90"=E7=B4=80=E9=8C=84=E7=AD=86=E6=95=B8=E5=8F=8A"=E6=B8=85=E6=9F=
+=A5=E4=B8=AD"=E7=AD=86=E6=95=B8=E3=80=82
+
+=E4=B8=BB=E8=A6=81=E6=83=B3=E8=AB=8B=E5=A4=A7=E5=AE=B6=E7=9C=8B=E4=B8=80=E4=
+=B8=8B=E4=BB=8B=E9=9D=A2=E4=B8=8A=E6=9C=89=E6=B2=92=E6=9C=89=E4=B8=8D=E5=A4=
+=AA=E6=B8=85=E6=A5=9A=E7=9A=84=E5=9C=B0=E6=96=B9=EF=BC=8C=E8=87=B3=E6=96=BC=
+=E6=96=B0=E5=8A=9F=E8=83=BD=E5=9B=A0=E7=82=BA=E4=B8=8D=E6=98=AF=E5=BE=88=E5=
+=A5=BD=E6=B8=AC=E8=A9=A6=EF=BC=8C=E5=8F=AF=E8=83=BD=E5=B0=B1=E6=98=AF=E8=A9=
+=A6=E8=91=97=E6=8E=83=E8=87=AA=E5=B7=B1=E7=9A=84=E9=9B=BB=E8=85=A6=E5=B9=BE=
+=E6=AC=A1=EF=BC=8C=E7=84=B6=E5=BE=8C=E7=9C=8B=E4=B8=80=E4=B8=8B=E4=BB=A5=E4=
+=B8=8A=E6=98=AF=E5=90=A6=E8=83=BD=E6=AD=A3=E7=A2=BA=E9=A1=AF=E7=A4=BA=E3=80=
+=82=E5=A6=82=E6=9E=9C=E6=9C=89=E4=BB=BB=E4=BD=95=E5=95=8F=E9=A1=8C=E8=AB=8B=
+=E5=86=8D=E5=91=8A=E7=9F=A5=E6=88=91=E5=80=91=EF=BC=8C=E8=AC=9D=E8=AC=9D=E3=
+=80=82
+
+Best regards,
+
+Odie
+
+
+------=_NextPart_000_0352_01CE3F7D.FA0FE290
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-FAMILY: =
+'=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94'; COLOR: #080000; =
+FONT-SIZE: 12pt">
+<DIV=20
+style=3D"FONT-STYLE: normal; DISPLAY: inline; FONT-FAMILY: 'Calibri'; =
+COLOR: #000000; FONT-SIZE: small; FONT-WEIGHT: normal; TEXT-DECORATION: =
+none">
+<DIV style=3D"FONT: 10pt tahoma">
+<DIV><FONT color=3D#080000 size=3D3 =
+face=3D=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94>=E6=82=A8=E5=A5=BD=EF=
+=BC=8C</FONT></DIV>
+<DIV><FONT color=3D#080000 size=3D3 =
+face=3D=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94></FONT>&nbsp;</DIV>
+<DIV><FONT color=3D#080000 size=3D3 =
+face=3D=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94>=E6=8E=83=E7=9E=84=E9=
+=81=8E=E5=B9=BE=E6=AC=A1=EF=BC=8C=E6=8E=83=E7=9E=84=E7=9A=84=E6=AC=A1=E6=95=
+=B8=E6=9C=89=E9=A1=AF=E7=A4=BA=E5=9C=A8=E7=B4=80=E9=8C=84=E4=B8=AD=E3=80=82=
+</FONT></DIV>
+<DIV><FONT color=3D#080000 size=3D3 =
+face=3D=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94></FONT>&nbsp;</DIV>
+<DIV><FONT color=3D#080000 size=3D3 =
+face=3D=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94>=E4=B8=8D=E9=81=8E=E4=
+=BD=BF=E7=94=A8 no ui =E6=8E=83=E7=9E=84=E6=99=82=EF=BC=8C</FONT></DIV>
+<DIV><FONT color=3D#080000 size=3D3 =
+face=3D=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94>=E7=99=BC=E7=8F=BE =
+scan.complete =
+=E5=B7=B2=E7=B6=93=E5=87=BA=E7=8F=BE=E4=BA=86=EF=BC=8C</FONT></DIV>
+<DIV><FONT color=3D#080000 size=3D3 =
+face=3D=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94>=E4=BD=86=E6=98=AF=E5=
+=9C=A8 server =
+=E7=AB=AF=E9=82=84=E6=98=AF=E9=A1=AF=E7=A4=BA=E6=B8=85=E6=9F=A5=E4=B8=AD=EF=
+=BC=8C</FONT></DIV>
+<DIV><FONT color=3D#080000 size=3D3 =
+face=3D=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94>=E8=A6=81=E9=81=8E=E4=
+=B8=80=E9=99=A3=E5=AD=90=E6=89=8D=E6=9C=83=E6=94=B9=E7=82=BA=E5=B7=B2=E5=AE=
+=8C=E6=88=90=E3=80=82</FONT></DIV>
+<DIV><FONT color=3D#080000 size=3D3 =
+face=3D=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94></FONT>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT color=3D#080000 size=3D3 =
+face=3D=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94>Kate</FONT></DIV>
+<DIV><FONT color=3D#080000 size=3D3 =
+face=3D=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94></FONT>&nbsp;</DIV>
+<DIV><FONT color=3D#080000 size=3D3 =
+face=3D=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94></FONT>&nbsp;</DIV>
+<DIV style=3D"BACKGROUND: #f5f5f5">
+<DIV style=3D"font-color: black"><B>From:</B> <A =
+title=3Dsolos@mail2000.com.tw=20
+href=3D"mailto:solos@mail2000.com.tw">solos</A> </DIV>
+<DIV><B>Sent:</B> Friday, April 19, 2013 11:22 AM</DIV>
+<DIV><B>To:</B> <A title=3Dm2k_service@mail2000.com.tw=20
+href=3D"mailto:m2k_service@mail2000.com.tw">m2k_service</A> ; <A=20
+title=3Djingfun_wu@openfind.com=20
+href=3D"mailto:jingfun_wu@openfind.com">jingfun_wu</A> ; <A=20
+title=3Donline_se@openfind.com =
+href=3D"mailto:online_se@openfind.com">online_se</A>=20
+; <A title=3Dmaggie_chang@openfind.com=20
+href=3D"mailto:maggie_chang@openfind.com">maggie_chang</A> ; <A=20
+title=3Dpro@mail2000.com.tw href=3D"mailto:pro@mail2000.com.tw">pro</A> =
+</DIV>
+<DIV><B>Subject:</B> Fw: P-Marker server =
+=E7=AB=AF=E6=96=B0=E5=A2=9E=E5=8A=9F=E8=83=BD 0419</DIV></DIV></DIV>
+<DIV>&nbsp;</DIV></DIV>
+<DIV=20
+style=3D"FONT-STYLE: normal; DISPLAY: inline; FONT-FAMILY: 'Calibri'; =
+COLOR: #000000; FONT-SIZE: small; FONT-WEIGHT: normal; TEXT-DECORATION: =
+none">Hi,=20
+
+<DIV>&nbsp;</DIV>
+<DIV>P-Marker Server =
+=E6=98=A8=E5=A4=A9=E6=9C=89=E5=A4=A7=E6=94=B9=E7=89=88=EF=BC=8C=E9=BA=BB=E7=
+=85=A9=E5=90=84=E4=BD=8D=E6=92=A5=E5=86=97=E6=B8=AC=E8=A9=A6=E3=80=82</DI=
+V>
+<DIV>&nbsp;</DIV>
+<DIV>=E9=80=99=E6=AC=A1=E6=96=B0=E5=A2=9E=E4=BA=86=E5=B9=BE=E5=80=8B=E7=AE=
+=A1=E7=90=86=E4=BB=8B=E9=9D=A2=E5=8A=9F=E8=83=BD=EF=BC=8C=E5=8F=AF=E7=9B=B4=
+=E6=8E=A5=E7=9C=8B=E4=B8=8B=E9=9D=A2 Odie =
+=E7=9A=84=E4=BF=A1=EF=BC=8C</DIV>
+<DIV>=E6=9C=89=E5=95=8F=E9=A1=8C=E5=8F=AF=E9=9A=A8=E6=99=82 skype =
+=E6=88=96 mail =E7=B5=A6=E6=88=91=E3=80=82</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=E6=B8=AC=E8=A9=A6=E4=B8=BB=E6=A9=9F=E5=92=8C=E7=99=BB=E5=85=A5=E5=B8=
+=B3=E5=AF=86=EF=BC=9A</DIV>
+<DIV><A href=3D"http://10.0.4.108">http://10.0.4.108</A></DIV>
+<DIV>openfind / openfind</DIV>
+<DIV><BR><BR>=E8=AC=9D=E8=AC=9D=EF=BC=81<BR><BR>=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D<BR>=E2=97=86=E6=
+=9C=8D=E5=8B=99=E4=BF=A1=E7=AE=B1=E3=80=80=E3=80=80=E3=80=80=E3=80=80=E3=80=
+=80online_se@openfind.com<BR>=E2=97=86=E6=8A=80=E8=A1=93=E7=B6=93=E7=90=86=
+=E3=80=80=E3=80=80=E3=80=80=E3=80=80=E3=80=80Solos=20
+Chang<BR>=E2=97=86Openfind=E7=B6=B2=E8=B7=AF=E8=B3=87=E6=BA=90=E3=80=80ht=
+tp://www.openfind.com/<BR>=E2=97=86Mail2000=E9=9B=BB=E5=AD=90=E4=BF=A1=E7=
+=AE=B1=E3=80=80http://www.mail2000.com.tw/<BR>=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D<BR>-----Forward=
+ed=20
+message-----<BR><B>From:</B>odie_ke&lt;odie_ke@openfind.com.tw&gt;<BR><B>=
+To:</B>Mclee&lt;mclee@openfind.com.tw&gt;,Solos&lt;solos_chang@openfind.c=
+om.tw&gt;<BR><B>Cc:</B>Mario&lt;mario_wang@openfind.com.tw&gt;,Phantom&lt=
+;phantom_weng@openfind.com.tw&gt;<BR><B>Date:=20
+</B>Fri, 19 Apr 2013 10:18:43<BR><B>Subject:</B> P-Marker server =
+=E7=AB=AF=E6=96=B0=E5=A2=9E=E5=8A=9F=E8=83=BD=20
+0419<BR>=E6=82=A8=E5=A5=BD=EF=BC=9A<BR><BR>=E9=80=99=E6=AC=A1P-Marker=20
+server=E7=AB=AF=E6=96=B0=E5=8A=9F=E8=83=BD=E7=82=BA"=E7=9B=A4=E9=BB=9E=E6=
+=AD=B7=E7=A8=8B=E7=B4=80=E9=8C=84"=EF=BC=8C=E5=8D=B3=E4=BD=BF=E7=94=A8=E8=
+=80=85=E5=8F=AF=E4=BB=A5=E9=80=8F=E9=81=8E=E6=AD=A4=E5=8A=9F=E8=83=BD=E7=9E=
+=AD=E8=A7=A3=E5=90=84=E5=8F=B0=E9=9B=BB=E8=85=A6=E9=81=8E=E5=8E=BB=E6=B6=88=
+=E8=80=97=E7=9A=84=E6=8E=83=E7=9E=84=E6=AC=A1=E6=95=B8=E3=80=82=E8=AA=AA=E6=
+=98=8E=E5=A6=82=E4=B8=8B=EF=BC=9A<BR><BR>1.=20
+=E7=99=BB=E5=85=A5server=E5=BE=8C=EF=BC=8C=E5=9C=A8"=E7=94=A8=E6=88=B6=E7=
+=AE=A1=E7=90=86"=E9=A0=81=E9=9D=A2=E5=B7=A6=E4=B8=8B=E6=96=B9=E6=9C=89=E4=
+=B8=80=E5=80=8B"=E4=BA=BA=E5=93=A1=E5=88=97=E8=A1=A8"=E6=90=9C=E5=B0=8B=E5=
+=8A=9F=E8=83=BD=EF=BC=8C=E5=9C=A8=E9=80=99=E5=80=8B=E6=90=9C=E5=B0=8B=E5=8A=
+=9F=E8=83=BD=E7=9A=84=E7=B5=90=E6=9E=9C=E9=A0=81=E9=9D=A2=EF=BC=8C=E6=96=B0=
+=E5=A2=9E=E4=BA=86=E6=9C=80=E5=BE=8C=E4=B8=80=E5=80=8B=E6=AC=84=E4=BD=8D"=
+=E7=B4=80=E9=8C=84"=E3=80=82=E9=A1=AF=E7=A4=BA=E6=96=87=E5=AD=97=E7=82=BA=
+"=E7=B4=80=E9=8C=84(=E6=95=B8=E5=AD=97)"=EF=BC=8C=E6=8B=AC=E8=99=9F=E5=85=
+=A7=E7=9A=84=E6=95=B8=E5=AD=97=E8=A1=A8=E7=A4=BA=E9=80=99=E5=8F=B0=E9=9B=BB=
+=E8=85=A6=E5=9C=A8=E6=90=9C=E5=B0=8B=E6=99=82=E9=96=93=E5=8D=80=E9=96=93=E5=
+=85=A7=E6=89=80=E6=B6=88=E8=80=97=E7=9A=84=E6=8E=83=E7=9E=84=E6=AC=A1=E6=95=
+=B8=EF=BC=88=E5=B7=B2=E5=AE=8C=E6=88=90=E3=80=81=E6=B8=85=E6=9F=A5=E4=B8=AD=
+=E9=83=BD=E6=9C=83=E7=AE=97=E4=B8=80=E6=AC=A1=EF=BC=89=E3=80=82=E9=BB=9E=E9=
+=80=B2=E5=8E=BB=E5=BE=8C=E6=9C=83=E7=9C=8B=E8=A6=8B=E9=80=99=E5=8F=B0=E9=9B=
+=BB=E8=85=A6=E5=9C=A8=E9=80=99=E6=AE=B5=E6=99=82=E9=96=93=E5=85=A7=E7=9A=84=
+=E6=8E=83=E7=9E=84=E7=8B=80=E6=B3=81=EF=BC=8C=E5=8C=85=E6=8B=AC=E4=BA=BA=E5=
+=93=A1=E3=80=81=E9=83=A8=E9=96=80=E5=90=8D=E7=A8=B1=E3=80=81=E6=8E=83=E7=9E=
+=84=E8=B5=B7=E5=A7=8B=E6=99=82=E9=96=93=E3=80=82=E6=9C=80=E5=BE=8C=E6=9C=89=
+=E4=B8=80=E5=80=8B"=E5=88=AA=E9=99=A4"=E7=9A=84=E9=80=A3=E7=B5=90=EF=BC=8C=
+=E5=8F=AF=E5=B0=87=E8=A9=B2=E7=AD=86=E6=8E=83=E7=9E=84=E7=B5=90=E6=9E=9C=E5=
+=BE=9Eserver=E4=B8=AD=E5=88=AA=E9=99=A4=E3=80=82<BR><BR>2.=20
+=E5=90=8C=E6=A8=A3=E5=9C=A8=E7=99=BB=E5=85=A5=E5=BE=8C=EF=BC=8C=E5=8E=9F=E6=
+=9C=AC=E6=9C=89=E4=BA=94=E5=80=8B=E5=8A=9F=E8=83=BD=E9=A0=81=E9=9D=A2=EF=BC=
+=8C=E7=8F=BE=E5=9C=A8=E6=96=B0=E5=A2=9E=E6=9C=80=E5=8F=B3=E6=96=B9=E7=9A=84=
+"=E7=B4=80=E9=8C=84"=E9=A0=81=E9=9D=A2=EF=BC=8C=E6=9C=83=E4=BE=9D=E6=99=82=
+=E9=96=93=E9=A0=86=E5=BA=8F=E9=A1=AF=E7=A4=BA=E9=81=8E=E5=8E=BB=E7=9A=84=E6=
+=8E=83=E7=9E=84=E6=AD=B7=E7=A8=8B=E3=80=82=E5=92=8C=E4=B8=8A=E9=9D=A2=E4=B8=
+=8D=E5=90=8C=E4=B9=8B=E8=99=95=E5=9C=A8=E6=96=BC=E9=80=99=E8=A3=A1=E4=B8=8D=
+=E6=9C=83=E5=8D=80=E5=88=86=E4=B8=8D=E5=90=8C=E7=9A=84=E9=9B=BB=E8=85=A6=EF=
+=BC=8C=E8=80=8C=E6=98=AF=E6=8C=89=E6=99=82=E9=96=93=E6=8E=92=E5=BA=8F=E3=80=
+=82=E4=B8=8A=E6=96=B9=E6=9C=83=E9=A1=AF=E7=A4=BA=E7=9B=A4=E9=BB=9E"=E5=AE=
+=8C=E6=88=90"=E7=B4=80=E9=8C=84=E7=AD=86=E6=95=B8=E5=8F=8A"=E6=B8=85=E6=9F=
+=A5=E4=B8=AD"=E7=AD=86=E6=95=B8=E3=80=82<BR><BR>=E4=B8=BB=E8=A6=81=E6=83=B3=
+=E8=AB=8B=E5=A4=A7=E5=AE=B6=E7=9C=8B=E4=B8=80=E4=B8=8B=E4=BB=8B=E9=9D=A2=E4=
+=B8=8A=E6=9C=89=E6=B2=92=E6=9C=89=E4=B8=8D=E5=A4=AA=E6=B8=85=E6=A5=9A=E7=9A=
+=84=E5=9C=B0=E6=96=B9=EF=BC=8C=E8=87=B3=E6=96=BC=E6=96=B0=E5=8A=9F=E8=83=BD=
+=E5=9B=A0=E7=82=BA=E4=B8=8D=E6=98=AF=E5=BE=88=E5=A5=BD=E6=B8=AC=E8=A9=A6=EF=
+=BC=8C=E5=8F=AF=E8=83=BD=E5=B0=B1=E6=98=AF=E8=A9=A6=E8=91=97=E6=8E=83=E8=87=
+=AA=E5=B7=B1=E7=9A=84=E9=9B=BB=E8=85=A6=E5=B9=BE=E6=AC=A1=EF=BC=8C=E7=84=B6=
+=E5=BE=8C=E7=9C=8B=E4=B8=80=E4=B8=8B=E4=BB=A5=E4=B8=8A=E6=98=AF=E5=90=A6=E8=
+=83=BD=E6=AD=A3=E7=A2=BA=E9=A1=AF=E7=A4=BA=E3=80=82=E5=A6=82=E6=9E=9C=E6=9C=
+=89=E4=BB=BB=E4=BD=95=E5=95=8F=E9=A1=8C=E8=AB=8B=E5=86=8D=E5=91=8A=E7=9F=A5=
+=E6=88=91=E5=80=91=EF=BC=8C=E8=AC=9D=E8=AC=9D=E3=80=82<BR><BR>Best=20
+regards,<BR><BR>Odie<BR><BR></DIV></DIV></DIV></DIV></BODY></HTML>
+
+------=_NextPart_000_0352_01CE3F7D.FA0FE290--
+

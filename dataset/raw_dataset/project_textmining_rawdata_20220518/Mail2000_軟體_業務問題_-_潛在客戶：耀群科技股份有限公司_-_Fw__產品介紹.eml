@@ -1,0 +1,351 @@
+X-M2K-MATCHED-RULE: SPAM_FILTER-InADB
+X-M2K-MATCHED-RESULT: Mail Header From In ADB/m2k_adm@mail2000.com.tw
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 220.130.127.161
+	by ms1.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(15963:3:AUTH_NONE)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Thu, 18 May 2017 16:43:44 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+X-M2K-MSG-ID: 0MNQHCE525S1QARE
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=mail2000.com.tw;
+	s=1404201787.mail2000; t=1495097024;
+	bh=MyvGNytwYHzdjUr3HM3wegDevvA=;
+	h=Received:Return-Path:X-ADIFSPAM:X-ADIFSPAM-CT:Received:Received:
+	 From:Reply-To:Subject:Message-ID:To:Cc:Date:MIME-Version:
+	 Return-Path:X-Priority:X-MSMail-Priority:Content-Type;
+	b=N3BrinLnZiua2WfbadflQKqpGiHaayK0LXBQml6uoqjPyXxVpeG2qAFKavSTk8J1a
+	 Rs2JbHigNUtfSzqtjy254FNS5tMEgjkIlkaApat2UWehmg9SiWWNpvJoVkCtlkE0FH
+	 XA5CQhwO2lvFtjPRGlnqoqcj3Kq45J02DijJUUWk=
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/0
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(22146:0:AUTH_LOGIN)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Thu, 18 May 2017 16:43:43 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+X-ADIFSPAM: NO/-6
+X-ADIFSPAM-CT: NO/-6
+Received: By OpenMail Mailer;Thu, 18 May 2017 16:43:43 +0800 (CST)
+Received: By OpenMail Mailer;Thu, 18 May 2017 16:43:43 +0800 (CST)
+From: "=?big5?B?TWFpbDIwMDAgq8iqQaSkpN8=?=" <m2k_adm@mail2000.com.tw>
+Reply-To: "=?big5?B?TWFpbDIwMDAgq8iqQaSkpN8=?=" <m2k_adm@mail2000.com.tw>
+Subject: =?big5?B?TWFpbDIwMDAgs27F6SC3frDIsN3DRCAtILznpmI=?=
+	=?big5?B?q8ik4aFHxKO4c6zsp96q0aX3prOtraS9pXEgLSA=?=
+	=?big5?B?Rnc6ILKjq36ktrLQ?=
+Message-ID: <1495097023.17269.m2k_adm@mail2000.com.tw>
+To: "=?big5?B?sqOrfrd+sMg=?=" <sales@openfind.com.tw>
+Cc: "m2k_service" <m2k_service@mail2000.com.tw>
+Date: Thu, 18 May 2017 16:43:43 +0800 (CST)
+MIME-Version: 1.0
+Return-Path: m2k_adm@mail2000.com.tw
+X-Priority: 1
+X-MSMail-Priority: High
+Content-Type: multipart/mixed;
+	boundary="---L).vxAm434lhkQrnLYn+/qz/eDL"
+
+-----L).vxAm434lhkQrnLYn+/qz/eDL
+Content-Type: multipart/related;
+	boundary="---Z+UJiMQ0uz=1w?Bu?5AXSWTjg1G"
+
+-----Z+UJiMQ0uz=1w?Bu?5AXSWTjg1G
+Content-Type: multipart/alternative;
+	boundary="---ixs4cfLxa5qqE.SB5F53:x(4HLW"
+
+-----ixs4cfLxa5qqE.SB5F53:x(4HLW
+Content-Type: text/plain; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+=B1z=A6n=A1A
+
+=C4=A3=B8s=AC=EC=A7=DE=AA=D1=A5=F7=A6=B3=AD=AD=A4=BD=A5q
+=B8=EA=B0T=AB=D8=B3]=B3=A1=20=A7=F5=B3e=BB=A8=20=A5=FD=A5=CD
+TEL=A1G886-3-5556675=20#1502
+FAX=A1G886-3-6579866
+Mail=A1Gjohnson@asys.com.tw
+
+
+
+=B0=DD=C3D=A1G
+=BC=E7=A6b=AB=C8=A4=E1=B4=A3=A8=EC
+=3D=3D
+=A7=DA=A5q=A5=BF=A6b=B5=FB=A6=F4e-mail=A8t=B2=CE=A1A=ACO=A7_=A5i=C0=B0=A6=A3=
+=A4=B6=B2=D0=B6Q=A5q=AA=BA=B2=A3=AB~=A1Athanks.
+=3D=3D
+=B3=C2=B7=D0=B1z=A6A=C0=B0=A6=A3=B3s=C3=B4=A1A
+=C1=C2=C1=C2=B1z=A1C
+
+
+
+
+
+Jasmine
+
+
+=C1=C2=C1=C2=B1z=B9=EF=20Mail2000=20=AA=BA=B7R=A5=CE=A1A
+=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6A=A6=B8=AC=A2=B8=DF=A1C
+
+Mail2000=20=AB=C8=AAA=A4=A4=A4=DF=20=B7q=A4W
+---------------------------------------------------------------------------
+SecuShare=20=A4=C0=A8=C9=B6=B3=A1=D0=C0=B0=A7A=AA=BA=ABH=BDc=B4=EE=AA=CE
+
+=AB=F6=A4U=B6l=A5=F3=AA=FE=C0=C9=AE=C7=C3=E4=AA=BA=A4=C0=A8=C9=B6=B3=B9=CF=A5=
+=DC=A1A=A7Y=A5i=B1N=AA=FE=C0=C9=A5t=A6s=A9=F3
+=C3=D8=B0e=AA=BA=A4=C0=A8=C9=B6=B3=AA=C5=B6=A1=A1C=B1=B5=B5=DB=A6=DC=A4u=A8=E3=
+=BF=EF=B3=E6=20=A1n=A7R=B0=A3=AA=FE=C0=C9=A1A
+=B4N=AF=E0=C0=B0=B1z=AA=BA=ABH=BDc=BDG=A8=AD=A1I=B8=D4=B1=A1=BD=D0=A8=A3
+---------------------------------------------------------------------------
+
+
+Mail2000=20=AB=C8=AAA=A4=A4=A4=DF
+=AB=C8=AAA=B1M=BDu=A1G02-2553-7272
+=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956
+=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw
+Mail2000=B9q=A4l=ABH=BDc=20http://mail2000.com.tw/
+=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8=20http://www.mailcloud.com.tw=20=
+
+=BA=F4=C0=BA=20Openfind=20=A5=F8=B7~=BA=F4=AF=B8=20http://www.openfind.com/t=
+aiwan
+
+-----Forwarded=20message-----
+From:ASYS-Johnson<johnson@asys.com.tw>
+To:m2k_adm<m2k_adm@mail2000.com.tw>
+Date:=20Thu,=2018=20May=202017=2016:06:35
+Subject:=20=B2=A3=AB~=A4=B6=B2=D0
+
+=B1z=A6n=A1A
+=A7=DA=A5q=A5=BF=A6b=B5=FB=A6=F4e-mail=A8t=B2=CE=A1A=ACO=A7_=A5i=C0=B0=A6=A3=
+=A4=B6=B2=D0=B6Q=A5q=AA=BA=B2=A3=AB~=A1Athanks.
+=20
+=20
+Best=20regards,
+Johnson=20Lee=20=A7=F5=B3e=BB=A8
+=20
+
+=C4=A3=B8s=AC=EC=A7=DE=AA=D1=A5=F7=A6=B3=AD=AD=A4=BD=A5q
+=B8=EA=B0T=AB=D8=B3]=B3=A1
+TEL=A1G886-3-5556675=20#1502
+FAX=A1G886-3-6579866
+Mail=A1Gjohnson@asys.com.tw
+=20
+
+-----ixs4cfLxa5qqE.SB5F53:x(4HLW
+Content-Type: text/html; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>=B1z=A6n=A1A</div><div><br></div><div><div>=C4=A3=B8s=AC=EC=A7=DE=AA=D1=
+=A5=F7=A6=B3=AD=AD=A4=BD=A5q</div><div>=B8=EA=B0T=AB=D8=B3]=B3=A1=20=A7=F5=B3=
+e=BB=A8=20=A5=FD=A5=CD</div><div>TEL=A1G886-3-5556675=20#1502</div><div>FAX=A1=
+G886-3-6579866</div><div>Mail=A1Gjohnson@asys.com.tw</div></div><div><br></d=
+iv><div><br></div><div><br></div><div>=B0=DD=C3D=A1G</div><div>=BC=E7=A6b=AB=
+=C8=A4=E1=B4=A3=A8=EC</div><hr><span=20style=3D"font-size:=2016px;=20font-fa=
+mily:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;">=A7=DA=A5q=A5=BF=A6b=B5=FB=A6=F4</=
+span><span=20lang=3D"EN-US"=20style=3D"font-family:=20Calibri,=20sans-serif;=
+=20font-size:=2016px;">e-mail</span><span=20style=3D"font-size:=2016px;=20fo=
+nt-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;">=A8t=B2=CE=A1A=ACO=A7_=A5i=C0=
+=B0=A6=A3=A4=B6=B2=D0=B6Q=A5q=AA=BA=B2=A3=AB~=A1A</span><span=20lang=3D"EN-U=
+S"=20style=3D"font-family:=20Calibri,=20sans-serif;=20font-size:=2016px;">th=
+anks.</span><hr>=B3=C2=B7=D0=B1z=A6A=C0=B0=A6=A3=B3s=C3=B4=A1A</div><div>=C1=
+=C2=C1=C2=B1z=A1C<br><div><br></div><div><br></div><div><br></div><div><br><=
+/div><div>Jasmine</div><div><br></div><div><br></div><div>=C1=C2=C1=C2=B1z=B9=
+=EF=20Mail2000=20=AA=BA=B7R=A5=CE=A1A</div><div>=ADY=A6=B3=A5=F4=A6=F3=B0=DD=
+=C3D=A1A=C5w=AA=EF=A6A=A6=B8=AC=A2=B8=DF=A1C</div><div><div><br></div></div>=
+<div>Mail2000=20=AB=C8=AAA=A4=A4=A4=DF=20=B7q=A4W</div><div>----------------=
+-----------------------------------------------------------<br><b><font=20co=
+lor=3D"#FF0000">SecuShare=20=A4=C0=A8=C9=B6=B3=A1=D0=C0=B0=A7A=AA=BA=ABH=BDc=
+=B4=EE=AA=CE</font></b><br><br></div><div>=AB=F6=A4U=B6l=A5=F3=AA=FE=C0=C9=AE=
+=C7=C3=E4=AA=BA=A4=C0=A8=C9=B6=B3=B9=CF=A5=DC=A1A=A7Y=A5i=B1N=AA=FE=C0=C9=A5=
+t=A6s=A9=F3<br>=C3=D8=B0e=AA=BA=A4=C0=A8=C9=B6=B3=AA=C5=B6=A1=A1C=B1=B5=B5=DB=
+=A6=DC=A4u=A8=E3=BF=EF=B3=E6=20=A1n=A7R=B0=A3=AA=FE=C0=C9=A1A<br>=B4N=AF=E0=C0=
+=B0=B1z=AA=BA=ABH=BDc=BDG=A8=AD=A1I<a=20href=3D"http://doc.mail2000.com.tw/n=
+ews/1405/AttachToSS.htm">=B8=D4=B1=A1=BD=D0=A8=A3</a></div><div>------------=
+---------------------------------------------------------------</div>
+<div></div>
+<div><div><br></div>
+<div><br></div>
+<div>Mail2000=20=AB=C8=AAA=A4=A4=A4=DF</div>
+<div>=AB=C8=AAA=B1M=BDu=A1G02-2553-7272</div>
+<div>=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956</div>
+<div>=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw</div>
+<div>Mail2000=B9q=A4l=ABH=BDc=20<a=20href=3D"http://mail2000.com.tw/"=20targ=
+et=3D"_blank">http://mail2000.com.tw/</a></div>
+<div>=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8=20<a=20href=3D"http://www.=
+mailcloud.com.tw/"=20target=3D"_blank">http://www.mailcloud.com.tw</a>=20</d=
+iv>
+<div>=BA=F4=C0=BA=20Openfind=20=A5=F8=B7~=BA=F4=AF=B8=20<a=20href=3D"http://=
+www.openfind.com/taiwan"=20target=3D"_blank">http://www.openfind.com/taiwan<=
+/a></div></div></div></div></div></div></div></div></div></div></div></div><=
+/div></div></div></div><br>
+-----Forwarded=20message-----<br>
+
+<b>From:</b>ASYS-Johnson&lt;johnson@asys.com.tw&gt;<br>
+<b>To:</b>m2k_adm&lt;m2k_adm@mail2000.com.tw&gt;<br>
+<b>Date:=20</b>=20Thu,=2018=20May=202017=2016:06:35<br>
+<b>Subject:</b>=20=B2=A3=AB~=A4=B6=B2=D0<br>
+<meta=20http-equiv=3D"Content-Type"=20content=3D"text/html;=20charset=3Dbig5=
+"><meta=20name=3D"Generator"=20content=3D"Microsoft=20Word=2015=20(filtered=20=
+medium)"><!--[if=20!mso]><style>v\:*=20{behavior:url(#default#VML);}
+o\:*=20{behavior:url(#default#VML);}
+w\:*=20{behavior:url(#default#VML);}
+.shape=20{behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/*=20Font=20Definitions=20*/
+@font-face
+=09{font-family:=B7s=B2=D3=A9=FA=C5=E9;
+=09panose-1:2=202=205=200=200=200=200=200=200=200;}
+@font-face
+=09{font-family:=B7s=B2=D3=A9=FA=C5=E9;
+=09panose-1:2=202=205=200=200=200=200=200=200=200;}
+@font-face
+=09{font-family:Calibri;
+=09panose-1:2=2015=205=202=202=202=204=203=202=204;}
+@font-face
+=09{font-family:"\@=B7s=B2=D3=A9=FA=C5=E9";
+=09panose-1:2=202=205=200=200=200=200=200=200=200;}
+@font-face
+=09{font-family:=BC=D0=B7=A2=C5=E9;
+=09panose-1:3=200=205=209=200=200=200=200=200=200;}
+@font-face
+=09{font-family:"\@=BC=D0=B7=A2=C5=E9";
+=09panose-1:3=200=205=209=200=200=200=200=200=200;}
+/*=20Style=20Definitions=20*/
+p.MsoNormal,=20li.MsoNormal,=20div.MsoNormal
+=09{margin:0cm;
+=09margin-bottom:.0001pt;
+=09font-size:12.0pt;
+=09font-family:"Calibri",sans-serif;}
+a:link,=20span.MsoHyperlink
+=09{mso-style-priority:99;
+=09color:#0563C1;
+=09text-decoration:underline;}
+a:visited,=20span.MsoHyperlinkFollowed
+=09{mso-style-priority:99;
+=09color:#954F72;
+=09text-decoration:underline;}
+span.EmailStyle17
+=09{mso-style-type:personal-compose;
+=09font-family:"Calibri",sans-serif;
+=09color:windowtext;}
+.MsoChpDefault
+=09{mso-style-type:export-only;
+=09font-family:"Calibri",sans-serif;}
+/*=20Page=20Definitions=20*/
+@page=20WordSection1
+=09{size:612.0pt=20792.0pt;
+=09margin:72.0pt=2090.0pt=2072.0pt=2090.0pt;}
+div.WordSection1
+=09{page:WordSection1;}
+--></style><!--[if=20gte=20mso=209]><xml>
+<o:shapedefaults=20v:ext=3D"edit"=20spidmax=3D"1026"=20/>
+</xml><![endif]--><!--[if=20gte=20mso=209]><xml>
+<o:shapelayout=20v:ext=3D"edit">
+<o:idmap=20v:ext=3D"edit"=20data=3D"1"=20/>
+</o:shapelayout></xml><![endif]--><x-body><div=20class=3D"WordSection1"><p=20=
+class=3D"MsoNormal"><span=20style=3D"font-family:&quot;=B7s=B2=D3=A9=FA=C5=E9=
+&quot;,serif">=B1z=A6n=A1A</span><span=20lang=3D"EN-US"><o:p></o:p></span></=
+p><p=20class=3D"MsoNormal"><span=20style=3D"font-family:&quot;=B7s=B2=D3=A9=FA=
+=C5=E9&quot;,serif">=A7=DA=A5q=A5=BF=A6b=B5=FB=A6=F4</span><span=20lang=3D"E=
+N-US">e-mail</span><span=20style=3D"font-family:&quot;=B7s=B2=D3=A9=FA=C5=E9=
+&quot;,serif">=A8t=B2=CE=A1A=ACO=A7_=A5i=C0=B0=A6=A3=A4=B6=B2=D0=B6Q=A5q=AA=BA=
+=B2=A3=AB~=A1A</span><span=20lang=3D"EN-US">thanks.<o:p></o:p></span></p><p=20=
+class=3D"MsoNormal"><span=20lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p><p=20=
+class=3D"MsoNormal"=20style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt=
+:auto;layout-grid-mode:char"><b><span=20lang=3D"EN-US"=20style=3D"font-famil=
+y:=BC=D0=B7=A2=C5=E9;color:#365F91"><o:p>&nbsp;</o:p></span></b></p><p=20cla=
+ss=3D"MsoNormal"=20style=3D"background:white"><i><span=20lang=3D"EN-US"=20st=
+yle=3D"font-family:=BC=D0=B7=A2=C5=E9;color:#002060">Best=20regards,</span><=
+/i><span=20lang=3D"EN-US"=20style=3D"font-family:&quot;Arial&quot;,sans-seri=
+f;color:#222222"><o:p></o:p></span></p><p=20class=3D"MsoNormal"=20style=3D"b=
+ackground:white"><i><span=20lang=3D"EN-US"=20style=3D"font-family:=BC=D0=B7=A2=
+=C5=E9;color:#002060">Johnson=20Lee</span></i><span=20lang=3D"EN-US"=20style=
+=3D"font-family:=BC=D0=B7=A2=C5=E9;color:#002060">&nbsp;</span><span=20style=
+=3D"font-family:=BC=D0=B7=A2=C5=E9;color:#002060">=A7=F5=B3e=BB=A8</span><sp=
+an=20lang=3D"EN-US"=20style=3D"font-size:10.5pt;font-family:&quot;Arial&quot=
+;,sans-serif;color:#222222"><o:p></o:p></span></p><p=20class=3D"MsoNormal"=20=
+style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;layout-grid-mode=
+:char"><b><span=20lang=3D"EN-US"=20style=3D"font-family:=BC=D0=B7=A2=C5=E9;c=
+olor:#365F91"><o:p>&nbsp;</o:p></span></b></p><p=20class=3D"MsoNormal"=20sty=
+le=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;layout-grid-mode:ch=
+ar"><span=20lang=3D"EN-US"=20style=3D"font-size:10.0pt;font-family:&quot;Ari=
+al&quot;,sans-serif;color:#365F91"><img=20width=3D"102"=20height=3D"27"=20id=
+=3D"=B9=CF=A4=F9_x0020_1"=20src=3D"cid:591D5EBF$482550m2k_adm@mail2000.com.t=
+w"=20alt=3D"cid:image002.jpg@01C98D45.97C2DDC0"><o:p></o:p></span></p><p=20c=
+lass=3D"MsoNormal"=20style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:=
+auto;layout-grid-mode:char"><b><span=20style=3D"font-family:=BC=D0=B7=A2=C5=E9=
+;color:#365F91">=C4=A3=B8s=AC=EC=A7=DE=AA=D1=A5=F7=A6=B3=AD=AD=A4=BD=A5q</sp=
+an></b><span=20lang=3D"EN-US"=20style=3D"font-family:&quot;Arial&quot;,sans-=
+serif;color:#365F91"><o:p></o:p></span></p><p=20class=3D"MsoNormal"=20style=3D=
+"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;layout-grid-mode:char"><=
+b><span=20style=3D"font-family:=BC=D0=B7=A2=C5=E9;color:#365F91">=B8=EA=B0T=AB=
+=D8=B3]=B3=A1<span=20lang=3D"EN-US"><o:p></o:p></span></span></b></p><p=20cl=
+ass=3D"MsoNormal"=20style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto;layout-grid-mode:char"><span=20lang=3D"EN-US"=20style=3D"font-family:=BC=
+=D0=B7=A2=C5=E9;color:#365F91">TEL</span><span=20style=3D"font-family:=BC=D0=
+=B7=A2=C5=E9;color:#365F91">=A1G<span=20lang=3D"EN-US">886-3-5556675<b>=20#1=
+502<o:p></o:p></b></span></span></p><p=20class=3D"MsoNormal"=20style=3D"mso-=
+margin-top-alt:auto;mso-margin-bottom-alt:auto;layout-grid-mode:char"><span=20=
+lang=3D"EN-US"=20style=3D"font-family:=BC=D0=B7=A2=C5=E9;color:#365F91">FAX<=
+/span><span=20style=3D"font-family:=BC=D0=B7=A2=C5=E9;color:#365F91">=A1G<sp=
+an=20lang=3D"EN-US">886-3-6579866<o:p></o:p></span></span></p><p=20class=3D"=
+MsoNormal"><span=20lang=3D"EN-US"=20style=3D"font-family:=BC=D0=B7=A2=C5=E9;=
+color:#365F91">Mail</span><span=20style=3D"font-family:=BC=D0=B7=A2=C5=E9;co=
+lor:#365F91">=A1G<span=20lang=3D"EN-US">johnson@asys.com.tw</span></span><sp=
+an=20lang=3D"EN-US"><o:p></o:p></span></p><p=20class=3D"MsoNormal"><span=20l=
+ang=3D"EN-US"><o:p>&nbsp;</o:p></span></p></div></x-body></html>
+-----ixs4cfLxa5qqE.SB5F53:x(4HLW--
+
+-----Z+UJiMQ0uz=1w?Bu?5AXSWTjg1G
+Content-Type: image/jpeg;
+	name="image003.jpg"
+Content-Disposition: inline;
+	filename="image003.jpg"
+Content-ID: <591D5EBF$482550m2k_adm@mail2000.com.tw>
+Content-Transfer-Encoding: base64
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwkHBgoJCAkLCwoMDxkQDw4ODx4WFxIZJCAmJSMg
+IyIoLTkwKCo2KyIjMkQyNjs9QEBAJjBGS0U+Sjk/QD3/2wBDAQsLCw8NDx0QEB09KSMpPT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT3/wAARCAAbAGYDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2WuM+
+IXiL+z7Eadavi5uR85B5SP8AxP8AjXT6rqUOkabNeXBxHEucd2PYD614lf30uq6lLd3b/PM+WPXa
+PQfQVzYipyrlW7PWyrB+2qe0kvdj+LIC0oUEs4U9Dk4Neo+Ade+26E9vcNumsh36snY/0ritYvdG
+udDtrex84XNu3y7kwCp68+ueareF9X/sbXIZ3P7h/wB3MPVD/h1rmpy9nPfQ9jFUnjMM7xs1t8v8
+0O1jU9W1u+kuZhc7Cf3cahgqL2AFUfJv/wDnndfk1dJrnhjVdCu5LjSpZnsmO5DG5yoPYjvVKz8a
+6jaHbcRW9yB1EqYb8xRKKT99sqlVlKmvq0Ytdr2ZkLLqFk6zK91AwPD5Zf1r1PwX4m/t7TzFcsPt
+0H+sGMbx2Yf1qLS5tK8a6HPF9nEMmNsiZyY27MDXnUi6h4U1yREcxXUOVDAcMpHX6EVor0WpJ3iz
+kmo5hGVKceWpE6Xx/wCKHmvf7MsZmWOA5mdGxuf0yOw/nWPaz6pp2k/aoZLl7i7yiHczGNO7D0J9
+fSqeg6VJrOpqjBmjB3SHueen1Jr0rXPCg1LQ47e3fyruA743BwM4wR9MURjKref3Cq1KOD5MN97/
+AK/qx5W0eoMxLLdlj1JDZNJ5N/8A887r8mrWkvfEHh6XZcmTaDjEy71P41r6X4+iM8ceqadAI2OG
+liJG33INZKEL2k2mdk69dR5qcFJeTNzwJpNxZ2EksrlZJsFiwyR6Lz+v1orrbdI0hUQhRGRldvQ5
+or0YxUVZHylarKrNzluzyzx/4jGp6l9htpAbW1PzEHh5O5/Dp+dGj+BJtUsVneV43bnaAOB26967
+G+06z+2yD7LBgYxhBW7pyLHYxBAACMmsfYXk5T1PQeZunRjSoLlt17nAf8Kyl/5+X/Ja5DVtKuNH
+v5LS6jZWU/KSOGHYivdzVLU7O3ubcmeFHK9Cw6Up4aLXu6Dw+cVqcr1PeR4/D4t1q3gWGPUpRGg2
+qDg4HpyKoXmoz3777qQSP/e2gH9K9S/s2z/59Yf++BQNOsxyLaLP+6Kh4eb0cjpjm9CD5o0rP5HP
+/D+M6XHd6ldnyrYx5Jbj5R3/AD6VzGt6tP4j1p7kqSZCEhjHZewr2GGzt/7MZTCjKy5IYZBx061z
+cVlbLKrLbxK2eoQA1cqDcVFPQ5qWZxhWnXlG8nt5F3wdoKaVYK7gGQ8lvVu5+g6CuQ8Q+OdQl1qc
+aXeNDaRnYgUD5sdW/E16oqKsYQKNoGMe1c5dadZm7l/0WH73ZBVzptxUYuxz4fFwjVlVrR5mzzaf
+xXrF1GUuL5pEPZlU/wBKzoYZb64WKFN0khwAor1b+zbP/n1h/wC+BVixsLUXKgQIoPXaMVi8NJv3
+pHoLOacE/Z07GnokTQ6PbRuSSiBQT6CirygAYAwBRXZseE3d3Z//2Q==
+
+-----Z+UJiMQ0uz=1w?Bu?5AXSWTjg1G--
+
+-----L).vxAm434lhkQrnLYn+/qz/eDL--

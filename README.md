@@ -1,4 +1,4 @@
-# NTUST_Big-data_Final-project: AI matchmaking - customer questions & preferences
+# NTUST_Big-data_Final-project: AI matchmaking - customer questions and preferences
 
 ## Introduction
 
@@ -10,7 +10,8 @@ This is repository for final project of Big data analysis course. Topic of final
 2. <strong>Organized dataset:</strong>
 
   [Organized dataset](https://github.com/wallrue/NTUST_Big-data_Final-project/dataset/orgaized_dataset/) is result of converting raw dataset into compuatable format. In detail, 2,526 emails from raw dataset were allocated in an CSV file. This CSV file consists of 2,526 tuples corresponding to 2,526 emails and 3 attributes (sender, topic, content) of each email.
-  <strong>* Overview Dataset</strong>: The organized dataset is described as below image.  
+  <strong>* Overview Dataset</strong>: The organized dataset is described as below image.
+  
   <img src="https://github.com/wallrue/NTUST_Big-data_Final-project/dataset/orgaized_dataset/dataset_img.png" alt="1" width = auto height = auto>
 
 ## Architecture
@@ -27,11 +28,11 @@ This is repository for final project of Big data analysis course. Topic of final
   
   <img src="https://github.com/wallrue/NTUST_Big-data_Final-project/materials/workload.png" alt="1" width = auto height = auto>
   
-  * Vo Van Truc: Data handling (review data, organise data, clean dataset)
-  * 洪郡澤 (Nick): Explore dataset, process data for training (topic analysis)
-  * Trinh TT Quynh: Propose Idea, Train LDA model for training, Experiment
-  * Le Minh Tuong: Propose Idea, process data for training (sentiment analysis), manage project
-  * Nguyen PT Nguyen: Decision making (visualization, conclusion, making decision)
+  * **Vo Van Truc**: Data handling (review data, organise data, clean dataset)
+  * **洪郡澤 (Nick)**: Explore dataset, process data for training (topic analysis)
+  * **Trinh TT Quynh**: Propose Idea, Train LDA model for training, Experiment
+  * **Le Minh Tuong**: Propose Idea, process data for training (sentiment analysis), manage project
+  * **Nguyen PT Nguyen**: Decision making (visualization, conclusion, making decision)
   
 
 

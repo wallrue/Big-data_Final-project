@@ -1,0 +1,116 @@
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 220.130.127.159
+	by ms1.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(6586:0:AUTH_NONE)
+	(envelope-from <yen0828@mail2000.com.tw>); Fri, 13 May 2016 15:23:38 +0800 (CST)
+Return-Path: <yen0828@mail2000.com.tw>
+X-M2KSPAM: YES/100
+Received: from 220.130.127.159
+	by asp6.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(48170:0:AUTH_NONE)
+	(envelope-from <yen0828@mail2000.com.tw>); Fri, 13 May 2016 15:23:36 +0800 (CST)
+Return-Path: <yen0828@mail2000.com.tw>
+X-M2KPolicyIP: 220.130.127.159 (p3.mail2000.com.tw)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=mail2000.com.tw;
+	s=1404201787.mail2000; t=1463124216;
+	bh=QOpq3nagMbEN6X20taPZforNFlA=;
+	h=Received:Return-Path:Received:Received:Return-Path:X-M2KSPAM:
+	 Received:Return-Path:X-M2KPolicyIP:DKIM-Signature:X-ADIFSPAM:
+	 X-ADIFSPAM-CT:Received:Return-Path:X-ADIFSPAM:X-ADIFSPAM-CT:
+	 Received:Received:Return-Path:X-M2KSPAM:Received:Return-Path:
+	 X-M2KPolicyIP:DKIM-Signature:X-ADIFSPAM:X-ADIFSPAM-CT:Received:
+	 Return-Path:Received:From:Reply-To:Subject:Message-ID:To:Date:
+	 MIME-Version:Return-Path:Content-Type:Content-Transfer-Encoding;
+	b=cfMOBmQApuCNv2LrflXGvZ5aURzkK251P51wYQXSQBMO1+mN3dCoA+XOl/enk+diE
+	 pm7uC8pb9fStgluQU03vgRCbRO6os/E5bl8I0i5Ycf+ElgeHNj60mB/Ml++YWOIKjY
+	 wwfVXyvIx1SGgmV2vAVdtLub5CQQacpC6jgdxjDw=
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(31072:0:AUTH_RELAY)
+	(envelope-from <yen0828@mail2000.com.tw>); Fri, 13 May 2016 15:23:35 +0800 (CST)
+Return-Path: <yen0828@mail2000.com.tw>
+Received: By OpenMail Mailer;Fri, 13 May 2016 15:23:35 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(17914:0:AUTH_NONE)
+	(envelope-from <yen0828@mail2000.com.tw>); Fri, 13 May 2016 15:23:34 +0800 (CST)
+Return-Path: <yen0828@mail2000.com.tw>
+X-M2KSPAM: NO/0
+Received: from 220.130.127.162
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(42367:2:AUTH_NONE)
+	(envelope-from <yen0828@mail2000.com.tw>); Fri, 13 May 2016 15:23:32 +0800 (CST)
+Return-Path: <yen0828@mail2000.com.tw>
+X-M2KPolicyIP: 220.130.127.162 (p6.mail2000.com.tw)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=mail2000.com.tw;
+	s=1404201787.mail2000; t=1463124212;
+	bh=QOpq3nagMbEN6X20taPZforNFlA=;
+	h=Received:Return-Path:X-ADIFSPAM:X-ADIFSPAM-CT:Received:Received:
+	 Return-Path:X-M2KSPAM:Received:Return-Path:X-M2KPolicyIP:
+	 DKIM-Signature:X-ADIFSPAM:X-ADIFSPAM-CT:Received:Return-Path:
+	 Received:From:Reply-To:Subject:Message-ID:To:Date:MIME-Version:
+	 Return-Path:Content-Type:Content-Transfer-Encoding;
+	b=lghVJXawCC0w9so4njsmlHTJ10Uf+dyRm/4Xotp8UwJySTyq1dEVTww/BBXBqqoSJ
+	 aijDgtnqTB31ARvnQkydg6Q13rjRsrcVw/AyVJoyuixoo5wqIWryU9o9b3pCqQXT7w
+	 z35HMq0T1oxaq+xVBxmLCP/26ZPxg4TBZ7ShhrqU=
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.14
+	by p2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(10769:0:AUTH_RELAY)
+	(envelope-from <yen0828@mail2000.com.tw>); Fri, 13 May 2016 15:23:32 +0800 (CST)
+Return-Path: <yen0828@mail2000.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: By OpenMail Mailer;Fri, 13 May 2016 15:23:31 +0800 (CST)
+Received: from 220.130.127.159
+	by ms2.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(28563:0:AUTH_NONE)
+	(envelope-from <yen0828@mail2000.com.tw>); Fri, 13 May 2016 15:23:29 +0800 (CST)
+Return-Path: <yen0828@mail2000.com.tw>
+X-M2KSPAM: YES/100
+Received: from 220.130.127.159
+	by asp6.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(67918:1:AUTH_NONE)
+	(envelope-from <yen0828@mail2000.com.tw>); Fri, 13 May 2016 15:23:28 +0800 (CST)
+Return-Path: <yen0828@mail2000.com.tw>
+X-M2KPolicyIP: 220.130.127.159 (p3.mail2000.com.tw)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=mail2000.com.tw;
+	s=1404201787.mail2000; t=1463124208;
+	bh=QOpq3nagMbEN6X20taPZforNFlA=;
+	h=Received:Return-Path:Received:From:Reply-To:Subject:Message-ID:To:
+	 Date:MIME-Version:Return-Path:Content-Type:
+	 Content-Transfer-Encoding;
+	b=Mg8DX2ZxNJoGC2Kx20d8NPdss7cUWRBougjAeBnfXcLXabq3PfRxpVHyjRPNbt24j
+	 sLMBDJVzCOpEiC6ZkS4HjknHKeYOefXcU75lZlNNnM5xUuMqMGqMuVxC+T1RlzkCD6
+	 DEu8jYWDKvAE3neoXzJIfrB2wjfcEIiO5L1wXcnY=
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/0
+Received: from 10.0.0.50
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(31043:0:AUTH_LOGIN)
+	(envelope-from <yen0828@mail2000.com.tw>); Fri, 13 May 2016 15:23:28 +0800 (CST)
+Return-Path: <yen0828@mail2000.com.tw>
+Received: By OpenMail Mailer;Fri, 13 May 2016 15:23:27 +0800 (CST)
+From: "yen0828" <yen0828@mail2000.com.tw>
+Reply-To: "yen0828" <yen0828@mail2000.com.tw>
+Subject: =?big5?B?s8al97azqM+lzrDdw0Q=?=
+Message-ID: <1463124207.7195.yen0828@mail2000.com.tw>
+To: "service" <service@keepeverything.com>
+Date: Fri, 13 May 2016 15:23:27 +0800 (CST)
+MIME-Version: 1.0
+Return-Path: yen0828@mail2000.com.tw
+Content-Type: text/plain; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+=A7A=A6n
+=20=20=A7=DA=A6=B3=C1=CA=B6R=B6Q=A4=BD=A5q=B3=C6=A5=F7=B6=B3=B3=C6=A5=F7=AAA=
+=B0=C8=A1A=A5=D8=ABe=A8=CF=A5=CE=A4W=A6=B3=A4@=AD=D3=A7x=C2Z=A1A=AC=DF=B6Q=A4=
+=BD=A5q=AF=E0=B5=B9=A4=A9=B8=D1=B4b=A1C
+=A7=DA=B3=C6=A5=F7=AA=BA=ACO=A6=DB=ADq-=B8=EA=AE=C6=A7=A8D.E=BC=D1=A1C=ACO=A7=
+_=A5u=AF=E0=BE=DC=A4@=B3=C6=A5=F7=A1H=A6]=AC=B0=A7=DA=AA=BAD=BC=D1=B8=EA=AE=C6=
+=A7=A8=A4=C4=BF=EF=B1`=B3Q=B2M=B0=A3=A1A=A7=DA=BB=DD=ADn=A4j=B7=A7=A8=E2=AD=D3=
+=C2=A7=AB=F4=AD=AB=B7s=A4=C4=BF=EF=A4@=A6=B8=A1C=A7=DA=AD=EC=A5=BB=B3]=A9w=A8=
+C=A4=D1=AA=BA17:35=A6=DB=B0=CA=B3=C6=A5=F7=A1A=A7=DA=A4=B5=A4=E9=ABe=A9=B9=AC=
+=DD=B3=C6=A5=F7=AC=F6=BF=FD=AE=C9=A1A=B5o=B2{=A7=DA=AA=BAD=BC=D1=B3=C6=A5=F7=
+=ACO=AA=C5=A5=D5=A1A=BD=D5=BE\=AC=F6=BF=FD=C5=E3=A5=DC=AC=B05/6=B3=C6=A5=F7=AE=
+=C9=B1ND=BC=D1=AA=BA=B8=EA=AE=C6=AF=C9=AF=C9=A7R=B0=A3=A1C=BD=D0=B0=DD=B3o=BC=
+=CB=A6a=B1=A1=A7=CE=A6=B3=A7=EF=B5=BD=AA=BA=A4=E8=AAk=B6=DC=A1H=C1=D9=ACO=A7=
+=DA=AA=BA=B3]=A9w=A6=B3=A5=A2=BB~=A4=A7=B3B=A1H
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=A7d=BFP=BA=F6

@@ -1,0 +1,175 @@
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 220.130.127.163
+	by ms1.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(1102:2:AUTH_NONE)
+	(envelope-from <noreply@keepeverything.userecho.com>); Fri, 03 Mar 2017 08:55:41 +0800 (CST)
+Return-Path: <noreply@keepeverything.userecho.com>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(22139:0:AUTH_RELAY)
+	(envelope-from <noreply@keepeverything.userecho.com>); Fri, 03 Mar 2017 08:55:39 +0800 (CST)
+Return-Path: <noreply@keepeverything.userecho.com>
+Received: By OpenMail Mailer;Fri, 03 Mar 2017 08:55:39 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(2903:0:AUTH_NONE)
+	(envelope-from <noreply@keepeverything.userecho.com>); Fri, 03 Mar 2017 08:55:36 +0800 (CST)
+Return-Path: <noreply@keepeverything.userecho.com>
+X-M2KSPAM: NO/0
+Received: from 220.130.127.160
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(53713:0:AUTH_NONE)
+	(envelope-from <noreply@keepeverything.userecho.com>); Fri, 03 Mar 2017 08:55:32 +0800 (CST)
+Return-Path: <noreply@keepeverything.userecho.com>
+X-M2KPolicyIP: 220.130.127.160 (p4.mail2000.com.tw)
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.13
+	by p2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(27711:0:AUTH_RELAY)
+	(envelope-from <noreply@keepeverything.userecho.com>); Fri, 03 Mar 2017 08:55:30 +0800 (CST)
+Return-Path: <noreply@keepeverything.userecho.com>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: By OpenMail Mailer;Fri, 03 Mar 2017 08:55:29 +0800 (CST)
+Received: from 138.201.207.69
+	by ms1.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(6016:6:AUTH_NONE)
+	(envelope-from <noreply@keepeverything.userecho.com>); Fri, 03 Mar 2017 08:55:24 +0800 (CST)
+Return-Path: <noreply@keepeverything.userecho.com>
+X-M2KSPAM: NO/0
+Received: from 138.201.207.69
+	by asp6.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(97476:0:AUTH_NONE)
+	(envelope-from <noreply@keepeverything.userecho.com>); Fri, 03 Mar 2017 08:55:19 +0800 (CST)
+Return-Path: <noreply@keepeverything.userecho.com>
+X-M2KPolicyIP: 138.201.207.69 (brother.userecho.com)
+Received: from brother.userecho.com (localhost.localdomain [127.0.0.1])
+	by brother.userecho.com (Postfix) with ESMTP id 97594EEA4F
+	for <service@keepeverything.com>; Fri,  3 Mar 2017 01:55:16 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=userecho.com;
+	s=default; t=1488502516;
+	bh=bVsQ+AL0Lq2pXw9gzcWa95kW13J90U5vScD4YOKPIOk=;
+	h=Subject:From:To:Date:References:In-Reply-To:List-Unsubscribe;
+	b=XdEyV3w8bLszHU4MorOH4TduhZ4GXs3McLuAk79z6yWqUkc2/u0kwT/kN31ZbIlL9
+	 eWrR9E7T+/JZe/6wP5CItpiYhDr/rVlTFJc96rRPB0BEYDd+yJDaIIV/5EIjqhk6dC
+	 +La1Mt+o4y5O6lVLsvKgWKAAfp5uHNb8otDRWwMw=
+Content-Type: multipart/alternative;
+ boundary="===============5641975607483269319=="
+MIME-Version: 1.0
+Subject: =?utf-8?b?5YWp5Y+w6Zu76IWm5YWx55So?=
+From: Keep Everything <noreply@keepeverything.userecho.com>
+To: admin <service@keepeverything.com>
+Date: Fri, 03 Mar 2017 00:55:16 -0000
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+References: <20170303005516.22461.63754@mail.userecho.com>
+In-Reply-To: <20170303005516.22461.63754@mail.userecho.com>
+List-Unsubscribe: <http://keepeverything.userecho.com/users/1/unsubscribe/topic/31/?token=d89a8d39834f9aa73c414ebb119e4c29>
+Message-ID: <20170303005516.22461.58@mail.userecho.com>
+X-Mailer: UserEcho Mailer
+
+--===============5641975607483269319==
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Dear admin,
+
+New topic has been posted by argo0001.
+
+兩台電腦共用
+
+
+請問keep everything 可以公用同一備份PST以及文件嗎？例如我在公司收發信又編輯後(已備份)，回到家開筆電，已經備份的檔案可以自動下載到筆電內嗎？請幫忙回答做為購買考量，謝謝！
+
+Click here to open the topic [http://keepeverything.userecho.com/topics/31-/]
+
+Regards,
+The Keepeverything Team
+
+Delivered by UserEcho [http://userecho.com/?utm_source=UserEcho+notifications&utm_medium=email&utm_campaign=all-notifications]
+
+ Unsubscribe [http://keepeverything.userecho.com/users/1/unsubscribe/topic/31/?token=d89a8d39834f9aa73c414ebb119e4c29]
+You have received this email because you subscribed to notifications on topic or forum changes. To unsubscribe open your profile settings and change your notification settings.
+
+
+--===============5641975607483269319==
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<style>
+    /*<![CDATA[*/
+    #outlook a {padding:0;} /* Force Outlook to provide a "view in browser" 
+menu link. */    body{width:100% !important; -webkit-text-size-adjust:100%; 
+-ms-text-size-adjust:100%; margin:0; padding:0;}    .ExternalClass {width:100%;} /* Force Hotmail to display emails at full 
+width */    .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass 
+font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force 
+Hotmail to display normal line spacing.  More on that: 
+http://www.emailonacid.com/forum/viewthread/43/ */    #backgroundTable {margin:0; padding:0; width:100% !important; 
+line-height: 100% !important;}    img {outline:none; text-decoration:none; -ms-interpolation-mode: 
+bicubic;}    a img {border:none;}
+    .image_fix {display:block;}
+    p {margin: 1em 0;}
+    table td {border-collapse: collapse;}
+    table { border-collapse:collapse; mso-table-lspace:0pt; 
+mso-table-rspace:0pt; }    a {color: gray;}
+    a:link { color: gray; }
+    a:visited { color: gray; }
+    a:hover { color: black; }
+    .ue_html p {margin:0;} /* do less spaces between lines in our content */
+    img {max-width:800px !important;}
+        /*]]>*/
+</style>
+</head>
+<body style="background: #f4f7f9; color:#333; font-family:Helvetica Neue, Helvetica, Arial;"><table align="center" bgcolor="#f4f7f9" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" style="background: #f4f7f9;" width="100%"><tr>
+<td align="center">
+<center>
+<p style="text-align: center; font-size:8pt;"><span style="color: #777777;"></span></p><table border="0" cellpadding="0" cellspacing="0" style="margin-left: auto;margin-right: auto;width:90%;text-align:center;max-width:800px" width="90%"><tr>
+<td align="left" style="background: #ffffff;padding:20px; border: 1px solid #dce1e5;" valign="top"><p>Dear admin,</p>
+<p>New topic has been posted by argo0001.</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td align="center" bgcolor="#AAAAAA">
+<h3><a href="http://keepeverything.userecho.com/topics/31-/" style="color: #ffffff !important;">Click 
+here to open the 
+topic</a></h3></td>
+</tr>
+<tr><td bgcolor="#F0F3F3" class="ue_html" style="border:1px solid #f4f7f9;padding:20px"><h3 style="margin-top:0">兩台電腦共用</h3><p>請問keep everything 
+可以公用同一備份PST以及文件嗎？例如我在公司收發信又編輯後(已備份)，回到家開筆電，已經備份的檔案可以自動下載到筆電內嗎？請幫忙回答做為購買考量，謝謝！</p></td></tr>
+</tbody>
+</table>
+<p>
+                                
+                                    Regards,
+                                    <br/>The Keepeverything Team
+                                
+                            </p>
+</td>
+</tr>
+<tr>
+<td align="center" style="color:#999999;padding-top:20px;" valign="top">
+                            Delivered by 
+<a href="http://userecho.com/?utm_source=UserEcho+notifications&amp;utm_medium=email&amp;utm_campaign=all-notifications">UserEcho</a></td>
+</tr>
+<tr>
+<td align="left" style="font-size:12px" valign="top">
+<p style="margin: 1em 0;"><a href="http://keepeverything.userecho.com/users/1/unsubscribe/topic/31/?token=d89a8d39834f9aa73c414ebb119e4c29">Unsubscribe</a>. 
+You have received this email because you subscribed to notifications on topic 
+or forum changes. To unsubscribe open your profile settings and change your 
+notification settings.
+</p>
+</td>
+</tr>
+</table>
+</center>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+--===============5641975607483269319==--

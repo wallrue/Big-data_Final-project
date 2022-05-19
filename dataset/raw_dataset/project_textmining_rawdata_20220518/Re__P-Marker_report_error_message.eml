@@ -1,0 +1,449 @@
+X-M2KSPAM: YES/100
+Received: from 3.3.3.3
+	by asp6.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(2369:0:AUTH_RELAY)
+	(envelope-from <prvs=1893B82C2C=mclee@openfind.com.tw>); Thu, 04 Jul 2013 10:09:58 +0800 (CST)
+Return-Path: <prvs=1893B82C2C=mclee@openfind.com.tw>
+Received: from 10.0.0.40
+	by bak1.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(81287:0:AUTH_RELAY)
+	(envelope-from <prvs=1893B82C2C=mclee@openfind.com.tw>); Thu, 04 Jul 2013 10:09:49 +0800 (CST)
+Return-Path: <prvs=1893B82C2C=mclee@openfind.com.tw>
+M2KForward: Yes
+Received: By OpenMail Mailer;Thu, 04 Jul 2013 10:09:49 +0800 (CST)
+Received: from 203.69.82.34
+	by m0.mail2000.com.tw with Mail2000 ESMTP Server V3.20M(47921:0:AUTH_NONE)
+	(envelope-from <prvs=1893B82C2C=mclee@openfind.com.tw>); Thu, 04 Jul 2013 10:09:49 +0800 (CST)
+Return-Path: <prvs=1893B82C2C=mclee@openfind.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(96424:0:AUTH_NONE)
+	(envelope-from <prvs=1893B82C2C=mclee@openfind.com.tw>); Thu, 04 Jul 2013 10:09:49 +0800 (CST)
+Return-Path: <prvs=1893B82C2C=mclee@openfind.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (audit_rules:rules.audit_out1311132448.system#,,aDELIVER,R/
+	m2k_service@mail2000.com.tw,4,ou)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+X-MGADT: rules.audit_out1311132448.system#,R/m2k_service@mail2000.com.tw
+Received: from 10.0.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(7767:0:AUTH_RELAY)
+	(envelope-from <mclee@openfind.com.tw>); Thu, 04 Jul 2013 10:04:20 +0800 (CST)
+Return-Path: <mclee@openfind.com.tw>
+Received: By OpenMail Mailer;Thu, 04 Jul 2013 10:04:09 +0800 (CST)
+Received: By OpenMail Mailer;Thu, 04 Jul 2013 10:04:05 +0800 (CST)
+X-M2K-AUTH: WEB
+From: "=?big5?B?p/Wpc6zu?=" <mclee@openfind.com.tw>
+Reply-To: "=?big5?B?p/Wpc6zu?=" <mclee@openfind.com.tw>
+Subject: Re: P-Marker report error message
+Message-ID: <1372903436.95066.mclee@openfind.com.tw>
+In-Reply-To: <B4592A35-09ED-4D74-A374-AB5CBE968ABD@radiant-tech.com.tw>
+References: <89EE1A80-5C75-4C86-9ED2-23320FD3191C@radiant-tech.com.tw>
+	<9A04DD44-2646-4A05-A48A-9443F086741A@radiant-tech.com.tw>
+	<005601ce77be$464c4c20$d2e4e460$@com.tw>
+	<B4592A35-09ED-4D74-A374-AB5CBE968ABD@radiant-tech.com.tw>
+To: "=?big5?B?us2p+rjqs3Ffwem6Yb+r?=" <barbet@radiant-tech.com.tw>
+Cc: "=?big5?B?pP27yr3l?=" <mario_wang@openfind.com.tw>,
+	"=?big5?B?UC1NYXJrZXIgrdO46r1MwkmqQbDI?=" <p-marker@openfind.com.tw>,
+	"online_se@openfind.com.tw" <online_se@openfind.com.tw>,
+	"phantom_weng" <phantom_weng@openfind.com.tw>
+Date: Thu, 04 Jul 2013 10:03:56 +0800 (CST)
+MIME-Version: 1.0
+Return-Path: mclee@openfind.com.tw
+Content-Type: multipart/alternative;
+	boundary="---os6RWZSiIhRPX=5b7Srio3REXXv"
+
+-----os6RWZSiIhRPX=5b7Srio3REXXv
+Content-Type: text/plain; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+=C1=E9=C5U=B0=DD=B1z=A6n=A1A
+
+=A7=DA=AD=CC=A4=B5=A4=E9=20(7/4)=20=A4=BA=B7|=B1N=A4=A4=B0=EA=AC=EC=A4j=AA=BA=
+=20P-Marker=20=A5D=BE=F7=A4=C9=A6=DC=B3=CC=B7s=AA=A9=A1A
+=A5]=ACA=B3=CC=B7s=AA=A9=AA=BA=20client=20=A4]=B7|=A7=F3=B7s=A4W=A5h=A8=D1=AB=
+=C8=A4=E1=A6=DB=B8=D3=A5D=BE=F7=20P-Marker=20=BA=F4=AD=B6=A4U=B8=FC=A1A
+=BA=DE=B2z=AA=CC=A6b=BA=DE=B2z=A4=B6=AD=B1=A7Y=A6=B3=A4U=ADz=BF=EF=B6=B5=A5i=
+=A8=CF=A5=CE=20(=B7|=20apply=20=A6=DC=A9=D2=A6=B3=20client)=A1G
+=BDL=C2I=BDd=B3=F2=B3]=A9w=A1G
+=20=20=B7j=B4M=BA=F4=B8=F4=BA=CF=BA=D0=BE=F7
+=20=B7j=B4M=A8=F8=B0=A3=A6=A1=A6s=A9=F1=B8=CB=B8m(=A8=D2=A6p=20USB=A1B=A5~=B1=
+=B5=B5w=BA=D0)=20
+=C0=B3=A5i=B8=D1=A8M=B1z=A9=D2=B8=DF=B0=DD=BDL=C2I=BA=F4=B8=F4=BA=CF=BA=D0=BE=
+=F7=AA=BA=BB=DD=A8D=A1A
+=A7=DA=AD=CC=B1N=A4=A4=B0=EA=AC=EC=A4j=A5D=BE=F7=A7=F3=B7s=A7=B9=AB=E1=A1A=B7=
+|=A5=DF=A8=E8=B3q=AA=BE=B1z=A1C
+
+=A5t=B1z=ACQ=A4=D1=B5=B9=AA=BA=B3=F8=AA=ED=B8=EA=AE=C6=A1A=B2{=A5=BF=AD=AB=B7=
+s=BBs=A7@=A4=A4=A1A=B1N=B8=D1=A8M=B2=CE=ADp=B9=CF=AA=ED=A7e=B2{=AA=BA=B0=DD=C3=
+D=A1A
+=A7=B9=A6=A8=AB=E1=B7|=A5=D1=20Mario=20=B7|=A5=DF=A8=E8=B4=A3=A8=D1=B5=B9=B1=
+z=A1C
+
+Regards,=20
+=A9s=AC=EE
+
+
+=A1=B0=20=A4=DE=ADz=A1m"=BA=CD=A9=FA=B8=EA=B3q_=C1=E9=BAa=BF=AB"=20<barbet@r=
+adiant-tech.com.tw>=A1n=A4=A7=B6l=A5=F3=A4=BA=AEe=A1GDear=20all=A1G
+
+=A4=A4=B0=EA=AC=EC=A7=DE=A4j=BE=C7=B1=C6=A9w7/4,5=A4G=A4=E9=B6i=A6=E6=AD=D3=B8=
+=EA=ABO=C5@=A4=BA=BD]=A1A
+=A6=B3=C3=F6P-Marker=AA=BA=B3=F8=AA=ED=B3=A1=A4=C0=C1=D9=ACO=C2=C2=AA=A9=A1A=
+=AB=E6=BB=DD=A7=F3=B7s=A1I
+
+7/4=A4=E9=A6=E6=B5{=A6=DC=B7s=A6=CB=AE=D5=B0=CF=BD]=AE=D6=A1A=A9=D3=BF=EC=A4=
+H=A4=A3=A6b=A5x=A5_=A1A
+=A5i=A7_=A5=D1=BB=B7=BA=DD=B6i=A6=E6=A8t=B2=CE=A7=F3=B7s=A9O=A1H=BD=D0=A8=F3=
+=A7U=B3B=B2z=A1I
+
+
+*****************************************
+=AD=D3=B8=EA=BDL=ACd=A4=A3=A5J=B2=D3=20=20=ABO=C5@=A7@=AC=B0=A5=D5=B6O=A4O
+=BA=CD=A9=FA=B8=EA=B3q=AA=D1=A5=F7=A6=B3=AD=AD=A4=BD=A5q
+Radiant-Tech=20Co.=20Ltd.
+=AD=BA=AEu=C5U=B0=DD=A1G=C1=E9=BAa=BF=AB
+Mobile:=200932-391-546
+TEL:=2002-23659482
+E-mail:=20barbet=A2Iradiant-tech.com.tw
+
+*****************************************
+
+"phantom_weng"=20<phantom_weng@openfind.com.tw>=20=A9=F3=202013/7/3=20=A4U=A4=
+=C83:23=20=BCg=B9D=A1G
+Dear=20=C1=E9=C5U=B0=DD,
+=20
+=B8g=B9L=C0=CB=ACd=AB=E1=A1A=B5o=B2{=AD=EC=A6]=C0=B3=B8=D3=ACO=A7A=AA=BA=B9q=
+=B8=A3=B0O=BE=D0=C5=E9=A4=A3=A8=AC=A1A=BE=C9=ADP=20Excel=20=B5L=AAk=B0=F5=A6=
+=E6=B3o=ACq=A5=A8=B6=B0=A1C=B6]=A6n=AA=BA=B5=B2=AAG=BD=D0=A5=CE=A4U=A6C=B3s=B5=
+=B2=A4U=B8=FC=A1C
+=20
+https://docs.google.com/file/d/0B8eeJdswXs2pVlBVMHlxQ0tHTWs/edit?usp=3Dshari=
+ng
+=20
+Best=20regards,
+=20
+Phantom
+=20
+=20
+=20
+From:=20=BA=CD=A9=FA=B8=EA=B3q_=C1=E9=BAa=BF=AB=20[mailto:barbet@radiant-tec=
+h.com.tw]=20
+Sent:=20Wednesday,=20July=2003,=202013=208:33=20AM
+To:=20=AF=CE=20=B9=C5=E0=E0;=20Mario
+Subject:=20Re:=20P-Marker=20report=20error=20message
+=20
+Dear=20all:
+=20
+=AD=EC=A9l=B3=F8=A7i=C0=C9=AE=D7=A1A=BD=D0=A6=DC=A5H=A4U=BA=F4=A7}=A4U=B8=FC=
+=A1G
+=20
+P-Marker=20report=20for=20CUTE_1020522.zip:
+=20
+*****************************************
+=AD=D3=B8=EA=BDL=ACd=A4=A3=A5J=B2=D3=20=20=ABO=C5@=A7@=AC=B0=A5=D5=B6O=A4O
+=BA=CD=A9=FA=B8=EA=B3q=AA=D1=A5=F7=A6=B3=AD=AD=A4=BD=A5q
+Radiant-Tech=20Co.=20Ltd.
+=AD=BA=AEu=C5U=B0=DD=A1G=C1=E9=BAa=BF=AB
+Mobile:=200932-391-546
+TEL:=2002-23659482
+E-mail:=20barbet=A2Iradiant-tech.com.tw
+*****************************************
+=20
+=BA=CD=A9=FA=B8=EA=B3q_=C1=E9=BAa=BF=AB=20<barbet@radiant-tech.com.tw>=20=A9=
+=F3=202013/7/3=20=A4W=A4=C88:23=20=BCg=B9D=A1G
+
+
+P-Marker=20report=20error=20message
+=20
+=20
+=20
+<=A4=A4=B0=EA=AC=EC=A7=DE=A4j=BE=C7=AD=D3=B8=EA=BDL=C2I=C1`=AA=ED_=C5U=B0=DD=
+=AA=A9=A5=BB.xlsm>
+<Snip20130703_11.png>
+=20
+*****************************************
+=AD=D3=B8=EA=BDL=ACd=A4=A3=A5J=B2=D3=20=20=ABO=C5@=A7@=AC=B0=A5=D5=B6O=A4O
+=BA=CD=A9=FA=B8=EA=B3q=AA=D1=A5=F7=A6=B3=AD=AD=A4=BD=A5q
+Radiant-Tech=20Co.=20Ltd.
+=AD=BA=AEu=C5U=B0=DD=A1G=C1=E9=BAa=BF=AB
+Mobile:=200932-391-546
+TEL:=2002-23659482
+E-mail:=20barbet=A2Iradiant-tech.com.tw
+*****************************************
+=20
+=20
+
+
+-----os6RWZSiIhRPX=5b7Srio3REXXv
+Content-Type: text/html; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+<html>=C1=E9=C5U=B0=DD=B1z=A6n=A1A<br><br>=A7=DA=AD=CC=A4=B5=A4=E9=20(7/4)=20=
+=A4=BA=B7|=B1N=A4=A4=B0=EA=AC=EC=A4j=AA=BA=20P-Marker=20=A5D=BE=F7=A4=C9=A6=DC=
+=B3=CC=B7s=AA=A9=A1A<br>=A5]=ACA=B3=CC=B7s=AA=A9=AA=BA=20client=20=A4]=B7|=A7=
+=F3=B7s=A4W=A5h=A8=D1=AB=C8=A4=E1=A6=DB=B8=D3=A5D=BE=F7=20P-Marker=20=BA=F4=AD=
+=B6=A4U=B8=FC=A1A<br>=BA=DE=B2z=AA=CC=A6b=BA=DE=B2z=A4=B6=AD=B1=A7Y=A6=B3=A4=
+U=ADz=BF=EF=B6=B5=A5i=A8=CF=A5=CE=20(=B7|=20apply=20=A6=DC=A9=D2=A6=B3=20cli=
+ent)=A1G<br><blockquote><div=20class=3D"title">=BDL=C2I=BDd=B3=F2=B3]=A9w=A1=
+G</div>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20<div>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20<label><input=20name=3D"netDisk"=20type=3D"checkbox">=20=
+=B7j=B4M=BA=F4=B8=F4=BA=CF=BA=D0=BE=F7</label><br>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20<label><input=20name=3D"removableDisk"=20type=3D"checkb=
+ox">=20=B7j=B4M=A8=F8=B0=A3=A6=A1=A6s=A9=F1=B8=CB=B8m(=A8=D2=A6p=20USB=A1B=A5=
+~=B1=B5=B5w=BA=D0)</label>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20</div></blockquote>=C0=B3=A5i=B8=D1=A8M=B1z=A9=D2=B8=DF=B0=DD=BD=
+L=C2I=BA=F4=B8=F4=BA=CF=BA=D0=BE=F7=AA=BA=BB=DD=A8D=A1A<br>=A7=DA=AD=CC=B1N=A4=
+=A4=B0=EA=AC=EC=A4j=A5D=BE=F7=A7=F3=B7s=A7=B9=AB=E1=A1A=B7|=A5=DF=A8=E8=B3q=AA=
+=BE=B1z=A1C<br><br>=A5t=B1z=ACQ=A4=D1=B5=B9=AA=BA=B3=F8=AA=ED=B8=EA=AE=C6=A1=
+A=B2{=A5=BF=AD=AB=B7s=BBs=A7@=A4=A4=A1A=B1N=B8=D1=A8M=B2=CE=ADp=B9=CF=AA=ED=A7=
+e=B2{=AA=BA=B0=DD=C3D=A1A<br>=A7=B9=A6=A8=AB=E1=B7|=A5=D1=20Mario=20=B7|=A5=DF=
+=A8=E8=B4=A3=A8=D1=B5=B9=B1z=A1C<br><br>Regards,=20<br>=A9s=AC=EE<br>
+<p>
+</p><blockquote=20dir=3D"ltr"=20style=3D"PADDING-RIGHT:=200px;=20PADDING-LEF=
+T:=205px;=20MARGIN-LEFT:=205px;=20BORDER-LEFT:=20#000000=202px=20solid;=20MA=
+RGIN-RIGHT:=200px">
+=A1=B0=20=A4=DE=ADz=A1m"=BA=CD=A9=FA=B8=EA=B3q_=C1=E9=BAa=BF=AB"=20&lt;barbe=
+t@radiant-tech.com.tw&gt;=A1n=A4=A7=B6l=A5=F3=A4=BA=AEe=A1G
+<meta=20http-equiv=3D"Content-Type"=20content=3D"text/html=20charset=3Dbig5"=
+><div>Dear=20all=A1G</div><div><br></div><div>=A4=A4=B0=EA=AC=EC=A7=DE=A4j=BE=
+=C7=B1=C6=A9w7/4,5=A4G=A4=E9=B6i=A6=E6=AD=D3=B8=EA=ABO=C5@=A4=BA=BD]=A1A</di=
+v><div>=A6=B3=C3=F6P-Marker=AA=BA=B3=F8=AA=ED=B3=A1=A4=C0=C1=D9=ACO=C2=C2=AA=
+=A9=A1A=AB=E6=BB=DD=A7=F3=B7s=A1I</div><div><br></div><div>7/4=A4=E9=A6=E6=B5=
+{=A6=DC=B7s=A6=CB=AE=D5=B0=CF=BD]=AE=D6=A1A=A9=D3=BF=EC=A4H=A4=A3=A6b=A5x=A5=
+_=A1A</div><div>=A5i=A7_=A5=D1=BB=B7=BA=DD=B6i=A6=E6=A8t=B2=CE=A7=F3=B7s=A9O=
+=A1H=BD=D0=A8=F3=A7U=B3B=B2z=A1I</div><div><br></div><br><div>
+<div=20style=3D"color:=20rgb(0,=200,=200);=20font-family:=20Helvetica;=20fon=
+t-size:=20medium;=20font-style:=20normal;=20font-variant:=20normal;=20font-w=
+eight:=20normal;=20letter-spacing:=20normal;=20line-height:=20normal;=20orph=
+ans:=202;=20text-align:=20-webkit-auto;=20text-indent:=200px;=20text-transfo=
+rm:=20none;=20white-space:=20normal;=20widows:=202;=20word-spacing:=200px;=20=
+-webkit-text-size-adjust:=20auto;=20-webkit-text-stroke-width:=200px;=20word=
+-wrap:=20break-word;=20-webkit-nbsp-mode:=20space;=20-webkit-line-break:=20a=
+fter-white-space;=20"><div=20style=3D"color:=20rgb(0,=200,=200);=20font-fami=
+ly:=20Helvetica;=20font-size:=20medium;=20font-style:=20normal;=20font-varia=
+nt:=20normal;=20font-weight:=20normal;=20letter-spacing:=20normal;=20line-he=
+ight:=20normal;=20orphans:=202;=20text-align:=20-webkit-auto;=20text-indent:=
+=200px;=20text-transform:=20none;=20white-space:=20normal;=20widows:=202;=20=
+word-spacing:=200px;=20-webkit-text-size-adjust:=20auto;=20-webkit-text-stro=
+ke-width:=200px;=20word-wrap:=20break-word;=20-webkit-nbsp-mode:=20space;=20=
+-webkit-line-break:=20after-white-space;=20"><div=20style=3D"color:=20rgb(0,=
+=200,=200);=20font-family:=20Helvetica;=20font-size:=20medium;=20font-style:=
+=20normal;=20font-variant:=20normal;=20font-weight:=20normal;=20letter-spaci=
+ng:=20normal;=20line-height:=20normal;=20orphans:=202;=20text-align:=20-webk=
+it-auto;=20text-indent:=200px;=20text-transform:=20none;=20white-space:=20no=
+rmal;=20widows:=202;=20word-spacing:=200px;=20-webkit-text-size-adjust:=20au=
+to;=20-webkit-text-stroke-width:=200px;=20word-wrap:=20break-word;=20-webkit=
+-nbsp-mode:=20space;=20-webkit-line-break:=20after-white-space;=20"><div>***=
+**************************************<br>=AD=D3=B8=EA=BDL=ACd=A4=A3=A5J=B2=D3=
+=20&nbsp;=ABO=C5@=A7@=AC=B0=A5=D5=B6O=A4O<br>=BA=CD=A9=FA=B8=EA=B3q=AA=D1=A5=
+=F7=A6=B3=AD=AD=A4=BD=A5q<br>Radiant-Tech=20Co.=20Ltd.<br>=AD=BA=AEu=C5U=B0=DD=
+=A1G=C1=E9=BAa=BF=AB<br>Mobile:=200932-391-546<br>TEL:=2002-23659482<br>E-ma=
+il:&nbsp;<a=20href=3D"mailto:barbet@radiant-tech.com.tw">barbet=A2Iradiant-t=
+ech.com.tw</a><br></div><div>*****************************************</div>=
+</div></div></div>
+</div>
+<br><div><div>"phantom_weng"=20&lt;<a=20href=3D"mailto:phantom_weng@openfind=
+.com.tw">phantom_weng@openfind.com.tw</a>&gt;=20=A9=F3=202013/7/3=20=A4U=A4=C8=
+3:23=20=BCg=B9D=A1G</div><br=20class=3D"Apple-interchange-newline"><blockquo=
+te=20type=3D"cite"><div=20link=3D"blue"=20vlink=3D"purple"=20style=3D"font-f=
+amily:=20Helvetica;=20font-size:=20medium;=20font-style:=20normal;=20font-va=
+riant:=20normal;=20font-weight:=20normal;=20letter-spacing:=20normal;=20line=
+-height:=20normal;=20orphans:=202;=20text-align:=20-webkit-auto;=20text-inde=
+nt:=200px;=20text-transform:=20none;=20white-space:=20normal;=20widows:=202;=
+=20word-spacing:=200px;=20-webkit-text-size-adjust:=20auto;=20-webkit-text-s=
+troke-width:=200px;=20"=20lang=3D"ZH-TW"><div=20class=3D"WordSection1"=20sty=
+le=3D"page:=20WordSection1;=20"><div=20style=3D"margin:=200cm=200cm=200.0001=
+pt;=20font-size:=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20=
+"><span=20style=3D"font-family:=20Calibri,=20sans-serif;=20color:=20rgb(31,=20=
+73,=20125);=20"=20lang=3D"EN-US">Dear<span=20class=3D"Apple-converted-space"=
+>&nbsp;</span></span><span=20style=3D"color:=20rgb(31,=2073,=20125);=20">=C1=
+=E9=C5U=B0=DD</span><span=20style=3D"font-family:=20Calibri,=20sans-serif;=20=
+color:=20rgb(31,=2073,=20125);=20"=20lang=3D"EN-US">,<o:p></o:p></span></div=
+><div=20style=3D"margin:=200cm=200cm=200.0001pt;=20font-size:=2012pt;=20font=
+-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><span=20style=3D"font-family=
+:=20Calibri,=20sans-serif;=20color:=20rgb(31,=2073,=20125);=20"=20lang=3D"EN=
+-US">&nbsp;</span></div><div=20style=3D"margin:=200cm=200cm=200.0001pt;=20fo=
+nt-size:=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><span=
+=20style=3D"color:=20rgb(31,=2073,=20125);=20">=B8g=B9L=C0=CB=ACd=AB=E1=A1A=B5=
+o=B2{=AD=EC=A6]=C0=B3=B8=D3=ACO=A7A=AA=BA=B9q=B8=A3=B0O=BE=D0=C5=E9=A4=A3=A8=
+=AC=A1A=BE=C9=ADP</span><span=20style=3D"font-family:=20Calibri,=20sans-seri=
+f;=20color:=20rgb(31,=2073,=20125);=20"=20lang=3D"EN-US"><span=20class=3D"Ap=
+ple-converted-space">&nbsp;</span>Excel<span=20class=3D"Apple-converted-spac=
+e">&nbsp;</span></span><span=20style=3D"color:=20rgb(31,=2073,=20125);=20">=B5=
+L=AAk=B0=F5=A6=E6=B3o=ACq=A5=A8=B6=B0=A1C=B6]=A6n=AA=BA=B5=B2=AAG=BD=D0=A5=CE=
+=A4U=A6C=B3s=B5=B2=A4U=B8=FC=A1C</span><span=20style=3D"font-family:=20Calib=
+ri,=20sans-serif;=20color:=20rgb(31,=2073,=20125);=20"=20lang=3D"EN-US"><o:p=
+></o:p></span></div><div=20style=3D"margin:=200cm=200cm=200.0001pt;=20font-s=
+ize:=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><span=20s=
+tyle=3D"font-family:=20Calibri,=20sans-serif;=20color:=20rgb(31,=2073,=20125=
+);=20"=20lang=3D"EN-US">&nbsp;</span></div><div=20style=3D"margin:=200cm=200=
+cm=200.0001pt;=20font-size:=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=
+=20serif;=20"><span=20style=3D"font-family:=20Calibri,=20sans-serif;=20color=
+:=20rgb(31,=2073,=20125);=20"=20lang=3D"EN-US"><a=20href=3D"https://docs.goo=
+gle.com/file/d/0B8eeJdswXs2pVlBVMHlxQ0tHTWs/edit?usp=3Dsharing"=20style=3D"c=
+olor:=20purple;=20text-decoration:=20underline;=20">https://docs.google.com/=
+file/d/0B8eeJdswXs2pVlBVMHlxQ0tHTWs/edit?usp=3Dsharing</a><o:p></o:p></span>=
+</div><div=20style=3D"margin:=200cm=200cm=200.0001pt;=20font-size:=2012pt;=20=
+font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><span=20style=3D"font-fa=
+mily:=20Calibri,=20sans-serif;=20color:=20rgb(31,=2073,=20125);=20"=20lang=3D=
+"EN-US">&nbsp;</span></div><div=20style=3D"margin:=200cm=200cm=200.0001pt;=20=
+font-size:=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><sp=
+an=20style=3D"font-family:=20Calibri,=20sans-serif;=20color:=20rgb(31,=2073,=
+=20125);=20"=20lang=3D"EN-US">Best=20regards,<o:p></o:p></span></div><div=20=
+style=3D"margin:=200cm=200cm=200.0001pt;=20font-size:=2012pt;=20font-family:=
+=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><span=20style=3D"font-family:=20Cali=
+bri,=20sans-serif;=20color:=20rgb(31,=2073,=20125);=20"=20lang=3D"EN-US">&nb=
+sp;</span></div><div=20style=3D"margin:=200cm=200cm=200.0001pt;=20font-size:=
+=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><span=20style=
+=3D"font-family:=20Calibri,=20sans-serif;=20color:=20rgb(31,=2073,=20125);=20=
+"=20lang=3D"EN-US">Phantom<o:p></o:p></span></div><div=20style=3D"margin:=20=
+0cm=200cm=200.0001pt;=20font-size:=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=
+=C5=E9,=20serif;=20"><span=20style=3D"font-family:=20Calibri,=20sans-serif;=20=
+color:=20rgb(31,=2073,=20125);=20"=20lang=3D"EN-US">&nbsp;</span></div><div=20=
+style=3D"margin:=200cm=200cm=200.0001pt;=20font-size:=2012pt;=20font-family:=
+=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><span=20style=3D"font-family:=20Cali=
+bri,=20sans-serif;=20color:=20rgb(31,=2073,=20125);=20"=20lang=3D"EN-US">&nb=
+sp;</span></div><div=20style=3D"margin:=200cm=200cm=200.0001pt;=20font-size:=
+=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><span=20style=
+=3D"font-family:=20Calibri,=20sans-serif;=20color:=20rgb(31,=2073,=20125);=20=
+"=20lang=3D"EN-US">&nbsp;</span></div><div><div=20style=3D"border-style:=20s=
+olid=20none=20none;=20border-top-width:=201pt;=20border-top-color:=20rgb(181=
+,=20196,=20223);=20padding:=203pt=200cm=200cm;=20"><div=20style=3D"margin:=20=
+0cm=200cm=200.0001pt;=20font-size:=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=
+=C5=E9,=20serif;=20"><b><span=20style=3D"font-size:=2010pt;=20font-family:=20=
+Tahoma,=20sans-serif;=20"=20lang=3D"EN-US">From:</span></b><span=20style=3D"=
+font-size:=2010pt;=20font-family:=20Tahoma,=20sans-serif;=20"=20lang=3D"EN-U=
+S">&nbsp;</span><span=20style=3D"font-size:=2010pt;=20">=BA=CD=A9=FA=B8=EA=B3=
+q</span><span=20style=3D"font-size:=2010pt;=20font-family:=20Tahoma,=20sans-=
+serif;=20"=20lang=3D"EN-US">_</span><span=20style=3D"font-size:=2010pt;=20">=
+=C1=E9=BAa=BF=AB</span><span=20style=3D"font-size:=2010pt;=20font-family:=20=
+Tahoma,=20sans-serif;=20"=20lang=3D"EN-US"><span=20class=3D"Apple-converted-=
+space">&nbsp;</span>[mailto:barbet@<a=20href=3D"http://radiant-tech.com.tw/"=
+=20style=3D"color:=20purple;=20text-decoration:=20underline;=20">radiant-tec=
+h.com.tw</a>]<span=20class=3D"Apple-converted-space">&nbsp;</span><br><b>Sen=
+t:</b><span=20class=3D"Apple-converted-space">&nbsp;</span>Wednesday,=20July=
+=2003,=202013=208:33=20AM<br><b>To:</b><span=20class=3D"Apple-converted-spac=
+e">&nbsp;</span></span><span=20style=3D"font-size:=2010pt;=20">=AF=CE</span>=
+<span=20style=3D"font-size:=2010pt;=20font-family:=20Tahoma,=20sans-serif;=20=
+">&nbsp;</span><span=20style=3D"font-size:=2010pt;=20">=B9=C5=E0=E0</span><s=
+pan=20style=3D"font-size:=2010pt;=20font-family:=20Tahoma,=20sans-serif;=20"=
+=20lang=3D"EN-US">;=20Mario<br><b>Subject:</b><span=20class=3D"Apple-convert=
+ed-space">&nbsp;</span>Re:=20P-Marker=20report=20error=20message<o:p></o:p><=
+/span></div></div></div><div=20style=3D"margin:=200cm=200cm=200.0001pt;=20fo=
+nt-size:=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><span=
+=20lang=3D"EN-US">&nbsp;</span></div><div><div=20style=3D"margin:=200cm=200c=
+m=200.0001pt;=20font-size:=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20=
+serif;=20"><span=20lang=3D"EN-US">Dear=20all:<o:p></o:p></span></div></div><=
+div><div=20style=3D"margin:=200cm=200cm=200.0001pt;=20font-size:=2012pt;=20f=
+ont-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><span=20lang=3D"EN-US">&n=
+bsp;</span></div></div><div><div=20style=3D"margin:=200cm=200cm=200.0001pt;=20=
+font-size:=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20">=AD=
+=EC=A9l=B3=F8=A7i=C0=C9=AE=D7=A1A=BD=D0=A6=DC=A5H=A4U=BA=F4=A7}=A4U=B8=FC=A1=
+G<span=20lang=3D"EN-US"><o:p></o:p></span></div></div><div><div=20style=3D"m=
+argin:=200cm=200cm=200.0001pt;=20font-size:=2012pt;=20font-family:=20=B7s=B2=
+=D3=A9=FA=C5=E9,=20serif;=20"><span=20lang=3D"EN-US">&nbsp;</span></div></di=
+v><div><div=20style=3D"margin:=200cm=200cm=200.0001pt;=20font-size:=2012pt;=20=
+font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><span=20lang=3D"EN-US">P=
+-Marker=20report=20for=20CUTE_1020522.zip:<o:p></o:p></span></div></div><div=
+=20style=3D"margin:=200cm=200cm=200.0001pt;=20font-size:=2012pt;=20font-fami=
+ly:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><span=20lang=3D"EN-US">&nbsp;</sp=
+an></div><div><div><div=20style=3D"margin:=200cm=200cm=200.0001pt;=20font-si=
+ze:=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><span=20st=
+yle=3D"font-size:=2013.5pt;=20font-family:=20Helvetica,=20sans-serif;=20"=20=
+lang=3D"EN-US">*****************************************<br></span><span=20s=
+tyle=3D"font-size:=2013.5pt;=20">=AD=D3=B8=EA=BDL=ACd=A4=A3=A5J=B2=D3</span>=
+<span=20style=3D"font-size:=2013.5pt;=20font-family:=20Helvetica,=20sans-ser=
+if;=20"=20lang=3D"EN-US"><span=20class=3D"Apple-converted-space">&nbsp;</spa=
+n>&nbsp;</span><span=20style=3D"font-size:=2013.5pt;=20">=ABO=C5@=A7@=AC=B0=A5=
+=D5=B6O=A4O</span><span=20style=3D"font-size:=2013.5pt;=20font-family:=20Hel=
+vetica,=20sans-serif;=20"=20lang=3D"EN-US"><br></span><span=20style=3D"font-=
+size:=2013.5pt;=20">=BA=CD=A9=FA=B8=EA=B3q=AA=D1=A5=F7=A6=B3=AD=AD=A4=BD=A5q=
+</span><span=20style=3D"font-size:=2013.5pt;=20font-family:=20Helvetica,=20s=
+ans-serif;=20"=20lang=3D"EN-US"><br>Radiant-Tech=20Co.=20Ltd.<br></span><spa=
+n=20style=3D"font-size:=2013.5pt;=20">=AD=BA=AEu=C5U=B0=DD=A1G=C1=E9=BAa=BF=AB=
+</span><span=20style=3D"font-size:=2013.5pt;=20font-family:=20Helvetica,=20s=
+ans-serif;=20"=20lang=3D"EN-US"><br>Mobile:=200932-391-546<br>TEL:=2002-2365=
+9482<br>E-mail:&nbsp;<a=20href=3D"mailto:barbet@radiant-tech.com.tw"=20style=
+=3D"color:=20purple;=20text-decoration:=20underline;=20">barbet<span=20style=
+=3D"font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"=20lang=3D"EN-US"><sp=
+an=20lang=3D"EN-US">=A2I</span></span>radiant-tech.com.tw</a><o:p></o:p></sp=
+an></div></div><div><div=20style=3D"margin:=200cm=200cm=200.0001pt;=20font-s=
+ize:=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><span=20s=
+tyle=3D"font-size:=2013.5pt;=20font-family:=20Helvetica,=20sans-serif;=20"=20=
+lang=3D"EN-US">*****************************************<o:p></o:p></span></=
+div></div></div><div=20style=3D"margin:=200cm=200cm=200.0001pt;=20font-size:=
+=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><span=20lang=3D=
+"EN-US">&nbsp;</span></div><div><div><div=20style=3D"margin:=200cm=200cm=200=
+.0001pt;=20font-size:=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20ser=
+if;=20">=BA=CD=A9=FA=B8=EA=B3q<span=20lang=3D"EN-US">_</span>=C1=E9=BAa=BF=AB=
+<span=20lang=3D"EN-US"><span=20class=3D"Apple-converted-space">&nbsp;</span>=
+&lt;<a=20href=3D"mailto:barbet@radiant-tech.com.tw"=20style=3D"color:=20purp=
+le;=20text-decoration:=20underline;=20">barbet@radiant-tech.com.tw</a>&gt;<s=
+pan=20class=3D"Apple-converted-space">&nbsp;</span></span>=A9=F3<span=20lang=
+=3D"EN-US"><span=20class=3D"Apple-converted-space">&nbsp;</span>2013/7/3<spa=
+n=20class=3D"Apple-converted-space">&nbsp;</span></span>=A4W=A4=C8<span=20la=
+ng=3D"EN-US">8:23<span=20class=3D"Apple-converted-space">&nbsp;</span></span=
+>=BCg=B9D=A1G<span=20lang=3D"EN-US"><o:p></o:p></span></div></div><div=20sty=
+le=3D"margin:=200cm=200cm=200.0001pt;=20font-size:=2012pt;=20font-family:=20=
+=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><span=20lang=3D"EN-US"><br><br><o:p></o=
+:p></span></div><div><div><div=20style=3D"margin:=200cm=200cm=200.0001pt;=20=
+font-size:=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><sp=
+an=20lang=3D"EN-US">P-Marker=20report=20error=20message<o:p></o:p></span></d=
+iv></div><div><div=20style=3D"margin:=200cm=200cm=200.0001pt;=20font-size:=20=
+12pt;=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><span=20lang=3D"=
+EN-US">&nbsp;</span></div></div><div><div=20style=3D"margin:=200cm=200cm=200=
+.0001pt;=20font-size:=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20ser=
+if;=20"><span=20lang=3D"EN-US">&nbsp;</span></div></div><div><div=20style=3D=
+"margin:=200cm=200cm=200.0001pt;=20font-size:=2012pt;=20font-family:=20=B7s=B2=
+=D3=A9=FA=C5=E9,=20serif;=20"><span=20lang=3D"EN-US">&nbsp;</span></div></di=
+v></div><div=20style=3D"margin:=200cm=200cm=200.0001pt;=20font-size:=2012pt;=
+=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><span=20lang=3D"EN-US=
+">&lt;</span>=A4=A4=B0=EA=AC=EC=A7=DE=A4j=BE=C7=AD=D3=B8=EA=BDL=C2I=C1`=AA=ED=
+<span=20lang=3D"EN-US">_</span>=C5U=B0=DD=AA=A9=A5=BB<span=20lang=3D"EN-US">=
+.xlsm&gt;<o:p></o:p></span></div><div=20style=3D"margin:=200cm=200cm=200.000=
+1pt;=20font-size:=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20=
+"><span=20lang=3D"EN-US">&lt;Snip20130703_11.png&gt;<o:p></o:p></span></div>=
+<div><div=20style=3D"margin:=200cm=200cm=200.0001pt;=20font-size:=2012pt;=20=
+font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><span=20lang=3D"EN-US">&=
+nbsp;</span></div><div><div><div=20style=3D"margin:=200cm=200cm=200.0001pt;=20=
+font-size:=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><sp=
+an=20style=3D"font-size:=2013.5pt;=20font-family:=20Helvetica,=20sans-serif;=
+=20"=20lang=3D"EN-US">*****************************************<br></span><s=
+pan=20style=3D"font-size:=2013.5pt;=20">=AD=D3=B8=EA=BDL=ACd=A4=A3=A5J=B2=D3=
+</span><span=20style=3D"font-size:=2013.5pt;=20font-family:=20Helvetica,=20s=
+ans-serif;=20"=20lang=3D"EN-US"><span=20class=3D"Apple-converted-space">&nbs=
+p;</span>&nbsp;</span><span=20style=3D"font-size:=2013.5pt;=20">=ABO=C5@=A7@=
+=AC=B0=A5=D5=B6O=A4O</span><span=20style=3D"font-size:=2013.5pt;=20font-fami=
+ly:=20Helvetica,=20sans-serif;=20"=20lang=3D"EN-US"><br></span><span=20style=
+=3D"font-size:=2013.5pt;=20">=BA=CD=A9=FA=B8=EA=B3q=AA=D1=A5=F7=A6=B3=AD=AD=A4=
+=BD=A5q</span><span=20style=3D"font-size:=2013.5pt;=20font-family:=20Helveti=
+ca,=20sans-serif;=20"=20lang=3D"EN-US"><br>Radiant-Tech=20Co.=20Ltd.<br></sp=
+an><span=20style=3D"font-size:=2013.5pt;=20">=AD=BA=AEu=C5U=B0=DD=A1G=C1=E9=BA=
+a=BF=AB</span><span=20style=3D"font-size:=2013.5pt;=20font-family:=20Helveti=
+ca,=20sans-serif;=20"=20lang=3D"EN-US"><br>Mobile:=200932-391-546<br>TEL:=20=
+02-23659482<br>E-mail:&nbsp;<a=20href=3D"mailto:barbet@radiant-tech.com.tw"=20=
+style=3D"color:=20purple;=20text-decoration:=20underline;=20">barbet<span=20=
+style=3D"font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"=20lang=3D"EN-US=
+"><span=20lang=3D"EN-US">=A2I</span></span>radiant-tech.com.tw</a><o:p></o:p=
+></span></div></div><div><div=20style=3D"margin:=200cm=200cm=200.0001pt;=20f=
+ont-size:=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><spa=
+n=20style=3D"font-size:=2013.5pt;=20font-family:=20Helvetica,=20sans-serif;=20=
+"=20lang=3D"EN-US">*****************************************<o:p></o:p></spa=
+n></div></div></div><div=20style=3D"margin:=200cm=200cm=200.0001pt;=20font-s=
+ize:=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9,=20serif;=20"><span=20l=
+ang=3D"EN-US">&nbsp;</span></div></div></div><div=20style=3D"margin:=200cm=20=
+0cm=200.0001pt;=20font-size:=2012pt;=20font-family:=20=B7s=B2=D3=A9=FA=C5=E9=
+,=20serif;=20"><span=20lang=3D"EN-US">&nbsp;</span></div></div></div></block=
+quote></div><br></blockquote></html>
+-----os6RWZSiIhRPX=5b7Srio3REXXv--

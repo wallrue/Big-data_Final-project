@@ -1,0 +1,184 @@
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 220.130.127.159
+	by ms1.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(22130:3:AUTH_NONE)
+	(envelope-from <kyle.jcic@gmail.com>); Tue, 12 Sep 2017 20:53:23 +0800 (CST)
+Return-Path: <kyle.jcic@gmail.com>
+X-M2K-MSG-ID: 36MFRCU70NGOEK1P
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(22147:0:AUTH_RELAY)
+	(envelope-from <kyle.jcic@gmail.com>); Tue, 12 Sep 2017 20:53:20 +0800 (CST)
+Return-Path: <kyle.jcic@gmail.com>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: By OpenMail Mailer;Tue, 12 Sep 2017 20:53:20 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(32353:0:AUTH_NONE)
+	(envelope-from <kyle.jcic@gmail.com>); Tue, 12 Sep 2017 20:53:19 +0800 (CST)
+Return-Path: <kyle.jcic@gmail.com>
+X-M2KSPAM: NO/0
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(2857:0:AUTH_NONE)
+	(envelope-from <kyle.jcic@gmail.com>); Tue, 12 Sep 2017 20:53:18 +0800 (CST)
+Return-Path: <kyle.jcic@gmail.com>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)
+Received: from 172.16.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V5.0(3208:0:AUTH_RELAY)
+	(envelope-from <kyle.jcic@gmail.com>); Tue, 12 Sep 2017 20:53:16 +0800 (CST)
+Return-Path: <kyle.jcic@gmail.com>
+Received: By OpenMail Mailer;Tue, 12 Sep 2017 20:53:16 +0800 (CST)
+Received: from 172.16.0.96
+	by mail2.office.openfind.com.tw with Mail2000 ESMTP Server V7.00(2942:0:AUTH_RELAY)
+	(envelope-from <kyle.jcic@gmail.com>); Tue, 12 Sep 2017 20:53:15 +0800 (CST)
+Return-Path: <kyle.jcic@gmail.com>
+X-M2KPolicyIP: 172.16.0.96 (#NOT FOUND)
+X-MailGates: (RBL:2,PASS,0.000000e+00)(SPF:2,PASS,pass)(BATV:2,PASS,send
+	er not empty)(DKIM:2,PASS,Success(0))(flag:1,RELAY:PASS)(IPF:2,PASS)(FRO
+	MBW:2,PASS)(FROMBW:2,PASS)(bayesian:SCORE-38,0.00,2)(commtouch:PASS,1,st
+	r=0001.0A150206.59B7D8BB.0050,ss=1,re=0.000,recu=0.000,reip=0.000,cl=1,c
+	ld=1,fgs=0,2)(localsimi:PASS,2)(mail_charset:PASS,2)(compute_score:HAM,2
+	,0)
+Received: from 209.85.214.43
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V5.0(3216:2:AUTH_NONE)
+	(envelope-from <kyle.jcic@gmail.com>); Tue, 12 Sep 2017 20:53:11 +0800 (CST)
+Return-Path: <kyle.jcic@gmail.com>
+Received: by mail-it0-f43.google.com with SMTP id g142so15970908ita.0
+        for <p-marker@openfind.com.tw>; Tue, 12 Sep 2017 05:53:11 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to:cc;
+        bh=d/Vpk5NkErtVPGMQUHkmZPxunebRTMtmvLgtGRHDLCc=;
+        b=A4SKWzHon3MypAOtYj578+7dJ9PZlnsYF8K4F+Qb/rW0fF3t6t9YK2pIOR42NOtgyN
+         XurRC6ylypPW9smQetlWTSKQG9rNzGqciO3rD2wWSUuosaT4aMuOKwlKJ0q5nq1lV47x
+         2Iw3S9CLO2LJeWDg2jU238TsRJOo9wJqH8dPztkkj4jQO9WE0CZbJaNSk7x0s4smEzcU
+         fV2YQUd2N9kJkQFuoQ7aPvIJTpRqn0Ocmu/OWxVECYSYq+j6ZKyIj4uR+4iMzr5kko1c
+         0W6dmxx51XUagErqe/1jDQtNrjhmdWa3Xko9XUdFfQRWvkSQO7fdgy2i9RTOOGcH5hSK
+         TSDg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to:cc;
+        bh=d/Vpk5NkErtVPGMQUHkmZPxunebRTMtmvLgtGRHDLCc=;
+        b=YKfvqXdHnGsrPZBbfHr0DTHI0TAZLJTJnSts4b0WWjjV8wqDShDmBs5vXTYyTzzbBF
+         pzYiFXVY9nRxYZ1WwduTLX09GogpgdWv+w7o6/oJw5/59jabXlHiQ5KoYjQV6wFnLLnu
+         OosOIW3Pp9DjohITDTS/esNy2s2cD/I8J2kFeD9vXP7EoVeHGyynVAsDF+GDAkE7HeBw
+         FX3LMMIoNbC1grHpK9YK/2HGezXdcbyleI1Gt9KQ+r1s3DlH4iro1lxz3vItRsphQncr
+         31MN6nyoBOcnhfTM1+sUVORQ1Milkdtq/0qgMiA/UFxrA6Pbcv3Vb2crd9oTHiPPOb7Q
+         5qWQ==
+X-Gm-Message-State: AHPjjUhK04lDa/BJbUwIvamFigLmyWqm5XdASDTPWBiSPuOaiFC5TZCk
+	unt/rpOmHaHVuvdUUIzOCaYJruhSeZGCpOA=
+X-Google-Smtp-Source: AOwi7QDkjbYTOoU9ftnaTxv4JomQ+U2wdF0olYIuBu0RtQ5GlJ0Jtw4P6/wJTJicgOIbONj3DM3vMmwd9zcb8WAYjzs=
+X-Received: by 10.36.173.30 with SMTP id c30mr901180itf.45.1505220780123; Tue,
+ 12 Sep 2017 05:53:00 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.107.30.75 with HTTP; Tue, 12 Sep 2017 05:52:59 -0700 (PDT)
+From: JCIC Kyle <kyle.jcic@gmail.com>
+Date: Tue, 12 Sep 2017 20:52:59 +0800
+Message-ID: <CADXMBT5XQ5qQ-as=PTPgsWOh=kJ8Ry1tYmPnzQkYBR=K6ZR_vA@mail.gmail.com>
+Subject: =?UTF-8?B?6KuL5ZWP5YCL6LOH5o6D5o+P55Si5ZOB5ZWP6aGM?=
+To: p-marker@openfind.com.tw
+Cc: kyle@jcic.org.tw
+Content-Type: multipart/alternative; boundary="94eb2c1fc8e8e86acd0558fd85e8"
+
+--94eb2c1fc8e8e86acd0558fd85e8
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: base64
+
+5oKo5aW9DQoNCuiri+WVj+iytOWFrOWPuOmWi+eZvOS5i+i7n+mrlO+8jOaciemHneWwjembu+ip
+seiZn+eivOiqpOWIpOmAsuihjOW8t+WMluWXju+8nw0KDQrmiJHlgJHlhazlj7jmnInkuIvovInl
+hY3osrvlgIvos4fmjoPmj4/ou5/pq5TvvIzkvYblsI3pm7voqbHomZ/norzmnInmmI7poa/oqqTl
+iKTni4Dms4ENCg0K6K2s5aaC5LiA5Liy5pW45a2X77yI5Y+v6IO95piv5YWs5Y+46KGo5Zau5Zau
+6Jmf77yJ54K6IDA5eHh4eHh4eHjvvIzmnIPooqvoqo3lrprmiJDpm7voqbHomZ/norwNCg0K5ZCM
+5LuB5Y+N5oeJ6LOH6KiK6YOo5rS95LiN5pyD5bCN6YCZ56iu6Zu76Kmx6Jmf56K86Kqk5Yik55qE
+5YCL6LOH5o6D5o+P6Luf6auUDQoNCuWcqOe2sui3r+S4iueci+WIsOiytOWFrOWPuOaciemWi+eZ
+vOatpOmhnui7n+mrlOaJgOS7peipouWVjw0KDQrorJ3orJ3lm57mh4kNCg==
+--94eb2c1fc8e8e86acd0558fd85e8
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div style=3D"margin:0px;padding:0px;border:0px currentCol=
+or;color:rgb(0,0,0);text-transform:none;line-height:inherit;text-indent:0px=
+;letter-spacing:normal;font-family:Calibri,Helvetica,sans-serif;font-size:1=
+2pt;font-style:normal;font-weight:normal;word-spacing:0px;vertical-align:ba=
+seline;white-space:normal;font-stretch:inherit;background-color:rgb(255,255=
+,255)">=E6=82=A8=E5=A5=BD</div><div style=3D"margin:0px;padding:0px;border:=
+0px currentColor;color:rgb(0,0,0);text-transform:none;line-height:inherit;t=
+ext-indent:0px;letter-spacing:normal;font-family:Calibri,Helvetica,sans-ser=
+if;font-size:12pt;font-style:normal;font-weight:normal;word-spacing:0px;ver=
+tical-align:baseline;white-space:normal;font-stretch:inherit;background-col=
+or:rgb(255,255,255)"><br></div><div style=3D"margin:0px;padding:0px;border:=
+0px currentColor;color:rgb(0,0,0);text-transform:none;line-height:inherit;t=
+ext-indent:0px;letter-spacing:normal;font-family:Calibri,Helvetica,sans-ser=
+if;font-size:12pt;font-style:normal;font-weight:normal;word-spacing:0px;ver=
+tical-align:baseline;white-space:normal;font-stretch:inherit;background-col=
+or:rgb(255,255,255)">=E8=AB=8B=E5=95=8F=E8=B2=B4=E5=85=AC=E5=8F=B8=E9=96=8B=
+=E7=99=BC=E4=B9=8B=E8=BB=9F=E9=AB=94=EF=BC=8C=E6=9C=89=E9=87=9D=E5=B0=8D=E9=
+=9B=BB=E8=A9=B1=E8=99=9F=E7=A2=BC=E8=AA=A4=E5=88=A4=E9=80=B2=E8=A1=8C=E5=BC=
+=B7=E5=8C=96=E5=97=8E=EF=BC=9F</div><div style=3D"margin:0px;padding:0px;bo=
+rder:0px currentColor;color:rgb(0,0,0);text-transform:none;line-height:inhe=
+rit;text-indent:0px;letter-spacing:normal;font-family:Calibri,Helvetica,san=
+s-serif;font-size:12pt;font-style:normal;font-weight:normal;word-spacing:0p=
+x;vertical-align:baseline;white-space:normal;font-stretch:inherit;backgroun=
+d-color:rgb(255,255,255)"><br></div><div style=3D"margin:0px;padding:0px;bo=
+rder:0px currentColor;color:rgb(0,0,0);text-transform:none;line-height:inhe=
+rit;text-indent:0px;letter-spacing:normal;font-family:Calibri,Helvetica,san=
+s-serif;font-size:12pt;font-style:normal;font-weight:normal;word-spacing:0p=
+x;vertical-align:baseline;white-space:normal;font-stretch:inherit;backgroun=
+d-color:rgb(255,255,255)">=E6=88=91=E5=80=91=E5=85=AC=E5=8F=B8=E6=9C=89=E4=
+=B8=8B=E8=BC=89=E5=85=8D=E8=B2=BB=E5=80=8B=E8=B3=87=E6=8E=83=E6=8F=8F=E8=BB=
+=9F=E9=AB=94=EF=BC=8C=E4=BD=86=E5=B0=8D=E9=9B=BB=E8=A9=B1=E8=99=9F=E7=A2=BC=
+=E6=9C=89=E6=98=8E=E9=A1=AF=E8=AA=A4=E5=88=A4=E7=8B=80=E6=B3=81</div><div s=
+tyle=3D"margin:0px;padding:0px;border:0px currentColor;color:rgb(0,0,0);tex=
+t-transform:none;line-height:inherit;text-indent:0px;letter-spacing:normal;=
+font-family:Calibri,Helvetica,sans-serif;font-size:12pt;font-style:normal;f=
+ont-weight:normal;word-spacing:0px;vertical-align:baseline;white-space:norm=
+al;font-stretch:inherit;background-color:rgb(255,255,255)"><br></div><div s=
+tyle=3D"margin:0px;padding:0px;border:0px currentColor;color:rgb(0,0,0);tex=
+t-transform:none;line-height:inherit;text-indent:0px;letter-spacing:normal;=
+font-family:Calibri,Helvetica,sans-serif;font-size:12pt;font-style:normal;f=
+ont-weight:normal;word-spacing:0px;vertical-align:baseline;white-space:norm=
+al;font-stretch:inherit;background-color:rgb(255,255,255)">=E8=AD=AC=E5=A6=
+=82=E4=B8=80=E4=B8=B2=E6=95=B8=E5=AD=97=EF=BC=88=E5=8F=AF=E8=83=BD=E6=98=AF=
+=E5=85=AC=E5=8F=B8=E8=A1=A8=E5=96=AE=E5=96=AE=E8=99=9F=EF=BC=89=E7=82=BA 09=
+xxxxxxxx=EF=BC=8C=E6=9C=83=E8=A2=AB=E8=AA=8D=E5=AE=9A=E6=88=90=E9=9B=BB=E8=
+=A9=B1=E8=99=9F=E7=A2=BC</div><div style=3D"margin:0px;padding:0px;border:0=
+px currentColor;color:rgb(0,0,0);text-transform:none;line-height:inherit;te=
+xt-indent:0px;letter-spacing:normal;font-family:Calibri,Helvetica,sans-seri=
+f;font-size:12pt;font-style:normal;font-weight:normal;word-spacing:0px;vert=
+ical-align:baseline;white-space:normal;font-stretch:inherit;background-colo=
+r:rgb(255,255,255)"><br></div><div style=3D"margin:0px;padding:0px;border:0=
+px currentColor;color:rgb(0,0,0);text-transform:none;line-height:inherit;te=
+xt-indent:0px;letter-spacing:normal;font-family:Calibri,Helvetica,sans-seri=
+f;font-size:12pt;font-style:normal;font-weight:normal;word-spacing:0px;vert=
+ical-align:baseline;white-space:normal;font-stretch:inherit;background-colo=
+r:rgb(255,255,255)">=E5=90=8C=E4=BB=81=E5=8F=8D=E6=87=89=E8=B3=87=E8=A8=8A=
+=E9=83=A8=E6=B4=BD=E4=B8=8D=E6=9C=83=E5=B0=8D=E9=80=99=E7=A8=AE=E9=9B=BB=E8=
+=A9=B1=E8=99=9F=E7=A2=BC=E8=AA=A4=E5=88=A4=E7=9A=84=E5=80=8B=E8=B3=87=E6=8E=
+=83=E6=8F=8F=E8=BB=9F=E9=AB=94</div><div style=3D"margin:0px;padding:0px;bo=
+rder:0px currentColor;color:rgb(0,0,0);text-transform:none;line-height:inhe=
+rit;text-indent:0px;letter-spacing:normal;font-family:Calibri,Helvetica,san=
+s-serif;font-size:12pt;font-style:normal;font-weight:normal;word-spacing:0p=
+x;vertical-align:baseline;white-space:normal;font-stretch:inherit;backgroun=
+d-color:rgb(255,255,255)"><br></div><div style=3D"margin:0px;padding:0px;bo=
+rder:0px currentColor;color:rgb(0,0,0);text-transform:none;line-height:inhe=
+rit;text-indent:0px;letter-spacing:normal;font-family:Calibri,Helvetica,san=
+s-serif;font-size:12pt;font-style:normal;font-weight:normal;word-spacing:0p=
+x;vertical-align:baseline;white-space:normal;font-stretch:inherit;backgroun=
+d-color:rgb(255,255,255)">=E5=9C=A8=E7=B6=B2=E8=B7=AF=E4=B8=8A=E7=9C=8B=E5=
+=88=B0=E8=B2=B4=E5=85=AC=E5=8F=B8=E6=9C=89=E9=96=8B=E7=99=BC=E6=AD=A4=E9=A1=
+=9E=E8=BB=9F=E9=AB=94=E6=89=80=E4=BB=A5=E8=A9=A2=E5=95=8F</div><div style=
+=3D"margin:0px;padding:0px;border:0px currentColor;color:rgb(0,0,0);text-tr=
+ansform:none;line-height:inherit;text-indent:0px;letter-spacing:normal;font=
+-family:Calibri,Helvetica,sans-serif;font-size:12pt;font-style:normal;font-=
+weight:normal;word-spacing:0px;vertical-align:baseline;white-space:normal;f=
+ont-stretch:inherit;background-color:rgb(255,255,255)"><br></div><div style=
+=3D"margin:0px;padding:0px;border:0px currentColor;color:rgb(0,0,0);text-tr=
+ansform:none;line-height:inherit;text-indent:0px;letter-spacing:normal;font=
+-family:Calibri,Helvetica,sans-serif;font-size:12pt;font-style:normal;font-=
+weight:normal;word-spacing:0px;vertical-align:baseline;white-space:normal;f=
+ont-stretch:inherit;background-color:rgb(255,255,255)">=E8=AC=9D=E8=AC=9D=
+=E5=9B=9E=E6=87=89</div></div>
+
+--94eb2c1fc8e8e86acd0558fd85e8--

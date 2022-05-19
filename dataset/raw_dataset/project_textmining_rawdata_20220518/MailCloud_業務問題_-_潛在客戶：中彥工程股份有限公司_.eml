@@ -1,0 +1,404 @@
+X-M2K-MATCHED-RULE: SPAM_FILTER-InADB
+X-M2K-MATCHED-RESULT: Mail Header From In ADB/service@mailcloud.com.tw
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: YES/3
+Received: from 220.130.127.161
+	by ms1.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(5644:2:AUTH_NONE)
+	(envelope-from <service@mailcloud.com.tw>); Thu, 25 May 2017 11:33:16 +0800 (CST)
+Return-Path: <service@mailcloud.com.tw>
+X-M2K-MSG-ID: S3KCICD6H2Q5700P
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=mailcloud.com.tw;
+	s=1487762788.mailcloud; t=1495683196;
+	bh=Jz19dqbS688hdO5FHXBC2Xvl7eU=;
+	h=Received:Return-Path:X-ADIFSPAM:X-ADIFSPAM-CT:Received:Received:
+	 Return-Path:X-M2KSPAM:Received:Return-Path:X-M2KPolicyIP:
+	 DKIM-Signature:X-ADIFSPAM:X-ADIFSPAM-CT:Received:Return-Path:
+	 X-ADIFSPAM:X-ADIFSPAM-CT:Received:From:Reply-To:Subject:Message-ID:
+	 To:Cc:Date:MIME-Version:Return-Path:X-Priority:X-MSMail-Priority:
+	 Content-Type;
+	b=GfBHQi2ANaKIki5hAK9/kS8fsYnc0GBvSxepJAbMJS2GLMhMc2+lF7rXpGtYJmVF5
+	 hd1o8W4TVyCPsgPk4FNo4Hofo/9s6jsAZFByOOZ9qtRFiv0pWXyRznn7k1i7kLnl/m
+	 XrAWKTCsFPDanfnlTshWPcxOFVjedUm/0orNTG/4=
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: YES/3
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(22151:0:AUTH_RELAY)
+	(envelope-from <service@mailcloud.com.tw>); Thu, 25 May 2017 11:33:13 +0800 (CST)
+Return-Path: <service@mailcloud.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: YES/3
+Received: By OpenMail Mailer;Thu, 25 May 2017 11:33:11 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(2669:0:AUTH_NONE)
+	(envelope-from <service@mailcloud.com.tw>); Thu, 25 May 2017 11:33:10 +0800 (CST)
+Return-Path: <service@mailcloud.com.tw>
+X-M2KSPAM: YES/100
+Received: from 220.130.127.162
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(2878:1:AUTH_NONE)
+	(envelope-from <service@mailcloud.com.tw>); Thu, 25 May 2017 11:33:07 +0800 (CST)
+Return-Path: <service@mailcloud.com.tw>
+X-M2KPolicyIP: 220.130.127.162 (p6.mail2000.com.tw)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=mailcloud.com.tw;
+	s=1487762788.mailcloud; t=1495683187;
+	bh=Jz19dqbS688hdO5FHXBC2Xvl7eU=;
+	h=Received:Return-Path:X-ADIFSPAM:X-ADIFSPAM-CT:Received:From:
+	 Reply-To:Subject:Message-ID:To:Cc:Date:MIME-Version:Return-Path:
+	 X-Priority:X-MSMail-Priority:Content-Type;
+	b=jKnaU4aNkukxpGL/Fiyo4Od75AfWuIKRDwefkQgTqOWUig4iT1m63pyh53DAuphV4
+	 C1H47gHLovJiFxvyaPJbiaQ7hJiN7MFxPahkNZrp6kX4Zlok/lEg0fATzPAQyv4knV
+	 v05BU7tSCv944EbZUmEW2zRjoqThW8uINONPcvDY=
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/0
+Received: from 10.0.0.15
+	by p2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(30758:0:AUTH_LOGIN)
+	(envelope-from <service@mailcloud.com.tw>); Thu, 25 May 2017 11:33:07 +0800 (CST)
+Return-Path: <service@mailcloud.com.tw>
+X-ADIFSPAM: NO/-6
+X-ADIFSPAM-CT: NO/-6
+Received: By OpenMail Mailer with AUTH_WEB;Thu, 25 May 2017 11:33:04 +0800 (CST)
+From: "=?utf-8?B?TWFpbENsb3VkIOWuouacjeS4reW/gw==?=" <service@mailcloud.com.tw>
+Reply-To: "=?utf-8?B?TWFpbENsb3VkIOWuouacjeS4reW/gw==?=" <service@mailcloud.com.tw>
+Subject: =?utf-8?B?TWFpbENsb3VkIOalreWLmeWVj+mhjCAtIOa9mw==?=
+	=?utf-8?B?5Zyo5a6i5oi277ya5Lit5b2l5bel56iL6IKh?=
+	=?utf-8?B?5Lu95pyJ6ZmQ5YWs5Y+4IC0gRnc6IOaDsw==?=
+	=?utf-8?B?6KuL5ZWP5aWX6aSQ5YSq5oOg5pa55qGI?=
+	=?utf-8?B?5YWn5a6577yf?=
+Message-ID: <1495683184.5938.service@mailcloud.com.tw>
+To: "=?utf-8?B?TWFpbENsb3VkIOalreWLmQ==?=" <mailasp_sales@openfind.com.tw>
+Cc: "M2k_service" <m2k_service@mail2000.com.tw>
+Date: Thu, 25 May 2017 11:33:04 +0800 (CST)
+MIME-Version: 1.0
+Return-Path: service@mailcloud.com.tw
+X-Priority: 1
+X-MSMail-Priority: High
+Content-Type: multipart/alternative;
+	boundary="---=S/:.a..CCY?f4f(H0S7jof0drL"
+
+-----=S/:.a..CCY?f4f(H0S7jof0drL
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=E6=82=A8=E5=A5=BD=EF=BC=8C
+=20
+=E4=B8=AD=E5=BD=A5=E5=B7=A5=E7=A8=8B=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=90=E5=85=
+=AC=E5=8F=B8
+Yenhsiao=20Liu=20=E5=8A=89=E5=BD=A5=E5=AD=9D
+Tel:=20886-8-7722252=20=20
+Fax:=20886-8-7722235
+yenhsiao@kimo.com=20
+
+=20
+
+=E5=95=8F=E9=A1=8C=EF=BC=9A
+=E5=AE=A2=E6=88=B6=E8=A6=81=E8=A9=A2=E5=95=8F=E5=A5=97=E9=A4=90=E5=84=AA=E6=83=
+=A0=E6=96=B9=E6=A1=88=E5=85=A7=E5=AE=B9=EF=BC=8C
+=E9=BA=BB=E7=85=A9=E6=82=A8=E5=86=8D=E5=B9=AB=E5=BF=99=E9=80=A3=E7=B9=AB=EF=BC=
+=8C
+=E8=AC=9D=E8=AC=9D=E6=82=A8=E3=80=82
+
+=20
+
+
+Jasmine
+
+
+=E8=8B=A5=E6=82=A8=E5=B0=8D=E4=BB=A5=E4=B8=8A=E5=9B=9E=E8=A6=86=E6=9C=89=E4=BB=
+=BB=E4=BD=95=E7=96=91=E5=95=8F=EF=BC=8C
+=E6=AD=A1=E8=BF=8E=E6=82=A8=E5=8F=8D=E6=98=A0=E7=B5=A6=E6=88=91=E5=80=91=E3=80=
+=82
+
+
+MailCloud=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83=20=E6=95=AC=E4=B8=8A
+=20
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D
+MailCloud=20=E8=A1=8C=E5=8B=95=E5=90=8C=E6=AD=A5=EF=BC=9A=E4=B8=80=E6=AC=A1=E8=
+=A8=AD=E5=A5=BD=EF=BC=8C=E8=B3=87=E8=A8=8A=E5=B8=B6=E8=91=97=E8=B7=91=EF=BC=81=
+
+
+MailCloud=20=E6=94=AF=E6=8F=B4=E8=A1=8C=E5=8B=95=E5=90=8C=E6=AD=A5=EF=BC=8C=E5=
+=8F=AF=20SYNC=20=E6=82=A8=E7=9A=84=E9=80=9A=E8=A8=8A=E9=8C=84=E3=80=81=E8=A1=
+=8C=E4=BA=8B=E6=9B=86=EF=BC=8C=E8=88=87=E9=83=B5=E4=BB=B6=E5=88=B0=E6=89=8B=E6=
+=A9=9F
+=E4=BB=A5=E5=89=8D=E4=BD=A0=E6=9C=83=E8=AA=AA=EF=BC=9A=E3=80=8E=E7=AD=89=E6=88=
+=91=E5=9B=9E=E8=BE=A6=E5=85=AC=E5=AE=A4=E7=9C=8B=E9=9B=BB=E8=85=A6=E5=86=8D=E7=
+=A2=BA=E8=AA=8D=E3=80=8F=E5=85=8D=EF=BC=81=E7=8F=BE=E5=9C=A8=E9=A6=AC=E4=B8=8A=
+=E7=A2=BA=E8=AA=8D=E4=B8=8D=E7=94=A8=E7=AD=89=EF=BC=81
+=E4=B8=8B=E8=BC=89=E5=90=8C=E6=AD=A5=E6=95=99=E5=AD=B8=E3=80=80=20http://www=
+.mailcloud.com.tw/sync.html
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D
+
+
+
+MailCloud=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83
+=E5=AE=A2=E6=9C=8D=E5=B0=88=E7=B7=9A=EF=BC=9A02-25537272
+=E5=AE=A2=E6=9C=8D=E4=BF=A1=E7=AE=B1=EF=BC=9Aservice@mailcloud.com.tw
+=E7=B6=B2=E6=93=8E=E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99=20h=
+ttp://www.mailcloud.com.tw/
+Mail2000=E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1=20http://mail2000.com.tw/
+=E7=B6=B2=E6=93=8E=20Openfind=20=E4=BC=81=E6=A5=AD=E7=B6=B2=E7=AB=99=20http:=
+//www.openfind.com/taiwan/
+
+-----Forwarded=20message-----
+From:Yenhsiao=20Liu<yenhsiao@kimo.com>
+To:service@mailcloud.com.tw<service@mailcloud.com.tw>
+Date:=20Thu,=2025=20May=202017=2010:35:45
+Subject:=20=E6=83=B3=E8=AB=8B=E5=95=8F=E5=A5=97=E9=A4=90=E5=84=AA=E6=83=A0=E6=
+=96=B9=E6=A1=88=E5=85=A7=E5=AE=B9=EF=BC=9F
+96=E6=82=A8=E5=A5=BD:
+
+=E6=88=91=E6=83=B3=E4=BA=86=E8=A7=A3
+MailCloud=20=E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99
+
+
+=20
+=20=20
+=20
+=20
+=20
+=20
+=20MailCloud=20=E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99=20Mail=
+Cloud=E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99=E7=82=BA=20Openf=
+ind=20=E7=9A=84=E4=BC=81=E6=A5=AD=E4=BB=A3=E7=AE=A1=E5=93=81=E7=89=8C=EF=BC=8C=
+=E4=B8=BB=E8=A6=81=E6=8F=90=E4=BE=9B=E9=83=B5=E4=BB=B6=E4=BB=A3=E7=AE=A1=EF=BC=
+=8C=E5=8F=8A=E9=9B=BB=E5=AD=90=E9=83=B5=E4=BB=B6=E7=9B=B8=E9=97=9C=E4=B9=8B=E6=
+=AD=B8=E6=AA=94=E5=82=99=E4=BB=BD=E3=80=81=E7=A8=BD=E6=A0=B8=EF=BC=8C=E5=8F=8A=
+=E9=9B=B2=E7=AB=AF=E5=82=99=E6=8F=B4=E7=AD=89=E7=9B=B8=E9=97=9C=E6=9C=8D=E5=8B=
+=99=E3=80=82=E5=BC=B7=E5=A4=A7=E7=9A=84=E8=BB=9F=E7=A1=AC=E9=AB=94=E6=95=88=E8=
+=83=BD=E6=90=AD=E9=85=8D=E5=9C=8B=E9=9A=9B=E7=B4=9A=E9=9B=BB=E4=BF=A1=E6=A5=AD=
+=E8=80=85=E7=9A=84=E6=A9=9F=E6=88=BF=E8=88=87=E9=A0=BB=E5=AF=AC=E7=AE=A1=E7=90=
+=86=EF=BC=8C=E8=87=B3=E4=BB=8A=E5=B7=B2=E6=8F=90=E4=BE=9B=E5=AE=A2=E6=88=B6=E7=
+=A9=A9=E5=AE=9A=E3=80=81=E5=AE=89=E5=85=A8=E7=9A=84=E9=9B=B2=E7=AB=AF=E9=81=8B=
+...
+=20
+=20
+=20
+=20
+=20
+
+
+
+
+***********************************************=20Yenhsiao=20Liu=20=E5=8A=89=
+=E5=BD=A5=E5=AD=9D=20
+
+CHUNG=20YEN=20ENGINEERING=20CO.,=20LTD.
+=E4=B8=AD=E5=BD=A5=E5=B7=A5=E7=A8=8B=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=90=E5=85=
+=AC=E5=8F=B8=20
+
+NO=20397,=20Li-Kang=20Rd,=20Li-Kang,=20Pingtung,=20Taiwan,=20R.O.C.=20
+=E5=B1=8F=E6=9D=B1=E7=B8=A3=E9=87=8C=E6=B8=AF=E9=84=89=E9=87=8C=E6=B8=AF=E8=B7=
+=AF397=E8=99=9F
+
+Tel:=20886-8-7722252=20=20
+Fax:=20886-8-7722235=20
+http://www.chung-yen.com.tw/
+
+
+****************************************************
+
+-----=S/:.a..CCY?f4f(H0S7jof0drL
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><div=20style=3D"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=
+=AB=94;=20font-size:=2016px;">=E6=82=A8=E5=A5=BD=EF=BC=8C</div><div=20style=3D=
+"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94;=20font-size:=20=
+16px;">&nbsp;</div><div=20style=3D"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=
+=E9=BB=91=E9=AB=94;=20font-size:=2016px;">=E4=B8=AD=E5=BD=A5=E5=B7=A5=E7=A8=8B=
+=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=90=E5=85=AC=E5=8F=B8<br>Yenhsiao=20Liu=20=E5=
+=8A=89=E5=BD=A5=E5=AD=9D<br>Tel:=20886-8-7722252&nbsp;=20<br>Fax:=20886-8-77=
+22235<br>yenhsiao@kimo.com=20<br></div><div=20style=3D"font-family:=20=E5=BE=
+=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94;=20font-size:=2016px;">&nbsp;<br><br=
+>=E5=95=8F=E9=A1=8C=EF=BC=9A<br>=E5=AE=A2=E6=88=B6=E8=A6=81=E8=A9=A2=E5=95=8F=
+=E5=A5=97=E9=A4=90=E5=84=AA=E6=83=A0=E6=96=B9=E6=A1=88=E5=85=A7=E5=AE=B9=EF=BC=
+=8C<br>=E9=BA=BB=E7=85=A9=E6=82=A8=E5=86=8D=E5=B9=AB=E5=BF=99=E9=80=A3=E7=B9=
+=AB=EF=BC=8C<br>=E8=AC=9D=E8=AC=9D=E6=82=A8=E3=80=82<br></div><div=20style=3D=
+"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94;=20font-size:=20=
+16px;">&nbsp;<br><br><br>Jasmine<br><br></div><div=20style=3D"font-family:=20=
+=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94;=20font-size:=2016px;">=E8=8B=A5=
+=E6=82=A8=E5=B0=8D=E4=BB=A5=E4=B8=8A=E5=9B=9E=E8=A6=86=E6=9C=89=E4=BB=BB=E4=BD=
+=95=E7=96=91=E5=95=8F=EF=BC=8C</div><div=20style=3D"font-family:=20=E5=BE=AE=
+=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94;=20font-size:=2016px;">=E6=AD=A1=E8=BF=8E=
+=E6=82=A8=E5=8F=8D=E6=98=A0=E7=B5=A6=E6=88=91=E5=80=91=E3=80=82</div><div=20=
+style=3D"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94;=20fon=
+t-size:=2016px;"><br></div><div=20style=3D"font-family:=20=E5=BE=AE=E8=BB=9F=
+=E6=AD=A3=E9=BB=91=E9=AB=94;=20font-size:=2016px;"><br></div><div=20style=3D=
+"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94;=20font-size:=20=
+16px;"><div>MailCloud=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83=20=E6=95=AC=E4=B8=
+=8A</div><div>&nbsp;</div><div><p=20class=3D"MsoNormal"=20style=3D"margin:=20=
+0cm=200cm=200pt;"><span=20lang=3D"EN-US"><font=20face=3D"=E6=96=B0=E7=B4=B0=E6=
+=98=8E=E9=AB=94">=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</font></span></p><p=20class=3D"MsoNorma=
+l"=20style=3D"margin:=200cm=200cm=200pt;"><font=20color=3D"#ff0000"><b><span=
+=20lang=3D"EN-US">MailCloud&nbsp;</span></b><b>=E8=A1=8C=E5=8B=95=E5=90=8C=E6=
+=AD=A5=EF=BC=9A=E4=B8=80=E6=AC=A1=E8=A8=AD=E5=A5=BD=EF=BC=8C=E8=B3=87=E8=A8=8A=
+=E5=B8=B6=E8=91=97=E8=B7=91=EF=BC=81<br><span=20lang=3D"EN-US"></span></b></=
+font></p><p=20class=3D"MsoNormal"=20style=3D"margin:=200cm=200cm=200pt;"><sp=
+an=20lang=3D"EN-US">MailCloud&nbsp;</span>=E6=94=AF=E6=8F=B4=E8=A1=8C=E5=8B=95=
+=E5=90=8C=E6=AD=A5=EF=BC=8C=E5=8F=AF&nbsp;<span=20lang=3D"EN-US">SYNC&nbsp;<=
+/span>=E6=82=A8=E7=9A=84=E9=80=9A=E8=A8=8A=E9=8C=84=E3=80=81=E8=A1=8C=E4=BA=8B=
+=E6=9B=86=EF=BC=8C=E8=88=87=E9=83=B5=E4=BB=B6=E5=88=B0=E6=89=8B=E6=A9=9F<spa=
+n=20lang=3D"EN-US"><br></span>=E4=BB=A5=E5=89=8D=E4=BD=A0=E6=9C=83=E8=AA=AA=EF=
+=BC=9A=E3=80=8E=E7=AD=89=E6=88=91=E5=9B=9E=E8=BE=A6=E5=85=AC=E5=AE=A4=E7=9C=8B=
+=E9=9B=BB=E8=85=A6=E5=86=8D=E7=A2=BA=E8=AA=8D=E3=80=8F<strong>=E5=85=8D=EF=BC=
+=81=E7=8F=BE=E5=9C=A8=E9=A6=AC=E4=B8=8A=E7=A2=BA=E8=AA=8D=E4=B8=8D=E7=94=A8=E7=
+=AD=89=EF=BC=81</strong><span=20lang=3D"EN-US"><br><a=20target=3D"_blank"=20=
+href=3D"http://www.mailcloud.com.tw/sync.html"><font=20color=3D"#0000ff"><st=
+rong><span=20lang=3D"EN-US"><span=20lang=3D"EN-US">=E4=B8=8B=E8=BC=89</span>=
+</span><span=20lang=3D"EN-US"><span=20lang=3D"EN-US">=E5=90=8C=E6=AD=A5</spa=
+n></span><span=20lang=3D"EN-US"><span=20lang=3D"EN-US">=E6=95=99=E5=AD=B8</s=
+pan></span></strong></font></a></span>=E3=80=80&nbsp;<span=20lang=3D"EN-US">=
+<a=20target=3D"_blank"=20href=3D"http://www.mailcloud.com.tw/sync.html"><fon=
+t=20color=3D"#0000ff"><strong>http://www.mailcloud.com.tw/sync.html</strong>=
+</font></a></span><span=20lang=3D"EN-US"></span></p><p=20class=3D"MsoNormal"=
+=20style=3D"margin:=200cm=200cm=200pt;"><span=20lang=3D"EN-US"><font=20face=3D=
+"=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94">=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</font></span></p><=
+p=20style=3D"margin:=200in;"></p></div><div><br></div></div><div=20style=3D"=
+font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94;=20font-size:=20=
+16px;">MailCloud=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83</div><div=20style=3D=
+"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94;=20font-size:=20=
+16px;">=E5=AE=A2=E6=9C=8D=E5=B0=88=E7=B7=9A=EF=BC=9A02-25537272</div><div=20=
+style=3D"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94;=20fon=
+t-size:=2016px;">=E5=AE=A2=E6=9C=8D=E4=BF=A1=E7=AE=B1=EF=BC=9Aservice@mailcl=
+oud.com.tw</div><div=20style=3D"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=
+=BB=91=E9=AB=94;=20font-size:=2016px;">=E7=B6=B2=E6=93=8E=E4=BC=81=E6=A5=AD=E9=
+=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99&nbsp;<a=20target=3D"_blank"=20href=3D"http=
+://www.mailcloud.com.tw/">http://www.mailcloud.com.tw/</a></div><div=20style=
+=3D"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94;=20font-siz=
+e:=2016px;">Mail2000=E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1&nbsp;<a=20target=3D=
+"_blank"=20href=3D"http://mail2000.com.tw/">http://mail2000.com.tw/</a></div=
+><div=20style=3D"font-family:=20=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94=
+;=20font-size:=2016px;">=E7=B6=B2=E6=93=8E=20Openfind=20=E4=BC=81=E6=A5=AD=E7=
+=B6=B2=E7=AB=99&nbsp;<a=20target=3D"_blank"=20href=3D"http://www.openfind.co=
+m/taiwan/">http://www.openfind.com/taiwan/</a></div><br>
+-----Forwarded=20message-----<br>
+
+<b>From:</b>Yenhsiao=20Liu&lt;yenhsiao@kimo.com&gt;<br>
+<b>To:</b>service@mailcloud.com.tw&lt;service@mailcloud.com.tw&gt;<br>
+<b>Date:=20</b>=20Thu,=2025=20May=202017=2010:35:45<br>
+<b>Subject:</b>=20=E6=83=B3=E8=AB=8B=E5=95=8F=E5=A5=97=E9=A4=90=E5=84=AA=E6=83=
+=A0=E6=96=B9=E6=A1=88=E5=85=A7=E5=AE=B9=EF=BC=9F<br>
+<!--[if=20gte=20mso=209]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:Pixe=
+lsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]--><=
+x-body><div=20style=3D"color:#000;=20background-color:#fff;=20font-family:He=
+lvetica=20Neue,=20Helvetica,=20Arial,=20Lucida=20Grande,=20sans-serif;font-s=
+ize:16px"><div=20id=3D"yui_3_16_0_ym19_1_1495679415139_7936"><span=20id=3D"y=
+ui_3_16_0_ym19_1_1495679415139_8049">=E6=82=A8=E5=A5=BD:</span></div><div=20=
+id=3D"yui_3_16_0_ym19_1_1495679415139_8050"><span=20id=3D"yui_3_16_0_ym19_1_=
+1495679415139_8049"><br></span></div><div><span=20id=3D"yui_3_16_0_ym19_1_14=
+95679415139_8049">=E6=88=91=E6=83=B3=E4=BA=86=E8=A7=A3</span></div><div=20di=
+r=3D"ltr"=20id=3D"yui_3_16_0_ym19_1_1495679415139_8066"><span=20id=3D"yui_3_=
+16_0_ym19_1_1495679415139_8049"><a=20href=3D"https://www.mailcloud.com.tw/ht=
+m/news/2017menu/"=20class=3D"enhancr2_e6b12a80-07ee-9baa-0099-eac6a51d3754"=20=
+id=3D"yui_3_16_0_ym19_1_1495679415139_8064">MailCloud=20=E4=BC=81=E6=A5=AD=E9=
+=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99</a><br></span></div><div><br></div><div=20=
+id=3D"enhancr2_e6b12a80-07ee-9baa-0099-eac6a51d3754"=20class=3D"yahoo-link-e=
+nhancr-card=20=20ymail-preserve-class=20ymail-preserve-style"=20style=3D"max=
+-width:400px;font-family:'Helvetica=20Neue',=20Helvetica,=20Arial,=20sans-se=
+rif;"=20data-url=3D"https://www.mailcloud.com.tw/htm/news/2017menu/"=20data-=
+type=3D"yenhancr"=20data-category=3D"website"=20data-embed-url=3D""=20data-s=
+ize=3D"medium"=20dir=3D"ltr"=20contenteditable=3D"false">=20<a=20href=3D"htt=
+ps://www.mailcloud.com.tw/htm/news/2017menu/"=20style=3D"text-decoration:non=
+e=20!important;=20color:=20#000=20!important;"=20class=3D"yahoo-enhancr-card=
+link"=20target=3D"_blank"=20rel=3D"noreferrer"=20id=3D"yui_3_16_0_ym19_1_149=
+5679415139_8089">=20<table=20class=3D"card-wrapper=20yahoo-ignore-table"=20s=
+tyle=3D"max-width:400px;"=20id=3D"yui_3_16_0_ym19_1_1495679415139_8088"=20ce=
+llspacing=3D"0"=20cellpadding=3D"0"=20border=3D"0">=20<tbody=20id=3D"yui_3_1=
+6_0_ym19_1_1495679415139_8087"><tr=20id=3D"yui_3_16_0_ym19_1_1495679415139_8=
+086">=20<td=20id=3D"yui_3_16_0_ym19_1_1495679415139_8085"=20width=3D"400">=20=
+<table=20class=3D"card=20yahoo-ignore-table"=20style=3D"max-width:400px;"=20=
+id=3D"yui_3_16_0_ym19_1_1495679415139_8084"=20cellspacing=3D"0"=20cellpaddin=
+g=3D"0"=20border=3D"0"=20width=3D"100%">=20<tbody=20id=3D"yui_3_16_0_ym19_1_=
+1495679415139_8083"><tr=20id=3D"yui_3_16_0_ym19_1_1495679415139_8082">=20<td=
+=20class=3D"card-primary-image-cell"=20style=3D"background:#000=20url('https=
+://s.yimg.com/vv//api/res/1.2/VQmDqIL.aNEemTiimByPug--/YXBwaWQ9bWFpbDtmaT1ma=
+WxsO2g9MjAwO3c9NDAw/http://www.mailcloud.com.tw/images/og-27.gif.cf.jpg')=20=
+no-repeat=20center=20center;background-size:cover;height:200px;position:rela=
+tive;"=20id=3D"yui_3_16_0_ym19_1_1495679415139_8081"=20background=3D"https:/=
+/s.yimg.com/vv//api/res/1.2/VQmDqIL.aNEemTiimByPug--/YXBwaWQ9bWFpbDtmaT1maWx=
+sO2g9MjAwO3c9NDAw/http://www.mailcloud.com.tw/images/og-27.gif.cf.jpg"=20bgc=
+olor=3D"#000000"=20valign=3D"top">=20<!--[if=20gte=20mso=209]><v:rect=20fill=
+=3D"true"=20stroke=3D"false"=20style=3D"width:400px;height:218px;position:ab=
+solute;top:0;left:0;"><v:fill=20type=3D"frame"=20color=3D"#000000"=20src=3D"=
+https://s.yimg.com/vv//api/res/1.2/VQmDqIL.aNEemTiimByPug--/YXBwaWQ9bWFpbDtm=
+aT1maWxsO2g9MjAwO3c9NDAw/http://www.mailcloud.com.tw/images/og-27.gif.cf.jpg=
+"/></v:rect><![endif]-->=20<table=20class=3D"yahoo-ignore-table"=20valign=3D=
+"top"=20style=3D"width:100%;"=20id=3D"yui_3_16_0_ym19_1_1495679415139_8080"=20=
+cellspacing=3D"0"=20cellpadding=3D"0"=20border=3D"0">=20<tbody=20id=3D"yui_3=
+_16_0_ym19_1_1495679415139_8079"><tr=20id=3D"yui_3_16_0_ym19_1_1495679415139=
+_8078">=20<td=20style=3D"background:transparent=20url('https://s.yimg.com/nq=
+/storm/assets/enhancrV2/12/overlay-tile.png')=20repeat=20left=20top;height:2=
+00px;"=20id=3D"yui_3_16_0_ym19_1_1495679415139_8077"=20background=3D"https:/=
+/s.yimg.com/nq/storm/assets/enhancrV2/12/overlay-tile.png"=20bgcolor=3D"tran=
+sparent"=20valign=3D"top">=20<!--[if=20gte=20mso=209]><v:rect=20fill=3D"true=
+"=20stroke=3D"false"=20style=3D"width:400px;height:218px;position:absolute;t=
+op:-18px;left:0;"><v:fill=20type=3D"pattern"=20color=3D"#000000"=20src=3D"ht=
+tps://s.yimg.com/nq/storm/assets/enhancrV2/12/overlay-tile.png"/><v:textbox=20=
+inset=3D"0,0,20px,0"><![endif]-->=20<table=20class=3D"yahoo-ignore-table"=20=
+style=3D"width:100%;height:185px;min-height:185px;"=20id=3D"yui_3_16_0_ym19_=
+1_1495679415139_8076"=20height=3D"185">=20<tbody=20id=3D"yui_3_16_0_ym19_1_1=
+495679415139_8075"><tr=20id=3D"yui_3_16_0_ym19_1_1495679415139_8074">=20<td=20=
+class=3D"card-richInfo2"=20style=3D"text-align:left;text-align:left;padding:=
+15px=200=200=2015px;vertical-align:top;"=20id=3D"yui_3_16_0_ym19_1_149567941=
+5139_8073">=20=20<br></td>=20<td=20class=3D"card-actions"=20style=3D"text-al=
+ign:right;padding:15px=2015px=200=200;vertical-align:top;">=20<div=20class=3D=
+"card-share-container"></div>=20<br></td>=20</tr>=20</tbody></table>=20<!--[=
+if=20gte=20mso=209]></v:textbox></v:rect><![endif]-->=20</td>=20</tr>=20</tb=
+ody></table>=20</td>=20</tr>=20<tr>=20<td>=20<table=20class=3D"card-info=20y=
+ahoo-ignore-table"=20style=3D"background:#fff;position:relative;z-index:2;wi=
+dth:95%;max-width:380px;border:1px=20solid=20#e0e4e9;border-bottom:3px=20sol=
+id=20#000000;margin-top:-40px;margin-left:auto;margin-right:auto;"=20align=3D=
+"center"=20cellspacing=3D"0"=20cellpadding=3D"0"=20border=3D"0">=20<tbody><t=
+r>=20<td=20style=3D"background-color:#ffffff;padding:16px=200=2016px=2012px;=
+vertical-align:top;">=20=20<br></td>=20<td=20style=3D"vertical-align:middle;=
+padding:16px=2012px;width:99%;">=20<h2=20class=3D"card-title"=20style=3D"fon=
+t-size:=2016px;=20line-height:19px;=20margin:0=200=204px=200;font-family:'He=
+lvetica=20Neue',=20Helvetica,=20Arial,=20sans-serif;word-break:break-word;">=
+MailCloud=20=E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99</h2>=20=20=
+<div=20class=3D"card-description"=20style=3D"font-size:11px;line-height:15px=
+;color:#999;word-break:break-word;">MailCloud=E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=
+=AF=E6=9C=8D=E5=8B=99=E7=82=BA=20Openfind=20=E7=9A=84=E4=BC=81=E6=A5=AD=E4=BB=
+=A3=E7=AE=A1=E5=93=81=E7=89=8C=EF=BC=8C=E4=B8=BB=E8=A6=81=E6=8F=90=E4=BE=9B=E9=
+=83=B5=E4=BB=B6=E4=BB=A3=E7=AE=A1=EF=BC=8C=E5=8F=8A=E9=9B=BB=E5=AD=90=E9=83=B5=
+=E4=BB=B6=E7=9B=B8=E9=97=9C=E4=B9=8B=E6=AD=B8=E6=AA=94=E5=82=99=E4=BB=BD=E3=80=
+=81=E7=A8=BD=E6=A0=B8=EF=BC=8C=E5=8F=8A=E9=9B=B2=E7=AB=AF=E5=82=99=E6=8F=B4=E7=
+=AD=89=E7=9B=B8=E9=97=9C=E6=9C=8D=E5=8B=99=E3=80=82=E5=BC=B7=E5=A4=A7=E7=9A=84=
+=E8=BB=9F=E7=A1=AC=E9=AB=94=E6=95=88=E8=83=BD=E6=90=AD=E9=85=8D=E5=9C=8B=E9=9A=
+=9B=E7=B4=9A=E9=9B=BB=E4=BF=A1=E6=A5=AD=E8=80=85=E7=9A=84=E6=A9=9F=E6=88=BF=E8=
+=88=87=E9=A0=BB=E5=AF=AC=E7=AE=A1=E7=90=86=EF=BC=8C=E8=87=B3=E4=BB=8A=E5=B7=B2=
+=E6=8F=90=E4=BE=9B=E5=AE=A2=E6=88=B6=E7=A9=A9=E5=AE=9A=E3=80=81=E5=AE=89=E5=85=
+=A8=E7=9A=84=E9=9B=B2=E7=AB=AF=E9=81=8B...</div>=20</td>=20<td=20style=3D"te=
+xt-align:right;padding:16px=2012px=2016px=200;">=20=20<br></td>=20</tr>=20</=
+tbody></table>=20</td>=20</tr>=20</tbody></table>=20</td>=20</tr>=20</tbody>=
+</table>=20</a></div><div><br></div><div=20id=3D"yui_3_16_0_ym19_1_149567941=
+5139_8048"><span><br></span></div><div><span><br></span></div><div><span><br=
+></span></div><div><span><br></span></div><div=20id=3D"yui_3_16_0_ym19_1_149=
+5679415139_8108"><span></span></div><div=20class=3D"signature"=20id=3D"yui_3=
+_16_0_ym19_1_1495679415139_7944">*******************************************=
+****&nbsp;<div=20id=3D"yui_3_16_0_ym19_1_1495679415139_7987">Yenhsiao=20Liu=20=
+=E5=8A=89=E5=BD=A5=E5=AD=9D&nbsp;</div><div=20id=3D"yui_3_16_0_ym19_1_149567=
+9415139_7988"><br><div=20id=3D"yui_3_16_0_ym19_1_1495679415139_8017">CHUNG=20=
+YEN=20ENGINEERING=20CO.,=20LTD.</div><div=20id=3D"yui_3_16_0_ym19_1_14956794=
+15139_8028">=E4=B8=AD=E5=BD=A5=E5=B7=A5=E7=A8=8B=E8=82=A1=E4=BB=BD=E6=9C=89=E9=
+=99=90=E5=85=AC=E5=8F=B8&nbsp;</div><div=20id=3D"yui_3_16_0_ym19_1_149567941=
+5139_8018"><br></div><div=20id=3D"yui_3_16_0_ym19_1_1495679415139_8019">NO=20=
+397,=20Li-Kang=20Rd,=20Li-Kang,=20Pingtung,=20Taiwan,=20R.O.C.&nbsp;</div><d=
+iv=20id=3D"yui_3_16_0_ym19_1_1495679415139_8027">=E5=B1=8F=E6=9D=B1=E7=B8=A3=
+=E9=87=8C=E6=B8=AF=E9=84=89=E9=87=8C=E6=B8=AF=E8=B7=AF397=E8=99=9F</div><div=
+=20id=3D"yui_3_16_0_ym19_1_1495679415139_8020"><br></div><div=20id=3D"yui_3_=
+16_0_ym19_1_1495679415139_8026">Tel:=20886-8-7722252=20&nbsp;</div><div=20id=
+=3D"yui_3_16_0_ym19_1_1495679415139_8021">Fax:=20886-8-7722235&nbsp;</div><d=
+iv=20id=3D"yui_3_16_0_ym19_1_1495679415139_8025"><a=20rel=3D"nofollow"=20tar=
+get=3D"_blank"=20href=3D"http://www.chung-yen.com.tw/"=20id=3D"yui_3_16_0_ym=
+19_1_1495679415139_8024">http://www.chung-yen.com.tw/</a><br></div><div=20id=
+=3D"yui_3_16_0_ym19_1_1495679415139_8022"><br></div><div=20id=3D"yui_3_16_0_=
+ym19_1_1495679415139_8023">*************************************************=
+***</div></div></div></div></x-body></html>
+-----=S/:.a..CCY?f4f(H0S7jof0drL--

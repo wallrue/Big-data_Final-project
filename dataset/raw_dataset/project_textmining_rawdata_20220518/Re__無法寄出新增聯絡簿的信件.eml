@@ -1,0 +1,93 @@
+X-M2K-MATCHED-RULE: USER_FILTER
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 3.3.3.3
+	by ms3.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(31214:0:AUTH_NONE)
+	(envelope-from <d93d932001@mail.edu.tw>); Sat, 26 Sep 2015 20:25:47 +0800 (CST)
+Return-Path: <d93d932001@mail.edu.tw>
+X-M2KSPAM: NO/86
+Received: from 3.3.3.3
+	by asp6.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(84779:0:AUTH_RELAY)
+	(envelope-from <d93d932001@mail.edu.tw>); Sat, 26 Sep 2015 20:25:44 +0800 (CST)
+Return-Path: <d93d932001@mail.edu.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(31053:0:AUTH_RELAY)
+	(envelope-from <d93d932001@mail.edu.tw>); Sat, 26 Sep 2015 20:25:33 +0800 (CST)
+Return-Path: <d93d932001@mail.edu.tw>
+Received: By OpenMail Mailer;Sat, 26 Sep 2015 20:25:33 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(22352:0:AUTH_NONE)
+	(envelope-from <d93d932001@mail.edu.tw>); Sat, 26 Sep 2015 20:25:31 +0800 (CST)
+Return-Path: <d93d932001@mail.edu.tw>
+X-M2KSPAM: NO/0
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(16392:1:AUTH_NONE)
+	(envelope-from <d93d932001@mail.edu.tw>); Sat, 26 Sep 2015 20:25:30 +0800 (CST)
+Return-Path: <d93d932001@mail.edu.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)(FROMBW:2,PASS)(FROMBW:2,
+	PASS)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 172.16.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(24653:0:AUTH_RELAY)
+	(envelope-from <d93d932001@mail.edu.tw>); Sat, 26 Sep 2015 20:25:28 +0800 (CST)
+Return-Path: <d93d932001@mail.edu.tw>
+Received: By OpenMail Mailer;Sat, 26 Sep 2015 20:25:28 +0800 (CST)
+Received: from 172.16.0.96
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V7.00(27547:0:AUTH_RELAY)
+	(envelope-from <d93d932001@mail.edu.tw>); Sat, 26 Sep 2015 20:25:26 +0800 (CST)
+Return-Path: <d93d932001@mail.edu.tw>
+X-M2KPolicyIP: 172.16.0.96 (#NOT FOUND)
+X-MailGates: (RBL:2,PASS,0.000000e+00)(BATV:2,PASS,sender not empty)(fla
+	g:1,DYNAMIC,RELAY,NOHOST,LAN:PASS)(IPF:2,PASS)(FROMBW:2,PASS)(FROMBW:2,P
+	ASS)(bayesian:SCORE-38,0.00,2)(commtouch:PASS,1,str=0001.0A150209.56068E
+	B6.01E8,ss=1,re=0.000,fgs=0,2)(localsimi:PASS,2)(mail_charset:PASS,2)(co
+	mpute_score:HAM,2,0)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 163.28.127.21
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(24633:0:AUTH_NONE)
+	(envelope-from <d93d932001@mail.edu.tw>); Sat, 26 Sep 2015 20:25:24 +0800 (CST)
+Return-Path: <d93d932001@mail.edu.tw>
+Received: By OpenMail Mailer;Sat, 26 Sep 2015 20:19:24 +0800 (CST)
+From: "d93d932001" <d93d932001@mail.edu.tw>
+Reply-To: "d93d932001" <d93d932001@mail.edu.tw>
+Subject: =?big5?B?UmU6ILVMqmuxSKVYt3O8V8FwtbjDr6q6q0il8w==?=
+Message-ID: <1443269964.27856.d93d932001@mail.edu.tw>
+In-Reply-To: <1443269866.27171.d93d932001@mail.edu.tw>
+References: <1443269866.27171.d93d932001@mail.edu.tw>
+To: "=?big5?B?ZWR1qkGwyKtIvWM=?=" <edu@openfind.com>
+Date: Sat, 26 Sep 2015 20:19:24 +0800 (CST)
+MIME-Version: 1.0
+Return-Path: d93d932001@mail.edu.tw
+Content-Type: text/plain; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+
+
+=B3o=ACO=B2=C4=A4G=A6=B8=B1H=A5X=A1A=A4W=A4@=AB=CA=A4S=A5=A2=B1=D1=A4F(=A6]=AC=
+=B0=ACO=B7s=A6=AC=A5=F3=A4H)=A1C
+
+
+-----Original=20message-----
+From:d93d932001=20<d93d932001@mail.edu.tw>
+To:edu=20<edu@openfind.com>
+Date:Sat,=2026=20Sep=202015=2020:17:46
+Subject:=B5L=AAk=B1H=A5X=B7s=BCW=C1p=B5=B8=C3=AF=AA=BA=ABH=A5=F3
+
+
+=B1z=A6n=A1G
+
+=B3=CC=AA=F1=A6b=BE=DE=A7@=A5=BB=AAA=B0=C8=B5n=A4J=B1`=B1`=A5=A2=B1=D1=A1B=AD=
+n=B5n=A4J=A6n=A6h=A6=B8=A4~=B6i=B1o=A8=D3=A1B=B5M=AB=E1=A5H=A6^=C2=D0=ABH=A5=
+=F3=A4=E8=A6=A1=B1H=A5X=ABH=A5=F3(=C1=D9=A5=BC=A5[=A4J=C1p=B5=B8=A4H)=A1A=B5=
+L=AAk=B1H=A5X=A1A=BD=D0=B1z=AB=FC=BE=C9=B8=D3=A6p=A6=F3=B8=D1=A8M=A1A=C1=C2=C1=
+=C2=B1z!!
+
+
+

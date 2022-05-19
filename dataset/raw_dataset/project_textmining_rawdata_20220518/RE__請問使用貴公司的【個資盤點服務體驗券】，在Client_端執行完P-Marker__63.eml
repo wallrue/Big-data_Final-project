@@ -1,0 +1,635 @@
+X-M2KSPAM: NO/-6
+Received: from 3.3.3.3
+	by asp7.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(55317:0:AUTH_RELAY)
+	(envelope-from <Antony@mitake.com.tw>); Fri, 29 Mar 2013 18:52:20 +0800 (CST)
+Return-Path: <Antony@mitake.com.tw>
+Received: from 10.0.0.81
+	by bak3.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(1180:0:AUTH_RELAY)
+	(envelope-from <Antony@mitake.com.tw>); Fri, 29 Mar 2013 18:31:35 +0800 (CST)
+Return-Path: <Antony@mitake.com.tw>
+Received: from 10.0.0.40
+	by bak1.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(1112:0:AUTH_RELAY)
+	(envelope-from <Antony@mitake.com.tw>); Fri, 29 Mar 2013 18:31:33 +0800 (CST)
+Return-Path: <Antony@mitake.com.tw>
+M2KForward: Yes
+Received: By OpenMail Mailer;Fri, 29 Mar 2013 18:31:33 +0800 (CST)
+Received: from 203.69.82.34
+	by m0.mail2000.com.tw with Mail2000 ESMTP Server V3.20M(87478:0:AUTH_NONE)
+	(envelope-from <Antony@mitake.com.tw>); Fri, 29 Mar 2013 18:31:32 +0800 (CST)
+Return-Path: <Antony@mitake.com.tw>
+X-M2KSPAM: YES/100
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(96750:5:AUTH_NONE)
+	(envelope-from <Antony@mitake.com.tw>); Fri, 29 Mar 2013 18:31:30 +0800 (CST)
+Return-Path: <Antony@mitake.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 10.0.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(7250:0:AUTH_RELAY)
+	(envelope-from <Antony@mitake.com.tw>); Fri, 29 Mar 2013 18:31:32 +0800 (CST)
+Return-Path: <Antony@mitake.com.tw>
+Received: By OpenMail Mailer;Fri, 29 Mar 2013 18:31:24 +0800 (CST)
+Received: from 203.69.82.124
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V6.00(78607:0:AUTH_RELAY)
+	(envelope-from <Antony@mitake.com.tw>); Fri, 29 Mar 2013 18:31:24 +0800 (CST)
+Return-Path: <Antony@mitake.com.tw>
+X-M2KPolicyIP: 203.69.82.124 (#NOT FOUND)
+X-MailGates: (RBL:2,PASS,0.000000e+00)(flag:0:PASS)(IPF:2,PASS)(bayesian
+	:SCORE-38,0.00,2)(commtouch:PASS,1,str=0001.0A150208.51556D7A.02D7:SCFST
+	AT17213367,ss=1,re=-4.000,fgs=0,2)(mail_charset:PASS,2)(compute_score:HA
+	M,2,0)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 118.163.25.226
+	by mg.openfind.com.tw with MailGates ESMTP Server V4.0(17090:0:AUTH_NONE)
+	(envelope-from <Antony@mitake.com.tw>); Fri, 29 Mar 2013 18:31:19 +0800 (CST)
+Return-Path: <Antony@mitake.com.tw>
+Received: from MBX-02.mitake.com.tw ([fe80::b5a3:c120:a98f:8642]) by
+ CAS-01.mitake.com.tw ([::1]) with mapi id 14.02.0318.004; Fri, 29 Mar 2013
+ 18:31:18 +0800
+From: =?big5?B?TUlTLbFpxKPEbg==?= <Antony@mitake.com.tw>
+To: =?big5?B?TWFpbGNsb3VkIKvIqkGkpKTf?= <service@mailcloud.com.tw>
+CC: p-marker <p-marker@openfind.com.tw>
+Subject: =?big5?B?UkU6IL3QsN2oz6XOtlGkvaVxqrqhaa3TuOq9TMJJqkGwyMXpxeeo6aFqoUGmYkNs?=
+ =?big5?B?aWVudCC63bD1puanuVAtTWFya2VyIKXOpOG63b1MwkmzbsXpq+GhQa3TuOqsT6df?=
+ =?big5?B?t3y2x7Blpty69MC6qrpQLU1hcmtlciBDbG91ZCCkVy4uLg==?=
+Thread-Topic: =?big5?B?vdCw3ajPpc62UaS9pXGquqFprdO46r1MwkmqQbDIxenF56jpoWqhQaZiQ2xpZW50?=
+ =?big5?B?ILrdsPWm5qe5UC1NYXJrZXIgpc6k4brdvUzCSbNuxemr4aFBrdO46qxPp1+3fLbH?=
+ =?big5?B?sGWm3Lr0wLqqulAtTWFya2VyIENsb3VkIKRXLi4u?=
+Thread-Index: AQHOLGf1xpXoD+PM0UaPCg/4Jak/wZi8d7Kw
+Date: Fri, 29 Mar 2013 10:31:18 +0000
+Message-ID: <5512A2881986BE4ABEEAC11E1A839F7B188E0524@MBX-02.mitake.com.tw>
+References: <5512A2881986BE4ABEEAC11E1A839F7B188E04F7@MBX-02.mitake.com.tw>
+ <9518571DF41243E1BD75AA0DED0C5F5E@tp.office.openfind.com.tw>
+In-Reply-To: <9518571DF41243E1BD75AA0DED0C5F5E@tp.office.openfind.com.tw>
+Accept-Language: zh-TW, en-US
+Content-Language: zh-TW
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.1.5.107]
+Content-Type: multipart/alternative;
+	boundary="_000_5512A2881986BE4ABEEAC11E1A839F7B188E0524MBX02mitakecomt_"
+MIME-Version: 1.0
+
+--_000_5512A2881986BE4ABEEAC11E1A839F7B188E0524MBX02mitakecomt_
+Content-Type: text/plain; charset="big5"
+Content-Transfer-Encoding: base64
+
+SGksIFNpcg0KDQqtWafapmKxvbR5uUy1e6SkoUGxTrr0uPSkpMJfoUGzb7zLQ2xpZW50ut2xvbR5
+rE+nX6VppUilv7FguUKnQKlPoUgNCqxPp1+laaVIsqOlWK3TuOq9TMJJss6tcLP4qu2hSA0KDQqx
+acSjxG4gQW50b255IENoYW5nDQqkVKbLuOqwVKrRpfems62tpL2lcQ0KTWl0YWtlIEluZm9ybWF0
+aW9uIENvcnBvcmF0aW9uDQqmYad9oUeleKVfpaukpKRzsM+3c6XNpV+49KRHrHEzObi5MTG80w0K
+VEVMoUcoMDIpMjU2My05OTk5IKTAvvehRzEzMDYNCkZBWKFHKDAyKTI1NjctMTk2OA0KTW9iaWxl
+oUcwOTUyLTA2MDEwMA0KRS1tYWlsoUdhbnRvbnlAbWl0YWtlLmNvbS50dzxtYWlsdG86c3lsdmlh
+QG1pdGFrZS5jb20udHc+DQoNCkZyb206IE1haWxjbG91ZCCryKpBpKSk3yBbbWFpbHRvOnNlcnZp
+Y2VAbWFpbGNsb3VkLmNvbS50d10NClNlbnQ6IEZyaWRheSwgTWFyY2ggMjksIDIwMTMgNjoyNyBQ
+TQ0KVG86IE1JUy2xacSjxG4NCkNjOiBwLW1hcmtlcg0KU3ViamVjdDogUmU6IL3QsN2oz6XOtlGk
+vaVxqrqhaa3TuOq9TMJJqkGwyMXpxeeo6aFqoUGmYkNsaWVudCC63bD1puanuVAtTWFya2VyIKXO
+pOG63b1MwkmzbsXpq+GhQa3TuOqsT6dft3y2x7Blpty69MC6qrpQLU1hcmtlciBDbG91ZCCkVy4u
+Lg0KDQqxeqZuoUENCg0KUC1NYXJrZXIgQ2xvdWQguXezXbHEqPqko6RXtsel9KbzrdO46qzbw/a4
+6rBUoUENCqV1t3ykV7bHuXG4o6Skp3Sms6q6rdO46sDJrte8xqVIpM6m7LhtoUENCrVNq+GozLfT
+s2+ox7jqsFSyo6VYrdO46r1Mwkmyzq1ws/iq7aFDDQoNCq1ZsXq/777cpFe2x63TuOq46rBUoUG6
+9MC6pF2ldbd8wl6o+q3TuOqk+axxoUENCqjDtmmm5qVow9GnT6TGIChEZS1pZGVudGlmaWVkKSCz
+QrJ6q+GmQaVbsUukV7bHoUENCqZdprm90LF6qfGk36FBpmKt07jqvUzCSanOpFe2x7OjpKO3fL7J
+rVCxeqq6rdO46qV+rKqhQw0KDQoNCg0KrVmxernvpUikV6ZewtCms6X0pvO6w7DdoUENCsV3qu+x
+eqTPrE21uafarcyhQw0KDQpNYWlsQ2xvdWQgq8iqQaSkpN8gt3GkVw0KDQoNCk1haWxDbG91ZCCr
+yKpBpKSk3w0Kq8iqQbFNvXWhRzAyLTI1NTM3MjcyDQqryKpBq0i9Y6FHc2VydmljZUBtYWlsY2xv
+dWQuY29tLnR3PG1haWx0bzpzZXJ2aWNlQG1haWxjbG91ZC5jb20udHc+DQq69MC6pfi3frZspfOl
+TrreIGh0dHA6Ly93d3cubWFpbGNsb3VkLmNvbS50dw0KTWFpbDIwMDC5caRsq0i9YyBodHRwOi8v
+bWFpbDIwMDAuY29tLnR3Lw0KuvTAuiBPcGVuZmluZCCl+Ld+uvSvuCBodHRwOi8vd3d3Lm9wZW5m
+aW5kLmNvbS90YWl3YW4vDQpGcm9tOiBNSVMtsWnEo8RuPG1haWx0bzpBbnRvbnlAbWl0YWtlLmNv
+bS50dz4NClNlbnQ6IEZyaWRheSwgTWFyY2ggMjksIDIwMTMgNjoxOSBQTQ0KVG86IHAtbWFya2Vy
+QG9wZW5maW5kLmNvbS50dzxtYWlsdG86cC1tYXJrZXJAb3BlbmZpbmQuY29tLnR3Pg0KU3ViamVj
+dDogvdCw3ajPpc62UaS9pXGquqFprdO46r1MwkmqQbDIxenF56jpoWqhQaZiQ2xpZW50ILrdsPWm
+5qe5UC1NYXJrZXIgpc6k4brdvUzCSbNuxemr4aFBrdO46qxPp1+3fLbHsGWm3Lr0wLqqulAtTWFy
+a2VyIENsb3VkIKRXLi4uDQoNCkhpLCBTaXINCr3QsN2oz6XOtlGkvaVxqrqhaa3TuOq9TMJJqkGw
+yMXpxeeo6aFqoUGmYkNsaWVudCC63bD1puanuVAtTWFya2VyIKXOpOG63b1MwkmzbsXpq+GhQa3T
+uOqsT6dft3y2x7Blpty69MC6qrpQLU1hcmtlciBDbG91ZCCkV6FBDQqmcKpHrE+hS7NvvMu2UaS9
+pXG3fKazq0+vZKvIpOG63a3TuOqqurDdw0ShSw0KDQoNCrFpxKPEbiBBbnRvbnkgQ2hhbmcNCqRU
+psu46rBUqtGl96azra2kvaVxDQpNaXRha2UgSW5mb3JtYXRpb24gQ29ycG9yYXRpb24NCqZhp32h
+R6V4pV+lq6SkpHOwz7dzpc2lX7j0pEescTM5uLkxMbzTDQpURUyhRygwMikyNTYzLTk5OTkgpMC+
+96FHMTMwNg0KRkFYoUcoMDIpMjU2Ny0xOTY4DQpNb2JpbGWhRzA5NTItMDYwMTAwDQpFLW1haWyh
+R2FudG9ueUBtaXRha2UuY29tLnR3PG1haWx0bzpzeWx2aWFAbWl0YWtlLmNvbS50dz4NCg0KDQqs
+sMHXp0uoz6XOqsy2fbHSp3Sms69mrHKpzsSvws6qurZspfOhQaW7pL2lcbZspfOlRL73sHe577Zs
+pfOnqLFhpKeq/sDJpleu5qahrLCw9abmwMmo07Zppua5TMJvoUG90KjPpc6qzLZ9sdK2bKXzqv6l
+W8DJrsml/abmsb2scqFDDQoNCk1pdGFrZSBJbmZvcm1hdGlvbiBDby4gTHRkLiB0byByZXZpZXcg
+YW5kIHJldGFpbiBhbGwgaW5jb21pbmcgYW5kIG91dGdvaW5nIGVtYWlsIGNvbnRlbnQgYW5kIGNv
+bXBsaWFuY2UgcHVycG9zZXMuIEFsbCBzZW50IGZyb20gTUlUQUtFIEUtbWFpbCAoaW5jbHVkaW5n
+IGF0dGFjaG1lbnRzKSBtYXkgY29udGFpbiBjb25maWRlbnRpYWwgb3IgbGVnYWxseSBjb25maWRl
+bnRpYWwgaW5mb3JtYXRpb24sIG9ubHkgc2VudCB0byB0aGUgbmFtZWQgaW5kaXZpZHVhbCBvciBi
+dXNpbmVzcyBlLW1haWwgYWRkcmVzcy4gTm90aWNlIGlzIGhlcmVieSBnaXZlbjogSWYgeW91IGFy
+ZSBub3QgdGhlIGludGVuZGVkIHJlY2lwaWVudCwgZGlzY2xvc3VyZSBpcyBwcm9oaWJpdGVkLCBz
+YXZlIG9yIGNvcHksIGZvcndhcmRlZCB0byBhbnkgY29udGVudCBvZiB0aGlzIGUtbWFpbCBhbmQg
+ZGVsZXRlIHRoZSByZWNlaXZlZCBlLW1haWwgY29udGVudCBhcyBzb29uIGFzIHBvc3NpYmxlLg0K
+TWl0YWtlLCBJbmMuIDxodHRwOi8vd3d3Lm1pdGFrZS5jb20udHc+DQoNCqywwdenS6jPpc6qzLZ9
+sdKndKazr2ascqnOxK/Czqq6tmyl86FBpbukvaVxtmyl86VEvvewd7nvtmyl86eosWGkp6r+wMmm
+V67mpqGssLD1pubAyajTtmmm5rlMwm+hQb3QqM+lzqrMtn2x0rZspfOq/qVbwMmuyaX9puaxvaxy
+oUMNCg0KTWl0YWtlIEluZm9ybWF0aW9uIENvLiBMdGQuIHRvIHJldmlldyBhbmQgcmV0YWluIGFs
+bCBpbmNvbWluZyBhbmQgb3V0Z29pbmcgZW1haWwgY29udGVudCBhbmQgY29tcGxpYW5jZSBwdXJw
+b3Nlcy4gQWxsIHNlbnQgZnJvbSBNSVRBS0UgRS1tYWlsIChpbmNsdWRpbmcgYXR0YWNobWVudHMp
+IG1heSBjb250YWluIGNvbmZpZGVudGlhbCBvciBsZWdhbGx5IGNvbmZpZGVudGlhbCBpbmZvcm1h
+dGlvbiwgb25seSBzZW50IHRvIHRoZSBuYW1lZCBpbmRpdmlkdWFsIG9yIGJ1c2luZXNzIGUtbWFp
+bCBhZGRyZXNzLiBOb3RpY2UgaXMgaGVyZWJ5IGdpdmVuOiBJZiB5b3UgYXJlIG5vdCB0aGUgaW50
+ZW5kZWQgcmVjaXBpZW50LCBkaXNjbG9zdXJlIGlzIHByb2hpYml0ZWQsIHNhdmUgb3IgY29weSwg
+Zm9yd2FyZGVkIHRvIGFueSBjb250ZW50IG9mIHRoaXMgZS1tYWlsIGFuZCBkZWxldGUgdGhlIHJl
+Y2VpdmVkIGUtbWFpbCBjb250ZW50IGFzIHNvb24gYXMgcG9zc2libGUuDQoNCk1pdGFrZSwgSW5j
+LiA8aHR0cDovL3d3dy5taXRha2UuY29tLnR3Pg0KDQo=
+
+--_000_5512A2881986BE4ABEEAC11E1A839F7B188E0524MBX02mitakecomt_
+Content-Type: text/html; charset="big5"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dbig5">
+<style>
+<!--
+@font-face
+	{font-family:=B7s=B2=D3=A9=FA=C5=E9}
+@font-face
+	{font-family:"Cambria Math"}
+@font-face
+	{font-family:Cambria}
+@font-face
+	{font-family:Calibri}
+@font-face
+	{font-family:Tahoma}
+@font-face
+	{font-family:"\@=B7s=B2=D3=A9=FA=C5=E9"}
+@font-face
+	{font-family:=B7L=B3n=A5=BF=B6=C2=C5=E9}
+@font-face
+	{font-family:"\@=B7L=B3n=A5=BF=B6=C2=C5=E9"}
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri","sans-serif"}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline}
+p
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"=B7s=B2=D3=A9=FA=C5=E9","serif"}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Cambria","serif"}
+span.emailstyle17
+	{font-family:"Cambria","serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.a
+	{font-family:"Cambria","serif"}
+span.EmailStyle21
+	{font-family:"Cambria","serif";
+	color:#1F497D;
+	font-weight:normal;
+	font-style:normal}
+.MsoChpDefault
+	{font-size:10.0pt}
+@page WordSection1
+	{margin:72.0pt 90.0pt 72.0pt 90.0pt}
+div.WordSection1
+	{}
+-->
+</style>
+</head>
+<body lang=3D"ZH-TW" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Camb=
+ria&quot;,&quot;serif&quot;">Hi, Sir</span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Camb=
+ria&quot;,&quot;serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;">=ADY=A7=DA=A6b=B1=BD=B4y=B9L=B5{=A4=
+=A4=A1A=B1N=BA=F4=B8=F4=A4=A4=C2_=A1A=B3o=BC=CB</span><span lang=3D"EN-US" =
+style=3D"font-family:&quot;Cambria&quot;,&quot;serif&quot;">Client</span><s=
+pan style=3D"font-family:&quot;=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-=
+serif&quot;">=BA=DD=B1=BD=B4y=ACO=A7_=A5i=A5H=A5=BF=B1`=B9B=A7@=A9O=A1H</sp=
+an><span lang=3D"EN-US" style=3D"font-family:&quot;Cambria&quot;,&quot;seri=
+f&quot;"></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;">=ACO=A7_=A5i=A5H=B2=A3=A5X=AD=D3=B8=
+=EA=BDL=C2I=B2=CE=ADp=B3=F8=AA=ED=A1H</span><span lang=3D"EN-US" style=3D"f=
+ont-family:&quot;Cambria&quot;,&quot;serif&quot;"></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Camb=
+ria&quot;,&quot;serif&quot;; color:#1F497D">&nbsp;</span></p>
+<div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><b><span style=3D"fon=
+t-size:11.0pt; font-family:&quot;=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;san=
+s-serif&quot;; color:#1F497D">=B1i=C4=A3=C4n</span></b><b><span lang=3D"EN-=
+US" style=3D"font-size:11.0pt; font-family:&quot;Cambria&quot;,&quot;serif&=
+quot;; color:#1F497D"> Antony Chang
+</span></b><span lang=3D"EN-US" style=3D"color:#1F497D"></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt; font-family:&quot;=
+=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=A4T=
+=A6=CB=B8=EA=B0T=AA=D1=A5=F7=A6=B3=AD=AD=A4=BD=A5q</span><span lang=3D"EN-U=
+S" style=3D"font-size:10.0pt; font-family:&quot;Cambria&quot;,&quot;serif&q=
+uot;; color:blue">
+<br>
+Mitake Information Corporation<br>
+</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=A6a=A7}=A1G=A5x=A5_=A5=
+=AB=A4=A4=A4s=B0=CF=B7s=A5=CD=A5_=B8=F4=A4G=ACq</span><span lang=3D"EN-US" =
+style=3D"font-size:10.0pt; font-family:&quot;Cambria&quot;,&quot;serif&quot=
+;; color:blue">39</span><span style=3D"font-size:10.0pt; font-family:&quot;=
+=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=B8=B9=
+</span><span lang=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Ca=
+mbria&quot;,&quot;serif&quot;; color:blue">11</span><span style=3D"font-siz=
+e:10.0pt; font-family:&quot;=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-ser=
+if&quot;; color:blue">=BC=D3</span><span lang=3D"EN-US" style=3D"font-size:=
+10.0pt; font-family:&quot;Cambria&quot;,&quot;serif&quot;; color:blue"><br>
+TEL</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7L=B3n=A5=BF=
+=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=A1G</span><span lan=
+g=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Cambria&quot;,&quo=
+t;serif&quot;; color:blue">(02)2563-9999
+</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=A4=C0=BE=F7=A1G</span>=
+<span lang=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Cambria&q=
+uot;,&quot;serif&quot;; color:blue">1306<br>
+FAX</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7L=B3n=A5=BF=
+=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=A1G</span><span lan=
+g=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Cambria&quot;,&quo=
+t;serif&quot;; color:blue">(02)2567-1968<br>
+Mobile</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7L=B3n=A5=
+=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=A1G</span><span =
+lang=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Cambria&quot;,&=
+quot;serif&quot;; color:blue">0952-060100<br>
+E-mail</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7L=B3n=A5=
+=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=A1G</span><u><sp=
+an lang=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Cambria&quot=
+;,&quot;serif&quot;; color:blue"><a href=3D"mailto:sylvia@mitake.com.tw">an=
+tony@mitake.com.tw</a></span></u><span lang=3D"EN-US" style=3D"font-size:10=
+.0pt; font-family:&quot;Cambria&quot;,&quot;serif&quot;; color:blue">
+</span><span lang=3D"EN-US" style=3D"font-family:&quot;Cambria&quot;,&quot;=
+serif&quot;; color:#1F497D"></span></p>
+</div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Camb=
+ria&quot;,&quot;serif&quot;; color:#1F497D">&nbsp;</span></p>
+<div>
+<div style=3D"border:none; border-top:solid #B5C4DF 1.0pt; padding:3.0pt 0c=
+m 0cm 0cm">
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:10.0pt; f=
+ont-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span=
+ lang=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Tahoma&quot;,&=
+quot;sans-serif&quot;"> Mailcloud
+</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7s=B2=D3=A9=FA=
+=C5=E9&quot;,&quot;serif&quot;">=AB=C8=AAA=A4=A4=A4=DF</span><span lang=3D"=
+EN-US" style=3D"font-size:10.0pt; font-family:&quot;Tahoma&quot;,&quot;sans=
+-serif&quot;"> [mailto:service@mailcloud.com.tw]
+<br>
+<b>Sent:</b> Friday, March 29, 2013 6:27 PM<br>
+<b>To:</b> MIS-</span><span style=3D"font-size:10.0pt; font-family:&quot;=
+=B7s=B2=D3=A9=FA=C5=E9&quot;,&quot;serif&quot;">=B1i=C4=A3=C4n</span><span =
+lang=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Tahoma&quot;,&q=
+uot;sans-serif&quot;"><br>
+<b>Cc:</b> p-marker<br>
+<b>Subject:</b> Re: </span><span style=3D"font-size:10.0pt; font-family:&qu=
+ot;=B7s=B2=D3=A9=FA=C5=E9&quot;,&quot;serif&quot;">=BD=D0=B0=DD=A8=CF=A5=CE=
+=B6Q=A4=BD=A5q=AA=BA=A1i=AD=D3=B8=EA=BDL=C2I=AAA=B0=C8=C5=E9=C5=E7=A8=E9=A1=
+j=A1A=A6b</span><span lang=3D"EN-US" style=3D"font-size:10.0pt; font-family=
+:&quot;Tahoma&quot;,&quot;sans-serif&quot;">Client
+</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7s=B2=D3=A9=FA=
+=C5=E9&quot;,&quot;serif&quot;">=BA=DD=B0=F5=A6=E6=A7=B9</span><span lang=
+=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Tahoma&quot;,&quot;=
+sans-serif&quot;">P-Marker
+</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7s=B2=D3=A9=FA=
+=C5=E9&quot;,&quot;serif&quot;">=A5=CE=A4=E1=BA=DD=BDL=C2I=B3n=C5=E9=AB=E1=
+=A1A=AD=D3=B8=EA=ACO=A7_=B7|=B6=C7=B0e=A6=DC=BA=F4=C0=BA=AA=BA</span><span =
+lang=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Tahoma&quot;,&q=
+uot;sans-serif&quot;">P-Marker Cloud
+</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7s=B2=D3=A9=FA=
+=C5=E9&quot;,&quot;serif&quot;">=A4W</span><span lang=3D"EN-US" style=3D"fo=
+nt-size:10.0pt; font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">...<=
+/span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p>
+<div>
+<div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:#080000">=B1z=A6n=A1A</span><=
+span lang=3D"EN-US" style=3D"color:black"></span></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:black">&nbsp;</s=
+pan></p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;=B7L=
+=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:#080000">P-Marke=
+r Cloud
+</span><span style=3D"font-family:&quot;=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&q=
+uot;sans-serif&quot;; color:#080000">=B9w=B3]=B1=C4=A8=FA=A4=A3=A4W=B6=C7=
+=A5=F4=A6=F3=AD=D3=B8=EA=AC=DB=C3=F6=B8=EA=B0T=A1A<span lang=3D"EN-US"></sp=
+an></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:#080000">=A5u=B7|=A4W=B6=C7=
+=B9q=B8=A3=A4=A4=A7t=A6=B3=AA=BA=AD=D3=B8=EA=C0=C9=AE=D7=BC=C6=A5H=A4=CE=A6=
+=EC=B8m=A1A<span lang=3D"EN-US"></span></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:#080000">=B5M=AB=E1=A8=CC=B7=
+=D3=B3o=A8=C7=B8=EA=B0T=B2=A3=A5X=AD=D3=B8=EA=BDL=C2I=B2=CE=ADp=B3=F8=AA=ED=
+=A1C<span lang=3D"EN-US"></span></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;=B7L=
+=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:#080000">&nbsp;<=
+/span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:#080000">=ADY=B1z=BF=EF=BE=DC=
+=A4W=B6=C7=AD=D3=B8=EA=B8=EA=B0T=A1A=BA=F4=C0=BA=A4]=A5u=B7|=C2^=A8=FA=AD=
+=D3=B8=EA=A4=F9=ACq=A1A<span lang=3D"EN-US"></span></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:#080000">=A8=C3=B6i=A6=E6=A5h=
+=C3=D1=A7O=A4=C6<span lang=3D"EN-US"> (De-identified)
+</span>=B3B=B2z=AB=E1=A6A=A5[=B1K=A4W=B6=C7=A1A<span lang=3D"EN-US"></span>=
+</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:#080000">=A6]=A6=B9=BD=D0=B1z=
+=A9=F1=A4=DF=A1A=A6b=AD=D3=B8=EA=BDL=C2I=A9=CE=A4W=B6=C7=B3=A3=A4=A3=B7|=BE=
+=C9=ADP=B1z=AA=BA=AD=D3=B8=EA=A5~=AC=AA=A1C<span lang=3D"EN-US"></span></sp=
+an></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;=B7L=
+=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:#080000">&nbsp;<=
+/span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;=B7L=
+=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:#080000">&nbsp;<=
+/span></p>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:black">&nbsp;</s=
+pan></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:#080000">=ADY=B1z=B9=EF=A5H=
+=A4W=A6^=C2=D0=A6=B3=A5=F4=A6=F3=BA=C3=B0=DD=A1A<span lang=3D"EN-US"><br>
+</span>=C5w=AA=EF=B1z=A4=CF=ACM=B5=B9=A7=DA=AD=CC=A1C<span lang=3D"EN-US"><=
+br>
+<br>
+MailCloud </span>=AB=C8=AAA=A4=A4=A4=DF =B7q=A4W<span lang=3D"EN-US"><br>
+<br>
+<br>
+MailCloud </span>=AB=C8=AAA=A4=A4=A4=DF<span lang=3D"EN-US"><br>
+</span>=AB=C8=AAA=B1M=BDu=A1G<span lang=3D"EN-US">02-25537272<br>
+</span>=AB=C8=AAA=ABH=BDc=A1G<span lang=3D"EN-US"><a href=3D"mailto:service=
+@mailcloud.com.tw">service@mailcloud.com.tw</a><br>
+</span>=BA=F4=C0=BA=A5=F8=B7~=B6l=A5=F3=A5N=BA=DE <span lang=3D"EN-US"><a h=
+ref=3D"http://www.mailcloud.com.tw">http://www.mailcloud.com.tw</a><br>
+Mail2000</span>=B9q=A4l=ABH=BDc <span lang=3D"EN-US"><a href=3D"http://mail=
+2000.com.tw/">http://mail2000.com.tw/</a><br>
+</span>=BA=F4=C0=BA<span lang=3D"EN-US"> Openfind </span>=A5=F8=B7~=BA=F4=
+=AF=B8 <span lang=3D"EN-US"><a href=3D"http://www.openfind.com/taiwan/">htt=
+p://www.openfind.com/taiwan/</a></span></span></p>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:whitesmoke"><b><span lang=3D"EN-=
+US" style=3D"font-size:10.0pt; font-family:&quot;Tahoma&quot;,&quot;sans-se=
+rif&quot;; color:#080000">From:</span></b><span lang=3D"EN-US" style=3D"fon=
+t-size:10.0pt; font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;; color=
+:#080000">
+<a href=3D"mailto:Antony@mitake.com.tw" title=3D"Antony@mitake.com.tw">MIS-=
+<span lang=3D"EN-US" style=3D"font-family:&quot;=B7L=B3n=A5=BF=B6=C2=C5=E9&=
+quot;,&quot;sans-serif&quot;"><span lang=3D"EN-US">=B1i=C4=A3=C4n</span></s=
+pan></a>
+</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:whitesmoke"><b><span lang=3D"EN-=
+US" style=3D"font-size:10.0pt; font-family:&quot;Tahoma&quot;,&quot;sans-se=
+rif&quot;; color:#080000">Sent:</span></b><span lang=3D"EN-US" style=3D"fon=
+t-size:10.0pt; font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;; color=
+:#080000">
+ Friday, March 29, 2013 6:19 PM</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:whitesmoke"><b><span lang=3D"EN-=
+US" style=3D"font-size:10.0pt; font-family:&quot;Tahoma&quot;,&quot;sans-se=
+rif&quot;; color:#080000">To:</span></b><span lang=3D"EN-US" style=3D"font-=
+size:10.0pt; font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;; color:#=
+080000">
+<a href=3D"mailto:p-marker@openfind.com.tw" title=3D"p-marker@openfind.com.=
+tw">p-marker@openfind.com.tw</a>
+</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:whitesmoke"><b><span lang=3D"EN-=
+US" style=3D"font-size:10.0pt; font-family:&quot;Tahoma&quot;,&quot;sans-se=
+rif&quot;; color:#080000">Subject:</span></b><span lang=3D"EN-US" style=3D"=
+font-size:10.0pt; font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;; co=
+lor:#080000">
+</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:#080000">=BD=D0=B0=DD=A8=CF=
+=A5=CE=B6Q=A4=BD=A5q=AA=BA=A1i=AD=D3=B8=EA=BDL=C2I=AAA=B0=C8=C5=E9=C5=E7=A8=
+=E9=A1j=A1A=A6b</span><span lang=3D"EN-US" style=3D"font-size:10.0pt; font-=
+family:&quot;Tahoma&quot;,&quot;sans-serif&quot;; color:#080000">Client
+</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:#080000">=BA=DD=B0=F5=A6=E6=
+=A7=B9</span><span lang=3D"EN-US" style=3D"font-size:10.0pt; font-family:&q=
+uot;Tahoma&quot;,&quot;sans-serif&quot;; color:#080000">P-Marker
+</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:#080000">=A5=CE=A4=E1=BA=DD=
+=BDL=C2I=B3n=C5=E9=AB=E1=A1A=AD=D3=B8=EA=ACO=A7_=B7|=B6=C7=B0e=A6=DC=BA=F4=
+=C0=BA=AA=BA</span><span lang=3D"EN-US" style=3D"font-size:10.0pt; font-fam=
+ily:&quot;Tahoma&quot;,&quot;sans-serif&quot;; color:#080000">P-Marker Clou=
+d
+</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:#080000">=A4W</span><span lan=
+g=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Tahoma&quot;,&quot=
+;sans-serif&quot;; color:#080000">...</span></p>
+</div>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;=B7L=
+=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:#080000">&nbsp;<=
+/span></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Camb=
+ria&quot;,&quot;serif&quot;; color:black">Hi, Sir</span><span lang=3D"EN-US=
+" style=3D"color:black"></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:black">=BD=D0=B0=DD=A8=CF=A5=
+=CE=B6Q=A4=BD=A5q=AA=BA=A1i=AD=D3=B8=EA=BDL=C2I=AAA=B0=C8=C5=E9=C5=E7=A8=E9=
+=A1j=A1A=A6b</span><span lang=3D"EN-US" style=3D"font-family:&quot;Cambria&=
+quot;,&quot;serif&quot;; color:black">Client
+</span><span style=3D"font-family:&quot;=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&q=
+uot;sans-serif&quot;; color:black">=BA=DD=B0=F5=A6=E6=A7=B9</span><span lan=
+g=3D"EN" style=3D"font-size:11.5pt; font-family:&quot;Cambria&quot;,&quot;s=
+erif&quot;; color:black">P-Marker
+</span><span style=3D"font-size:11.5pt; font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:black">=A5=CE=A4=E1=BA=DD=BDL=
+=C2I=B3n=C5=E9=AB=E1=A1A=AD=D3=B8=EA=ACO=A7_=B7|=B6=C7=B0e=A6=DC=BA=F4=C0=
+=BA=AA=BA</span><span lang=3D"EN" style=3D"font-size:11.5pt; font-family:&q=
+uot;Cambria&quot;,&quot;serif&quot;; color:black">P-Marker Cloud
+</span><span style=3D"font-size:11.5pt; font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:black">=A4W=A1A</span><span l=
+ang=3D"EN-US" style=3D"color:black"></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.5pt; font-family:&quot;=
+=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:black">=A6p=
+=AAG=ACO</span><span style=3D"font-size:11.5pt; font-family:&quot;=B7L=B3n=
+=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:black">=A1K</span><s=
+pan style=3D"font-size:11.5pt; font-family:&quot;=B7L=B3n=A5=BF=B6=C2=C5=E9=
+&quot;,&quot;sans-serif&quot;; color:black">=B3o=BC=CB=B6Q=A4=BD=A5q=B7|=A6=
+=B3=ABO=AFd=AB=C8=A4=E1=BA=DD=AD=D3=B8=EA=AA=BA=B0=DD=C3D</span><span style=
+=3D"font-size:11.5pt; font-family:&quot;=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&q=
+uot;sans-serif&quot;; color:black">=A1K</span><span lang=3D"EN-US" style=3D=
+"color:black"></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:black">&nbsp;</s=
+pan></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:black">&nbsp;</s=
+pan></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><b><span style=3D"fon=
+t-size:11.0pt; font-family:&quot;=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;san=
+s-serif&quot;; color:black">=B1i=C4=A3=C4n</span></b><b><span lang=3D"EN-US=
+" style=3D"font-size:11.0pt; font-family:&quot;Cambria&quot;,&quot;serif&qu=
+ot;; color:black"> Antony Chang
+</span></b><span lang=3D"EN-US" style=3D"color:black"></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt; font-family:&quot;=
+=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=A4T=
+=A6=CB=B8=EA=B0T=AA=D1=A5=F7=A6=B3=AD=AD=A4=BD=A5q</span><span lang=3D"EN-U=
+S" style=3D"font-size:10.0pt; font-family:&quot;Cambria&quot;,&quot;serif&q=
+uot;; color:blue">
+<br>
+Mitake Information Corporation<br>
+</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=A6a=A7}=A1G=A5x=A5_=A5=
+=AB=A4=A4=A4s=B0=CF=B7s=A5=CD=A5_=B8=F4=A4G=ACq</span><span lang=3D"EN-US" =
+style=3D"font-size:10.0pt; font-family:&quot;Cambria&quot;,&quot;serif&quot=
+;; color:blue">39</span><span style=3D"font-size:10.0pt; font-family:&quot;=
+=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=B8=B9=
+</span><span lang=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Ca=
+mbria&quot;,&quot;serif&quot;; color:blue">11</span><span style=3D"font-siz=
+e:10.0pt; font-family:&quot;=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-ser=
+if&quot;; color:blue">=BC=D3</span><span lang=3D"EN-US" style=3D"font-size:=
+10.0pt; font-family:&quot;Cambria&quot;,&quot;serif&quot;; color:blue"><br>
+TEL</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7L=B3n=A5=BF=
+=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=A1G</span><span lan=
+g=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Cambria&quot;,&quo=
+t;serif&quot;; color:blue">(02)2563-9999
+</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7L=B3n=A5=BF=B6=
+=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=A4=C0=BE=F7=A1G</span>=
+<span lang=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Cambria&q=
+uot;,&quot;serif&quot;; color:blue">1306<br>
+FAX</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7L=B3n=A5=BF=
+=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=A1G</span><span lan=
+g=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Cambria&quot;,&quo=
+t;serif&quot;; color:blue">(02)2567-1968<br>
+Mobile</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7L=B3n=A5=
+=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=A1G</span><span =
+lang=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Cambria&quot;,&=
+quot;serif&quot;; color:blue">0952-060100<br>
+E-mail</span><span style=3D"font-size:10.0pt; font-family:&quot;=B7L=B3n=A5=
+=BF=B6=C2=C5=E9&quot;,&quot;sans-serif&quot;; color:blue">=A1G</span><u><sp=
+an lang=3D"EN-US" style=3D"font-size:10.0pt; font-family:&quot;Cambria&quot=
+;,&quot;serif&quot;; color:blue"><a href=3D"mailto:sylvia@mitake.com.tw">an=
+tony@mitake.com.tw</a></span></u><span lang=3D"EN-US" style=3D"font-size:10=
+.0pt; font-family:&quot;Cambria&quot;,&quot;serif&quot;; color:blue">
+</span><span lang=3D"EN-US" style=3D"color:black"></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:black">&nbsp;</s=
+pan></p>
+</div>
+<div style=3D"border:dotted #003333 1.0pt; padding:10.0pt 10.0pt 10.0pt 10.=
+0pt">
+<p style=3D"line-height:10.0pt; background:#D5EAFF"><span style=3D"font-siz=
+e:10.0pt; font-family:&quot;=B7L=B3n=A5=BF=B6=C2=C5=E9&quot;,&quot;sans-ser=
+if&quot;; color:black">=AC=B0=C1=D7=A7K=A8=CF=A5=CE=AA=CC=B6}=B1=D2=A7t=A6=
+=B3=AFf=ACr=A9=CE=C4=AF=C2=CE=AA=BA=B6l=A5=F3=A1A=A5=BB=A4=BD=A5q=B6l=A5=F3=
+=A5D=BE=F7=B0w=B9=EF=B6l=A5=F3=A7=A8=B1a=A4=A7=AA=FE=C0=C9=A6W=AE=E6=A6=A1=
+=AC=B0=B0=F5=A6=E6=C0=C9=A8=D3=B6i=A6=E6=B9L=C2o=A1A=BD=D0=A8=CF=A5=CE=AA=
+=CC=B6}=B1=D2=B6l=A5=F3=AA=FE=A5[=C0=C9=AE=C9=A5=FD=A6=E6=B1=BD=ACr=A1C</sp=
+an><span style=3D"font-size:10.0pt; font-family:&quot;Cambria&quot;,&quot;s=
+erif&quot;; color:black">
+<span lang=3D"EN-US"></span></span></p>
+<p style=3D"line-height:10.0pt; background:#D5EAFF"><span lang=3D"EN-US" st=
+yle=3D"font-size:10.0pt; font-family:&quot;Cambria&quot;,&quot;serif&quot;;=
+ color:black">Mitake Information Co. Ltd. to review and retain all incoming=
+ and outgoing email content and compliance purposes. All sent
+ from MITAKE E-mail (including attachments) may contain confidential or leg=
+ally confidential information, only sent to the named individual or busines=
+s e-mail address. Notice is hereby given: If you are not the intended recip=
+ient, disclosure is prohibited,
+ save or copy, forwarded to any content of this e-mail and delete the recei=
+ved e-mail content as soon as possible.
+</span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt; background:#D5EAFF"><=
+b><span lang=3D"EN-US" style=3D"font-size:10.0pt; color:#CC0000"><a href=3D=
+"http://www.mitake.com.tw">Mitake, Inc.
+</a></span></b><span lang=3D"EN-US" style=3D"color:black"></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style=3D"background-color:#D5EAFF; border:1px dotted #003333; padding:=
+.8em">
+<p style=3D"font-size:10pt; line-height:10pt; font-family:'Cambria','times =
+roman',serif">
+=AC=B0=C1=D7=A7K=A8=CF=A5=CE=AA=CC=B6}=B1=D2=A7t=A6=B3=AFf=ACr=A9=CE=C4=AF=
+=C2=CE=AA=BA=B6l=A5=F3=A1A=A5=BB=A4=BD=A5q=B6l=A5=F3=A5D=BE=F7=B0w=B9=EF=B6=
+l=A5=F3=A7=A8=B1a=A4=A7=AA=FE=C0=C9=A6W=AE=E6=A6=A1=AC=B0=B0=F5=A6=E6=C0=C9=
+=A8=D3=B6i=A6=E6=B9L=C2o=A1A=BD=D0=A8=CF=A5=CE=AA=CC=B6}=B1=D2=B6l=A5=F3=AA=
+=FE=A5[=C0=C9=AE=C9=A5=FD=A6=E6=B1=BD=ACr=A1C </p>
+<p style=3D"font-size:10pt; line-height:10pt; font-family:'Cambria','times =
+roman',serif">
+Mitake Information Co. Ltd. to review and retain all incoming and outgoing =
+email content and compliance purposes. All sent from MITAKE E-mail (includi=
+ng attachments) may contain confidential or legally confidential informatio=
+n, only sent to the named individual
+ or business e-mail address. Notice is hereby given: If you are not the int=
+ended recipient, disclosure is prohibited, save or copy, forwarded to any c=
+ontent of this e-mail and delete the received e-mail content as soon as pos=
+sible.
+</p>
+<span style=3D"padding-top:10px; font-weight:bold; color:#CC0000; font-size=
+:10pt; font-family:'Calibri',Arial,sans-serif"><a href=3D"http://www.mitake=
+.com.tw">Mitake, Inc.
+</a></span><br>
+<br>
+</div>
+</body>
+</html>
+
+--_000_5512A2881986BE4ABEEAC11E1A839F7B188E0524MBX02mitakecomt_--

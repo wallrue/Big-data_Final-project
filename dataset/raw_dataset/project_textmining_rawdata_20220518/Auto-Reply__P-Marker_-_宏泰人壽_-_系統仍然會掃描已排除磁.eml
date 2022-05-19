@@ -1,0 +1,130 @@
+Message-ID: <1429692930.882392.2001910867.17216.AutoReply_service@mailcloud.com.tw>
+X-M2K-MATCHED-RULE: SPAM_FILTER-InADB
+X-M2K-MATCHED-RESULT: Mail Header From In ADB/AutoReply_service@mailcloud.com.tw
+X-M2K-FROM-RULE: FROM_RULE:*@mailcloud.com.tw/1.1.1.1,2.2.2.2,3.3.3.3,10.0.0.0/25,61.222.152.199,203.69.82.0/25,210.59.162.122/31/0
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 203.69.82.98
+	by ms2.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(4072:0:AUTH_NONE)
+	(envelope-from <AutoReply_service@mailcloud.com.tw>); Wed, 22 Apr 2015 16:55:30 +0800 (CST)
+Return-Path: <AutoReply_service@mailcloud.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 203.69.82.98
+	by asp6.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(68246:1:AUTH_NONE)
+	(envelope-from <AutoReply_service@mailcloud.com.tw>); Wed, 22 Apr 2015 16:55:27 +0800 (CST)
+Return-Path: <AutoReply_service@mailcloud.com.tw>
+X-M2KPolicyIP: 203.69.82.98 (py9.mail2000.com.tw)
+Received: from 10.0.0.157
+	by mx6.mail2000.com.tw with Mail2000 ESMTP Server V3.20M(1790:0:AUTH_RELAY)
+	(envelope-from <AutoReply_service@mailcloud.com.tw>); Wed, 22 Apr 2015 16:55:27 +0800 (CST)
+Return-Path: <AutoReply_service@mailcloud.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(31065:0:AUTH_RELAY)
+	(envelope-from <AutoReply_service@mailcloud.com.tw>); Wed, 22 Apr 2015 16:48:24 +0800 (CST)
+Return-Path: <AutoReply_service@mailcloud.com.tw>
+Received: By OpenMail Mailer;Wed, 22 Apr 2015 16:48:24 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(14288:0:AUTH_NONE)
+	(envelope-from <AutoReply_service@mailcloud.com.tw>); Wed, 22 Apr 2015 16:48:21 +0800 (CST)
+Return-Path: <AutoReply_service@mailcloud.com.tw>
+X-M2KSPAM: NO/0
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(63029:0:AUTH_NONE)
+	(envelope-from <AutoReply_service@mailcloud.com.tw>); Wed, 22 Apr 2015 16:48:19 +0800 (CST)
+Return-Path: <AutoReply_service@mailcloud.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)(FROMBW:2,PASS)(FROMBW:2,
+	PASS)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 172.16.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(28627:1:AUTH_RELAY)
+	(envelope-from <AutoReply_service@mailcloud.com.tw>); Wed, 22 Apr 2015 16:48:17 +0800 (CST)
+Return-Path: <AutoReply_service@mailcloud.com.tw>
+Received: By OpenMail Mailer;Wed, 22 Apr 2015 16:48:13 +0800 (CST)
+Received: from 172.16.0.96
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V6.00(60247:0:AUTH_RELAY)
+	(envelope-from <AutoReply_service@mailcloud.com.tw>); Wed, 22 Apr 2015 16:48:13 +0800 (CST)
+Return-Path: <AutoReply_service@mailcloud.com.tw>
+X-M2KPolicyIP: 172.16.0.96 (#NOT FOUND)
+X-MailGates: (RBL:2,PASS,0.000000e+00)(BATV:2,PASS,sender not empty)(fla
+	g:1,RELAY:PASS)(IPF:2,PASS)(FROMBW:2,PASS)(FROMBW:2,PASS)(bayesian:SCORE
+	-38,0.00,2)(commtouch:PASS,1,str=0001.0A150204.5537604D.0099,ss=1,re=0.0
+	00,fgs=0,2)(localsimi:PASS,2)(mail_charset:PASS,2)(compute_score:HAM,2,0
+	)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 220.130.127.158
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(28625:0:AUTH_NONE)
+	(envelope-from <AutoReply_service@mailcloud.com.tw>); Wed, 22 Apr 2015 16:48:10 +0800 (CST)
+Return-Path: <AutoReply_service@mailcloud.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.13
+	by p2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(19909:0:AUTH_RELAY)
+	(envelope-from <AutoReply_service@mailcloud.com.tw>); Wed, 22 Apr 2015 16:48:10 +0800 (CST)
+Return-Path: <AutoReply_service@mailcloud.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: By OpenMail Mailer;Wed, 22 Apr 2015 16:48:10 +0800 (CST)
+Date: Wed, 22 Apr 2015 16:48:10 +0800 (CST)
+From: "Auto-Reply from service@mailcloud.com.tw" <AutoReply_service@mailcloud.com.tw>
+To: <p-marker@openfind.com.tw>
+Subject: =?utf-8?B?QXV0by1SZXBseTogUC1NYXJrZXIgLSDlro/ms7A=?=
+	=?utf-8?B?5Lq65aO9IC0g57O757Wx5LuN54S25pyD5o6D?=
+	=?utf-8?B?5o+P5bey5o6S6Zmk56OB56KfIC0gRnc6IA==?=
+	=?utf-8?B?5o6S6Zmk5o6D5o+P5ZWP6aGM?=
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+
+=E6=82=A8=E5=A5=BD=EF=BC=8C
+
+=E8=AC=9D=E8=AC=9D=E6=82=A8=E7=9A=84=E4=BE=86=E4=BF=A1=EF=BC=8C=E6=88=91=E5=80=
+=91=E5=B7=B2=E6=94=B6=E5=88=B0=E6=82=A8=E7=9A=84=E4=BF=A1=E4=BB=B6=EF=BC=8C
+=E4=B8=A6=E7=94=B1=E5=AE=A2=E6=9C=8D=E4=BA=BA=E5=93=A1=E6=96=BC=E6=9C=8D=E5=8B=
+=99=E6=99=82=E9=96=93=E7=AB=8B=E5=8D=B3=E7=82=BA=E6=82=A8=E8=99=95=E7=90=86=E3=
+=80=82
+
+=E9=9D=9E=E5=AE=A2=E6=9C=8D=E4=BA=BA=E5=93=A1=E7=9A=84=E6=9C=8D=E5=8B=99=E6=99=
+=82=E9=96=93=E8=8B=A5=E7=B3=BB=E7=B5=B1=E5=87=BA=E7=8F=BE=E4=BB=BB=E4=BD=95=E7=
+=95=B0=E5=B8=B8=E7=8B=80=E6=B3=81=EF=BC=8C
+=E5=B0=87=E7=94=B1=E7=9B=A3=E6=8E=A7=E7=B3=BB=E7=B5=B1=E9=81=8B=E4=BD=9C=E7=9A=
+=84=E5=80=BC=E7=8F=AD=E5=B7=A5=E7=A8=8B=E4=BA=BA=E5=93=A1=E7=9B=B4=E6=8E=A5=E6=
+=8E=92=E9=99=A4=E7=B3=BB=E7=B5=B1=E7=95=B0=E5=B8=B8=E3=80=82
+
+=E5=80=BC=E7=8F=AD=E5=B7=A5=E7=A8=8B=E4=BA=BA=E5=93=A1=20365=20=E5=A4=A9=202=
+4=20=E5=B0=8F=E6=99=82=E5=85=A8=E5=B9=B4=E7=84=A1=E4=BC=91=EF=BC=8C
+=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83=E6=9C=8D=E5=8B=99=E6=99=82=E9=96=93=E7=82=
+=BA=E9=80=B1=E4=B8=80=E8=87=B3=E9=80=B1=E4=BA=94=209:00=20-=2018:00=EF=BC=88=
+=E4=B8=8D=E5=90=AB=E5=9C=8B=E5=AE=9A=E5=81=87=E6=97=A5=E5=8F=8A=E4=BE=8B=E5=81=
+=87=E6=97=A5=EF=BC=89=E3=80=82
+
+=E6=AD=A4=E5=A4=96=EF=BC=8CMailASP=20=E5=B7=B2=E5=85=A8=E9=9D=A2=E5=8D=87=E7=
+=B4=9A=E7=82=BA=20MailCloud=20=E5=93=81=E7=89=8C=EF=BC=8C
+=E5=AE=A2=E6=9C=8D=E4=BF=A1=E7=AE=B1=E5=B7=B2=E6=9B=B4=E6=96=B0=E7=82=BA=20s=
+ervice@mailcloud.com.tw=EF=BC=8C
+=E5=A6=82=E6=82=A8=E5=B0=8D=E4=BF=A1=E7=AE=B1=E4=BD=BF=E7=94=A8=E4=B8=8A=E6=9C=
+=89=E4=BB=BB=E4=BD=95=E5=95=8F=E9=A1=8C=E6=AD=A1=E8=BF=8E=E4=BE=86=E4=BF=A1=E4=
+=BA=88=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83=E3=80=82
+
+
+MailCloud=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83=20=E6=95=AC=E4=B8=8A
+
+-------------------------------------------------
+MailCloud=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83
+=E5=AE=A2=E6=9C=8D=E5=B0=88=E7=B7=9A=EF=BC=9A02-25537272
+=E5=AE=A2=E6=9C=8D=E4=BF=A1=E7=AE=B1=EF=BC=9Aservice@mailcloud.com.tw
+=E6=9C=8D=E5=8B=99=E6=99=82=E9=96=93=EF=BC=9A=E9=80=B1=E4=B8=80=E8=87=B3=E9=80=
+=B1=E4=BA=94=209:00=20-=2018:00=EF=BC=88=E4=B8=8D=E5=90=AB=E5=9C=8B=E5=AE=9A=
+=E5=81=87=E6=97=A5=E5=8F=8A=E4=BE=8B=E5=81=87=E6=97=A5=EF=BC=89
+
+Mail2000=E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1=20http://mail2000.com.tw/
+=E7=B6=B2=E6=93=8E=E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99=20h=
+ttp://www.mailcloud.com.tw/
+=E7=B6=B2=E6=93=8E=20Openfind=20=E4=BC=81=E6=A5=AD=E7=B6=B2=E7=AB=99=20http:=
+//www.openfind.com/taiwan/
+-------------------------------------------------

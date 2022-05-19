@@ -1,0 +1,191 @@
+X-M2K-MATCHED-RULE: SPAM_FILTER-SafeFrom
+X-M2K-MATCHED-RESULT: Mail Header From In Safe From/edu@openfind.com.tw/edu@openfind.com.tw
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 3.3.3.3
+	by ms2.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(32552:0:AUTH_NONE)
+	(envelope-from <prvs=170501410B=edu@openfind.com.tw>); Fri, 25 Sep 2015 14:09:08 +0800 (CST)
+Return-Path: <prvs=170501410B=edu@openfind.com.tw>
+X-M2KSPAM: NO/0
+Received: from 3.3.3.3
+	by asp7.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(66871:1:AUTH_RELAY)
+	(envelope-from <prvs=170501410B=edu@openfind.com.tw>); Fri, 25 Sep 2015 14:09:07 +0800 (CST)
+Return-Path: <prvs=170501410B=edu@openfind.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(31057:0:AUTH_RELAY)
+	(envelope-from <prvs=170501410B=edu@openfind.com.tw>); Fri, 25 Sep 2015 14:09:05 +0800 (CST)
+Return-Path: <prvs=170501410B=edu@openfind.com.tw>
+Received: By OpenMail Mailer;Fri, 25 Sep 2015 14:09:05 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(22348:0:AUTH_NONE)
+	(envelope-from <prvs=170501410B=edu@openfind.com.tw>); Fri, 25 Sep 2015 14:09:03 +0800 (CST)
+Return-Path: <prvs=170501410B=edu@openfind.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(16396:0:AUTH_NONE)
+	(envelope-from <prvs=170501410B=edu@openfind.com.tw>); Fri, 25 Sep 2015 14:09:03 +0800 (CST)
+Return-Path: <prvs=170501410B=edu@openfind.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)(FROMBW:2,PASS)(FROMBW:2,
+	PASS)(audit_rules:rules.audit_out1311132448.system#,,aDELIVER,R/m2k_serv
+	ice@mail2000.com.tw,4,ou)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+X-MGADT: rules.audit_out1311132448.system#,R/m2k_service@mail2000.com.tw
+Received: from 172.16.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(24631:0:AUTH_RELAY)
+	(envelope-from <edu@openfind.com.tw>); Fri, 25 Sep 2015 14:06:22 +0800 (CST)
+Return-Path: <edu@openfind.com.tw>
+Received: By OpenMail Mailer;Fri, 25 Sep 2015 14:06:23 +0800 (CST)
+Received: By OpenMail Mailer;Fri, 25 Sep 2015 14:06:21 +0800 (CST)
+From: "=?big5?B?sdCofLOhrtW26bazut25caRstmyl8w==?=" <edu@openfind.com.tw>
+Reply-To: "=?big5?B?sdCofLOhrtW26bazut25caRstmyl8w==?=" <edu@openfind.com.tw>
+Subject: =?big5?B?UmU6IK7apbu1TKprtW6//Q==?=
+Message-ID: <1443161180.2013.edu@openfind.com.tw>
+In-Reply-To: <COL131-W792C91ECF79385E4A9E25387420@phx.gbl>
+References: <COL131-W792C91ECF79385E4A9E25387420@phx.gbl>
+To: "=?big5?B?vEIgtLyk5Q==?=" <kevin52099@hotmail.com>
+Cc: "edu@openfind.com" <edu@openfind.com>
+Date: Fri, 25 Sep 2015 14:06:20 +0800 (CST)
+MIME-Version: 1.0
+Return-Path: edu@openfind.com.tw
+Content-Type: multipart/alternative;
+	boundary="---H.lH/.ZjBssH45WWFc(eKzA):s7"
+
+-----H.lH/.ZjBssH45WWFc(eKzA):s7
+Content-Type: text/plain; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+
+=BCB=A5=FD=A5=CD=20=B1z=A6n=A1A
+
+=AF=E0=A7_=B3=C2=B7=D0=B1z=B1N=B1z=AA=BA=20email=20=B1b=B8=B9=B4=A3=A8=D1=B5=
+=B9=A7=DA=AD=CC=A1A
+=A5H=ABK=A7=DA=AD=CC=BA=C9=B3t=AC=B0=B1z=BDT=BB{=B0=DD=C3D=AD=EC=A6]=A1A
+=C1=C2=C1=C2=B1z=AA=BA=AD@=A4=DF=B0t=A6X=A1C
+
+
+
+=ADY=A5H=A4W=A6^=C2=D0=B5L=AAk=B8=D1=A8M=B1z=B9J=A8=EC=AA=BA=B0=DD=C3D=A1A
+=A9=CE=A6=B3=B1=D0=A8|=B3=A1=AE=D5=B6=E9=B6=B3=BA=DD=B9q=A4l=B6l=A5=F3=AA=BA=
+=AC=DB=C3=F6=BA=C3=B0=DD=A1A
+=C5w=AA=EF=B1z=A6A=A4=CF=C0=B3=B5=B9=A7=DA=AD=CC=A1C
+
+
+=B1=D0=A8|=B3=A1=AE=D5=B6=E9=B6=B3=BA=DD=B9q=A4l=B6l=A5=F3=AB=C8=AAA=A4=A4=A4=
+=DF
+
+----------------------------------------------------------------------------=
+--
+=B1=D0=A8|=B3=A1=AE=D5=B6=E9=B6=B3=BA=DD=B9q=A4l=B6l=A5=F3=20powered=20by=20=
+Openfind=20=BA=F4=C0=BA=B8=EA=B0T
+
+=A8=C8=ACw=A5=AB=B3=F5=B6l=A5=F3=A6w=A5=FE=BB=E2=BE=C9=AB~=B5P=20|=20=BA=F4=C0=
+=BA=B8=EA=B0T=20Openfind
+=BA=F4=C0=BA=20Openfind=20=A5=F8=B7~=BA=F4=AF=B8=20http://www.openfind.com/
+=BA=F4=C0=BA=20MailCloud=20=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8=20http://www.mai=
+lcloud.com.tw/
+----------------------------------------------------------------------------=
+--
+
+-----Original=20message-----
+From:=BCB=20=B4=BC=A4=E5<kevin52099@hotmail.com>
+To:edu@openfind.com<edu@openfind.com>
+Date:=20Fri,=2025=20Sep=202015=2014:03:33
+Subject:=20=AE=DA=A5=BB=B5L=AAk=B5n=BF=FD
+
+openid=A8S=B0=DD=C3D=A1A=A6=FD=A4@=C2=BE=B5L=AAk=B5n=BF=FD
+
+
+=BCB=B4=BC=A4=E5=200963159182
+
+=20
+=B7=E0=A4l=B7R=B0=B5=A5=D5=A4=E9=B9=DAhttp://blog.xuite.net/liu.kevin/kevin=20=
+
+=A4=A3=ADn=AC=B0=A7O=A4H=A6=D3=AC=A1=A1A=20=A4=A3=ADn=B3Q=B1=D0=B1=F8=A9=D2=AD=
+=AD=A1A=20=A4=A3=ADn=AC=A1=A6b=A7O=A4H=AA=BA=C6[=A9=C0=B8=CC=A1A=20=A4=A3=AD=
+n=B3Q=A7O=A4H=AA=BA=B7N=A8=A3=A5=AA=A5k=A4=DF=B8=CC=AA=BA=C1n=AD=B5=A1C=20=B3=
+=CC=AD=AB=ADn=AA=BA=ACO=A1A=20=A6=B3=ABi=AE=F0=B0l=C0H=A6=DB=A4v=AA=BA=A4=DF=
+=C6F=BBP=AA=BD=C4=B1=A1C~=B8=EB=A7B=B4=B5
+
+=20
+
+-----H.lH/.ZjBssH45WWFc(eKzA):s7
+Content-Type: text/html; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE=20html><html><head><meta=20http-equiv=3D"X-UA-Compatible"=20conten=
+t=3D"IE=3Dedge"=20/></head><body><br>=BCB=A5=FD=A5=CD=20=B1z=A6n=A1A<br>
+<br>=AF=E0=A7_=B3=C2=B7=D0=B1z=B1N=B1z=AA=BA=20email=20=B1b=B8=B9=B4=A3=A8=D1=
+=B5=B9=A7=DA=AD=CC=A1A<div>=A5H=ABK=A7=DA=AD=CC=BA=C9=B3t=AC=B0=B1z=BDT=BB{=B0=
+=DD=C3D=AD=EC=A6]=A1A</div><div>=C1=C2=C1=C2=B1z=AA=BA=AD@=A4=DF=B0t=A6X=A1C=
+</div><div><br>
+<br>
+<br>
+=ADY=A5H=A4W=A6^=C2=D0=B5L=AAk=B8=D1=A8M=B1z=B9J=A8=EC=AA=BA=B0=DD=C3D=A1A<b=
+r>
+=A9=CE=A6=B3=B1=D0=A8|=B3=A1=AE=D5=B6=E9=B6=B3=BA=DD=B9q=A4l=B6l=A5=F3=AA=BA=
+=AC=DB=C3=F6=BA=C3=B0=DD=A1A<br>
+=C5w=AA=EF=B1z=A6A=A4=CF=C0=B3=B5=B9=A7=DA=AD=CC=A1C<br>
+<br>
+<br>
+=B1=D0=A8|=B3=A1=AE=D5=B6=E9=B6=B3=BA=DD=B9q=A4l=B6l=A5=F3=AB=C8=AAA=A4=A4=A4=
+=DF<br>
+<br>
+----------------------------------------------------------------------------=
+--<br>
+=B1=D0=A8|=B3=A1=AE=D5=B6=E9=B6=B3=BA=DD=B9q=A4l=B6l=A5=F3=20powered=20by=20=
+Openfind=20=BA=F4=C0=BA=B8=EA=B0T<br>
+<br>
+=A8=C8=ACw=A5=AB=B3=F5=B6l=A5=F3=A6w=A5=FE=BB=E2=BE=C9=AB~=B5P=20|=20=BA=F4=C0=
+=BA=B8=EA=B0T=20Openfind<br>
+=BA=F4=C0=BA=20Openfind=20=A5=F8=B7~=BA=F4=AF=B8=20<a=20href=3D"http://www.o=
+penfind.com/"=20target=3D"new_win">http://www.openfind.com/</a><br>
+=BA=F4=C0=BA=20MailCloud=20=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8=20<a=20href=3D"h=
+ttp://www.mailcloud.com.tw/"=20target=3D"new_win">http://www.mailcloud.com.t=
+w/</a><br>
+----------------------------------------------------------------------------=
+--<br>
+<br>
+-----Original=20message-----<br>
+
+<b>From:</b>=BCB=20=B4=BC=A4=E5&lt;kevin52099@hotmail.com&gt;<br>
+<b>To:</b>edu@openfind.com&lt;edu@openfind.com&gt;<br>
+<b>Date:=20</b>=20Fri,=2025=20Sep=202015=2014:03:33<br>
+<b>Subject:</b>=20=AE=DA=A5=BB=B5L=AAk=B5n=BF=FD<br>
+
+
+<style><!--
+.hmmessage=20P
+{
+margin:0px;
+padding:0px
+}
+body.hmmessage
+{
+font-size:=2012pt;
+font-family:=B7s=B2=D3=A9=FA=C5=E9
+}
+--></style>
+<x-body><div=20dir=3D"ltr">openid=A8S=B0=DD=C3D=A1A=A6=FD=A4@=C2=BE=B5L=AAk=B5=
+n=BF=FD<font=20style=3D"font-size:16pt;"=20color=3D"#000000"=20size=3D"4"><b=
+r=20id=3D"FontBreak"></font><br><br><p=20align=3D"center"><br><font=20color=3D=
+"#0070c0"><font=20color=3D"#000000"=20size=3D"6">=BCB=B4=BC=A4=E5</font><fon=
+t=20style=3D"font-size:12pt;"=20size=3D"3"><font=20color=3D"#000000">=200963=
+159182</font><br></font></font></p>
+<font=20style=3D""=20color=3D"#0070c0"></font>&nbsp;<br>
+<font=20style=3D""=20color=3D"#0070c0">=B7=E0=A4l=B7R=B0=B5=A5=D5=A4=E9=B9=DA=
+</font><a=20href=3D"http://blog.xuite.net/liu.kevin/kevin"=20target=3D"_blan=
+k">http://blog.xuite.net/liu.kevin/kevin</a>&nbsp;<br>
+<font=20style=3D"font-size:10pt;"=20color=3D"#ff0000"=20size=3D"2">=A4=A3=AD=
+n=AC=B0=A7O=A4H=A6=D3=AC=A1=A1A=20=A4=A3=ADn=B3Q=B1=D0=B1=F8=A9=D2=AD=AD=A1A=
+=20=A4=A3=ADn=AC=A1=A6b=A7O=A4H=AA=BA=C6[=A9=C0=B8=CC=A1A=20=A4=A3=ADn=B3Q=A7=
+O=A4H=AA=BA=B7N=A8=A3=A5=AA=A5k=A4=DF=B8=CC=AA=BA=C1n=AD=B5=A1C=20=B3=CC=AD=AB=
+=ADn=AA=BA=ACO=A1A=20=A6=B3=ABi=AE=F0=B0l=C0H=A6=DB=A4v=AA=BA=A4=DF=C6F=BBP=AA=
+=BD=C4=B1=A1C~=B8=EB=A7B=B4=B5<br><br></font>=20=09=09=20=09=20=20=20=09=09=20=
+=20</div></x-body>
+</div></body></html>
+-----H.lH/.ZjBssH45WWFc(eKzA):s7--

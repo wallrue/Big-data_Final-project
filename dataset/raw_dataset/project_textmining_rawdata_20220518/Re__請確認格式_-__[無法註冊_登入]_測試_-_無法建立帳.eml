@@ -1,0 +1,628 @@
+X-M2K-MATCHED-RULE: SPAM_FILTER-InADB
+X-M2K-MATCHED-RESULT: Mail Header From In ADB/kate_lin@openfind.com.tw
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 210.59.162.122
+	by ms2.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(19211:0:AUTH_NONE)
+	(envelope-from <prvs=17193C781A=kate_lin@openfind.com.tw>); Thu, 08 Oct 2015 10:07:24 +0800 (CST)
+Return-Path: <prvs=17193C781A=kate_lin@openfind.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 210.59.162.122
+	by asp7.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(16137:0:AUTH_NONE)
+	(envelope-from <prvs=17193C781A=kate_lin@openfind.com.tw>); Thu, 08 Oct 2015 10:07:22 +0800 (CST)
+Return-Path: <prvs=17193C781A=kate_lin@openfind.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)(FROMBW:2,PASS)(FROMBW:2,
+	PASS)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 172.16.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(24633:0:AUTH_RELAY)
+	(envelope-from <prvs=17193C781A=kate_lin@openfind.com.tw>); Thu, 08 Oct 2015 10:03:43 +0800 (CST)
+Return-Path: <prvs=17193C781A=kate_lin@openfind.com.tw>
+Received: By OpenMail Mailer;Thu, 08 Oct 2015 10:03:43 +0800 (CST)
+Received: from 172.16.0.96
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V7.00(30907:1:AUTH_RELAY)
+	(envelope-from <prvs=17193C781A=kate_lin@openfind.com.tw>); Thu, 08 Oct 2015 10:03:40 +0800 (CST)
+Return-Path: <prvs=17193C781A=kate_lin@openfind.com.tw>
+X-M2KPolicyIP: 172.16.0.96 (#NOT FOUND)
+X-MailGates: (flag:1,DYNAMIC,RELAY,NOHOST,LAN:PASS)(IPF:0,HAM,220.130.12
+	7.157)(FROMBW:2,PASS)(FROMBW:2,PASS)(ipmatch:pattern.iptrust.system,,HAM
+	,220.130.127.157,0)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 220.130.127.157
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(24636:0:AUTH_NONE)
+	(envelope-from <prvs=17193C781A=kate_lin@openfind.com.tw>); Thu, 08 Oct 2015 10:03:36 +0800 (CST)
+Return-Path: <prvs=17193C781A=kate_lin@openfind.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(31053:0:AUTH_RELAY)
+	(envelope-from <prvs=17193C781A=kate_lin@openfind.com.tw>); Thu, 08 Oct 2015 10:03:25 +0800 (CST)
+Return-Path: <prvs=17193C781A=kate_lin@openfind.com.tw>
+Received: By OpenMail Mailer;Thu, 08 Oct 2015 10:03:25 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(22342:0:AUTH_NONE)
+	(envelope-from <prvs=17193C781A=kate_lin@openfind.com.tw>); Thu, 08 Oct 2015 10:03:23 +0800 (CST)
+Return-Path: <prvs=17193C781A=kate_lin@openfind.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(16394:3:AUTH_NONE)
+	(envelope-from <prvs=17193C781A=kate_lin@openfind.com.tw>); Thu, 08 Oct 2015 10:03:22 +0800 (CST)
+Return-Path: <prvs=17193C781A=kate_lin@openfind.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)(FROMBW:2,PASS)(FROMBW:2,
+	PASS)(audit_rules:rules.audit_out1311132448.system#,,aDELIVER,R/m2k_serv
+	ice@mail2000.com.tw,4,ou)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+X-MGADT: rules.audit_out1311132448.system#,R/m2k_service@mail2000.com.tw
+Received: from 172.16.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(24632:0:AUTH_RELAY)
+	(envelope-from <kate_lin@openfind.com.tw>); Thu, 08 Oct 2015 09:59:30 +0800 (CST)
+Return-Path: <kate_lin@openfind.com.tw>
+Received: from 172.16.14.51
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V7.00(30909:0:AUTH_LOGIN)
+	(envelope-from <kate_lin@openfind.com.tw>); Thu, 08 Oct 2015 09:59:28 +0800 (CST)
+Return-Path: <kate_lin@openfind.com.tw>
+X-M2KPolicyIP: 172.16.14.51 (#NOT FOUND)
+Message-ID: <BDDDBA12E10D42DC999092B01E4A8ACE@tp.office.openfind.com.tw>
+From: =?utf-8?B?57ay5pOO6LOH6KiKL+ael+WGoOS8tg==?= <kate_lin@openfind.com.tw>
+To: "steven_chang" <steven_chang@openfind.com.tw>
+Cc: "m2k_service" <m2k_service@mail2000.com.tw>,
+	"m2k_noc" <m2k_noc@openfind.com.tw>
+References: <1444269074.17775.steven_chang@openfind.com.tw>
+In-Reply-To: <1444269074.17775.steven_chang@openfind.com.tw>
+Subject: =?utf-8?B?UmU6IOiri+eiuuiqjeagvOW8jyAtICBb54Sh5rOV6Ki75YaKL+eZu+WFpV0g?=
+	=?utf-8?B?5ris6KmmIC0g54Sh5rOV5bu656uL5biz6Jmf?=
+Date: Thu, 8 Oct 2015 09:56:36 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_0038_01D101AF.9EBA9E70"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 16.4.3528.331
+X-MimeOLE: Produced By Microsoft MimeOLE V16.4.3528.331
+
+這是 MIME 格式的 Multipart 郵件。
+
+------=_NextPart_000_0038_01D101AF.9EBA9E70
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0039_01D101AF.9EBA9E70"
+
+
+------=_NextPart_001_0039_01D101AF.9EBA9E70
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=E6=89=80=E4=BB=A5 =
+=EF=BD=A2=E6=B8=AC=E8=A9=A6=E5=9B=9E=E5=A0=B1=E7=B3=BB=E7=B5=B1=EF=BD=A3 =
+=E7=9A=84=E5=9C=B0=E6=96=B9=E6=87=89=E8=A9=B2=E5=B0=B1=E6=98=AF=E4=BB=96=E8=
+=87=AA=E5=B7=B1=E7=9A=84=E5=95=8F=E9=A1=8C=E6=8F=8F=E8=BF=B0=E6=98=AF=E5=97=
+=8E=EF=BC=9F
+
+
+=E5=85=B6=E4=BB=96=E7=9A=84=E6=88=91=E6=B2=92=E5=95=8F=E9=A1=8C=E5=93=A6=EF=
+=BC=8C=E8=AC=9D=E8=AC=9D Steven=E3=80=82
+
+
+Best Regards,
+Kate
+
+
+=E6=9E=97=E5=86=A0=E4=BC=B6 Kate Lin
+=E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A=E8=BB=9F=E9=AB=94=E8=82=A1=E4=BB=BD=E6=
+=9C=89=E9=99=90=E5=85=AC=E5=8F=B8 / =E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99
+Online Service Dept., Openfind Information Technology, Inc.
+=E5=8F=B0=E5=8C=97=E5=B8=82=E5=A4=A7=E5=90=8C=E5=8D=80=E9=87=8D=E6=85=B6=E5=
+=8C=97=E8=B7=AF=E4=BA=8C=E6=AE=B5 243 =E8=99=9F 7 =E6=A8=93
+Email: kate_lin@openfind.com.tw
+TEL:+886 2 25532000 ext.745
+
+=E7=B6=B2=E6=93=8E=E4=BC=81=E6=A5=AD=E9=83=B5=E4=BB=B6=E4=BB=A3=E7=AE=A1 =
+http://www.mailasp.com.tw/
+Mail2000 =E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1 http://mail2000.com.tw/
+Openfind =E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A http://www.openfind.com/
+
+
+From: steven_chang=20
+Sent: Thursday, October 08, 2015 9:51 AM
+To: Kate=20
+Cc: m2k_service ; m2k_noc=20
+Subject: Fw: =E8=AB=8B=E7=A2=BA=E8=AA=8D=E6=A0=BC=E5=BC=8F - =
+[=E7=84=A1=E6=B3=95=E8=A8=BB=E5=86=8A/=E7=99=BB=E5=85=A5] =
+=E6=B8=AC=E8=A9=A6 - =
+=E7=84=A1=E6=B3=95=E5=BB=BA=E7=AB=8B=E5=B8=B3=E8=99=9F
+
+Dear Kate and all,
+
+=E5=A6=82=E4=B8=8B=E6=98=AF=E4=B9=8B=E5=89=8D=E6=8F=90=E5=88=B0=E7=9A=84=E6=
+=95=99=E8=82=B2=E9=9B=B2=E5=95=8F=E9=A1=8C=E5=9B=9E=E5=A0=B1=E8=A1=A8=E5=96=
+=AE=E6=A0=BC=E5=BC=8F=EF=BC=8C=E6=82=A8=E6=87=89=E8=A9=B2=E4=B9=9F=E6=9C=89=
+=E6=94=B6=E5=88=B0=E4=B8=80=E4=BB=BD=EF=BC=8C=E4=BD=BF=E7=94=A8=E8=80=85=E5=
+=9C=A8=E6=8F=90=E5=95=8F=E5=BE=8C=EF=BC=8C=E5=AE=A2=E6=9C=8D=E5=8F=8A=E7=9B=
+=B8=E9=97=9C=E4=BA=BA=E5=89=87=E6=9C=83=E6=94=B6=E5=88=B0=E6=AD=A4=E4=BF=A1=
+=E4=BB=B6=E3=80=82
+=E6=AD=A4=E8=A1=A8=E5=96=AE=E5=85=A7=E5=AE=B9=E5=9C=A8=E6=9C=80=E4=B8=8A=E6=
+=96=B9 =
+(=E6=AD=A4=E7=AF=84=E4=BE=8B=E5=AF=AB=E8=91=97=E3=80=8C=E6=B8=AC=E8=A9=A6=
+=E5=9B=9E=E5=A0=B1=E7=B3=BB=E7=B5=B1=E3=80=8D)=EF=BC=8C=E6=8E=A5=E8=91=97=
+=E4=BE=9D=E5=BA=8F=E5=88=97=E5=87=BA=E4=BD=BF=E7=94=A8=E8=80=85=E5=A1=AB=E5=
+=85=A5=E7=9A=84=E6=AC=84=E4=BD=8D=E5=80=BC=EF=BC=8C=E6=AD=A4=E6=AC=84=E4=BD=
+=8D=E7=82=BA=E4=B9=8B=E5=89=8D=E6=88=91=E5=80=91=E8=A8=8E=E8=AB=96=E6=AC=84=
+=E4=BD=8D=E7=AD=89=E8=B3=87=E6=96=99=E3=80=82=E8=AB=8B=E5=B9=AB=E5=BF=99=E7=
+=A2=BA=E8=AA=8D=E6=98=AF=E5=90=A6=E6=9C=89=E5=95=8F=E9=A1=8C=EF=BC=8C=E8=8B=
+=A5=E7=84=A1=E8=AA=A4=EF=BC=8C=E4=BB=8A=E6=97=A5=E5=89=87=E5=8F=AF=E8=AB=8B=
+=E5=B7=A5=E7=A8=8B=E5=B8=AB=E4=B8=8A=E8=87=B3=E7=B3=BB=E7=B5=B1=E3=80=82
+
+=E8=AC=9D=E8=AC=9D!
+
+Best regards,
+Steven
+
+--------------------------------------------=20
+=E5=BC=B5=E5=BC=98=E9=81=94  Steven Chang
+=E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A=E8=BB=9F=E9=AB=94=E8=82=A1=E4=BB=BD=E6=
+=9C=89=E9=99=90=E5=85=AC=E5=8F=B8=20
+TEL:02-25532000 =E5=88=86=E6=A9=9F 756=20
+FAX:02-25530707
+URL: http://www.openfind.com=20
+--------------------------------------------
+-----Forwarded message-----
+From:=E7=B3=BB=E7=B5=B1=E7=AE=A1=E7=90=86=E8=80=85<MAILER-DAEMON>
+To:service<service@mail-adm.edu.tw>
+Date: Wed, 07 Oct 2015 16:31:14
+Subject: [=E7=84=A1=E6=B3=95=E8=A8=BB=E5=86=8A/=E7=99=BB=E5=85=A5] =
+=E6=B8=AC=E8=A9=A6 - =
+=E7=84=A1=E6=B3=95=E5=BB=BA=E7=AB=8B=E5=B8=B3=E8=99=9F
+     =20
+       =20
+
+      =
+=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E9=83=B5=E4=
+=BB=B6=E5=95=8F=E9=A1=8C=E5=9B=9E=E5=A0=B1=E5=96=AE =20
+=E6=B8=AC=E8=A9=A6=E5=9B=9E=E5=A0=B1=E7=B3=BB=E7=B5=B1=20
+            =20
+      =
+=E6=89=80=E5=B1=AC=E7=B8=A3=E5=B8=82=EF=BC=9A=E5=8F=B0=E5=8C=97=E5=B8=82 =
+
+      =E5=AD=B8=E6=A0=A1=E5=90=8D=E7=A8=B1=EF=BC=9AOpenfind=20
+      =E8=BA=AB=E4=BB=BD=EF=BC=9A=E6=95=99=E5=B8=AB=20
+      =E8=81=AF=E7=B5=A1=E4=BA=BA=EF=BC=9AAdm=20
+      =E8=81=AF=E7=B5=A1=E9=9B=BB=E8=A9=B1=EF=BC=9A0225532000 =
+=E5=88=86=E6=A9=9F: 999=20
+      =E8=81=AF=E7=B5=A1=E4=BF=A1=E7=AE=B1=EF=BC=9Aadm@test.mail=20
+      =
+=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E9=9B=BB=E5=AD=90=E9=83=B5=E4=BB=B6=EF=
+=BC=9A987654@mail.edu.tw=20
+    =20
+
+Copyright =C2=A9 Openfind Information Technology INC. All rights =
+reserved.
+------=_NextPart_001_0039_01D101AF.9EBA9E70
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3DX-UA-Compatible content=3DIE=3Dedge></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D'FONT-SIZE: 12pt; FONT-FAMILY: =
+"=E5=BE=AE=E8=BB=9F=E6=AD=A3=E9=BB=91=E9=AB=94"; COLOR: #000000'>
+<DIV>=E6=89=80=E4=BB=A5 =
+=EF=BD=A2=E6=B8=AC=E8=A9=A6=E5=9B=9E=E5=A0=B1=E7=B3=BB=E7=B5=B1=EF=BD=A3 =
+=E7=9A=84=E5=9C=B0=E6=96=B9=E6=87=89=E8=A9=B2=E5=B0=B1=E6=98=AF=E4=BB=96=E8=
+=87=AA=E5=B7=B1=E7=9A=84=E5=95=8F=E9=A1=8C=E6=8F=8F=E8=BF=B0=E6=98=AF=E5=97=
+=8E=EF=BC=9F</DIV>
+<DIV><BR></DIV>
+<DIV>=E5=85=B6=E4=BB=96=E7=9A=84=E6=88=91=E6=B2=92=E5=95=8F=E9=A1=8C=E5=93=
+=A6=EF=BC=8C=E8=AC=9D=E8=AC=9D Steven=E3=80=82</DIV>
+<DIV><BR><BR>Best =
+Regards,<BR>Kate<BR><BR><BR>=E6=9E=97=E5=86=A0=E4=BC=B6 Kate =
+Lin<BR>=E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A=E8=BB=9F=E9=AB=94=E8=82=A1=E4=
+=BB=BD=E6=9C=89=E9=99=90=E5=85=AC=E5=8F=B8 /=20
+=E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99<BR>Online Service Dept., Openfind =
+Information Technology,=20
+Inc.<BR>=E5=8F=B0=E5=8C=97=E5=B8=82=E5=A4=A7=E5=90=8C=E5=8D=80=E9=87=8D=E6=
+=85=B6=E5=8C=97=E8=B7=AF=E4=BA=8C=E6=AE=B5 243 =E8=99=9F 7 =
+=E6=A8=93<BR>Email: kate_lin@openfind.com.tw<BR>TEL:+886 2=20
+25532000 =
+ext.745<BR><BR>=E7=B6=B2=E6=93=8E=E4=BC=81=E6=A5=AD=E9=83=B5=E4=BB=B6=E4=BB=
+=A3=E7=AE=A1 http://www.mailasp.com.tw/<BR>Mail2000 =
+=E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1=20
+http://mail2000.com.tw/<BR>Openfind =E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A =
+http://www.openfind.com/</DIV>
+<DIV=20
+style=3D'FONT-SIZE: small; TEXT-DECORATION: none; FONT-FAMILY: =
+"Calibri"; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; =
+DISPLAY: inline'>
+<DIV style=3D"FONT: 10pt tahoma; font-size-adjust: none; font-stretch: =
+normal">
+<DIV><BR></DIV>
+<DIV style=3D"BACKGROUND: rgb(245,245,245)">
+<DIV style=3D"font-color: black"><B>From:</B> <A=20
+title=3Dsteven_chang@openfind.com.tw=20
+href=3D"mailto:steven_chang@openfind.com.tw">steven_chang</A> </DIV>
+<DIV><B>Sent:</B> Thursday, October 08, 2015 9:51 AM</DIV>
+<DIV><B>To:</B> <A title=3Dkate_lin@openfind.com.tw=20
+href=3D"mailto:kate_lin@openfind.com.tw">Kate</A> </DIV>
+<DIV><B>Cc:</B> <A title=3Dm2k_service@mail2000.com.tw=20
+href=3D"mailto:m2k_service@mail2000.com.tw">m2k_service</A> ; <A=20
+title=3Dm2k_noc@openfind.com.tw =
+href=3D"mailto:m2k_noc@openfind.com.tw">m2k_noc</A>=20
+</DIV>
+<DIV><B>Subject:</B> Fw: =E8=AB=8B=E7=A2=BA=E8=AA=8D=E6=A0=BC=E5=BC=8F - =
+[=E7=84=A1=E6=B3=95=E8=A8=BB=E5=86=8A/=E7=99=BB=E5=85=A5] =
+=E6=B8=AC=E8=A9=A6 -=20
+=E7=84=A1=E6=B3=95=E5=BB=BA=E7=AB=8B=E5=B8=B3=E8=99=9F</DIV></DIV></DIV><=
+BR></DIV>
+<DIV=20
+style=3D'FONT-SIZE: small; TEXT-DECORATION: none; FONT-FAMILY: =
+"Calibri"; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; =
+DISPLAY: inline'>Dear=20
+Kate and=20
+all,<BR><BR>=E5=A6=82=E4=B8=8B=E6=98=AF=E4=B9=8B=E5=89=8D=E6=8F=90=E5=88=B0=
+=E7=9A=84=E6=95=99=E8=82=B2=E9=9B=B2=E5=95=8F=E9=A1=8C=E5=9B=9E=E5=A0=B1=E8=
+=A1=A8=E5=96=AE=E6=A0=BC=E5=BC=8F=EF=BC=8C=E6=82=A8=E6=87=89=E8=A9=B2=E4=B9=
+=9F=E6=9C=89=E6=94=B6=E5=88=B0=E4=B8=80=E4=BB=BD=EF=BC=8C=E4=BD=BF=E7=94=A8=
+=E8=80=85=E5=9C=A8=E6=8F=90=E5=95=8F=E5=BE=8C=EF=BC=8C=E5=AE=A2=E6=9C=8D=E5=
+=8F=8A=E7=9B=B8=E9=97=9C=E4=BA=BA=E5=89=87=E6=9C=83=E6=94=B6=E5=88=B0=E6=AD=
+=A4=E4=BF=A1=E4=BB=B6=E3=80=82<BR>=E6=AD=A4=E8=A1=A8=E5=96=AE=E5=85=A7=E5=
+=AE=B9=E5=9C=A8=E6=9C=80=E4=B8=8A=E6=96=B9=20
+(=E6=AD=A4=E7=AF=84=E4=BE=8B=E5=AF=AB=E8=91=97=E3=80=8C=E6=B8=AC=E8=A9=A6=
+=E5=9B=9E=E5=A0=B1=E7=B3=BB=E7=B5=B1=E3=80=8D)=EF=BC=8C=E6=8E=A5=E8=91=97=
+=E4=BE=9D=E5=BA=8F=E5=88=97=E5=87=BA=E4=BD=BF=E7=94=A8=E8=80=85=E5=A1=AB=E5=
+=85=A5=E7=9A=84=E6=AC=84=E4=BD=8D=E5=80=BC=EF=BC=8C=E6=AD=A4=E6=AC=84=E4=BD=
+=8D=E7=82=BA=E4=B9=8B=E5=89=8D=E6=88=91=E5=80=91=E8=A8=8E=E8=AB=96=E6=AC=84=
+=E4=BD=8D=E7=AD=89=E8=B3=87=E6=96=99=E3=80=82=E8=AB=8B=E5=B9=AB=E5=BF=99=E7=
+=A2=BA=E8=AA=8D=E6=98=AF=E5=90=A6=E6=9C=89=E5=95=8F=E9=A1=8C=EF=BC=8C=E8=8B=
+=A5=E7=84=A1=E8=AA=A4=EF=BC=8C=E4=BB=8A=E6=97=A5=E5=89=87=E5=8F=AF=E8=AB=8B=
+=E5=B7=A5=E7=A8=8B=E5=B8=AB=E4=B8=8A=E8=87=B3=E7=B3=BB=E7=B5=B1=E3=80=82<=
+BR><BR>=E8=AC=9D=E8=AC=9D!<BR><BR>Best=20
+regards,<BR>Steven<BR><BR>--------------------------------------------=20
+<BR>=E5=BC=B5=E5=BC=98=E9=81=94&nbsp; Steven =
+Chang<BR>=E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A=E8=BB=9F=E9=AB=94=E8=82=A1=E4=
+=BB=BD=E6=9C=89=E9=99=90=E5=85=AC=E5=8F=B8 <BR>TEL:02-25532000 =
+=E5=88=86=E6=A9=9F 756=20
+<BR>FAX:02-25530707<BR>URL: <A href=3D"http://www.openfind.com"=20
+target=3Dnew_win>http://www.openfind.com</A>=20
+<BR>--------------------------------------------<BR>-----Forwarded=20
+message-----<BR><B>From:</B>=E7=B3=BB=E7=B5=B1=E7=AE=A1=E7=90=86=E8=80=85=
+&lt;MAILER-DAEMON&gt;<BR><B>To:</B>service&lt;service@mail-adm.edu.tw&gt;=
+<BR><B>Date:=20
+</B>Wed, 07 Oct 2015 16:31:14<BR><B>Subject:</B> =
+[=E7=84=A1=E6=B3=95=E8=A8=BB=E5=86=8A/=E7=99=BB=E5=85=A5] =
+=E6=B8=AC=E8=A9=A6 - =
+=E7=84=A1=E6=B3=95=E5=BB=BA=E7=AB=8B=E5=B8=B3=E8=99=9F<BR>
+<STYLE type=3Dtext/css>=0A=
+<!--=0A=
+.contentbody { =0A=
+    height: 99.8%; =0A=
+	font-size:10pt;=0A=
+	font-family: "Verdana";=0A=
+	line-height: 1.5;=0A=
+	margin:0;=0A=
+	color:#6c6361;=0A=
+} =0A=
+a:link {=0A=
+	color: #d9641e;=0A=
+	text-decoration: underline;=0A=
+}=0A=
+a:visited {=0A=
+	text-decoration: underline;=0A=
+	color: #d9641e;=0A=
+}=0A=
+a:hover {=0A=
+	text-decoration: underline;=0A=
+	color:#f8981d;=0A=
+}=0A=
+a:active {=0A=
+	text-decoration: none;=0A=
+	color: #6c6361;=0A=
+} =0A=
+=0A=
+.container {=0A=
+	margin:40px 30px 30px 30px;=0A=
+	min-width:500px;=0A=
+	}=0A=
+=0A=
+.header {=0A=
+	border-bottom:#89817f solid 1px;=0A=
+	padding-bottom:10px;=0A=
+	}=0A=
+.date {=0A=
+	color:#a9a3a1;=0A=
+	float:right;=0A=
+	margin:-10px 0 0 0;=0A=
+	}=0A=
+.title {=0A=
+	margin:auto;=0A=
+	width:250px;=0A=
+	color:#ff6600;=0A=
+	font-weight:bold;=0A=
+	font-size:14px;=0A=
+	text-align:center;=0A=
+	}=0A=
+.contentwrap {=0A=
+	padding:30px 0 30px 0;=0A=
+	}=0A=
+.info {=0A=
+	margin-top:25px;=0A=
+	}=0A=
+.info ul {=0A=
+	list-style-type:none;=0A=
+	margin:0px;=0A=
+	padding:0px;=0A=
+	}=0A=
+.info li {=0A=
+	margin:0px;=0A=
+	padding:0px;=0A=
+	margin-bottom:3px;=0A=
+	}=0A=
+.notification {=0A=
+	width:800px;=0A=
+	margin:auto;=0A=
+	}=0A=
+.highlight {=0A=
+	color:#f8981d;=0A=
+	font-weight:bold;=0A=
+	}=0A=
+.reporttable {=0A=
+	}=0A=
+.reporttable table {=0A=
+	clear:left;=0A=
+	margin-top:20px;=0A=
+	}=0A=
+.reporttable th {=0A=
+	height:23px;=0A=
+	border:#c1b9b6 solid 1px;=0A=
+	}=0A=
+.subtitle {=0A=
+	height:25px;=0A=
+	background-color:#f1efeb;=0A=
+	font-weight:bold;=0A=
+	}=0A=
+.reporttable td {=0A=
+	border-left:#c1b9b6 solid 1px;=0A=
+	border-right:#c1b9b6 solid 1px;=0A=
+	border-bottom:#c1b9b6 solid 1px;=0A=
+	padding:5px 2px 5px 2px;=0A=
+	}=0A=
+.securitylv {=0A=
+	text-align:center;=0A=
+	}=0A=
+.reporttable ul {=0A=
+	list-style-type:none;=0A=
+	margin:0 0 0 10px;=0A=
+	padding:0px;=0A=
+	margin-bottom:5px;=0A=
+	}=0A=
+.reporttable li {=0A=
+	margin:0px;=0A=
+	padding:0px;=0A=
+	display:inline;=0A=
+	}=0A=
+=0A=
+.amout {=0A=
+	color:#a9a3a1;=0A=
+	}=0A=
+.vmiddle {=0A=
+	vertical-align:middle;=0A=
+	}=0A=
+=0A=
+.logs {=0A=
+	border:1px #999999 solid;=0A=
+	margin:15px 15px 0 5px;=0A=
+	padding:5px;=0A=
+	}=0A=
+.floatright {=0A=
+	float:right;=0A=
+	}=0A=
+.info td {=0A=
+	border:none;=0A=
+	height:30px;=0A=
+	}=0A=
+.floatleft {=0A=
+	float:left;=0A=
+	}=0A=
+.discription {=0A=
+	height:25px;=0A=
+	}=0A=
+.discription ul {=0A=
+	margin:0px;=0A=
+	padding:0px;=0A=
+	list-style-type:none;=0A=
+	}=0A=
+.discription li {=0A=
+	margin:5px 5px 0px 0px;=0A=
+	padding:3px 10px 3px 10px;=0A=
+	background-color:#ebebe7;=0A=
+	float:left;=0A=
+	display:block;=0A=
+	white-space:nowrap;=0A=
+	}=0A=
+.mailsubject {=0A=
+	margin-left:40px;=0A=
+	}=0A=
+.mleft10 {=0A=
+	margin-left:10px;=0A=
+	}=0A=
+.ipaddress {=0A=
+	color:#cf7829;=0A=
+	}=0A=
+=0A=
+.recordlist {=0A=
+	text-align:left;=0A=
+	margin:5px 10px 10px 10px;=0A=
+	}=0A=
+.footer {=0A=
+	color:#99967b;=0A=
+	font-size:11px;=0A=
+	text-align:center;=0A=
+	padding:5px 0 20px 0;=0A=
+	clear:both;=0A=
+	border-top:#89817f solid 1px;=0A=
+	}=0A=
+.floatl {=0A=
+	float:left;=0A=
+	}=0A=
+.style1 {=0A=
+	color: #ffffff;=0A=
+	font-weight: bold;=0A=
+}=0A=
+.reporttable th {=0A=
+    background:url(cid:5615CC12$3820174steven_chang@openfind.com.tw) =
+repeat-x left top;=0A=
+    height:23px;=0A=
+    border:#c1b9b6 solid 1px;=0A=
+    }=0A=
+-->=0A=
+</STYLE>
+<X-BODY>
+<DIV class=3Dcontentbody>
+<DIV class=3Dcontainer>
+<TABLE width=3D"100%" border=3D0 cellSpacing=3D0 cellPadding=3D0>
+  <TBODY>
+  <TR>
+    <TD width=3D72 rowSpan=3D2><IMG=20
+      =
+src=3D"cid:396554CD7A3C44EF800726ABC2406C06@tp.office.openfind.com.tw"></=
+TD>
+    <TD height=3D10 align=3Dright=20
+      style=3D"BORDER-BOTTOM: rgb(137,129,127) 1px solid"><DIV=20
+      style=3D"COLOR: rgb(169,163,161)"></DIV></TD></TR>
+  <TR>
+    <TD height=3D10>&nbsp;</TD></TR></TBODY></TABLE>
+<DIV class=3D"contentWrap Notification">
+<TABLE width=3D"100%" bgColor=3D#ffffff border=3D0 cellSpacing=3D0 =
+cellPadding=3D1>
+  <TBODY>
+  <TR>
+    <TD height=3D35 align=3Dcenter bgColor=3D#f8981d><SPAN=20
+      =
+class=3Dstyle1>=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=
+=AF=E9=83=B5=E4=BB=B6=E5=95=8F=E9=A1=8C=E5=9B=9E=E5=A0=B1=E5=96=AE =
+</SPAN></TD></TR>
+  <TR>
+    <TD style=3D"POSITION: relative; PADDING-TOP: =
+30px"><PRE>=E6=B8=AC=E8=A9=A6=E5=9B=9E=E5=A0=B1=E7=B3=BB=E7=B5=B1=20
+            </PRE></TD></TR>
+  <TR>
+    <TD style=3D"POSITION: =
+relative">=E6=89=80=E5=B1=AC=E7=B8=A3=E5=B8=82=EF=BC=9A=E5=8F=B0=E5=8C=97=
+=E5=B8=82 <BR>=E5=AD=B8=E6=A0=A1=E5=90=8D=E7=A8=B1=EF=BC=9AOpenfind =
+<BR>=E8=BA=AB=E4=BB=BD=EF=BC=9A=E6=95=99=E5=B8=AB=20
+      <BR>=E8=81=AF=E7=B5=A1=E4=BA=BA=EF=BC=9AAdm =
+<BR>=E8=81=AF=E7=B5=A1=E9=9B=BB=E8=A9=B1=EF=BC=9A0225532000 =
+=E5=88=86=E6=A9=9F: 999 =
+<BR>=E8=81=AF=E7=B5=A1=E4=BF=A1=E7=AE=B1=EF=BC=9Aadm@test.mail=20
+      =
+<BR>=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E9=9B=BB=E5=AD=90=E9=83=B5=E4=BB=
+=B6=EF=BC=9A987654@mail.edu.tw <BR></TD></TR></TBODY></TABLE></DIV>
+<DIV class=3Dfooter>Copyright =C2=A9 Openfind Information Technology =
+INC. All rights=20
+reserved.</DIV></DIV></DIV></X-BODY></DIV>
+<OBJECT width=3D0 height=3D0 id=3D.WLEMOTICON_WRITER_BEHAVIOR=20
+style=3D"VISIBILITY: hidden"=20
+clsid=3D"clsid:2d089c28-4102-4aea-93d9-0126fe478032"></OBJECT>
+<OBJECT width=3D0 height=3D0 id=3DIMG_WRITER_BEHAVIOR =
+style=3D"VISIBILITY: hidden"=20
+clsid=3D"clsid:fa320e44-8e9f-431a-8022-8152e58a2a95"></OBJECT>
+<OBJECT width=3D0 height=3D0 =
+id=3D.WLWRITEREDITABLESMARTCONTENT_WRITER_BEHAVIOR=20
+style=3D"VISIBILITY: hidden"=20
+clsid=3D"clsid:bd5c8c69-c389-42df-8262-4b775174f40f"></OBJECT>
+<OBJECT width=3D0 height=3D0=20
+id=3D".WLWRITEREDITABLESMARTCONTENT_>_.WLEDITFIELD_WRITER_BEHAVIOR"=20
+style=3D"VISIBILITY: hidden"=20
+clsid=3D"clsid:39e96718-eaaf-4223-812b-a44f47f52a88"></OBJECT>
+<OBJECT width=3D0 height=3D0 id=3DBLOCKQUOTE_WRITER_BEHAVIOR=20
+style=3D"VISIBILITY: hidden"=20
+clsid=3D"clsid:00164784-50f5-4aba-9662-d4633f1afe07"></OBJECT>
+<OBJECT width=3D0 height=3D0 id=3D#EXTENDEDENTRYBREAK_WRITER_BEHAVIOR=20
+style=3D"VISIBILITY: hidden"=20
+clsid=3D"clsid:bbdc4e96-f705-4679-b64b-858cbbd6cf50"></OBJECT>
+<OBJECT width=3D0 height=3D0 id=3D.POSTBODY_TABLE_WRITER_BEHAVIOR=20
+style=3D"VISIBILITY: hidden"=20
+clsid=3D"clsid:378004a4-88de-491b-baeb-db205267db12"></OBJECT>
+<OBJECT width=3D0 height=3D0 id=3D.POSTBODY_TD_WRITER_BEHAVIOR=20
+style=3D"VISIBILITY: hidden"=20
+clsid=3D"clsid:62a0cb45-eb5c-445d-8fc2-9b923f8b83f4"></OBJECT>
+<OBJECT width=3D0 height=3D0 id=3D.POSTBODY_TH_WRITER_BEHAVIOR=20
+style=3D"VISIBILITY: hidden"=20
+clsid=3D"clsid:cc4500e4-ecee-4cca-af33-d3d862e9d324"></OBJECT><BASE=20
+href=3D""></DIV></DIV></BODY></HTML>
+
+------=_NextPart_001_0039_01D101AF.9EBA9E70--
+
+------=_NextPart_000_0038_01D101AF.9EBA9E70
+Content-Type: image/jpeg;
+	name="logo.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <396554CD7A3C44EF800726ABC2406C06@tp.office.openfind.com.tw>
+
+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
+Ojw8/9k=
+
+------=_NextPart_000_0038_01D101AF.9EBA9E70--
+

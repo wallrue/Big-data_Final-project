@@ -1,0 +1,456 @@
+X-M2K-MATCHED-RULE: SPAM_FILTER-InADB
+X-M2K-MATCHED-RESULT: Mail Header From In ADB/cloud_se@openfind.com.tw
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 220.130.127.163
+	by ms2.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(25267:0:AUTH_NONE)
+	(envelope-from <prvs=1608B1A6C3=cloud_se@openfind.com.tw>); Tue, 13 Mar 2018 13:05:43 +0800 (CST)
+Return-Path: <prvs=1608B1A6C3=cloud_se@openfind.com.tw>
+X-M2K-MSG-ID: 71NEADMA0BQTCARI
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(22151:0:AUTH_RELAY)
+	(envelope-from <prvs=1608B1A6C3=cloud_se@openfind.com.tw>); Tue, 13 Mar 2018 13:05:31 +0800 (CST)
+Return-Path: <prvs=1608B1A6C3=cloud_se@openfind.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: By OpenMail Mailer;Tue, 13 Mar 2018 13:05:23 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(7457:0:AUTH_NONE)
+	(envelope-from <prvs=1608B1A6C3=cloud_se@openfind.com.tw>); Tue, 13 Mar 2018 13:05:14 +0800 (CST)
+Return-Path: <prvs=1608B1A6C3=cloud_se@openfind.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 203.69.82.9
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(57319:0:AUTH_NONE)
+	(envelope-from <prvs=1608B1A6C3=cloud_se@openfind.com.tw>); Tue, 13 Mar 2018 13:05:13 +0800 (CST)
+Return-Path: <prvs=1608B1A6C3=cloud_se@openfind.com.tw>
+X-M2KPolicyIP: 203.69.82.9 (mta.mailcloud.com.tw)
+X-MailGates: (RBL:2,PASS,0.000000e+00)(SPF:2,PASS,permerror)(BATV:2,PASS
+	,sender not empty)(DK:2,PASS,no signature)(DKIM:2,PASS,Success(0))(flag:
+	0,LAN:PASS)(IPF:2,PASS)(FROMBW:2,PASS)(FROMBW:2,PASS)(commtouch:PASS,1,s
+	tr=0001.0A150203.5AA75C09.005C:SCGSTAT2240447,ss=1,re=-4.000,recu=0.000,
+	reip=0.000,cl=1,cld=1,fgs=1024,2)(compute_score:PASS,40,2)
+Received: from 210.59.162.122
+	by mta.mailcloud.com.tw with MailAudit ESMTP Server V5.0(25705:2:AUTH_NONE)
+	(envelope-from <prvs=1608B1A6C3=cloud_se@openfind.com.tw>); Tue, 13 Mar 2018 13:05:10 +0800 (CST)
+Return-Path: <prvs=1608B1A6C3=cloud_se@openfind.com.tw>
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)(audit_rules:rules.audit_
+	out1311132448.system#,,,aDELIVER,R/m2k_service@mail2000.com.tw,4,ou)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=openfind.com.tw;
+	s=MailGates; t=1520917500;
+	bh=MYwpjQXegAeJnuy89T+8gOgvPToQZq1o0w0xWUVDBWI=; l=15954;
+	h=From:Subject:Message-ID:To:Date:MIME-Version;
+	b=LKS2b7hjmuzc8C3H7hd8hB2IKyonid66O7WF6bYW+wf9tC5CicWYtwNp6ywp1EWQ9
+	 ltB+vwmVU1sfWoPC9VI6NCeuvEVqrM7RXMWfQp00p3cSQSaxK6swaDk6ifv0/snUvW
+	 d9seB1Ez7T/WsixkMukd1ZaFt07nnNHyGdkBb6wg=
+X-MGADT: rules.audit_out1311132448.system#,R/m2k_service@mail2000.com.tw
+Received: from 172.16.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V5.0(708:0:AUTH_RELAY)
+	(envelope-from <cloud_se@openfind.com.tw>); Tue, 13 Mar 2018 13:01:09 +0800 (CST)
+Return-Path: <cloud_se@openfind.com.tw>
+Received: By OpenMail Mailer;Tue, 13 Mar 2018 13:01:18 +0800 (CST)
+From: "cloud_se@openfind.com.tw" <cloud_se@openfind.com.tw>
+Reply-To: "cloud_se@openfind.com.tw" <cloud_se@openfind.com.tw>
+Subject: =?utf-8?B?UmU6IE0yayAtIHNjdWJhIC0g54Sh5rOV6Kit5a6a?=
+	=?utf-8?B?QE1haWwyMDAwIEFQUCzmnIPpoa/npLrnhKHms5U=?=
+	=?utf-8?B?5Y+W5b6X6Kit5YKZSUTkuKbpoa/npLogZXJyb3I=?=
+	=?utf-8?B?IGNvZGUgMTAxIC0gRnc6IFtpT1MgQVBQXSBGZWU=?=
+	=?utf-8?B?ZGJhY2svUXVlc3Rpb24gPHNjdWJhQG1haWwyMDA=?=
+	=?utf-8?B?MC5jb20udHdAd3d3Lm1haWwyMDAwLmNvbS50dz4=?=
+Message-ID: <1520917277.13229.cloud_se@openfind.com.tw>
+In-Reply-To: <1520909619.32676.m2k_adm@mail2000.com.tw>
+References: <1520909619.32676.m2k_adm@mail2000.com.tw>
+To: "=?utf-8?B?TWFpbDIwMDAg5a6i5pyN5Lit5b+D?=" <m2k_adm@mail2000.com.tw>
+Cc: "m2k_service" <m2k_service@mail2000.com.tw>,
+	"Cloud SE" <cloud_se@openfind.com>
+Date: Tue, 13 Mar 2018 13:01:17 +0800 (CST)
+MIME-Version: 1.0
+Return-Path: cloud_se@openfind.com.tw
+X-Priority: 1
+X-MSMail-Priority: High
+Content-Type: multipart/alternative;
+	boundary="---OBOw4-+AiJ8ubITak(/AKzq/sjm"
+
+-----OBOw4-+AiJ8ubITak(/AKzq/sjm
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi=20Jasmine=20,
+
+=E6=B8=AC=E8=A9=A6=E5=8F=AF=E4=BB=A5=E6=AD=A3=E5=B8=B8=E7=99=BB=E5=85=A5=EF=BC=
+=8C=E5=B7=B2=E5=85=88=E5=B9=AB=E7=94=A8=E6=88=B6=E6=B8=85=E9=99=A4=E7=B7=A9=E5=
+=AD=98=EF=BC=8C=E5=86=8D=E9=87=8D=E6=96=B0=E8=A8=AD=E5=AE=9A=E8=A9=A6=E7=9C=8B=
+=E7=9C=8B=E3=80=82
+
+=E8=AC=9D=E8=AC=9D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=E2=97=86=20=E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99=E7=B6=AD=E9=81=8B=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20cloud_se@openfind.c=
+om
+=E2=97=86=20=E7=B3=BB=E7=B5=B1=E6=94=AF=E6=8F=B4=E5=B7=A5=E7=A8=8B=E5=B8=AB=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20Addy_Chen
+=E2=97=86=20MailCloud=20=E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99=
+=20=20=20=20=20http://www.mailcloud.com.tw/
+=E2=97=86=20Mail2000=20=E9=9B=BB=E5=AD=90=E9=83=B5=E4=BB=B6=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20http://www.mail2000.com.tw/
+=E2=97=86=20Openfind=20=E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20http://www.openfind.com/
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+-----Original=20message-----
+From:Mail2000=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83<m2k_adm@mail2000.com.tw=
+>
+To:Cloud=20SE<cloud_se@openfind.com>
+Cc:m2k_service<m2k_service@mail2000.com.tw>
+Date:=20Tue,=2013=20Mar=202018=2010:53:39
+Subject:=20M2k=20-=20scuba=20-=20=E7=84=A1=E6=B3=95=E8=A8=AD=E5=AE=9A@Mail20=
+00=20APP,=E6=9C=83=E9=A1=AF=E7=A4=BA=E7=84=A1=E6=B3=95=E5=8F=96=E5=BE=97=E8=A8=
+=AD=E5=82=99ID=E4=B8=A6=E9=A1=AF=E7=A4=BA=20error=20code=20101=20-=20Fw:=20[=
+iOS=20APP]=20Feedback/Question=20<scuba@mail2000.com.tw@www.mail2000.com.tw>=
+
+
+=E6=82=A8=E5=A5=BD=EF=BC=8C
+
+=E5=B8=B3=E8=99=9F=EF=BC=9Ascuba@mail2000.com.tw
+
+
+
+
+=E5=95=8F=E9=A1=8C=EF=BC=9A
+=E6=89=8B=E6=A9=9F=EF=BC=9AiPhone
+=E4=BD=BF=E7=94=A8=E8=80=85=E6=8F=90=E5=88=B0=EF=BC=8C
+=E7=84=A1=E6=B3=95=E8=A8=AD=E5=AE=9A@Mail2000=20APP=EF=BC=8C
+=E6=9C=83=E9=A1=AF=E7=A4=BA=E7=84=A1=E6=B3=95=E5=8F=96=E5=BE=97=E8=A8=AD=E5=82=
+=99ID=E4=B8=A6=E9=A1=AF=E7=A4=BA=20error=20code=20101=EF=BC=8C
+=3D=3D
+=E6=9C=AC=E6=A9=9F=E8=B3=87=E8=A8=8A
+=20=20=20=E8=A3=9D=E7=BD=AE=E9=A1=9E=E5=9E=8B:iPhone
+=20=20=20=E4=BD=9C=E6=A5=AD=E7=B3=BB=E7=B5=B1:iOS/11.2.5
+=20=20=20=E9=80=A3=E7=B7=9A=E6=A8=A1=E5=BC=8F:Cell,Wireless(40003)
+
+=E6=87=89=E7=94=A8=E7=A8=8B=E5=BC=8F=E8=B3=87=E8=A8=8A
+=20=20=20=E7=A8=8B=E5=BC=8F=E7=89=88=E6=9C=AC:B=202.3.18=20(19)=20#LOG
+=20=20=20=E4=BC=BA=E6=9C=8D=E5=99=A8:www.mail2000.com.tw
+=20=20=20=E9=80=A3=E6=8E=A5=E5=9F=A0:443
+=20=20=20=E5=B8=B3=E8=99=9F:scuba@mail2000.com.tw
+=20=20=20=E5=8A=A0=E5=AF=86:YES
+=20=20=20=E6=8E=A8=E6=92=AD:NO
+=20=20=20=E9=9B=99=E9=87=8D=E8=AA=8D=E8=AD=89:NO
+=3D=3D
+=E9=BA=BB=E7=85=A9=E6=82=A8=E5=86=8D=E5=B9=AB=E5=BF=99=E7=A2=BA=E8=AA=8D=E9=9C=
+=80=E8=A6=81=E6=9B=B4=E6=94=B9=E5=93=AA=E4=BA=9B=E8=A8=AD=E5=AE=9A=EF=BC=8C
+=E8=AC=9D=E8=AC=9D=E6=82=A8=E3=80=82
+
+
+
+Jasmine
+
+=E8=AC=9D=E8=AC=9D=E6=82=A8=E5=B0=8D=20Mail2000=20=E7=9A=84=E6=84=9B=E7=94=A8=
+=EF=BC=8C
+=E8=8B=A5=E6=9C=89=E4=BB=BB=E4=BD=95=E5=95=8F=E9=A1=8C=EF=BC=8C=E6=AD=A1=E8=BF=
+=8E=E5=86=8D=E6=AC=A1=E6=B4=BD=E8=A9=A2=E3=80=82
+
+Mail2000=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83=20=E6=95=AC=E4=B8=8A
+---------------------------------------------------------------------------
+SecuShare=20=E5=88=86=E4=BA=AB=E9=9B=B2=EF=BC=8D=E5=B9=AB=E4=BD=A0=E7=9A=84=E4=
+=BF=A1=E7=AE=B1=E6=B8=9B=E8=82=A5
+
+=E6=8C=89=E4=B8=8B=E9=83=B5=E4=BB=B6=E9=99=84=E6=AA=94=E6=97=81=E9=82=8A=E7=9A=
+=84=E5=88=86=E4=BA=AB=E9=9B=B2=E5=9C=96=E7=A4=BA=EF=BC=8C=E5=8D=B3=E5=8F=AF=E5=
+=B0=87=E9=99=84=E6=AA=94=E5=8F=A6=E5=AD=98=E6=96=BC
+=E8=B4=88=E9=80=81=E7=9A=84=E5=88=86=E4=BA=AB=E9=9B=B2=E7=A9=BA=E9=96=93=E3=80=
+=82=E6=8E=A5=E8=91=97=E8=87=B3=E5=B7=A5=E5=85=B7=E9=81=B8=E5=96=AE=20=E3=80=8B=
+=E5=88=AA=E9=99=A4=E9=99=84=E6=AA=94=EF=BC=8C
+=E5=B0=B1=E8=83=BD=E5=B9=AB=E6=82=A8=E7=9A=84=E4=BF=A1=E7=AE=B1=E7=98=A6=E8=BA=
+=AB=EF=BC=81=E8=A9=B3=E6=83=85=E8=AB=8B=E8=A6=8B
+---------------------------------------------------------------------------
+
+
+Mail2000=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83
+=E5=AE=A2=E6=9C=8D=E5=B0=88=E7=B7=9A=EF=BC=9A02-2553-7272
+=E5=AE=A2=E6=9C=8D=E5=82=B3=E7=9C=9F=EF=BC=9A02-2553-5956
+=E5=AE=A2=E6=9C=8D=E4=BF=A1=E7=AE=B1=EF=BC=9Am2k_adm@mail2000.com.tw
+Mail2000=E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1=20http://mail2000.com.tw/
+=E7=B6=B2=E6=93=8E=E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99=20h=
+ttp://www.mailcloud.com.tw=20
+=E7=B6=B2=E6=93=8E=20Openfind=20=E4=BC=81=E6=A5=AD=E7=B6=B2=E7=AB=99=20http:=
+//www.openfind.com/taiwan
+
+-----Forwarded=20message-----
+From:Emma_Wang<emma_wang@openfind.com.tw>
+To:m2k_service<m2k_service@mail2000.com.tw>
+Date:=20Tue,=2013=20Mar=202018=2009:35:06
+Subject:=20Fw:=20[iOS=20APP]=20Feedback/Question=20<scuba@mail2000.com.tw@ww=
+w.mail2000.com.tw>
+Dear=20all,
+
+=E8=A9=B2=E7=94=A8=E6=88=B6=E5=8F=8D=E6=87=89=E8=A8=AD=E5=AE=9A=20app=20=E8=B7=
+=B3=E5=87=BA=E2=80=9D=E7=84=A1=E6=B3=95=E5=8F=96=E5=BE=97=E8=A8=AD=E5=82=99I=
+D=E2=80=9D=20
+=E4=B8=A6=E9=A1=AF=E7=A4=BA=20error=20code=20101=EF=BC=8C
+=E8=AB=8B=E5=8D=94=E5=8A=A9=E8=99=95=E7=90=86=EF=BC=8C=E8=AC=9D=E8=AC=9D=E3=80=
+=82
+
+=E4=BC=BA=E6=9C=8D=E5=99=A8:www.mail2000.com.tw
+=E5=B8=B3=E8=99=9F:scuba@mail2000.com.tw
+
+
+Best=20regards,
+Emma
+
+-----Forwarded=20message-----
+From:=20Harry=20Ding=20<scuba1768@gmail.com>
+To:=20app_support@mail2000.com.tw
+Date:=20Mon,=2012=20Mar=202018=2022:32:06
+Subject:=20[iOS=20APP]=20Feedback/Question=20<scuba@mail2000.com.tw@www.mail=
+2000.com.tw>
+
+
+Dear=20Sir/Madam,
+=E6=88=91=E7=84=A1=E6=B3=95=E8=A8=AD=E5=AE=9Aapp,=20=E4=BB=96=E8=B7=B3=E5=87=
+=BA=E2=80=9D=E7=84=A1=E6=B3=95=E5=8F=96=E5=BE=97=E8=A8=AD=E5=82=99ID=E2=80=9D=
+,=20=E7=84=B6=E5=BE=8Cerror=20code=20is=20101
+Thanks,
+Harry=20Ding
+
+=E6=9C=AC=E6=A9=9F=E8=B3=87=E8=A8=8A
+=20=20=20=20=E8=A3=9D=E7=BD=AE=E9=A1=9E=E5=9E=8B:iPhone
+=20=20=20=20=E4=BD=9C=E6=A5=AD=E7=B3=BB=E7=B5=B1:iOS/11.2.5
+=20=20=20=20=E9=80=A3=E7=B7=9A=E6=A8=A1=E5=BC=8F:Cell,Wireless(40003)
+
+=E6=87=89=E7=94=A8=E7=A8=8B=E5=BC=8F=E8=B3=87=E8=A8=8A
+=20=20=20=20=E7=A8=8B=E5=BC=8F=E7=89=88=E6=9C=AC:B=202.3.18=20(19)=20#LOG
+=20=20=20=20=E4=BC=BA=E6=9C=8D=E5=99=A8:www.mail2000.com.tw
+=20=20=20=20=E9=80=A3=E6=8E=A5=E5=9F=A0:443
+=20=20=20=20=E5=B8=B3=E8=99=9F:scuba@mail2000.com.tw
+=20=20=20=20=E5=8A=A0=E5=AF=86:YES
+=20=20=20=20=E6=8E=A8=E6=92=AD:NO
+=20=20=20=20=E9=9B=99=E9=87=8D=E8=AA=8D=E8=AD=89:NO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=E5=BE=9E=E6=88=91=E7=9A=84=20iPhone=20=E5=82=B3=E9=80=81
+
+-----OBOw4-+AiJ8ubITak(/AKzq/sjm
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE=20html><html><head><meta=20http-equiv=3D"X-UA-Compatible"=20conten=
+t=3D"IE=3Dedge"><style=20data-m2k-style=3D"">html,body{height:100%;}body{box=
+-sizing:border-box;padding:8px;margin:0;}</style></head><body>Hi&nbsp;Jasmin=
+e&nbsp;,<div><br></div><blockquote=20style=3D"margin:=200=200=200=2040px;=20=
+border:=20none;=20padding:=200px;">=E6=B8=AC=E8=A9=A6=E5=8F=AF=E4=BB=A5=E6=AD=
+=A3=E5=B8=B8=E7=99=BB=E5=85=A5=EF=BC=8C=E5=B7=B2=E5=85=88=E5=B9=AB=E7=94=A8=E6=
+=88=B6=E6=B8=85=E9=99=A4=E7=B7=A9=E5=AD=98=EF=BC=8C=E5=86=8D=E9=87=8D=E6=96=B0=
+=E8=A8=AD=E5=AE=9A=E8=A9=A6=E7=9C=8B=E7=9C=8B=E3=80=82</blockquote><div><br>=
+</div><div>=E8=AC=9D=E8=AC=9D<br>
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D<br>
+=E2=97=86=20=E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99=E7=B6=AD=E9=81=8B=20&nbsp;=20=
+&nbsp;=20&nbsp;=20&nbsp;=20&nbsp;=20&nbsp;=20&nbsp;=20&nbsp;=20&nbsp;=20&nbs=
+p;=20&nbsp;=20cloud_se@openfind.com<br>
+=E2=97=86=20=E7=B3=BB=E7=B5=B1=E6=94=AF=E6=8F=B4=E5=B7=A5=E7=A8=8B=E5=B8=AB=20=
+&nbsp;=20&nbsp;=20&nbsp;=20&nbsp;=20&nbsp;=20&nbsp;=20&nbsp;=20&nbsp;=20&nbs=
+p;=20Addy_Chen<br>
+=E2=97=86=20MailCloud=20=E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99=
+=20&nbsp;=20&nbsp;=20http://www.mailcloud.com.tw/<br>
+=E2=97=86=20Mail2000=20=E9=9B=BB=E5=AD=90=E9=83=B5=E4=BB=B6=20&nbsp;=20&nbsp=
+;=20&nbsp;=20&nbsp;=20&nbsp;=20&nbsp;=20&nbsp;=20http://www.mail2000.com.tw/=
+<br>
+=E2=97=86=20Openfind=20=E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A=20&nbsp;=20&nbsp=
+;=20&nbsp;=20&nbsp;=20&nbsp;=20&nbsp;=20&nbsp;=20&nbsp;http://www.openfind.c=
+om/<br>
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</div><br>
+-----Original=20message-----<br>
+
+
+
+
+
+
+
+<b>From:</b>Mail2000=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83&lt;m2k_adm@mail2=
+000.com.tw&gt;<br>
+<b>To:</b>Cloud=20SE&lt;cloud_se@openfind.com&gt;<br>
+<b>Cc:</b>m2k_service&lt;m2k_service@mail2000.com.tw&gt;<br>
+<b>Date:=20</b>=20Tue,=2013=20Mar=202018=2010:53:39<br>
+<b>Subject:</b>=20M2k=20-=20scuba=20-=20=E7=84=A1=E6=B3=95=E8=A8=AD=E5=AE=9A=
+@Mail2000=20APP,=E6=9C=83=E9=A1=AF=E7=A4=BA=E7=84=A1=E6=B3=95=E5=8F=96=E5=BE=
+=97=E8=A8=AD=E5=82=99ID=E4=B8=A6=E9=A1=AF=E7=A4=BA=20error=20code=20101=20-=20=
+Fw:=20[iOS=20APP]=20Feedback/Question=20&lt;scuba@mail2000.com.tw@www.mail20=
+00.com.tw&gt;<br>
+
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>=E6=82=A8=E5=A5=BD=EF=BC=8C</div><div><br></div><div>=E5=B8=B3=E8=99=9F=
+=EF=BC=9Ascuba@mail2000.com.tw</div><div><br></div><div><br></div><div><br><=
+/div><div><br></div><div>=E5=95=8F=E9=A1=8C=EF=BC=9A</div><div>=E6=89=8B=E6=A9=
+=9F=EF=BC=9AiPhone</div><div>=E4=BD=BF=E7=94=A8=E8=80=85=E6=8F=90=E5=88=B0=EF=
+=BC=8C</div><div>=E7=84=A1=E6=B3=95=E8=A8=AD=E5=AE=9A@Mail2000=20APP=EF=BC=8C=
+</div><div>=E6=9C=83=E9=A1=AF=E7=A4=BA=E7=84=A1=E6=B3=95=E5=8F=96=E5=BE=97=E8=
+=A8=AD=E5=82=99ID=E4=B8=A6=E9=A1=AF=E7=A4=BA=20error=20code=20101=EF=BC=8C</=
+div><div><hr>=E6=9C=AC=E6=A9=9F=E8=B3=87=E8=A8=8A<br>&nbsp;&nbsp;&nbsp;=E8=A3=
+=9D=E7=BD=AE=E9=A1=9E=E5=9E=8B:iPhone<br>&nbsp;&nbsp;&nbsp;=E4=BD=9C=E6=A5=AD=
+=E7=B3=BB=E7=B5=B1:iOS/11.2.5<br>&nbsp;&nbsp;&nbsp;=E9=80=A3=E7=B7=9A=E6=A8=A1=
+=E5=BC=8F:Cell,Wireless(40003)<br><br>=E6=87=89=E7=94=A8=E7=A8=8B=E5=BC=8F=E8=
+=B3=87=E8=A8=8A<br>&nbsp;&nbsp;&nbsp;=E7=A8=8B=E5=BC=8F=E7=89=88=E6=9C=AC:B=20=
+2.3.18=20(19)=20#LOG<br>&nbsp;&nbsp;&nbsp;=E4=BC=BA=E6=9C=8D=E5=99=A8:www.ma=
+il2000.com.tw<br>&nbsp;&nbsp;&nbsp;=E9=80=A3=E6=8E=A5=E5=9F=A0:443<br>&nbsp;=
+&nbsp;&nbsp;=E5=B8=B3=E8=99=9F:scuba@mail2000.com.tw<br>&nbsp;&nbsp;&nbsp;=E5=
+=8A=A0=E5=AF=86:YES<br>&nbsp;&nbsp;&nbsp;=E6=8E=A8=E6=92=AD:NO<br>&nbsp;&nbs=
+p;&nbsp;=E9=9B=99=E9=87=8D=E8=AA=8D=E8=AD=89:NO</div><hr><div>=E9=BA=BB=E7=85=
+=A9=E6=82=A8=E5=86=8D=E5=B9=AB=E5=BF=99=E7=A2=BA=E8=AA=8D=E9=9C=80=E8=A6=81=E6=
+=9B=B4=E6=94=B9=E5=93=AA=E4=BA=9B=E8=A8=AD=E5=AE=9A=EF=BC=8C</div><div>=E8=AC=
+=9D=E8=AC=9D=E6=82=A8=E3=80=82</div><div><br></div><div><br></div><div><br><=
+/div><div>Jasmine</div><div><br></div><div>=E8=AC=9D=E8=AC=9D=E6=82=A8=E5=B0=
+=8D=20Mail2000=20=E7=9A=84=E6=84=9B=E7=94=A8=EF=BC=8C</div><div>=E8=8B=A5=E6=
+=9C=89=E4=BB=BB=E4=BD=95=E5=95=8F=E9=A1=8C=EF=BC=8C=E6=AD=A1=E8=BF=8E=E5=86=8D=
+=E6=AC=A1=E6=B4=BD=E8=A9=A2=E3=80=82</div><div><div><br></div></div><div>Mai=
+l2000=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83=20=E6=95=AC=E4=B8=8A</div><div>=
+---------------------------------------------------------------------------<=
+br><b><font=20color=3D"#FF0000">SecuShare=20=E5=88=86=E4=BA=AB=E9=9B=B2=EF=BC=
+=8D=E5=B9=AB=E4=BD=A0=E7=9A=84=E4=BF=A1=E7=AE=B1=E6=B8=9B=E8=82=A5</font></b=
+><br><br></div><div>=E6=8C=89=E4=B8=8B=E9=83=B5=E4=BB=B6=E9=99=84=E6=AA=94=E6=
+=97=81=E9=82=8A=E7=9A=84=E5=88=86=E4=BA=AB=E9=9B=B2=E5=9C=96=E7=A4=BA=EF=BC=8C=
+=E5=8D=B3=E5=8F=AF=E5=B0=87=E9=99=84=E6=AA=94=E5=8F=A6=E5=AD=98=E6=96=BC<br>=
+=E8=B4=88=E9=80=81=E7=9A=84=E5=88=86=E4=BA=AB=E9=9B=B2=E7=A9=BA=E9=96=93=E3=80=
+=82=E6=8E=A5=E8=91=97=E8=87=B3=E5=B7=A5=E5=85=B7=E9=81=B8=E5=96=AE=20=E3=80=8B=
+=E5=88=AA=E9=99=A4=E9=99=84=E6=AA=94=EF=BC=8C<br>=E5=B0=B1=E8=83=BD=E5=B9=AB=
+=E6=82=A8=E7=9A=84=E4=BF=A1=E7=AE=B1=E7=98=A6=E8=BA=AB=EF=BC=81<a=20href=3D"=
+http://doc.mail2000.com.tw/news/1405/AttachToSS.htm">=E8=A9=B3=E6=83=85=E8=AB=
+=8B=E8=A6=8B</a></div><div>-------------------------------------------------=
+--------------------------</div>
+<div></div>
+<div><div><br></div>
+<div><br></div>
+<div>Mail2000=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83</div>
+<div>=E5=AE=A2=E6=9C=8D=E5=B0=88=E7=B7=9A=EF=BC=9A02-2553-7272</div>
+<div>=E5=AE=A2=E6=9C=8D=E5=82=B3=E7=9C=9F=EF=BC=9A02-2553-5956</div>
+<div>=E5=AE=A2=E6=9C=8D=E4=BF=A1=E7=AE=B1=EF=BC=9Am2k_adm@mail2000.com.tw</d=
+iv>
+<div>Mail2000=E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1=20<a=20href=3D"http://mail=
+2000.com.tw/"=20target=3D"_blank">http://mail2000.com.tw/</a></div>
+<div>=E7=B6=B2=E6=93=8E=E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99=
+=20<a=20href=3D"http://www.mailcloud.com.tw/"=20target=3D"_blank">http://www=
+.mailcloud.com.tw</a>=20</div>
+<div>=E7=B6=B2=E6=93=8E=20Openfind=20=E4=BC=81=E6=A5=AD=E7=B6=B2=E7=AB=99=20=
+<a=20href=3D"http://www.openfind.com/taiwan"=20target=3D"_blank">http://www.=
+openfind.com/taiwan</a></div></div></div></div></div></div></div></div></div=
+></div></div></div></div></div></div></div><br>
+-----Forwarded=20message-----<br>
+
+
+
+
+
+
+
+<b>From:</b>Emma_Wang&lt;emma_wang@openfind.com.tw&gt;<br>
+<b>To:</b>m2k_service&lt;m2k_service@mail2000.com.tw&gt;<br>
+<b>Date:=20</b>=20Tue,=2013=20Mar=202018=2009:35:06<br>
+<b>Subject:</b>=20Fw:=20[iOS=20APP]=20Feedback/Question=20&lt;scuba@mail2000=
+.com.tw@www.mail2000.com.tw&gt;<br>
+Dear=20all,<br>
+<br>
+=E8=A9=B2=E7=94=A8=E6=88=B6=E5=8F=8D=E6=87=89=E8=A8=AD=E5=AE=9A=20app=20=E8=B7=
+=B3=E5=87=BA=E2=80=9D=E7=84=A1=E6=B3=95=E5=8F=96=E5=BE=97=E8=A8=AD=E5=82=99I=
+D=E2=80=9D=20<br>
+=E4=B8=A6=E9=A1=AF=E7=A4=BA=20error=20code=20101=EF=BC=8C<br>
+=E8=AB=8B=E5=8D=94=E5=8A=A9=E8=99=95=E7=90=86=EF=BC=8C=E8=AC=9D=E8=AC=9D=E3=80=
+=82<br>
+<br>
+=E4=BC=BA=E6=9C=8D=E5=99=A8:www.mail2000.com.tw<br>
+=E5=B8=B3=E8=99=9F:scuba@mail2000.com.tw<br>
+<br>
+<br>
+Best=20regards,<br>
+Emma<br>
+<br>
+-----Forwarded=20message-----<br>
+From:=20Harry=20Ding=20&lt;scuba1768@gmail.com&gt;<br>
+To:=20app_support@mail2000.com.tw<br>
+Date:=20Mon,=2012=20Mar=202018=2022:32:06<br>
+Subject:=20[iOS=20APP]=20Feedback/Question=20&lt;scuba@mail2000.com.tw@www.m=
+ail2000.com.tw&gt;<br>
+<br>
+<br>
+Dear=20Sir/Madam,<br>
+=E6=88=91=E7=84=A1=E6=B3=95=E8=A8=AD=E5=AE=9Aapp,=20=E4=BB=96=E8=B7=B3=E5=87=
+=BA=E2=80=9D=E7=84=A1=E6=B3=95=E5=8F=96=E5=BE=97=E8=A8=AD=E5=82=99ID=E2=80=9D=
+,=20=E7=84=B6=E5=BE=8Cerror=20code=20is=20101<br>
+Thanks,<br>
+Harry=20Ding<br>
+<br>
+=E6=9C=AC=E6=A9=9F=E8=B3=87=E8=A8=8A<br>
+=20&nbsp;&nbsp;&nbsp;=E8=A3=9D=E7=BD=AE=E9=A1=9E=E5=9E=8B:iPhone<br>
+=20&nbsp;&nbsp;&nbsp;=E4=BD=9C=E6=A5=AD=E7=B3=BB=E7=B5=B1:iOS/11.2.5<br>
+=20&nbsp;&nbsp;&nbsp;=E9=80=A3=E7=B7=9A=E6=A8=A1=E5=BC=8F:Cell,Wireless(4000=
+3)<br>
+<br>
+=E6=87=89=E7=94=A8=E7=A8=8B=E5=BC=8F=E8=B3=87=E8=A8=8A<br>
+=20&nbsp;&nbsp;&nbsp;=E7=A8=8B=E5=BC=8F=E7=89=88=E6=9C=AC:B=202.3.18=20(19)=20=
+#LOG<br>
+=20&nbsp;&nbsp;&nbsp;=E4=BC=BA=E6=9C=8D=E5=99=A8:www.mail2000.com.tw<br>
+=20&nbsp;&nbsp;&nbsp;=E9=80=A3=E6=8E=A5=E5=9F=A0:443<br>
+=20&nbsp;&nbsp;&nbsp;=E5=B8=B3=E8=99=9F:scuba@mail2000.com.tw<br>
+=20&nbsp;&nbsp;&nbsp;=E5=8A=A0=E5=AF=86:YES<br>
+=20&nbsp;&nbsp;&nbsp;=E6=8E=A8=E6=92=AD:NO<br>
+=20&nbsp;&nbsp;&nbsp;=E9=9B=99=E9=87=8D=E8=AA=8D=E8=AD=89:NO<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+=E5=BE=9E=E6=88=91=E7=9A=84=20iPhone=20=E5=82=B3=E9=80=81<br>
+</body></html>
+-----OBOw4-+AiJ8ubITak(/AKzq/sjm--

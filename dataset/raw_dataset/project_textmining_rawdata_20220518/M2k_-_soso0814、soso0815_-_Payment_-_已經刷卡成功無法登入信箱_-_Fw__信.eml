@@ -1,0 +1,414 @@
+X-M2K-MATCHED-RULE: SPAM_FILTER-InADB
+X-M2K-MATCHED-RESULT: Mail Header From In ADB/m2k_adm@mail2000.com.tw
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 3.3.3.3
+	by ms3.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(7967:0:AUTH_NONE)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Mon, 07 Sep 2015 19:25:52 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 3.3.3.3
+	by asp7.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(95397:1:AUTH_RELAY)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Mon, 07 Sep 2015 19:25:52 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=mail2000.com.tw;
+	s=1404201787.mail2000; t=1441625152;
+	bh=PnFqHCYOc1qwPD/ogIqenTuu51w=;
+	h=Received:Return-Path:Received:Received:From:Reply-To:Subject:
+	 Message-ID:To:Cc:Date:MIME-Version:Return-Path:Content-Type;
+	b=PTHHfgQ01KVrPvcw+2my7q7ZRbk34rQLWMHC4H2yKqbxZWEK9u8Eh2+MPT1Putb8I
+	 yG16Nqpya6bNPuT95B4IyKryI8MvFz9UUAoJuIHZR3WUa/xd6ujoF0iESAM9PLDU2r
+	 4ApeAglUqqWzoocQpXHB1J+lyWZtK9RlLpHn04bw=
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/0
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(31056:0:AUTH_LOGIN)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Mon, 07 Sep 2015 19:25:51 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+Received: By OpenMail Mailer;Mon, 07 Sep 2015 19:25:51 +0800 (CST)
+Received: By OpenMail Mailer;Mon, 07 Sep 2015 19:25:50 +0800 (CST)
+From: "=?big5?B?TWFpbDIwMDAgq8iqQaSkpN8=?=" <m2k_adm@mail2000.com.tw>
+Reply-To: "=?big5?B?TWFpbDIwMDAgq8iqQaSkpN8=?=" <m2k_adm@mail2000.com.tw>
+Subject: =?big5?B?TTJrIC0gc29zbzA4MTShQnNvc28wODE1IC0gUGF5?=
+	=?big5?B?bWVudCAtIKR3uGeo6qVkpqilXLVMqmu1bqRKq0g=?=
+	=?big5?B?vWMgLSBGdzogq0i9Y6Sjr+C1bqRK?=
+Message-ID: <1441625150.16890.m2k_adm@mail2000.com.tw>
+To: "Cloud SE" <cloud_se@openfind.com>
+Cc: "m2k_service" <m2k_service@mail2000.com.tw>
+Date: Mon, 07 Sep 2015 19:25:50 +0800 (CST)
+MIME-Version: 1.0
+Return-Path: m2k_adm@mail2000.com.tw
+Content-Type: multipart/alternative;
+	boundary="---5I1,M=SaKBk/9iAL3FYV3AbKgxI"
+
+-----5I1,M=SaKBk/9iAL3FYV3AbKgxI
+Content-Type: text/plain; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+=B1z=A6n=A1A
+
+=B1b=B8=B9=A1Gsoso0814@mail2000.com.tw=A1Bsoso0815@mail2000.com.tw
+
+
+
+=B0=DD=C3D=A1G
+=A8=CF=A5=CE=AA=CC=A4=CF=C0=B3=A4w=B8g=A8=EA=A5d=A6=A8=A5\=B5L=AAk=B5n=A4J=AB=
+H=BDc=A1A
+=A7=DA=A6bm2k=20payment=20=BDT=BB{=ADq=B3=E6=AA=AC=BAA=A5=BC=A4J=B1b=A1A
+=A6=FD=ACO=A6b=A4=A4=B0=EA=ABH=B0U=B5=B2=B1b=A8t=B2=CE=A1A=A8=CF=A5=CE=AA=CC=
+=BDT=B9=EA=A6=B3=A8=EA=A5d=A6=A8=A5\=A1A
+=B3=C2=B7=D0=B1z=A6A=C0=B0=A6=A3=BDT=BB{=A4J=B1b=B1H=B0e=A5I=B6O=C3=D2=A9=FA=
+=B3q=AA=BE=A1A
+=C1=C2=C1=C2=A1C
+
+1.=20
+M2k=20Payment
+M04126153331278soso0814@mail2000.com.twa125471328500MB
+(1=20year)399
+=BDu=A4W=A8=EA=A5d2015-09-060000-00-00=A5=BC=A4J=B1b=AD=D7=A7=EF=20=20
+
+
+=A4=A4=B0=EA=ABH=B0U
+=B6=B5=A6=B8=ADq=B3=E6=BDs=B8=B9=A5=E6=A9=F6=AE=C9=B6=A1=A7=E5=A6=B8=B8=B9=BD=
+X=ADq=B3=E6=AA=AC=BAA=B8=D3=B5=A7=A5=E6=A9=F6=AA=AC=BAAECI/UCAF=ADq=B3=E6=AA=
+=F7=C3B=B1=C2=C5v=AA=F7=C3B
+1M0412615333127816:12:39=2009/06/2015N/A=B1=C2=C5v=A6=A8=A5\=A1F=B1=C2=C5v=BD=
+X=20058033=A1F=BD=D0=B4=DA=B4=C1=AD=AD2015/10/01=B1=C2=C5v=A6=A8=A5\=A1F=B1=C2=
+=C5v=BDX=20058033=A1F=BD=D0=B4=DA=B4=C1=AD=AD2015/10/012399399
+
+
+
+2.
+M2k=20Payment
+M04126152708619soso0815@mail2000.com.twA125471328500MB
+(1=20year)399
+=BDu=A4W=A8=EA=A5d2015-09-060000-00-00=A5=BC=A4J=B1b=AD=D7=A7=EF=20=20
+
+
+=A4=A4=B0=EA=ABH=B0U
+1M0412615270861916:24:56=2009/06/2015N/A=B1=C2=C5v=A6=A8=A5\=A1F=B1=C2=C5v=BD=
+X=20066642=A1F=BD=D0=B4=DA=B4=C1=AD=AD2015/10/01=B1=C2=C5v=A6=A8=A5\=A1F=B1=C2=
+=C5v=BDX=20066642=A1F=BD=D0=B4=DA=B4=C12015/10/012399399
+
+
+
+
+
+Jasmine
+
+
+=C1=C2=C1=C2=B1z=B9=EF=20Mail2000=20=AA=BA=B7R=A5=CE=A1C
+=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6A=A6=B8=AC=A2=B8=DF=A1C
+---------------------------------------------------------------------------
+Mail2000=20=B7s=A5\=AF=E0=A4W=BDu=A1=D0=AA=FE=C0=C9=BB=B4=C3P=A6s=A8=EC=20Se=
+cuShare=20=A4=C0=A8=C9=B6=B3
+
+Keep=20Everything=20=B3=C6=A5=F7=B6=B3
+=B4=BF=B8g=A6=B3=B3=C6=A5=F7=B9q=B8=A3=AA=BA=A9=C0=C0Y=A1A=ABo=A4=A3=AA=BE=B8=
+=D3=A6p=A6=F3=B5=DB=A4=E2=A1H
+=B4=BF=B8g=A6]=AC=B0=A4@=AAM=A9@=B0=D8=C5x=A4F=A1A=C5=FD=A7A=AA=BA=B5=A7=B9q=
+=A4@=BA=CE=A4=A3=B0_=A1H
+=BA=F4=C0=BA=B1=C0=A5X=A7K=B6O=AD=D3=A4H=B9q=B8=A3=B3=C6=A5=F7=AAA=B0=C8=20K=
+eep=20Everything=20=B3=C6=A5=F7=B6=B3
+----------------------------------------------------------------------------=
+
+Mail2000=20=AB=C8=AAA=A4=A4=A4=DF=20=B7q=A4W
+
+Mail2000=20=AB=C8=AAA=A4=A4=A4=DF
+=AB=C8=AAA=B1M=BDu=A1G02-2553-7272
+=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956
+=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw
+Mail2000=B9q=A4l=ABH=BDc=20http://mail2000.com.tw/
+=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8=20http://www.mailcloud.com.tw=20=
+
+=BA=F4=C0=BA=20Openfind=20=A5=F8=B7~=BA=F4=AF=B8=20http://www.openfind.com/t=
+aiwan
+
+
+-----Forwarded=20message-----
+From:tank<soso0811@mail2000.com.tw>
+To:m2k_adm<m2k_adm@mail2000.com.tw>
+Date:=20Sun,=2006=20Sep=202015=2016:27:34
+Subject:=20=ABH=BDc=A4=A3=AF=E0=B5n=A4J
+=B1z=A6n~=A7=DA=A9=F3=AD=E8=AD=E8=A5=D3=BD=D0=A4F=A8=E2=AD=D3=ABH=BDc
+=B1b=B8=B9soso0814@mail2000.com.tw,soso0815@mail2000.com.tw
+=A8=EA=A5d=A6=A8=A5\=A1A=A6=FD=B5L=AAk=B5n=A4J=ABH=BDc=A1A=B7=D0=BD=D0=A8=F3=
+=A7U=A1A=C1=C2=C1=C2=A1C
+
+
+-----5I1,M=SaKBk/9iAL3FYV3AbKgxI
+Content-Type: text/html; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>=B1z=A6n=A1A</div><div><br></div><div>=B1b=B8=B9=A1Gsoso0814@mail2000.c=
+om.tw=A1Bsoso0815@mail2000.com.tw<br><br><br><br>=B0=DD=C3D=A1G<br>=A8=CF=A5=
+=CE=AA=CC=A4=CF=C0=B3=A4w=B8g=A8=EA=A5d=A6=A8=A5\=B5L=AAk=B5n=A4J=ABH=BDc=A1=
+A<br>=A7=DA=A6bm2k=20payment=20=BDT=BB{=ADq=B3=E6=AA=AC=BAA=A5=BC=A4J=B1b=A1=
+A<br>=A6=FD=ACO=A6b=A4=A4=B0=EA=ABH=B0U=B5=B2=B1b=A8t=B2=CE=A1A=A8=CF=A5=CE=AA=
+=CC=BDT=B9=EA=A6=B3=A8=EA=A5d=A6=A8=A5\=A1A<br>=B3=C2=B7=D0=B1z=A6A=C0=B0=A6=
+=A3=BDT=BB{=A4J=B1b=B1H=B0e=A5I=B6O=C3=D2=A9=FA=B3q=AA=BE=A1A<br>=C1=C2=C1=C2=
+=A1C<br><br>1.=20<br>M2k=20Payment<br><table=20style=3D"font-family:=20'Time=
+s=20New=20Roman';=20letter-spacing:=20normal;=20orphans:=20auto;=20text-inde=
+nt:=200px;=20text-transform:=20none;=20widows:=201;=20word-spacing:=200px;=20=
+-webkit-text-stroke-width:=200px;=20font-size:=2010pt;"=20border=3D"1"=20wid=
+th=3D"500"><tbody><tr><td=20nowrap=3D""><a>M04126153331278</a></td><td=20now=
+rap=3D""><a>soso0814@mail2000.com.tw</a></td><td=20nowrap=3D"">a125471328</t=
+d><td><font=20color=3D"black">500MB<br>(1=20year)</font></td><td=20nowrap=3D=
+"">399</td><td=20nowrap=3D""><br></td><td=20nowrap=3D"">=BDu=A4W=A8=EA=A5d</=
+td><td=20nowrap=3D"">2015-09-06</td><td=20nowrap=3D""><font=20color=3D"blue"=
+>0000-00-00</font></td><td=20nowrap=3D"">=A5=BC=A4J=B1b</td><td=20nowrap=3D"=
+"><input=20name=3D"accounting"=20value=3D"=A4J=B1b"=20type=3D"button"></td><=
+td=20nowrap=3D""><a=20href=3D"https://payment.mail2000.com.tw/m2k/adm/record=
+_update.pl?db=3Dm2k&amp;action=3Dshow&amp;trans_no=3DM04126153331278">=AD=D7=
+=A7=EF</a></td><td=20width=3D"15%">&nbsp;&nbsp;</td></tr></tbody></table><br=
+><br>=A4=A4=B0=EA=ABH=B0U<br><table=20class=3D"formTable"=20style=3D"font-fa=
+mily:=20=B2=D3=A9=FA=C5=E9;=20letter-spacing:=20normal;=20orphans:=20auto;=20=
+text-indent:=200px;=20text-transform:=20none;=20widows:=201;=20word-spacing:=
+=200px;=20-webkit-text-stroke-width:=200px;=20background-color:=20rgb(153,=20=
+153,=20153);"=20bgcolor=3D"#999999"=20border=3D"0"=20cellpadding=3D"3"=20cel=
+lspacing=3D"1"=20width=3D"100%"><thead><tr=20class=3D"t10-blue"=20style=3D"f=
+ont-family:=20Arial,=20Helvetica,=20sans-serif,=20=B7s=B2=D3=A9=FA=C5=E9;=20=
+font-size:=2010pt;=20color:=20rgb(0,=2051,=20102);=20font-weight:=20bold;"><=
+th=20class=3D"formHeading"=20style=3D"font-family:=20Arial,=20Helvetica,=20s=
+ans-serif,=20=B7s=B2=D3=A9=FA=C5=E9;=20font-size:=2010pt;=20color:=20rgb(0,=20=
+0,=200);=20background-color:=20rgb(174,=20220,=20255);">=B6=B5=A6=B8</th><th=
+=20class=3D"formHeading"=20style=3D"font-family:=20Arial,=20Helvetica,=20san=
+s-serif,=20=B7s=B2=D3=A9=FA=C5=E9;=20font-size:=2010pt;=20color:=20rgb(0,=20=
+0,=200);=20background-color:=20rgb(174,=20220,=20255);">=ADq=B3=E6=BDs=B8=B9=
+</th><th=20class=3D"formHeading"=20style=3D"font-family:=20Arial,=20Helvetic=
+a,=20sans-serif,=20=B7s=B2=D3=A9=FA=C5=E9;=20font-size:=2010pt;=20color:=20r=
+gb(0,=200,=200);=20background-color:=20rgb(174,=20220,=20255);">=A5=E6=A9=F6=
+=AE=C9=B6=A1</th><th=20class=3D"formHeading"=20style=3D"font-family:=20Arial=
+,=20Helvetica,=20sans-serif,=20=B7s=B2=D3=A9=FA=C5=E9;=20font-size:=2010pt;=20=
+color:=20rgb(0,=200,=200);=20background-color:=20rgb(174,=20220,=20255);">=A7=
+=E5=A6=B8=B8=B9=BDX</th><th=20class=3D"formHeading"=20style=3D"font-family:=20=
+Arial,=20Helvetica,=20sans-serif,=20=B7s=B2=D3=A9=FA=C5=E9;=20font-size:=201=
+0pt;=20color:=20rgb(0,=200,=200);=20background-color:=20rgb(174,=20220,=2025=
+5);">=ADq=B3=E6=AA=AC=BAA</th><th=20class=3D"formHeading"=20style=3D"font-fa=
+mily:=20Arial,=20Helvetica,=20sans-serif,=20=B7s=B2=D3=A9=FA=C5=E9;=20font-s=
+ize:=2010pt;=20color:=20rgb(0,=200,=200);=20background-color:=20rgb(174,=202=
+20,=20255);">=B8=D3=B5=A7=A5=E6=A9=F6=AA=AC=BAA</th><th=20class=3D"formHeadi=
+ng"=20style=3D"font-family:=20Arial,=20Helvetica,=20sans-serif,=20=B7s=B2=D3=
+=A9=FA=C5=E9;=20font-size:=2010pt;=20color:=20rgb(0,=200,=200);=20background=
+-color:=20rgb(174,=20220,=20255);">ECI/UCAF</th><th=20class=3D"formHeading"=20=
+style=3D"font-family:=20Arial,=20Helvetica,=20sans-serif,=20=B7s=B2=D3=A9=FA=
+=C5=E9;=20font-size:=2010pt;=20color:=20rgb(0,=200,=200);=20background-color=
+:=20rgb(174,=20220,=20255);">=ADq=B3=E6=AA=F7=C3B</th><th=20class=3D"formHea=
+ding"=20style=3D"font-family:=20Arial,=20Helvetica,=20sans-serif,=20=B7s=B2=D3=
+=A9=FA=C5=E9;=20font-size:=2010pt;=20color:=20rgb(0,=200,=200);=20background=
+-color:=20rgb(174,=20220,=20255);">=B1=C2=C5v=AA=F7=C3B</th></tr></thead><tb=
+ody><tr><td=20class=3D"formContent"=20style=3D"font-family:=20Arial,=20Helve=
+tica,=20sans-serif,=20=B7s=B2=D3=A9=FA=C5=E9;=20font-size:=2010pt;=20color:=20=
+rgb(0,=200,=200);=20background-color:=20rgb(255,=20255,=20255);"=20align=3D"=
+center"=20bgcolor=3D"#ffffff"=20width=3D"3%">1</td><td=20class=3D"formConten=
+t"=20style=3D"font-family:=20Arial,=20Helvetica,=20sans-serif,=20=B7s=B2=D3=A9=
+=FA=C5=E9;=20font-size:=2010pt;=20color:=20rgb(0,=200,=200);=20background-co=
+lor:=20rgb(255,=20255,=20255);"=20align=3D"left"=20bgcolor=3D"#ffffff"=20wid=
+th=3D"10%"><a=20href=3D"https://epos.chinatrust.com.tw/list_detail.jsp?self=3D=
+xx&amp;I_Xid=3D77F5EB5501686886260_M04126153331278">M04126153331278</a></td>=
+<td=20class=3D"formContent"=20style=3D"font-family:=20Arial,=20Helvetica,=20=
+sans-serif,=20=B7s=B2=D3=A9=FA=C5=E9;=20font-size:=2010pt;=20color:=20rgb(0,=
+=200,=200);=20background-color:=20rgb(255,=20255,=20255);"=20align=3D"left"=20=
+bgcolor=3D"#ffffff"=20width=3D"10%">16:12:39=2009/06/2015</td><td=20class=3D=
+"formContent"=20style=3D"font-family:=20Arial,=20Helvetica,=20sans-serif,=20=
+=B7s=B2=D3=A9=FA=C5=E9;=20font-size:=2010pt;=20color:=20rgb(0,=200,=200);=20=
+background-color:=20rgb(255,=20255,=20255);"=20align=3D"center"=20bgcolor=3D=
+"#ffffff"=20width=3D"5%">N/A</td><td=20class=3D"formContent"=20style=3D"font=
+-family:=20Arial,=20Helvetica,=20sans-serif,=20=B7s=B2=D3=A9=FA=C5=E9;=20fon=
+t-size:=2010pt;=20color:=20rgb(0,=200,=200);=20background-color:=20rgb(255,=20=
+255,=20255);"=20align=3D"left"=20bgcolor=3D"#ffffff"=20width=3D"13%">=B1=C2=C5=
+v=A6=A8=A5\=A1F=B1=C2=C5v=BDX=20058033=A1F=BD=D0=B4=DA=B4=C1=AD=AD2015/10/01=
+</td><td=20class=3D"formContent"=20style=3D"font-family:=20Arial,=20Helvetic=
+a,=20sans-serif,=20=B7s=B2=D3=A9=FA=C5=E9;=20font-size:=2010pt;=20color:=20r=
+gb(0,=200,=200);=20background-color:=20rgb(255,=20255,=20255);"=20align=3D"l=
+eft"=20bgcolor=3D"#ffffff"=20width=3D"13%">=B1=C2=C5v=A6=A8=A5\=A1F=B1=C2=C5=
+v=BDX=20058033=A1F=BD=D0=B4=DA=B4=C1=AD=AD2015/10/01</td><td=20class=3D"form=
+Content"=20style=3D"font-family:=20Arial,=20Helvetica,=20sans-serif,=20=B7s=B2=
+=D3=A9=FA=C5=E9;=20font-size:=2010pt;=20color:=20rgb(0,=200,=200);=20backgro=
+und-color:=20rgb(255,=20255,=20255);"=20align=3D"center"=20bgcolor=3D"#fffff=
+f"=20width=3D"4%">2</td><td=20class=3D"formContent"=20style=3D"font-family:=20=
+Arial,=20Helvetica,=20sans-serif,=20=B7s=B2=D3=A9=FA=C5=E9;=20font-size:=201=
+0pt;=20color:=20rgb(0,=200,=200);=20background-color:=20rgb(255,=20255,=2025=
+5);"=20align=3D"right"=20bgcolor=3D"#ffffff"=20width=3D"5%">399</td><td=20cl=
+ass=3D"formContent"=20style=3D"font-family:=20Arial,=20Helvetica,=20sans-ser=
+if,=20=B7s=B2=D3=A9=FA=C5=E9;=20font-size:=2010pt;=20color:=20rgb(0,=200,=20=
+0);=20background-color:=20rgb(255,=20255,=20255);"=20align=3D"right"=20bgcol=
+or=3D"#ffffff"=20width=3D"5%">399</td></tr></tbody></table><br></div><div><b=
+r>2.<br>M2k=20Payment<br><table=20style=3D"font-family:=20'Times=20New=20Rom=
+an';=20letter-spacing:=20normal;=20orphans:=20auto;=20text-indent:=200px;=20=
+text-transform:=20none;=20widows:=201;=20word-spacing:=200px;=20-webkit-text=
+-stroke-width:=200px;=20font-size:=2010pt;"=20border=3D"1"=20width=3D"500"><=
+tbody><tr><td=20nowrap=3D""><a>M04126152708619</a></td><td=20nowrap=3D""><a>=
+soso0815@mail2000.com.tw</a></td><td=20nowrap=3D"">A125471328</td><td><font=20=
+color=3D"black">500MB<br>(1=20year)</font></td><td=20nowrap=3D"">399</td><td=
+=20nowrap=3D""><br></td><td=20nowrap=3D"">=BDu=A4W=A8=EA=A5d</td><td=20nowra=
+p=3D"">2015-09-06</td><td=20nowrap=3D""><font=20color=3D"blue">0000-00-00</f=
+ont></td><td=20nowrap=3D"">=A5=BC=A4J=B1b</td><td=20nowrap=3D""><input=20nam=
+e=3D"accounting"=20value=3D"=A4J=B1b"=20type=3D"button"></td><td=20nowrap=3D=
+""><a=20href=3D"https://payment.mail2000.com.tw/m2k/adm/record_update.pl?db=3D=
+m2k&amp;action=3Dshow&amp;trans_no=3DM04126152708619">=AD=D7=A7=EF</a></td><=
+td=20width=3D"15%">&nbsp;&nbsp;</td></tr></tbody></table><br><br>=A4=A4=B0=EA=
+=ABH=B0U<br><table=20class=3D"formTable"=20style=3D"font-family:=20=B2=D3=A9=
+=FA=C5=E9;=20letter-spacing:=20normal;=20orphans:=20auto;=20text-indent:=200=
+px;=20text-transform:=20none;=20widows:=201;=20word-spacing:=200px;=20-webki=
+t-text-stroke-width:=200px;=20background-color:=20rgb(153,=20153,=20153);"=20=
+bgcolor=3D"#999999"=20border=3D"0"=20cellpadding=3D"3"=20cellspacing=3D"1"=20=
+width=3D"100%"><tbody><tr><td=20class=3D"formContent"=20style=3D"font-family=
+:=20Arial,=20Helvetica,=20sans-serif,=20=B7s=B2=D3=A9=FA=C5=E9;=20font-size:=
+=2010pt;=20color:=20rgb(0,=200,=200);=20background-color:=20rgb(255,=20255,=20=
+255);"=20align=3D"center"=20bgcolor=3D"#ffffff"=20width=3D"3%">1</td><td=20c=
+lass=3D"formContent"=20style=3D"font-family:=20Arial,=20Helvetica,=20sans-se=
+rif,=20=B7s=B2=D3=A9=FA=C5=E9;=20font-size:=2010pt;=20color:=20rgb(0,=200,=20=
+0);=20background-color:=20rgb(255,=20255,=20255);"=20align=3D"left"=20bgcolo=
+r=3D"#ffffff"=20width=3D"10%"><a=20href=3D"https://epos.chinatrust.com.tw/li=
+st_detail.jsp?self=3Dxx&amp;I_Xid=3D58F8EB5501687226812_M04126152708619">M04=
+126152708619</a></td><td=20class=3D"formContent"=20style=3D"font-family:=20A=
+rial,=20Helvetica,=20sans-serif,=20=B7s=B2=D3=A9=FA=C5=E9;=20font-size:=2010=
+pt;=20color:=20rgb(0,=200,=200);=20background-color:=20rgb(255,=20255,=20255=
+);"=20align=3D"left"=20bgcolor=3D"#ffffff"=20width=3D"10%">16:24:56=2009/06/=
+2015</td><td=20class=3D"formContent"=20style=3D"font-family:=20Arial,=20Helv=
+etica,=20sans-serif,=20=B7s=B2=D3=A9=FA=C5=E9;=20font-size:=2010pt;=20color:=
+=20rgb(0,=200,=200);=20background-color:=20rgb(255,=20255,=20255);"=20align=3D=
+"center"=20bgcolor=3D"#ffffff"=20width=3D"5%">N/A</td><td=20class=3D"formCon=
+tent"=20style=3D"font-family:=20Arial,=20Helvetica,=20sans-serif,=20=B7s=B2=D3=
+=A9=FA=C5=E9;=20font-size:=2010pt;=20color:=20rgb(0,=200,=200);=20background=
+-color:=20rgb(255,=20255,=20255);"=20align=3D"left"=20bgcolor=3D"#ffffff"=20=
+width=3D"13%">=B1=C2=C5v=A6=A8=A5\=A1F=B1=C2=C5v=BDX=20066642=A1F=BD=D0=B4=DA=
+=B4=C1=AD=AD2015/10/01</td><td=20class=3D"formContent"=20style=3D"font-famil=
+y:=20Arial,=20Helvetica,=20sans-serif,=20=B7s=B2=D3=A9=FA=C5=E9;=20font-size=
+:=2010pt;=20color:=20rgb(0,=200,=200);=20background-color:=20rgb(255,=20255,=
+=20255);"=20align=3D"left"=20bgcolor=3D"#ffffff"=20width=3D"13%">=B1=C2=C5v=A6=
+=A8=A5\=A1F=B1=C2=C5v=BDX=20066642=A1F=BD=D0=B4=DA=B4=C12015/10/01</td><td=20=
+class=3D"formContent"=20style=3D"font-family:=20Arial,=20Helvetica,=20sans-s=
+erif,=20=B7s=B2=D3=A9=FA=C5=E9;=20font-size:=2010pt;=20color:=20rgb(0,=200,=20=
+0);=20background-color:=20rgb(255,=20255,=20255);"=20align=3D"center"=20bgco=
+lor=3D"#ffffff"=20width=3D"4%">2</td><td=20class=3D"formContent"=20style=3D"=
+font-family:=20Arial,=20Helvetica,=20sans-serif,=20=B7s=B2=D3=A9=FA=C5=E9;=20=
+font-size:=2010pt;=20color:=20rgb(0,=200,=200);=20background-color:=20rgb(25=
+5,=20255,=20255);"=20align=3D"right"=20bgcolor=3D"#ffffff"=20width=3D"5%">39=
+9</td><td=20class=3D"formContent"=20style=3D"font-family:=20Arial,=20Helveti=
+ca,=20sans-serif,=20=B7s=B2=D3=A9=FA=C5=E9;=20font-size:=2010pt;=20color:=20=
+rgb(0,=200,=200);=20background-color:=20rgb(255,=20255,=20255);"=20align=3D"=
+right"=20bgcolor=3D"#ffffff"=20width=3D"5%">399</td></tr></tbody></table><br=
+></div><div><br><br><br>Jasmine<br></div><div><br></div><div>=C1=C2=C1=C2=B1=
+z=B9=EF=20Mail2000=20=AA=BA=B7R=A5=CE=A1C<br>
+=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6A=A6=B8=AC=A2=B8=DF=A1C</di=
+v>
+<div></div>
+<div>
+<div>-----------------------------------------------------------------------=
+----</div>
+<div><div><font=20color=3D"#ff0000"><b><font=20color=3D"#0000FF">Mail2000=20=
+=B7s=A5\=AF=E0=A4W=BDu=A1=D0=AA=FE=C0=C9=BB=B4=C3P=A6s=A8=EC=20<a=20href=3D"=
+http://doc.mail2000.com.tw/news/1405/AttachToSS.htm">SecuShare=20=A4=C0=A8=C9=
+=B6=B3</a></font><br><br>Keep=20Everything=20=B3=C6=A5=F7=B6=B3</b></font></=
+div><div>=B4=BF=B8g=A6=B3=B3=C6=A5=F7=B9q=B8=A3=AA=BA=A9=C0=C0Y=A1A=ABo=A4=A3=
+=AA=BE=B8=D3=A6p=A6=F3=B5=DB=A4=E2=A1H</div><div>=B4=BF=B8g=A6]=AC=B0=A4@=AA=
+M=A9@=B0=D8=C5x=A4F=A1A=C5=FD=A7A=AA=BA=B5=A7=B9q=A4@=BA=CE=A4=A3=B0_=A1H</d=
+iv><div>=BA=F4=C0=BA=B1=C0=A5X=A7K=B6O=AD=D3=A4H=B9q=B8=A3=B3=C6=A5=F7=AAA=B0=
+=C8=20<b><a=20href=3D"http://www.keepeverything.com">Keep=20Everything=20=B3=
+=C6=A5=F7=B6=B3</a></b></div></div>
+<div></div>
+<div>-----------------------------------------------------------------------=
+-----</div>
+<div></div>
+<div></div>
+<div>Mail2000=20=AB=C8=AAA=A4=A4=A4=DF=20=B7q=A4W</div>
+<div><br></div>
+<div>Mail2000=20=AB=C8=AAA=A4=A4=A4=DF</div>
+<div>=AB=C8=AAA=B1M=BDu=A1G02-2553-7272</div>
+<div>=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956</div>
+<div>=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw</div>
+<div>Mail2000=B9q=A4l=ABH=BDc=20<a=20href=3D"http://mail2000.com.tw/"=20targ=
+et=3D"_blank">http://mail2000.com.tw/</a></div>
+<div>=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8=20<a=20href=3D"http://www.=
+mailcloud.com.tw/"=20target=3D"_blank">http://www.mailcloud.com.tw</a>=20</d=
+iv>
+<div>=BA=F4=C0=BA=20Openfind=20=A5=F8=B7~=BA=F4=AF=B8=20<a=20href=3D"http://=
+www.openfind.com/taiwan"=20target=3D"_blank">http://www.openfind.com/taiwan<=
+/a></div>
+<div><br></div></div></div></div></div></div></div></div></div></div></div><=
+/div></div></div></div></div><br>
+-----Forwarded=20message-----<br>
+
+<b>From:</b>tank&lt;soso0811@mail2000.com.tw&gt;<br>
+<b>To:</b>m2k_adm&lt;m2k_adm@mail2000.com.tw&gt;<br>
+<b>Date:=20</b>=20Sun,=2006=20Sep=202015=2016:27:34<br>
+<b>Subject:</b>=20=ABH=BDc=A4=A3=AF=E0=B5n=A4J<br>
+<meta=20http-equiv=3D"Content-Type"=20content=3D"text/html;=20charset=3Dbig5=
+"><meta=20name=3D"Generator"=20content=3D"Microsoft=20Word=2012=20(filtered=20=
+medium)"><style><!--
+/*=20Font=20Definitions=20*/
+@font-face
+=09{font-family:=B7s=B2=D3=A9=FA=C5=E9;
+=09panose-1:2=202=205=200=200=200=200=200=200=200;}
+@font-face
+=09{font-family:"Cambria=20Math";
+=09panose-1:2=204=205=203=205=204=206=203=202=204;}
+@font-face
+=09{font-family:Calibri;
+=09panose-1:2=2015=205=202=202=202=204=203=202=204;}
+@font-face
+=09{font-family:"\@=B7s=B2=D3=A9=FA=C5=E9";
+=09panose-1:2=202=205=200=200=200=200=200=200=200;}
+/*=20Style=20Definitions=20*/
+p.MsoNormal,=20li.MsoNormal,=20div.MsoNormal
+=09{margin:0cm;
+=09margin-bottom:.0001pt;
+=09font-size:12.0pt;
+=09font-family:"Calibri","sans-serif";}
+a:link,=20span.MsoHyperlink
+=09{mso-style-priority:99;
+=09color:blue;
+=09text-decoration:underline;}
+a:visited,=20span.MsoHyperlinkFollowed
+=09{mso-style-priority:99;
+=09color:purple;
+=09text-decoration:underline;}
+span.EmailStyle17
+=09{mso-style-type:personal-compose;
+=09font-family:"Calibri","sans-serif";
+=09color:windowtext;}
+.MsoChpDefault
+=09{mso-style-type:export-only;}
+/*=20Page=20Definitions=20*/
+@page=20WordSection1
+=09{size:612.0pt=20792.0pt;
+=09margin:72.0pt=2090.0pt=2072.0pt=2090.0pt;}
+div.WordSection1
+=09{page:WordSection1;}
+--></style><!--[if=20gte=20mso=209]><xml>
+<o:shapedefaults=20v:ext=3D"edit"=20spidmax=3D"1026"=20/>
+</xml><![endif]--><!--[if=20gte=20mso=209]><xml>
+<o:shapelayout=20v:ext=3D"edit">
+<o:idmap=20v:ext=3D"edit"=20data=3D"1"=20/>
+</o:shapelayout></xml><![endif]--><x-body><div=20class=3D"WordSection1"><p=20=
+class=3D"MsoNormal"><span=20style=3D"font-family:&quot;=B7s=B2=D3=A9=FA=C5=E9=
+&quot;,&quot;serif&quot;">=B1z=A6n</span><span=20lang=3D"EN-US">~</span><spa=
+n=20style=3D"font-family:&quot;=B7s=B2=D3=A9=FA=C5=E9&quot;,&quot;serif&quot=
+;">=A7=DA=A9=F3=AD=E8=AD=E8=A5=D3=BD=D0=A4F=A8=E2=AD=D3=ABH=BDc</span><span=20=
+lang=3D"EN-US"><o:p></o:p></span></p><p=20class=3D"MsoNormal"><span=20lang=3D=
+"EN-US"><a=20href=3D"mailto:=B1b=B8=B9soso0814@mail2000.com.tw,soso0815@mail=
+2000.com.tw"><span=20style=3D"font-family:&quot;=B7s=B2=D3=A9=FA=C5=E9&quot;=
+,&quot;serif&quot;"=20lang=3D"EN-US"><span=20lang=3D"EN-US">=B1b=B8=B9</span=
+></span>soso0814@mail2000.com.tw,soso0815@mail2000.com.tw</a><o:p></o:p></sp=
+an></p><p=20class=3D"MsoNormal"><span=20style=3D"font-family:&quot;=B7s=B2=D3=
+=A9=FA=C5=E9&quot;,&quot;serif&quot;">=A8=EA=A5d=A6=A8=A5\=A1A=A6=FD=B5L=AAk=
+=B5n=A4J=ABH=BDc=A1A=B7=D0=BD=D0=A8=F3=A7U=A1A=C1=C2=C1=C2=A1C</span><span=20=
+lang=3D"EN-US"><o:p></o:p></span></p></div></x-body></html>
+-----5I1,M=SaKBk/9iAL3FYV3AbKgxI--

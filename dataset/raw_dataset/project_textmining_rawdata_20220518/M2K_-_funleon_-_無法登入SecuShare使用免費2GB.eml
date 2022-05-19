@@ -1,0 +1,204 @@
+X-M2K-MATCHED-RULE: SPAM_FILTER-InADB
+X-M2K-MATCHED-RESULT: Mail Header From In ADB/m2k_adm@mail2000.com.tw
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 220.130.127.159
+	by ms1.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(28400:0:AUTH_NONE)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Mon, 07 Aug 2017 16:30:31 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+X-M2K-MSG-ID: 799GOCPLAG50HDNG
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=mail2000.com.tw;
+	s=1404201787.mail2000; t=1502094631;
+	bh=vPbx1DNkmwUI3PoYZjJKBibI9Zo=;
+	h=Received:Return-Path:X-ADIFSPAM:X-ADIFSPAM-CT:Received:Received:
+	 Return-Path:X-M2KSPAM:Received:Return-Path:X-M2KPolicyIP:Received:
+	 Return-Path:Message-ID:From:To:Cc:Subject:Date:MIME-Version:
+	 Content-Type:X-Priority:X-MSMail-Priority:Importance:X-Mailer:
+	 X-MimeOLE;
+	b=pKfL5Ddr78V2L9NS/gVDwypyiz6dl1WwBxjqDngn3BVFYxfGft3Cdxw+Y6YRHKkEE
+	 z+GLmLVPwLJT/g/hkvtaLbt4g7tp7fyIrtNe/DUdLKd1T7MpNXRzjzi/PEB4vU0VLY
+	 qF7wKUS5bSY1YZWhHFBDHOpHqo3ZIvcbrqyDPyTI=
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(22147:0:AUTH_RELAY)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Mon, 07 Aug 2017 16:30:30 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+X-ADIFSPAM: NO/-6
+X-ADIFSPAM-CT: NO/-6
+Received: By OpenMail Mailer;Mon, 07 Aug 2017 16:30:30 +0800 (CST)
+Received: from 203.69.82.35
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(30574:0:AUTH_NONE)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Mon, 07 Aug 2017 16:30:29 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 203.69.82.82
+	by mx3.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(83240:1:AUTH_NONE)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Mon, 07 Aug 2017 16:30:27 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+X-M2KPolicyIP: 203.69.82.82 (l4.mailcloud.com.tw)
+Received: from 172.16.14.51
+	by www1.mail2000.com.tw with Mail2000 ESMTP Server V4.50M(84306:0:AUTH_LOGIN)
+	(envelope-from <m2k_adm@mail2000.com.tw>); Mon, 07 Aug 2017 16:30:24 +0800 (CST)
+Return-Path: <m2k_adm@mail2000.com.tw>
+Message-ID: <2723F956DF544D27826E934CF03C5DFA@tp.office.openfind.com.tw>
+From: =?big5?B?TWFpbDIwMDAgq8iqQaSkpN8=?= <m2k_adm@mail2000.com.tw>
+To: "cloud_se" <cloud_se@openfind.com.tw>
+Cc: <m2k_service@mail2000.com.tw>
+Subject: =?big5?B?TTJLIC0gZnVubGVvbiAtILVMqmu1bqRKU2VjdVNoYXJlqM+lzqdLtk8yR0I=?=
+Date: Mon, 7 Aug 2017 16:28:53 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0509_01D30F9A.422186B0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 16.4.3528.331
+X-MimeOLE: Produced By Microsoft MimeOLE V16.4.3528.331
+
+這是 MIME 格式的 Multipart 郵件。
+
+------=_NextPart_000_0509_01D30F9A.422186B0
+Content-Type: text/plain;
+	charset="big5"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+=B1z=A6n=A1A
+
+funleon@mail2000.com.tw
+
+=B0=DD=C3D=A1G
+=A5=CE=A4=E1=B5L=AAk=B5n=A4J=A7K=B6O 2G =AA=BA SS=A1A
+=BF=F9=BB~=B0T=AE=A7=ACO user error or not exists=A1C
+
+=BD=D0=A8=F3=A7U=BDT=BB{=A1A=B7P=C1=C2=A1C
+
+Kate
+
+
+=C1=C2=C1=C2=B1z=B9=EF Mail2000 =AA=BA=B7R=A5=CE=A1C
+=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6A=A6=B8=AC=A2=B8=DF=A1C
+
+
+Mail2000 =AB=C8=AAA=A4=A4=A4=DF =B7q=A4W
+-----------------------------------------------------------------------
+Mail2000 =AB=C8=AAA=A4=A4=A4=DF
+=AB=C8=AAA=B1M=BDu=A1G02-2553-7272
+=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956
+=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com.tw
+Mail2000=B9q=A4l=ABH=BDc http://mail2000.com.tw/
+=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8 http://www.mailcloud.com.tw =
+
+=BA=F4=C0=BA Openfind =A5=F8=B7~=BA=F4=AF=B8 =
+http://www.openfind.com/taiwan
+-----------------------------------------------------------------------
+
+From: =A5=DB=B7=E7=BCy=20
+Sent: Monday, August 07, 2017 3:49 PM
+To: m2k_adm=20
+Subject: =B5L=AAk=B5n=A4JSecuShare=A8=CF=A5=CE=A7K=B6O2GB
+
+=B1z=A6n=A1A=20
+
+=A6p=A5D=A6=AE=A1A=A7=DA=AA=BA=B1b=B8=B9=ACOfunleon@mail2000.com.tw
+=BF=F9=BB~=B0T=AE=A7=AC=B0"user error or not exists"
+
+=A5H=A4W=A1A=C1=C2=C1=C2=A1I
+
+
+
+
+
+=A5=DB=B7=E7=BCy  Leon
+0935-331361
+------=_NextPart_000_0509_01D30F9A.422186B0
+Content-Type: text/html;
+	charset="big5"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: =
+'=B7L=B3n=A5=BF=B6=C2=C5=E9'; COLOR: #000000">
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: =
+'=B7L=B3n=A5=BF=B6=C2=C5=E9'; COLOR: #000000">=B1z=A6n=A1A<BR><BR><A=20
+href=3D"mailto:funleon@mail2000.com.tw">funleon@mail2000.com.tw</A></DIV>=
+
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: =
+'=B7L=B3n=A5=BF=B6=C2=C5=E9'; COLOR: #000000">&nbsp;</DIV>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: =
+'=B7L=B3n=A5=BF=B6=C2=C5=E9'; COLOR: #000000">=B0=DD=C3D=A1G</DIV>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: =
+'=B7L=B3n=A5=BF=B6=C2=C5=E9'; COLOR: =
+#000000">=A5=CE=A4=E1=B5L=AAk=B5n=A4J=A7K=B6O 2G =AA=BA=20
+SS=A1A</DIV>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: =
+'=B7L=B3n=A5=BF=B6=C2=C5=E9'; COLOR: #000000">=BF=F9=BB~=B0T=AE=A7=ACO =
+user=20
+error or not exists=A1C</DIV>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: =
+'=B7L=B3n=A5=BF=B6=C2=C5=E9'; COLOR: #000000">&nbsp;</DIV>
+<DIV=20
+style=3D"FONT-SIZE: 12pt; FONT-FAMILY: '=B7L=B3n=A5=BF=B6=C2=C5=E9'; =
+COLOR: #000000">=BD=D0=A8=F3=A7U=BDT=BB{=A1A=B7P=C1=C2=A1C</DIV>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: =
+'=B7L=B3n=A5=BF=B6=C2=C5=E9'; COLOR: #000000">&nbsp;</DIV>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: =
+'=B7L=B3n=A5=BF=B6=C2=C5=E9'; COLOR: #000000">Kate</DIV>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: =
+'=B7L=B3n=A5=BF=B6=C2=C5=E9'; COLOR: #000000">&nbsp;</DIV>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: =
+'=B7L=B3n=A5=BF=B6=C2=C5=E9'; COLOR: #000000"><BR>=C1=C2=C1=C2=B1z=B9=EF =
+
+Mail2000 =
+=AA=BA=B7R=A5=CE=A1C<BR>=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6=
+A=A6=B8=AC=A2=B8=DF=A1C<BR><BR><BR>Mail2000 =AB=C8=AAA=A4=A4=A4=DF=20
+=B7q=A4W<BR>-------------------------------------------------------------=
+----------<BR>Mail2000=20
+=AB=C8=AAA=A4=A4=A4=DF<BR>=AB=C8=AAA=B1M=BDu=A1G02-2553-7272<BR>=AB=C8=AA=
+A=B6=C7=AFu=A1G02-2553-5956<BR>=AB=C8=AAA=ABH=BDc=A1Gm2k_adm@mail2000.com=
+.tw<BR>Mail2000=B9q=A4l=ABH=BDc=20
+http://mail2000.com.tw/<BR>=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8 =
+http://www.mailcloud.com.tw <BR>=BA=F4=C0=BA Openfind=20
+=A5=F8=B7~=BA=F4=AF=B8=20
+http://www.openfind.com/taiwan<BR>---------------------------------------=
+--------------------------------</DIV>
+<DIV=20
+style=3D'FONT-SIZE: small; TEXT-DECORATION: none; FONT-FAMILY: =
+"Calibri"; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+DISPLAY: inline'>
+<DIV style=3D"FONT: 10pt tahoma">
+<DIV>&nbsp;</DIV>
+<DIV style=3D"BACKGROUND: #f5f5f5">
+<DIV style=3D"font-color: black"><B>From:</B> <A =
+title=3Dfunleon@mail2000.com.tw=20
+href=3D"mailto:funleon@mail2000.com.tw">=A5=DB=B7=E7=BCy</A> </DIV>
+<DIV><B>Sent:</B> Monday, August 07, 2017 3:49 PM</DIV>
+<DIV><B>To:</B> <A title=3Dm2k_adm@mail2000.com.tw=20
+href=3D"mailto:m2k_adm@mail2000.com.tw">m2k_adm</A> </DIV>
+<DIV><B>Subject:</B> =
+=B5L=AAk=B5n=A4JSecuShare=A8=CF=A5=CE=A7K=B6O2GB</DIV></DIV></DIV>
+<DIV>&nbsp;</DIV></DIV>
+<DIV=20
+style=3D'FONT-SIZE: small; TEXT-DECORATION: none; FONT-FAMILY: =
+"Calibri"; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+DISPLAY: inline'>=B1z=A6n=A1A=20
+
+<DIV>&nbsp;</DIV>
+<DIV>=A6p=A5D=A6=AE=A1A=A7=DA=AA=BA=B1b=B8=B9=ACOfunleon@mail2000.com.tw<=
+/DIV>
+<DIV>=BF=F9=BB~=B0T=AE=A7=AC=B0"user error or not exists"</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=A5H=A4W=A1A=C1=C2=C1=C2=A1I</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV><BR><BR>=A5=DB=B7=E7=BCy&nbsp;=20
+Leon<BR>0935-331361</DIV></DIV></DIV></BODY></HTML>
+
+------=_NextPart_000_0509_01D30F9A.422186B0--
+

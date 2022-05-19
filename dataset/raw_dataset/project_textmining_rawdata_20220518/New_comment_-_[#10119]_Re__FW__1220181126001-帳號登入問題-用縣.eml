@@ -1,0 +1,1057 @@
+X-M2K-MATCHED-RULE: USER_FILTER
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 3.3.3.3
+	by ms1.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(17802:0:AUTH_NONE)
+	(envelope-from <bounces+4491982-d9bd-edu=openfind.com.tw@fddkim.openfind.com.tw>); Tue, 27 Nov 2018 14:24:45 +0800 (CST)
+Return-Path: <bounces+4491982-d9bd-edu=openfind.com.tw@fddkim.openfind.com.tw>
+X-M2K-MSG-ID: DPOPVD7UU529M4VO
+X-M2K-DINF: v=1;em=2;eh=1c343546/3CMo4R;ec=178de5d2;m=NeEQeIpvMSBqatgyYvb9L2o6
+   jfO0RCZkViaUS56GDB/P4p1pjdKq6NhpQmiWywsPdUen/Pt9Yn3qWAySTRYkuSUJXIjxNbDmzEKl
+   gmFXZe4D1aCJh0QhNJSUAaNbAZNZ6EtiHCoHE751+Fb7IKeKOOGA+qWU8mTt9Q/0wJQcZ7Xit1hj
+   fSNlZLfSKb2ceTgWsxcFh8LNPC5+Zvo2A4wOmA8r67JLJjresi3lo2Q0RJ4=
+X-MailGates: (RBL:2,PASS,0.000000e+00)(SPF:2,PASS,softfail)(BATV:2,PASS,
+	sender not empty)(DKIM:2,PASS,Success(0))(DMARC:2,PASS,Policy Success(15
+	))(flag:1,RELAY:PASS)(IPF:2,PASS)(FROMBW:2,PASS)(FROMBW:2,PASS)(FROMBW:2
+	,PASS)(FROMBW:2,PASS)(FROMBW:2,PASS)(FROMBW:2,PASS)(ipmatch:pattern.iptr
+	ust.system,,HAM,3.3.3.3,0)
+Received: from 220.130.127.157
+	by mxs.mailcloud.com.tw with MailAudit ESMTP Server V5.0(5189:0:AUTH_NONE)
+	(envelope-from <bounces+4491982-d9bd-edu=openfind.com.tw@fddkim.openfind.com.tw>); Tue, 27 Nov 2018 14:24:44 +0800 (CST)
+Return-Path: <bounces+4491982-d9bd-edu=openfind.com.tw@fddkim.openfind.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(1816:0:AUTH_RELAY)
+	(envelope-from <bounces+4491982-d9bd-edu=openfind.com.tw@fddkim.openfind.com.tw>); Tue, 27 Nov 2018 14:24:31 +0800 (CST)
+Return-Path: <bounces+4491982-d9bd-edu=openfind.com.tw@fddkim.openfind.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: By OpenMail Mailer;Tue, 27 Nov 2018 14:24:22 +0800 (CST)
+Received: from 203.69.82.35
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(11021:0:AUTH_NONE)
+	(envelope-from <bounces+4491982-d9bd-edu=openfind.com.tw@fddkim.openfind.com.tw>); Tue, 27 Nov 2018 14:24:13 +0800 (CST)
+Return-Path: <bounces+4491982-d9bd-edu=openfind.com.tw@fddkim.openfind.com.tw>
+X-M2KSPAM: NO/0
+Received: from 10.0.1.7
+	by mx3.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(1153:0:AUTH_NONE)
+	(envelope-from <bounces+4491982-d9bd-edu=openfind.com.tw@fddkim.openfind.com.tw>); Tue, 27 Nov 2018 14:24:04 +0800 (CST)
+Return-Path: <bounces+4491982-d9bd-edu=openfind.com.tw@fddkim.openfind.com.tw>
+X-M2KPolicyIP: 10.0.1.7 (#NOT FOUND)
+Received: from spamfilter2.mailcloud.com.tw (localhost [127.0.0.1])
+	by spamfilter2.mailcloud.com.tw (Postfix) with ESMTP id 3DCBC540A81
+	for <m2k_service@mail2000.com.tw>; Tue, 27 Nov 2018 14:24:04 +0800 (CST)
+Received: from l4.mailcloud.com.tw (mta.mailcloud.com.tw [10.0.0.4])
+	by spamfilter2.mailcloud.com.tw (Postfix) with ESMTP
+	for <m2k_service@mail2000.com.tw>; Tue, 27 Nov 2018 14:24:04 +0800 (CST)
+X-M2K-DINF: v=1;em=2;eh=1c343546/Phif8q;ec=be27eaa3;m=0ApCryWS//tcnLWhjyg5pXyr
+   8up0AkMraZaKPnB6oIp8JcmiU/nGkOqkf/ShMvVzAWaRNOcmYxbsCfcmbBlBw1trdWN/wf/oJME6
+   BWPmif6isMWJyw0bJ0TfZ9ejuFjCLk4MSpMW7KBTxzXF9AdHoUetean4fwd3ypzvOPsH8vQY1L/b
+   BR0foNwru4lf3r2T3/DPsNlmrE21RVH4kDeGx+V7e3KoiSwynPzB1GaQ7d4=
+X-MailGates: (DK:2,PASS,no signature)(DKIM:2,PASS,Success(0))(flag:3,DYN
+	AMIC,RELAY,NOHOST:PASS)(IPF:0,HAM,3.3.3.3)(FROMBW:2,PASS)(FROMBW:2,PASS)
+	(ipmatch:pattern.iptrust.system,,HAM,3.3.3.3,0)
+Received: from 3.3.3.3
+	by mta.mailcloud.com.tw with MailAudit ESMTP Server V5.0(31733:1:AUTH_NONE)
+	(envelope-from <bounces+4491982-d9bd-edu=openfind.com.tw@fddkim.openfind.com.tw>); Tue, 27 Nov 2018 14:24:03 +0800 (CST)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)
+Received: from 172.16.0.95
+	by mg1.office.openfind.com.tw with MailGates ESMTP Server V5.0(10787:0:AUTH_RELAY)
+	(envelope-from <bounces+4491982-d9bd-edu=openfind.com.tw@fddkim.openfind.com.tw>); Tue, 27 Nov 2018 14:24:03 +0800 (CST)
+Received: By OpenMail Mailer;Tue, 27 Nov 2018 14:23:51 +0800 (CST)
+Received: from 10.0.1.116
+	by mail2.office.openfind.com.tw with Mail2000 ESMTP Server V7.00(29170:0:AUTH_RELAY)
+	(envelope-from <bounces+4491982-d9bd-edu=openfind.com.tw@fddkim.openfind.com.tw>); Tue, 27 Nov 2018 14:23:51 +0800 (CST)
+X-M2K-MSG-ID: 5BFCE2F75FF21024
+X-M2K-DINF: v=1;em=2;eh=45c0a1e9/05HzYN;ec=7f19a17b;m=HPC0VAWCpZx1hc/nNxUzWzoV
+   0eGPprIeqk8/2mX8vA79HInpKr20r36Sxo2/kzKURojcOYBrwEC8F2Ec/5AAKNolfhYgORib0MPx
+   4ff8D8q6zewR/b/3QU1NKGqDV0GVzg7w6wjCEdKGlHQzr7hfiUUw3Oj0CghyL4X3l7F5L2OgByTH
+   C/Uw56WRBxZCIiVKcHhIhunV+Ow8EdJrXN16HcVwzPx1l6L1TlEbCkS1RR0=
+X-MailGates: (RBL:2,PASS,0.000000e+00)(SPF:2,PASS,pass)(BATV:2,PASS,send
+	er not empty)(DKIM:2,PASS,Success(0))(DMARC:2,PASS,Policy Success(15))(f
+	lag:0,RELAY,LAN:PASS)(IPF:2,PASS)(FROMBW:0,HAM,*@fddkim.openfind.com.tw)
+	(FROMBW:2,PASS)(header_match_any:pattern.fromtrust.system,,HAM,*@fddkim.
+	openfind.com.tw,0)
+Received: from 167.89.101.129
+	by mg2.office.openfind.com.tw with MailGates ESMTP Server V5.0(15453:0:AUTH_NONE)
+	(envelope-from <bounces+4491982-d9bd-edu=openfind.com.tw@fddkim.openfind.com.tw>); Tue, 27 Nov 2018 14:13:00 +0800 (CST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=openfind.com.tw; 
+	h=mime-version:from:reply-to:to:in-reply-to:references:subject:content-type:content-transfer-encoding; 
+	s=m1; bh=YddGlCci+iYw8lFqq+qGRLLUwHA=; b=l1FKX9V0Yft/HVawdoEABI8
+	EI7Ec1pmj3+hmFpcKOFvld6Y2UME2N7v14mHOhhrRkguURaRwODXVFuGrzz/1C7Y
+	Tsy2wGCgyKdvHhWhCVWBrHgQaEDWuFxU32GCPu9UAZcnNlij+YGIm7WWENm7rOmS
+	pEsuNOU37oZ3DkzIxPmw=
+Received: by filter1175p1las1.sendgrid.net with SMTP id filter1175p1las1-11379-5BFCE2EE-F
+        2018-11-27 06:23:42.819203951 +0000 UTC m=+979097.648533154
+Received: from freshdesk.com (mail-us1.freshemail.io [34.198.193.174])
+	by ismtpd0025p1mdw1.sendgrid.net (SG) with ESMTP id KQp8hHEtSbW4J5oSXTNnLA
+	for <edu@openfind.com.tw>; Tue, 27 Nov 2018 06:23:42.637 +0000 (UTC)
+MIME-Version: 1.0
+Received: from ec2-18-207-85-237.compute-1.amazonaws.com (EHLO freshdesk.com) ([18.207.85.237])
+          by smtpout.freshdesk.com (Freshworks SMTP Server) with ESMTPA ID -1214655655.
+          for <edu@openfind.com.tw>;
+          Tue, 27 Nov 2018 06:23:42 +0000 (UTC)
+Date: Tue, 27 Nov 2018 06:23:43 +0000 (UTC)
+From: Openfind Service Ticket System <support@openfind.com.tw>
+Reply-To: Openfind Service Ticket System <support@openfind.com.tw>
+To: edu@openfind.com.tw
+Message-ID: <5bfce2ee4e759_197762831b471918f3.free-sidekiq-9@notification.freshdesk.com>
+In-Reply-To: <MWHPR22MB0669AE6C51F507086883C1ACB6D00@MWHPR22MB0669.namprd22.prod.outlook.com>
+References: <MWHPR22MB0669AE6C51F507086883C1ACB6D00@MWHPR22MB0669.namprd22.prod.outlook.com>,<1543289969.1364.edu@openfind.com.tw>,<008301d485f2$16fe9570$44fbc050$@mail.edu.tw>,<1211890421.108.1543212900078.JavaMail.root@CloudPortalWebAdmin2>
+Subject: =?UTF-8?Q?New_comment_-_[#10119]_Re:_FW:?=
+ =?UTF-8?Q?_1220181126001-=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E5=95=8F=E9=A1=8C-=E7=94=A8=E7=B8=A3=E5=B8=82=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E6=B2=92=E6=9C=89=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=BD=86=E6=98=AF=E7=84=A1=E6=B3=95=E6=94=B6=E4=BF=A1?=
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_5bfce2ee540e1_197762831b471919d";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+sent-on: 2018-11-27 06:23:42 +0000
+Auto-Submitted: auto-generated
+X-Auto-Response-Suppress: DR, RN, OOF, AutoReply
+X-SG-EID: iNi9rfBXzqLAjiTYLfrp2HWI6ZjrGzgC7XYDZh0ryPG7dGaCscThLhl6/NPRfHdPFrFpg0cibIJdzq
+ aXdYR0nBLuI+h8uP3LDAalh+kxw7Wbda/oapeJGva8u3HRO3T0iI3D9Ka/slqTJJCn3q/5/CZ2PxYc
+ APvlGRXY/tHD+4qssLZYHKIRrm2VhHUYmZESNRDfHaF2NTfdL424V29FxTDSu8Sd4bjQ5LJS5/cMhZ
+ YoeduPmedUOxW8kAKRqc6y
+X-SG-ID: dXNuuxiaeVPHPf1dZH02eKYVq1iMeSsftZP6JowhJxihH20BUTgJe2dPgmsX9Dry9XqX1TXriw0EOE
+ EKHyD7NCds6S8GFYI98XztLUjVKAnSpXi1oFY5W1K7dwzgfLkNSFA9QXRdWiMcFjDvmA7MQZAcmGsp
+ Kbl6Xv85CiEOEdVwZSL8vvQy/Im7wws9uSh0q2uE2PRhhaJt46XVeg1xkBIi6thITYWU3/uiEDHlaH
+ p0bjNfn8gOLV8dEV5zN7GXOWR97SYZ/34J4nyKDp4vKx3gUzrurMRj9sDerrddPhs3HP4V2McPeEX+
+ USXL+clrt7OQ6vGAETYFaFFFZW0miIqPqyOxeQz61rxxAyQoi2wN45LP3K0RXpixuJFScO7J9JC9JH
+ LO6frKTNVuhiFr+Bmgun8v3n0KDhvJ15nf7SK8ITWrbjhmu/hsDXEI0y03
+X-DCC-Body-Count: 1
+X-DCC-Fuz1-Count: 1
+X-DCC-Fuz2-Count: 1
+X-DCC--Metrics: spamfilter2.mailcloud.com.tw 1325; Body=1 Fuz1=1 Fuz2=1
+
+----==_mimepart_5bfce2ee540e1_197762831b471919d
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+ There is a new comment in the ticket submitted by s s to =E7=B6=B2=E6=93=
+=8E=E8=B3=87=E8=A8=8A   Comment added by : s s  Comment Content:  <div styl=
+e=3D"font-family:Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,=
+0,0)">
+=E5=BD=B0=E5=8C=96=E7=B8=A3=E5=9F=94=E9=B9=BD=E9=84=89 =E5=9F=94=E9=B9=BD=
+=E5=9C=8B=E5=B0=8F=C2=A0 =E5=B8=B3=E8=99=9F60101 =E5=AF=86=E7=A2=BC1021<br>
+</div>
+<div style=3D"font-family:Calibri,Helvetica,sans-serif; font-size:12pt; col=
+or:rgb(0,0,0)">
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A01007=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 514cmyfu=C2=A0 =
+=C2=A0</div>
+<div style=3D"font-family:Calibri,Helvetica,sans-serif; font-size:12pt; col=
+or:rgb(0,0,0)">
+</div>
+<hr style=3D"display:inline-block; width:98%">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font color=3D"#000000" style=3D"font=
+-size:11pt"><b></b></font></div>
+<div class=3D"freshdesk_quote"><blockquote class=3D"freshdesk_quote">
+<div>From: =E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=
+=E9=9B=BB=E5=AD=90=E9=83=B5=E4=BB=B6 &lt;edu@openfind.com.tw&gt;<br>
+<b>Sent:</b> Tuesday, November 27, 2018 11:39 AM<br>
+<b>To:</b> ronnd66<br>
+<b>Cc:</b> oidcservice; =E6=95=99=E8=82=B2=E9=83=A8=E8=B3=87=E7=A7=91=E5=8F=
+=B8-=E9=99=B3=E5=86=A0=E5=AE=87<br>
+<b>Subject:</b> Re: FW: 1220181126001-=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=
+=E5=95=8F=E9=A1=8C-=E7=94=A8=E7=B8=A3=E5=B8=82=E5=B8=B3=E8=99=9F=E7=99=BB=
+=E5=85=A5=E6=B2=92=E6=9C=89=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=BD=86=E6=98=AF=E7=
+=84=A1=E6=B3=95=E6=94=B6=E4=BF=A1
+</div>
+<div>=C2=A0</div>
+
+<div>
+<br>
+=E6=96=BD=E8=80=81=E5=B8=AB =E6=82=A8=E5=A5=BD=EF=BC=8C<br>
+<br>
+=E9=97=9C=E6=96=BC=E6=82=A8=E6=8F=90=E5=88=B0=E7=84=A1=E6=B3=95=E6=94=B6=E4=
+=BF=A1=E7=9A=84=E5=95=8F=E9=A1=8C=EF=BC=8C
+<div>=E8=AB=8B=E5=95=8F=E7=84=A1=E6=B3=95=E6=94=B6=E4=BF=A1=E7=9A=84=E5=AD=
+=B8=E7=94=9F=E7=9A=84=E5=B8=B3=E8=99=9F=E6=98=AF=E4=BB=80=E9=BA=BC=E5=91=A2=
+=EF=BC=9F</div>
+<div>=E8=83=BD=E5=90=A6=E8=AB=8B=E6=82=A8=E5=B0=87=E5=90=8C=E5=AD=B8=E7=9A=
+=84=E4=BF=A1=E7=AE=B1=E5=B8=B3=E8=99=9F=E7=B5=A6=E6=88=91=E5=80=91=EF=BC=8C=
+</div>
+<div>=E4=BB=A5=E4=BE=BF=E5=B7=A5=E7=A8=8B=E4=BA=BA=E5=93=A1=E5=84=98=E9=80=
+=9F=E7=A2=BA=E8=AA=8D=E5=95=8F=E9=A1=8C=E5=8E=9F=E5=9B=A0=E3=80=82<br>
+<br>
+<br>
+<br>
+=E8=8B=A5=E4=BB=A5=E4=B8=8A=E5=9B=9E=E8=A6=86=E7=84=A1=E6=B3=95=E8=A7=A3=E6=
+=B1=BA=E6=82=A8=E9=81=87=E5=88=B0=E7=9A=84=E5=95=8F=E9=A1=8C=EF=BC=8C<br>
+=E6=88=96=E6=9C=89=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=
+=AB=AF=E9=9B=BB=E5=AD=90=E9=83=B5=E4=BB=B6=E7=9A=84=E7=9B=B8=E9=97=9C=E7=96=
+=91=E5=95=8F=EF=BC=8C<br>
+=E6=AD=A1=E8=BF=8E=E6=82=A8=E5=86=8D=E5=8F=8D=E6=87=89=E7=B5=A6=E6=88=91=E5=
+=80=91=E3=80=82<br>
+<br>
+<br>
+=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E9=9B=BB=E5=
+=AD=90=E9=83=B5=E4=BB=B6=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83<br>
+<br>
+---------------------------------------------------------------------------=
+---<br>
+=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E9=9B=BB=E5=
+=AD=90=E9=83=B5=E4=BB=B6 powered by Openfind =E7=B6=B2=E6=93=8E=E8=B3=87=E8=
+=A8=8A<br>
+<br>
+=E4=BA=9E=E6=B4=B2=E5=B8=82=E5=A0=B4=E9=83=B5=E4=BB=B6=E5=AE=89=E5=85=A8=E9=
+=A0=98=E5=B0=8E=E5=93=81=E7=89=8C | =E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A Op=
+enfind<br>
+=E7=B6=B2=E6=93=8E Openfind =E4=BC=81=E6=A5=AD=E7=B6=B2=E7=AB=99 <a href=3D=
+"http://www.openfind.com/" target=3D"new_win" rel=3D"noreferrer">http://www=
+.openfind.com/</a><br>
+=E7=B6=B2=E6=93=8E MailCloud =E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=
+=E5=8B=99 <a href=3D"http://www.mailcloud.com.tw/" target=3D"new_win" rel=
+=3D"noreferrer">http://www.mailcloud.com.tw/</a><br>
+---------------------------------------------------------------------------=
+---<br>
+<br>
+-----Original message-----<br>
+<b>From:</b>oidcservice&lt;oidcservice@mail.edu.tw&gt;<br>
+<b>To:</b>'=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=
+=E9=9B=BB=E5=AD=90=E9=83=B5=E4=BB=B6'&lt;edu@openfind.com.tw&gt;,keyboard&l=
+t;keyboard@mail.moe.gov.tw&gt;<br>
+<b>Date: </b>Tue, 27 Nov 2018 09:39:51<br>
+<b>Subject:</b> FW: 1220181126001-=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E5=
+=95=8F=E9=A1=8C-=E7=94=A8=E7=B8=A3=E5=B8=82=E5=B8=B3=E8=99=9F=E7=99=BB=E5=
+=85=A5=E6=B2=92=E6=9C=89=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=BD=86=E6=98=AF=E7=84=
+=A1=E6=B3=95=E6=94=B6=E4=BF=A1<br>
+
+<div class=3D"x_WordSection1">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<span style=3D"color:#1F497D">=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E5=AE=A2=
+=E6=9C=8D=E6=82=A8=E5=A5=BD</span><span lang=3D"EN-US" style=3D'font-family=
+:"Calibri",sans-serif; color:#1F497D'>:
+</span>
+</div>
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<span lang=3D"EN-US" style=3D'font-family:"Calibri",sans-serif; color:#1F49=
+7D'>=C2=A0</span>
+</div>
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<span style=3D"color:#1F497D">=E4=BD=BF=E7=94=A8=E8=80=85=E4=BE=86=E4=BF=A1=
+=E8=A1=A8=E7=A4=BA=E6=96=BC=E6=A0=A1=E5=9C=92=E9=9B=BB=E9=83=B5=E7=99=BB=E5=
+=85=A5=E5=BE=8C=E5=87=BA=E7=8F=BE=E9=8C=AF=E8=AA=A4=E8=A8=8A=E6=81=AF</span=
+><span lang=3D"EN-US" style=3D'font-family:"Calibri",sans-serif; color:#1F4=
+97D'></span>
+</div>
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<span style=3D"color:#1F497D">=E8=AB=8B=E5=8D=94=E5=8A=A9=E6=AA=A2=E6=9F=A5=
+=E7=8B=80=E6=B3=81</span><span lang=3D"EN-US" style=3D'font-family:"Calibri=
+",sans-serif; color:#1F497D'></span>
+</div>
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<span style=3D"color:#1F497D">=E9=BA=BB=E7=85=A9=E6=82=A8</span><span lang=
+=3D"EN-US" style=3D'font-family:"Calibri",sans-serif; color:#1F497D'>!</spa=
+n>
+</div>
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<span lang=3D"EN-US" style=3D'font-family:"Calibri",sans-serif; color:#1F49=
+7D'>=C2=A0</span>
+</div>
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<span style=3D"color:#1F497D">=E6=95=99=E8=82=B2=E9=9B=B2=E7=AB=AF=E5=B8=B3=
+=E8=99=9F=E7=B6=AD=E9=81=8B=E5=B0=8F=E7=B5=84</span><span lang=3D"EN-US" st=
+yle=3D'font-family:"Calibri",sans-serif; color:#1F497D'>=C2=A0
+</span><span style=3D"color:#1F497D">=E6=95=AC=E4=B8=8A</span><span lang=3D=
+"EN-US" style=3D'font-family:"Calibri",sans-serif; color:#1F497D'></span>
+</div>
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<span lang=3D"EN-US" style=3D'font-family:"Calibri",sans-serif; color:#1F49=
+7D'>=C2=A0</span>
+</div>
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<b><span lang=3D"EN-US" style=3D'font-size:11.0pt; font-family:"Calibri",sa=
+ns-serif'>From:</span></b><span lang=3D"EN-US" style=3D'font-size:11.0pt; f=
+ont-family:"Calibri",sans-serif'>
+</span><span style=3D"font-size:11.0pt">=E7=AE=A1=E7=90=86=E5=B9=B3=E5=8F=
+=B0</span><span lang=3D"EN-US" style=3D'font-size:11.0pt; font-family:"Cali=
+bri",sans-serif'> [mailto:educloud@mail.moe.gov.tw]
+<br>
+<b>Sent:</b> Monday, November 26, 2018 2:15 PM<br>
+<b>To:</b> educloudteam106@gmail.com; cindy@whatsmedia.com; oidcservice@mai=
+l.edu.tw; yaitinghsu@mail.moe.gov.tw<br>
+<b>Subject:</b> 1220181126001-</span><span style=3D"font-size:11.0pt">=E5=
+=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E5=95=8F=E9=A1=8C</span><span lang=3D"EN-=
+US" style=3D'font-size:11.0pt; font-family:"Calibri",sans-serif'>-</span><s=
+pan style=3D"font-size:11.0pt">=E7=94=A8=E7=B8=A3=E5=B8=82=E5=B8=B3=E8=99=
+=9F=E7=99=BB=E5=85=A5=E6=B2=92=E6=9C=89=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=BD=86=
+=E6=98=AF=E7=84=A1=E6=B3=95=E6=94=B6=E4=BF=A1</span><span lang=3D"EN-US" st=
+yle=3D'font-size:11.0pt; font-family:"Calibri",sans-serif'></span>
+</div>
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<span lang=3D"EN-US">=C2=A0</span>
+</div>
+<div>
+<table class=3D"x_MsoNormalTable" border=3D"0" cellpadding=3D"0">
+<tbody>
+<tr style=3D"height:22.5pt">
+<td style=3D"padding:.75pt .75pt .75pt .75pt; height:22.5pt">
+<div class=3D"x_MsoNormal" align=3D"center" style=3D"margin: 0cm 0cm 0.0001=
+pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, ser=
+if;text-align:center">
+<span lang=3D"EN-US" style=3D"font-size:21.0pt; color:white"><img id=3D"x__=
+x0000_i1025" src=3D"https://webadmin.cloud.edu.tw/resource/image/logo.png">=
+</span>
+</div>
+</td>
+<td width=3D"370" style=3D"width:277.5pt; padding:3.75pt 3.75pt 3.75pt 3.75=
+pt; height:22.5pt; float:left">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<span style=3D"font-size:21.0pt; color:#777777">=E6=95=99=E8=82=B2=E9=9B=B2=
+=E5=85=A5=E5=8F=A3=E7=B6=B2</span><span lang=3D"EN-US" style=3D'font-size:2=
+1.0pt; font-family:"Arial",sans-serif; color:#777777'></span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div style=3D"margin-top:3.75pt; margin-bottom:3.75pt">
+<div>
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<b><span style=3D"color:#777777">=E8=99=95=E7=90=86=E7=8B=80=E6=85=8B=EF=BC=
+=9A</span></b><span lang=3D"EN-US" style=3D"color:#777777"> [0</span><span =
+style=3D"color:#777777">=E3=80=81=E6=96=B0=E7=94=B3=E8=AB=8B<span lang=3D"E=
+N-US">]</span>=E3=80=80=E3=80=80
+<span lang=3D"EN-US"><a href=3D"https://webadmin.cloud.edu.tw/qa?m=3Ddispla=
+yApply&amp;uuid=3D0db24a00-cbc3-42dd-8826-902ddeca80f9" rel=3D"noreferrer">=
+<b><span lang=3D"EN-US" style=3D"font-size:18.0pt; color:red"><span lang=3D=
+"EN-US">=E5=A6=82=E6=9E=9C=E6=82=A8=E9=9C=80=E8=A6=81=E4=BF=AE=E6=94=B9=E6=
+=A1=88=E4=BB=B6=E7=8B=80=E6=85=8B=E6=88=96=E8=A3=9C=E5=85=85=E5=85=A7=E5=AE=
+=B9=EF=BC=8C=E8=AB=8B=E6=8C=89=E6=AD=A4</span></span></b></a>
+</span></span>
+</div>
+</div>
+<div>
+<table class=3D"x_MsoNormalTable" border=3D"1" cellspacing=3D"0" cellpaddin=
+g=3D"0" width=3D"800" style=3D"width:600.0pt; border-collapse:collapse; bor=
+der:none">
+<tbody>
+<tr>
+<td width=3D"15%" style=3D"width:15.0%; border:solid #DDDDDD 1.0pt; border-=
+right:solid #DDDDDD 2.25pt; padding:3.75pt 3.75pt 3.75pt 3.75pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<b><span style=3D"font-size:9.0pt; color:#777777">=E7=B7=A8=E8=99=9F <span =
+lang=3D"EN-US"></span></span></b>
+</div>
+</td>
+<td width=3D"35%" style=3D"width:35.0%; border:solid #DDDDDD 1.0pt; border-=
+left:none; padding:3.75pt 3.75pt 3.75pt 3.75pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<span lang=3D"EN-US" style=3D"font-size:9.0pt">1220181126001</span>
+</div>
+</td>
+<td width=3D"15%" style=3D"width:15.0%; border-top:solid #DDDDDD 1.0pt; bor=
+der-left:none; border-bottom:solid #DDDDDD 1.0pt; border-right:solid #DDDDD=
+D 2.25pt; padding:3.75pt 3.75pt 3.75pt 3.75pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<b><span style=3D"font-size:9.0pt; color:#777777">=E7=94=B3=E8=AB=8B=E6=97=
+=A5=E6=9C=9F<span lang=3D"EN-US"></span></span></b>
+</div>
+</td>
+<td style=3D"border:solid #DDDDDD 1.0pt; border-left:none; padding:3.75pt 3=
+.75pt 3.75pt 3.75pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<span lang=3D"EN-US" style=3D"font-size:9.0pt">2018/11/26 14:12</span>
+</div>
+</td>
+</tr>
+<tr>
+<td style=3D"border-top:none; border-left:solid #DDDDDD 1.0pt; border-botto=
+m:solid #DDDDDD 1.0pt; border-right:solid #DDDDDD 2.25pt; padding:3.75pt 3.=
+75pt 3.75pt 3.75pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<b><span style=3D"font-size:9.0pt; color:#777777">=E5=A7=94=E8=A8=97=E5=96=
+=AE=E4=BD=8D<span lang=3D"EN-US"></span></span></b>
+</div>
+</td>
+<td style=3D"border-top:none; border-left:none; border-bottom:solid #DDDDDD=
+ 1.0pt; border-right:solid #DDDDDD 1.0pt; padding:3.75pt 3.75pt 3.75pt 3.75=
+pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<span style=3D"font-size:9.0pt">=E5=85=A5=E5=8F=A3=E7=B6=B2=E6=9C=83=E5=93=
+=A1<span lang=3D"EN-US"></span></span>
+</div>
+</td>
+<td style=3D"border-top:none; border-left:none; border-bottom:solid #DDDDDD=
+ 1.0pt; border-right:solid #DDDDDD 2.25pt; padding:3.75pt 3.75pt 3.75pt 3.7=
+5pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<b><span style=3D"font-size:9.0pt; color:#777777">=E7=94=B3=E8=AB=8B=E4=BA=
+=BA<span lang=3D"EN-US"></span></span></b>
+</div>
+</td>
+<td style=3D"border-top:none; border-left:none; border-bottom:solid #DDDDDD=
+ 1.0pt; border-right:solid #DDDDDD 1.0pt; padding:3.75pt 3.75pt 3.75pt 3.75=
+pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<span style=3D"font-size:9.0pt">=E6=96=BD=E6=B7=91=E5=AA=9B<span lang=3D"EN=
+-US"></span></span>
+</div>
+</td>
+</tr>
+<tr>
+<td style=3D"border-top:none; border-left:solid #DDDDDD 1.0pt; border-botto=
+m:solid #DDDDDD 1.0pt; border-right:solid #DDDDDD 2.25pt; padding:3.75pt 3.=
+75pt 3.75pt 3.75pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<b><span style=3D"font-size:9.0pt; color:#777777">=E5=B0=88=E6=A1=88=E5=90=
+=8D=E7=A8=B1<span lang=3D"EN-US"></span></span></b>
+</div>
+</td>
+<td style=3D"border-top:none; border-left:none; border-bottom:solid #DDDDDD=
+ 1.0pt; border-right:solid #DDDDDD 1.0pt; padding:3.75pt 3.75pt 3.75pt 3.75=
+pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<span style=3D"font-size:9.0pt">=E6=95=99=E8=82=B2=E9=9B=B2=E7=AB=AF=E5=B8=
+=B3=E8=99=9F<span lang=3D"EN-US"></span></span>
+</div>
+</td>
+<td style=3D"border-top:none; border-left:none; border-bottom:solid #DDDDDD=
+ 1.0pt; border-right:solid #DDDDDD 2.25pt; padding:3.75pt 3.75pt 3.75pt 3.7=
+5pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<b><span style=3D"font-size:9.0pt; color:#777777">=E5=95=8F=E9=A1=8C=E7=A8=
+=AE=E9=A1=9E<span lang=3D"EN-US"></span></span></b>
+</div>
+</td>
+<td style=3D"border-top:none; border-left:none; border-bottom:solid #DDDDDD=
+ 1.0pt; border-right:solid #DDDDDD 1.0pt; padding:3.75pt 3.75pt 3.75pt 3.75=
+pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<span style=3D"font-size:9.0pt">=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E5=95=
+=8F=E9=A1=8C<span lang=3D"EN-US"></span></span>
+</div>
+</td>
+</tr>
+<tr>
+<td style=3D"border-top:none; border-left:solid #DDDDDD 1.0pt; border-botto=
+m:solid #DDDDDD 1.0pt; border-right:solid #DDDDDD 2.25pt; padding:3.75pt 3.=
+75pt 3.75pt 3.75pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<b><span style=3D"font-size:9.0pt; color:#777777">=E5=95=8F=E9=A1=8C=E4=B8=
+=BB=E8=BF=B0<span lang=3D"EN-US"></span></span></b>
+</div>
+</td>
+<td colspan=3D"3" style=3D"border-top:none; border-left:none; border-bottom=
+:solid #DDDDDD 1.0pt; border-right:solid #DDDDDD 1.0pt; padding:3.75pt 3.75=
+pt 3.75pt 3.75pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<span style=3D"font-size:9.0pt">=E7=94=A8=E7=B8=A3=E5=B8=82=E5=B8=B3=E8=99=
+=9F=E7=99=BB=E5=85=A5=E6=B2=92=E6=9C=89=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=BD=86=
+=E6=98=AF=E7=84=A1=E6=B3=95=E6=94=B6=E4=BF=A1<span lang=3D"EN-US"></span></=
+span>
+</div>
+</td>
+</tr>
+<tr>
+<td style=3D"border-top:none; border-left:solid #DDDDDD 1.0pt; border-botto=
+m:solid #DDDDDD 1.0pt; border-right:solid #DDDDDD 2.25pt; padding:3.75pt 3.=
+75pt 3.75pt 3.75pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<b><span style=3D"font-size:9.0pt; color:#777777">=E7=8B=80=E6=B3=81=E7=99=
+=BC=E7=94=9F=E6=99=82=E9=96=93<span lang=3D"EN-US"></span></span></b>
+</div>
+</td>
+<td style=3D"border-top:none; border-left:none; border-bottom:solid #DDDDDD=
+ 1.0pt; border-right:solid #DDDDDD 1.0pt; padding:3.75pt 3.75pt 3.75pt 3.75=
+pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<span lang=3D"EN-US" style=3D"font-size:9.0pt">2018/11/26 14:14</span>
+</div>
+</td>
+<td style=3D"border-top:none; border-left:none; border-bottom:solid #DDDDDD=
+ 1.0pt; border-right:solid #DDDDDD 2.25pt; padding:3.75pt 3.75pt 3.75pt 3.7=
+5pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<b><span style=3D"font-size:9.0pt; color:#777777">=E6=9C=9F=E6=9C=9B=E5=AE=
+=8C=E6=88=90=E6=97=A5=E6=9C=9F<span lang=3D"EN-US"></span></span></b>
+</div>
+</td>
+<td style=3D"border-top:none; border-left:none; border-bottom:solid #DDDDDD=
+ 1.0pt; border-right:solid #DDDDDD 1.0pt; padding:3.75pt 3.75pt 3.75pt 3.75=
+pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<span lang=3D"EN-US" style=3D"font-size:9.0pt">2018/12/10 14:14</span>
+</div>
+</td>
+</tr>
+<tr style=3D"height:75.0pt">
+<td style=3D"border-top:none; border-left:solid #DDDDDD 1.0pt; border-botto=
+m:solid #DDDDDD 1.0pt; border-right:solid #DDDDDD 2.25pt; padding:3.75pt 3.=
+75pt 3.75pt 3.75pt; height:75.0pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<b><span style=3D"font-size:9.0pt; color:#777777">=E5=95=8F=E9=A1=8C=E5=85=
+=A7=E5=AE=B9<span lang=3D"EN-US"></span></span></b>
+</div>
+</td>
+<td colspan=3D"3" style=3D"border-top:none; border-left:none; border-bottom=
+:solid #DDDDDD 1.0pt; border-right:solid #DDDDDD 1.0pt; padding:3.75pt 3.75=
+pt 3.75pt 3.75pt; height:75.0pt; word-wrap:break-word">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt; word-break:break-all">
+<span style=3D"font-size:9.0pt">=E5=AD=B8=E7=94=9F=E7=94=A8=E7=B8=A3=E5=B8=
+=82=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E4=BF=A1=E7=AE=B1=E6=B2=92=E6=9C=89=
+=E5=95=8F=E9=A1=8C=E3=80=82=E6=94=B6=E4=BF=A1=E6=99=82=E6=9C=83=E5=87=BA=E7=
+=8F=BE=E9=8C=AF=E8=AA=A4=E8=A8=8A=E6=81=AF=EF=BC=8C=E5=A6=82=E5=9C=96<span =
+lang=3D"EN-US"><br>
+<br>
+</span>=E5=9B=9E=E5=A0=B1=E4=BA=BA=E4=BF=A1=E7=AE=B1=EF=BC=9A<span lang=3D"=
+EN-US"><a href=3D"mailto:ronnd66@hotmail.com" rel=3D"noreferrer">ronnd66@ho=
+tmail.com</a><br>
+</span>=E5=9B=9E=E5=A0=B1=E4=BA=BA=E8=81=AF=E7=B5=A1=E9=9B=BB=E8=A9=B1=EF=
+=BC=9A<span lang=3D"EN-US">0920539540<br>
+<a href=3D"https://webadmin.cloud.edu.tw/qa/download?filename=3D%E9%81%A0%E=
+7%AB%AF%E8%AA%8D%E8%AD%89%E5%A4%B1%E6%95%97_201811261412.png" target=3D"_bl=
+ank" rel=3D"noreferrer"><span lang=3D"EN-US"><span lang=3D"EN-US">=E9=81=A0=
+=E7=AB=AF=E8=AA=8D=E8=AD=89=E5=A4=B1=E6=95=97_201811261412.png</span></span=
+></a></span></span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class=3D"x_MsoNormal" align=3D"right" style=3D"margin: 0cm 0cm 0.0001p=
+t; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, seri=
+f;text-align:right; background:#3C3D37">
+<span lang=3D"EN-US" style=3D"font-size:9.0pt; color:white">=C2=A9 2016 - <=
+/span><span style=3D"font-size:9.0pt; color:white">=E6=95=99=E8=82=B2=E9=9B=
+=B2=E5=85=A5=E5=8F=A3=E7=B6=B2<span lang=3D"EN-US">. All Rights Reserved
+</span></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</blockquote></div>
+
+
+----==_mimepart_5bfce2ee540e1_197762831b471919d
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D"font-family:Helvetica Neue, Helvetica, Arial, sans-serif; fon=
+t-size:13px;">
+=09
+<p>There is a new comment in the ticket submitted by s s to =E7=B6=B2=E6=93=
+=8E=E8=B3=87=E8=A8=8A</p><br> Comment added by : s s<br><br>Comment Content=
+: <br><div style=3D"font-family:Calibri,Helvetica,sans-serif; font-size:12p=
+t; color:rgb(0,0,0)">
+=E5=BD=B0=E5=8C=96=E7=B8=A3=E5=9F=94=E9=B9=BD=E9=84=89 =E5=9F=94=E9=B9=BD=
+=E5=9C=8B=E5=B0=8F=C2=A0 =E5=B8=B3=E8=99=9F60101 =E5=AF=86=E7=A2=BC1021<br>
+</div>
+<div style=3D"font-family:Calibri,Helvetica,sans-serif; font-size:12pt; col=
+or:rgb(0,0,0)">
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A01007=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 514cmyfu=C2=A0 =
+=C2=A0</div>
+<div style=3D"font-family:Calibri,Helvetica,sans-serif; font-size:12pt; col=
+or:rgb(0,0,0)">
+</div>
+<hr style=3D"display:inline-block; width:98%">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font color=3D"#000000" style=3D"font=
+-size:11pt"><b></b></font></div>
+<div class=3D"freshdesk_quote"><blockquote class=3D"freshdesk_quote">
+<div>From: =E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=
+=E9=9B=BB=E5=AD=90=E9=83=B5=E4=BB=B6 &lt;edu@openfind.com.tw&gt;<br>
+<b>Sent:</b> Tuesday, November 27, 2018 11:39 AM<br>
+<b>To:</b> ronnd66<br>
+<b>Cc:</b> oidcservice; =E6=95=99=E8=82=B2=E9=83=A8=E8=B3=87=E7=A7=91=E5=8F=
+=B8-=E9=99=B3=E5=86=A0=E5=AE=87<br>
+<b>Subject:</b> Re: FW: 1220181126001-=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=
+=E5=95=8F=E9=A1=8C-=E7=94=A8=E7=B8=A3=E5=B8=82=E5=B8=B3=E8=99=9F=E7=99=BB=
+=E5=85=A5=E6=B2=92=E6=9C=89=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=BD=86=E6=98=AF=E7=
+=84=A1=E6=B3=95=E6=94=B6=E4=BF=A1
+</div>
+<div>=C2=A0</div>
+
+<div>
+<br>
+=E6=96=BD=E8=80=81=E5=B8=AB =E6=82=A8=E5=A5=BD=EF=BC=8C<br>
+<br>
+=E9=97=9C=E6=96=BC=E6=82=A8=E6=8F=90=E5=88=B0=E7=84=A1=E6=B3=95=E6=94=B6=E4=
+=BF=A1=E7=9A=84=E5=95=8F=E9=A1=8C=EF=BC=8C
+<div>=E8=AB=8B=E5=95=8F=E7=84=A1=E6=B3=95=E6=94=B6=E4=BF=A1=E7=9A=84=E5=AD=
+=B8=E7=94=9F=E7=9A=84=E5=B8=B3=E8=99=9F=E6=98=AF=E4=BB=80=E9=BA=BC=E5=91=A2=
+=EF=BC=9F</div>
+<div>=E8=83=BD=E5=90=A6=E8=AB=8B=E6=82=A8=E5=B0=87=E5=90=8C=E5=AD=B8=E7=9A=
+=84=E4=BF=A1=E7=AE=B1=E5=B8=B3=E8=99=9F=E7=B5=A6=E6=88=91=E5=80=91=EF=BC=8C=
+</div>
+<div>=E4=BB=A5=E4=BE=BF=E5=B7=A5=E7=A8=8B=E4=BA=BA=E5=93=A1=E5=84=98=E9=80=
+=9F=E7=A2=BA=E8=AA=8D=E5=95=8F=E9=A1=8C=E5=8E=9F=E5=9B=A0=E3=80=82<br>
+<br>
+<br>
+<br>
+=E8=8B=A5=E4=BB=A5=E4=B8=8A=E5=9B=9E=E8=A6=86=E7=84=A1=E6=B3=95=E8=A7=A3=E6=
+=B1=BA=E6=82=A8=E9=81=87=E5=88=B0=E7=9A=84=E5=95=8F=E9=A1=8C=EF=BC=8C<br>
+=E6=88=96=E6=9C=89=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=
+=AB=AF=E9=9B=BB=E5=AD=90=E9=83=B5=E4=BB=B6=E7=9A=84=E7=9B=B8=E9=97=9C=E7=96=
+=91=E5=95=8F=EF=BC=8C<br>
+=E6=AD=A1=E8=BF=8E=E6=82=A8=E5=86=8D=E5=8F=8D=E6=87=89=E7=B5=A6=E6=88=91=E5=
+=80=91=E3=80=82<br>
+<br>
+<br>
+=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E9=9B=BB=E5=
+=AD=90=E9=83=B5=E4=BB=B6=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83<br>
+<br>
+---------------------------------------------------------------------------=
+---<br>
+=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E9=9B=BB=E5=
+=AD=90=E9=83=B5=E4=BB=B6 powered by Openfind =E7=B6=B2=E6=93=8E=E8=B3=87=E8=
+=A8=8A<br>
+<br>
+=E4=BA=9E=E6=B4=B2=E5=B8=82=E5=A0=B4=E9=83=B5=E4=BB=B6=E5=AE=89=E5=85=A8=E9=
+=A0=98=E5=B0=8E=E5=93=81=E7=89=8C | =E7=B6=B2=E6=93=8E=E8=B3=87=E8=A8=8A Op=
+enfind<br>
+=E7=B6=B2=E6=93=8E Openfind =E4=BC=81=E6=A5=AD=E7=B6=B2=E7=AB=99 <a href=3D=
+"http://www.openfind.com/" target=3D"new_win" rel=3D"noreferrer">http://www=
+.openfind.com/</a><br>
+=E7=B6=B2=E6=93=8E MailCloud =E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=
+=E5=8B=99 <a href=3D"http://www.mailcloud.com.tw/" target=3D"new_win" rel=
+=3D"noreferrer">http://www.mailcloud.com.tw/</a><br>
+---------------------------------------------------------------------------=
+---<br>
+<br>
+-----Original message-----<br>
+<b>From:</b>oidcservice&lt;oidcservice@mail.edu.tw&gt;<br>
+<b>To:</b>'=E6=95=99=E8=82=B2=E9=83=A8=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=
+=E9=9B=BB=E5=AD=90=E9=83=B5=E4=BB=B6'&lt;edu@openfind.com.tw&gt;,keyboard&l=
+t;keyboard@mail.moe.gov.tw&gt;<br>
+<b>Date: </b>Tue, 27 Nov 2018 09:39:51<br>
+<b>Subject:</b> FW: 1220181126001-=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E5=
+=95=8F=E9=A1=8C-=E7=94=A8=E7=B8=A3=E5=B8=82=E5=B8=B3=E8=99=9F=E7=99=BB=E5=
+=85=A5=E6=B2=92=E6=9C=89=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=BD=86=E6=98=AF=E7=84=
+=A1=E6=B3=95=E6=94=B6=E4=BF=A1<br>
+
+<div class=3D"x_WordSection1">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<span style=3D"color:#1F497D">=E6=A0=A1=E5=9C=92=E9=9B=B2=E7=AB=AF=E5=AE=A2=
+=E6=9C=8D=E6=82=A8=E5=A5=BD</span><span lang=3D"EN-US" style=3D'font-family=
+:"Calibri",sans-serif; color:#1F497D'>:
+</span>
+</div>
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<span lang=3D"EN-US" style=3D'font-family:"Calibri",sans-serif; color:#1F49=
+7D'>=C2=A0</span>
+</div>
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<span style=3D"color:#1F497D">=E4=BD=BF=E7=94=A8=E8=80=85=E4=BE=86=E4=BF=A1=
+=E8=A1=A8=E7=A4=BA=E6=96=BC=E6=A0=A1=E5=9C=92=E9=9B=BB=E9=83=B5=E7=99=BB=E5=
+=85=A5=E5=BE=8C=E5=87=BA=E7=8F=BE=E9=8C=AF=E8=AA=A4=E8=A8=8A=E6=81=AF</span=
+><span lang=3D"EN-US" style=3D'font-family:"Calibri",sans-serif; color:#1F4=
+97D'></span>
+</div>
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<span style=3D"color:#1F497D">=E8=AB=8B=E5=8D=94=E5=8A=A9=E6=AA=A2=E6=9F=A5=
+=E7=8B=80=E6=B3=81</span><span lang=3D"EN-US" style=3D'font-family:"Calibri=
+",sans-serif; color:#1F497D'></span>
+</div>
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<span style=3D"color:#1F497D">=E9=BA=BB=E7=85=A9=E6=82=A8</span><span lang=
+=3D"EN-US" style=3D'font-family:"Calibri",sans-serif; color:#1F497D'>!</spa=
+n>
+</div>
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<span lang=3D"EN-US" style=3D'font-family:"Calibri",sans-serif; color:#1F49=
+7D'>=C2=A0</span>
+</div>
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<span style=3D"color:#1F497D">=E6=95=99=E8=82=B2=E9=9B=B2=E7=AB=AF=E5=B8=B3=
+=E8=99=9F=E7=B6=AD=E9=81=8B=E5=B0=8F=E7=B5=84</span><span lang=3D"EN-US" st=
+yle=3D'font-family:"Calibri",sans-serif; color:#1F497D'>=C2=A0
+</span><span style=3D"color:#1F497D">=E6=95=AC=E4=B8=8A</span><span lang=3D=
+"EN-US" style=3D'font-family:"Calibri",sans-serif; color:#1F497D'></span>
+</div>
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<span lang=3D"EN-US" style=3D'font-family:"Calibri",sans-serif; color:#1F49=
+7D'>=C2=A0</span>
+</div>
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<b><span lang=3D"EN-US" style=3D'font-size:11.0pt; font-family:"Calibri",sa=
+ns-serif'>From:</span></b><span lang=3D"EN-US" style=3D'font-size:11.0pt; f=
+ont-family:"Calibri",sans-serif'>
+</span><span style=3D"font-size:11.0pt">=E7=AE=A1=E7=90=86=E5=B9=B3=E5=8F=
+=B0</span><span lang=3D"EN-US" style=3D'font-size:11.0pt; font-family:"Cali=
+bri",sans-serif'> [mailto:educloud@mail.moe.gov.tw]
+<br>
+<b>Sent:</b> Monday, November 26, 2018 2:15 PM<br>
+<b>To:</b> educloudteam106@gmail.com; cindy@whatsmedia.com; oidcservice@mai=
+l.edu.tw; yaitinghsu@mail.moe.gov.tw<br>
+<b>Subject:</b> 1220181126001-</span><span style=3D"font-size:11.0pt">=E5=
+=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E5=95=8F=E9=A1=8C</span><span lang=3D"EN-=
+US" style=3D'font-size:11.0pt; font-family:"Calibri",sans-serif'>-</span><s=
+pan style=3D"font-size:11.0pt">=E7=94=A8=E7=B8=A3=E5=B8=82=E5=B8=B3=E8=99=
+=9F=E7=99=BB=E5=85=A5=E6=B2=92=E6=9C=89=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=BD=86=
+=E6=98=AF=E7=84=A1=E6=B3=95=E6=94=B6=E4=BF=A1</span><span lang=3D"EN-US" st=
+yle=3D'font-size:11.0pt; font-family:"Calibri",sans-serif'></span>
+</div>
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<span lang=3D"EN-US">=C2=A0</span>
+</div>
+<div>
+<table class=3D"x_MsoNormalTable" border=3D"0" cellpadding=3D"0">
+<tbody>
+<tr style=3D"height:22.5pt">
+<td style=3D"padding:.75pt .75pt .75pt .75pt; height:22.5pt">
+<div class=3D"x_MsoNormal" align=3D"center" style=3D"margin: 0cm 0cm 0.0001=
+pt; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, ser=
+if;text-align:center">
+<span lang=3D"EN-US" style=3D"font-size:21.0pt; color:white"><img id=3D"x__=
+x0000_i1025" src=3D"https://webadmin.cloud.edu.tw/resource/image/logo.png">=
+</span>
+</div>
+</td>
+<td width=3D"370" style=3D"width:277.5pt; padding:3.75pt 3.75pt 3.75pt 3.75=
+pt; height:22.5pt; float:left">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<span style=3D"font-size:21.0pt; color:#777777">=E6=95=99=E8=82=B2=E9=9B=B2=
+=E5=85=A5=E5=8F=A3=E7=B6=B2</span><span lang=3D"EN-US" style=3D'font-size:2=
+1.0pt; font-family:"Arial",sans-serif; color:#777777'></span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div style=3D"margin-top:3.75pt; margin-bottom:3.75pt">
+<div>
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;">
+<b><span style=3D"color:#777777">=E8=99=95=E7=90=86=E7=8B=80=E6=85=8B=EF=BC=
+=9A</span></b><span lang=3D"EN-US" style=3D"color:#777777"> [0</span><span =
+style=3D"color:#777777">=E3=80=81=E6=96=B0=E7=94=B3=E8=AB=8B<span lang=3D"E=
+N-US">]</span>=E3=80=80=E3=80=80
+<span lang=3D"EN-US"><a href=3D"https://webadmin.cloud.edu.tw/qa?m=3Ddispla=
+yApply&amp;uuid=3D0db24a00-cbc3-42dd-8826-902ddeca80f9" rel=3D"noreferrer">=
+<b><span lang=3D"EN-US" style=3D"font-size:18.0pt; color:red"><span lang=3D=
+"EN-US">=E5=A6=82=E6=9E=9C=E6=82=A8=E9=9C=80=E8=A6=81=E4=BF=AE=E6=94=B9=E6=
+=A1=88=E4=BB=B6=E7=8B=80=E6=85=8B=E6=88=96=E8=A3=9C=E5=85=85=E5=85=A7=E5=AE=
+=B9=EF=BC=8C=E8=AB=8B=E6=8C=89=E6=AD=A4</span></span></b></a>
+</span></span>
+</div>
+</div>
+<div>
+<table class=3D"x_MsoNormalTable" border=3D"1" cellspacing=3D"0" cellpaddin=
+g=3D"0" width=3D"800" style=3D"width:600.0pt; border-collapse:collapse; bor=
+der:none">
+<tbody>
+<tr>
+<td width=3D"15%" style=3D"width:15.0%; border:solid #DDDDDD 1.0pt; border-=
+right:solid #DDDDDD 2.25pt; padding:3.75pt 3.75pt 3.75pt 3.75pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<b><span style=3D"font-size:9.0pt; color:#777777">=E7=B7=A8=E8=99=9F <span =
+lang=3D"EN-US"></span></span></b>
+</div>
+</td>
+<td width=3D"35%" style=3D"width:35.0%; border:solid #DDDDDD 1.0pt; border-=
+left:none; padding:3.75pt 3.75pt 3.75pt 3.75pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<span lang=3D"EN-US" style=3D"font-size:9.0pt">1220181126001</span>
+</div>
+</td>
+<td width=3D"15%" style=3D"width:15.0%; border-top:solid #DDDDDD 1.0pt; bor=
+der-left:none; border-bottom:solid #DDDDDD 1.0pt; border-right:solid #DDDDD=
+D 2.25pt; padding:3.75pt 3.75pt 3.75pt 3.75pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<b><span style=3D"font-size:9.0pt; color:#777777">=E7=94=B3=E8=AB=8B=E6=97=
+=A5=E6=9C=9F<span lang=3D"EN-US"></span></span></b>
+</div>
+</td>
+<td style=3D"border:solid #DDDDDD 1.0pt; border-left:none; padding:3.75pt 3=
+.75pt 3.75pt 3.75pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<span lang=3D"EN-US" style=3D"font-size:9.0pt">2018/11/26 14:12</span>
+</div>
+</td>
+</tr>
+<tr>
+<td style=3D"border-top:none; border-left:solid #DDDDDD 1.0pt; border-botto=
+m:solid #DDDDDD 1.0pt; border-right:solid #DDDDDD 2.25pt; padding:3.75pt 3.=
+75pt 3.75pt 3.75pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<b><span style=3D"font-size:9.0pt; color:#777777">=E5=A7=94=E8=A8=97=E5=96=
+=AE=E4=BD=8D<span lang=3D"EN-US"></span></span></b>
+</div>
+</td>
+<td style=3D"border-top:none; border-left:none; border-bottom:solid #DDDDDD=
+ 1.0pt; border-right:solid #DDDDDD 1.0pt; padding:3.75pt 3.75pt 3.75pt 3.75=
+pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<span style=3D"font-size:9.0pt">=E5=85=A5=E5=8F=A3=E7=B6=B2=E6=9C=83=E5=93=
+=A1<span lang=3D"EN-US"></span></span>
+</div>
+</td>
+<td style=3D"border-top:none; border-left:none; border-bottom:solid #DDDDDD=
+ 1.0pt; border-right:solid #DDDDDD 2.25pt; padding:3.75pt 3.75pt 3.75pt 3.7=
+5pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<b><span style=3D"font-size:9.0pt; color:#777777">=E7=94=B3=E8=AB=8B=E4=BA=
+=BA<span lang=3D"EN-US"></span></span></b>
+</div>
+</td>
+<td style=3D"border-top:none; border-left:none; border-bottom:solid #DDDDDD=
+ 1.0pt; border-right:solid #DDDDDD 1.0pt; padding:3.75pt 3.75pt 3.75pt 3.75=
+pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<span style=3D"font-size:9.0pt">=E6=96=BD=E6=B7=91=E5=AA=9B<span lang=3D"EN=
+-US"></span></span>
+</div>
+</td>
+</tr>
+<tr>
+<td style=3D"border-top:none; border-left:solid #DDDDDD 1.0pt; border-botto=
+m:solid #DDDDDD 1.0pt; border-right:solid #DDDDDD 2.25pt; padding:3.75pt 3.=
+75pt 3.75pt 3.75pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<b><span style=3D"font-size:9.0pt; color:#777777">=E5=B0=88=E6=A1=88=E5=90=
+=8D=E7=A8=B1<span lang=3D"EN-US"></span></span></b>
+</div>
+</td>
+<td style=3D"border-top:none; border-left:none; border-bottom:solid #DDDDDD=
+ 1.0pt; border-right:solid #DDDDDD 1.0pt; padding:3.75pt 3.75pt 3.75pt 3.75=
+pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<span style=3D"font-size:9.0pt">=E6=95=99=E8=82=B2=E9=9B=B2=E7=AB=AF=E5=B8=
+=B3=E8=99=9F<span lang=3D"EN-US"></span></span>
+</div>
+</td>
+<td style=3D"border-top:none; border-left:none; border-bottom:solid #DDDDDD=
+ 1.0pt; border-right:solid #DDDDDD 2.25pt; padding:3.75pt 3.75pt 3.75pt 3.7=
+5pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<b><span style=3D"font-size:9.0pt; color:#777777">=E5=95=8F=E9=A1=8C=E7=A8=
+=AE=E9=A1=9E<span lang=3D"EN-US"></span></span></b>
+</div>
+</td>
+<td style=3D"border-top:none; border-left:none; border-bottom:solid #DDDDDD=
+ 1.0pt; border-right:solid #DDDDDD 1.0pt; padding:3.75pt 3.75pt 3.75pt 3.75=
+pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<span style=3D"font-size:9.0pt">=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E5=95=
+=8F=E9=A1=8C<span lang=3D"EN-US"></span></span>
+</div>
+</td>
+</tr>
+<tr>
+<td style=3D"border-top:none; border-left:solid #DDDDDD 1.0pt; border-botto=
+m:solid #DDDDDD 1.0pt; border-right:solid #DDDDDD 2.25pt; padding:3.75pt 3.=
+75pt 3.75pt 3.75pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<b><span style=3D"font-size:9.0pt; color:#777777">=E5=95=8F=E9=A1=8C=E4=B8=
+=BB=E8=BF=B0<span lang=3D"EN-US"></span></span></b>
+</div>
+</td>
+<td colspan=3D"3" style=3D"border-top:none; border-left:none; border-bottom=
+:solid #DDDDDD 1.0pt; border-right:solid #DDDDDD 1.0pt; padding:3.75pt 3.75=
+pt 3.75pt 3.75pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<span style=3D"font-size:9.0pt">=E7=94=A8=E7=B8=A3=E5=B8=82=E5=B8=B3=E8=99=
+=9F=E7=99=BB=E5=85=A5=E6=B2=92=E6=9C=89=E5=95=8F=E9=A1=8C=EF=BC=8C=E4=BD=86=
+=E6=98=AF=E7=84=A1=E6=B3=95=E6=94=B6=E4=BF=A1<span lang=3D"EN-US"></span></=
+span>
+</div>
+</td>
+</tr>
+<tr>
+<td style=3D"border-top:none; border-left:solid #DDDDDD 1.0pt; border-botto=
+m:solid #DDDDDD 1.0pt; border-right:solid #DDDDDD 2.25pt; padding:3.75pt 3.=
+75pt 3.75pt 3.75pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<b><span style=3D"font-size:9.0pt; color:#777777">=E7=8B=80=E6=B3=81=E7=99=
+=BC=E7=94=9F=E6=99=82=E9=96=93<span lang=3D"EN-US"></span></span></b>
+</div>
+</td>
+<td style=3D"border-top:none; border-left:none; border-bottom:solid #DDDDDD=
+ 1.0pt; border-right:solid #DDDDDD 1.0pt; padding:3.75pt 3.75pt 3.75pt 3.75=
+pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<span lang=3D"EN-US" style=3D"font-size:9.0pt">2018/11/26 14:14</span>
+</div>
+</td>
+<td style=3D"border-top:none; border-left:none; border-bottom:solid #DDDDDD=
+ 1.0pt; border-right:solid #DDDDDD 2.25pt; padding:3.75pt 3.75pt 3.75pt 3.7=
+5pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<b><span style=3D"font-size:9.0pt; color:#777777">=E6=9C=9F=E6=9C=9B=E5=AE=
+=8C=E6=88=90=E6=97=A5=E6=9C=9F<span lang=3D"EN-US"></span></span></b>
+</div>
+</td>
+<td style=3D"border-top:none; border-left:none; border-bottom:solid #DDDDDD=
+ 1.0pt; border-right:solid #DDDDDD 1.0pt; padding:3.75pt 3.75pt 3.75pt 3.75=
+pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<span lang=3D"EN-US" style=3D"font-size:9.0pt">2018/12/10 14:14</span>
+</div>
+</td>
+</tr>
+<tr style=3D"height:75.0pt">
+<td style=3D"border-top:none; border-left:solid #DDDDDD 1.0pt; border-botto=
+m:solid #DDDDDD 1.0pt; border-right:solid #DDDDDD 2.25pt; padding:3.75pt 3.=
+75pt 3.75pt 3.75pt; height:75.0pt">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt">
+<b><span style=3D"font-size:9.0pt; color:#777777">=E5=95=8F=E9=A1=8C=E5=85=
+=A7=E5=AE=B9<span lang=3D"EN-US"></span></span></b>
+</div>
+</td>
+<td colspan=3D"3" style=3D"border-top:none; border-left:none; border-bottom=
+:solid #DDDDDD 1.0pt; border-right:solid #DDDDDD 1.0pt; padding:3.75pt 3.75=
+pt 3.75pt 3.75pt; height:75.0pt; word-wrap:break-word">
+<div class=3D"x_MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12=
+pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, serif;line-height:18=
+.0pt; word-break:break-all">
+<span style=3D"font-size:9.0pt">=E5=AD=B8=E7=94=9F=E7=94=A8=E7=B8=A3=E5=B8=
+=82=E5=B8=B3=E8=99=9F=E7=99=BB=E5=85=A5=E4=BF=A1=E7=AE=B1=E6=B2=92=E6=9C=89=
+=E5=95=8F=E9=A1=8C=E3=80=82=E6=94=B6=E4=BF=A1=E6=99=82=E6=9C=83=E5=87=BA=E7=
+=8F=BE=E9=8C=AF=E8=AA=A4=E8=A8=8A=E6=81=AF=EF=BC=8C=E5=A6=82=E5=9C=96<span =
+lang=3D"EN-US"><br>
+<br>
+</span>=E5=9B=9E=E5=A0=B1=E4=BA=BA=E4=BF=A1=E7=AE=B1=EF=BC=9A<span lang=3D"=
+EN-US"><a href=3D"mailto:ronnd66@hotmail.com" rel=3D"noreferrer">ronnd66@ho=
+tmail.com</a><br>
+</span>=E5=9B=9E=E5=A0=B1=E4=BA=BA=E8=81=AF=E7=B5=A1=E9=9B=BB=E8=A9=B1=EF=
+=BC=9A<span lang=3D"EN-US">0920539540<br>
+<a href=3D"https://webadmin.cloud.edu.tw/qa/download?filename=3D%E9%81%A0%E=
+7%AB%AF%E8%AA%8D%E8%AD%89%E5%A4%B1%E6%95%97_201811261412.png" target=3D"_bl=
+ank" rel=3D"noreferrer"><span lang=3D"EN-US"><span lang=3D"EN-US">=E9=81=A0=
+=E7=AB=AF=E8=AA=8D=E8=AD=89=E5=A4=B1=E6=95=97_201811261412.png</span></span=
+></a></span></span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class=3D"x_MsoNormal" align=3D"right" style=3D"margin: 0cm 0cm 0.0001p=
+t; font-size: 12pt; font-family: =E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94, seri=
+f;text-align:right; background:#3C3D37">
+<span lang=3D"EN-US" style=3D"font-size:9.0pt; color:white">=C2=A9 2016 - <=
+/span><span style=3D"font-size:9.0pt; color:white">=E6=95=99=E8=82=B2=E9=9B=
+=B2=E5=85=A5=E5=8F=A3=E7=B6=B2<span lang=3D"EN-US">. All Rights Reserved
+</span></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</blockquote></div>
+
+
+
+=09
+	<br/>
+
+
+
+<span title=3D"fd_tkt_identifier" style=3D'font-size:0px; font-family:"fdtk=
+tid"; min-height:0px; height:0px; opacity:0; max-height:0px; line-height:0p=
+x; color:#ffffff'>10119:746471</span>
+
+</div>=
+
+----==_mimepart_5bfce2ee540e1_197762831b471919d--

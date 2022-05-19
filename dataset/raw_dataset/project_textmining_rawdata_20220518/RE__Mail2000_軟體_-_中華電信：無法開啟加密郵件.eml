@@ -1,0 +1,84 @@
+X-M2K-MATCHED-RULE: SPAM_FILTER-SafeFrom
+X-M2K-MATCHED-RESULT: Mail Header From In Safe From/alex_lee@openfind.com.tw/alex_lee@openfind.com.tw
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 3.3.3.3
+	by ms2.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(30790:0:AUTH_NONE)
+	(envelope-from <prvs=153073182D=alex_lee@openfind.com.tw>); Thu, 02 Apr 2015 14:37:04 +0800 (CST)
+Return-Path: <prvs=153073182D=alex_lee@openfind.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 3.3.3.3
+	by asp6.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(87208:0:AUTH_RELAY)
+	(envelope-from <prvs=153073182D=alex_lee@openfind.com.tw>); Thu, 02 Apr 2015 14:37:03 +0800 (CST)
+Return-Path: <prvs=153073182D=alex_lee@openfind.com.tw>
+X-ADIFSPAM: YES/114
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(31075:0:AUTH_RELAY)
+	(envelope-from <prvs=153073182D=alex_lee@openfind.com.tw>); Thu, 02 Apr 2015 14:36:53 +0800 (CST)
+Return-Path: <prvs=153073182D=alex_lee@openfind.com.tw>
+Received: By OpenMail Mailer;Thu, 02 Apr 2015 14:36:53 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(20562:0:AUTH_NONE)
+	(envelope-from <prvs=153073182D=alex_lee@openfind.com.tw>); Thu, 02 Apr 2015 14:36:52 +0800 (CST)
+Return-Path: <prvs=153073182D=alex_lee@openfind.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(63072:0:AUTH_NONE)
+	(envelope-from <prvs=153073182D=alex_lee@openfind.com.tw>); Thu, 02 Apr 2015 14:36:52 +0800 (CST)
+Return-Path: <prvs=153073182D=alex_lee@openfind.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)(FROMBW:2,PASS)(FROMBW:2,
+	PASS)(audit_rules:rules.audit_out1311132448.system#,,aDELIVER,R/m2k_serv
+	ice@mail2000.com.tw,4,ou)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+X-MGADT: rules.audit_out1311132448.system#,R/m2k_service@mail2000.com.tw
+Received: from 172.16.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(17864:0:AUTH_RELAY)
+	(envelope-from <alex_lee@openfind.com.tw>); Thu, 02 Apr 2015 14:34:12 +0800 (CST)
+Return-Path: <alex_lee@openfind.com.tw>
+Received: from 172.16.32.50
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V6.00(89303:0:AUTH_LOGIN)
+	(envelope-from <alex_lee@openfind.com.tw>); Thu, 02 Apr 2015 14:34:10 +0800 (CST)
+Return-Path: <alex_lee@openfind.com.tw>
+X-M2KPolicyIP: 172.16.32.50 (#NOT FOUND)
+From: "alex_lee" <alex_lee@openfind.com.tw>
+To: "'sunny_chiu'" <sunny_chiu@openfind.com.tw>,
+	"'m2k_noc'" <m2k_noc@openfind.com.tw>
+Cc: "'m2k_service'" <m2k_service@mail2000.com.tw>,
+	<kate_lin@openfind.com.tw>
+References: <1427955628.89418.sunny_chiu@openfind.com.tw>
+In-Reply-To: <1427955628.89418.sunny_chiu@openfind.com.tw>
+Subject: =?utf-8?B?UkU6IE1haWwyMDAwIOi7n+mrlCAtIOS4reiPr+mbu+S/oe+8mg==?=
+	=?utf-8?B?54Sh5rOV6ZaL5ZWf5Yqg5a+G6YO15Lu2?=
+Date: Thu, 2 Apr 2015 14:34:24 +0800
+Message-ID: <033301d06d0f$10391da0$30ab58e0$@openfind.com.tw>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQHd7C2DiIFTAr4aSEa++a3vqSJ2HZ0eRQmw
+Content-Language: zh-tw
+
+RGVhciBTdW5ueSwNCg0KCemXnOaWvOS4reiPr+mbu+S/oeS9v+eUqOiAheiLpeacieS+huS/oeaI
+luS+humbu+ipouWVj+aciemXnCBNYWlsMjAwMOebuOmXnOWVj+mhjOaZgu+8jOeFqeiri+aCqOWb
+nuimhuWRiuefpe+8jOiri+WFtua0veipouipsuWFrOWPuC/llq7kvY3kuYsgIumDteS7tuW5q+aJ
+iyIg5oiWICLpg7Xku7bns7vntbHnrqHnkIbogIUiICjljJfliIbos4foqIromZUpDQoNCglTRSDp
+gJnpgorkuI3nm7TmjqXomZXnkIboqbLlhazlj7jntYLnq6/kvb/nlKjogIXnmoTllY/poYzvvIzo
+rJ3orJ3mgqjjgIINCg0KPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PQ0KQWxleCBMZWUg5p2O5bOw5oW2DQpUZWNobmljYWwgU2VydmljZSBEaXZp
+c2lvbiDmioDooZPmnI3li5nomZUNCk9wZW5maW5kIEluZm9ybWF0aW9uIFRlY2hub2xvZ3ksIElu
+Yy4gDQrntrLmk47os4foqIrou5/pq5TogqHku73mnInpmZDlhazlj7gNCuKXhiDpm7voqbEgMDIt
+MjU1My0yMDAwDQril4Yg5pyN5YuZ5L+h566xIG0ya19ub2NAb3BlbmZpbmQuY29tLnR3DQril4Yg
+57ay5Z2AIGh0dHA6Ly93d3cub3BlbmZpbmQuY29tLnR3DQoNCi0tLS0tT3JpZ2luYWwgTWVzc2Fn
+ZS0tLS0tDQpGcm9tOiBzdW5ueV9jaGl1IFttYWlsdG86c3VubnlfY2hpdUBvcGVuZmluZC5jb20u
+dHddIA0KU2VudDogVGh1cnNkYXksIEFwcmlsIDIsIDIwMTUgMjoyMCBQTQ0KVG86IG0ya19ub2MN
+CkNjOiBtMmtfc2VydmljZQ0KU3ViamVjdDogTWFpbDIwMDAg6Luf6auUIC0g5Lit6I+v6Zu75L+h
+77ya54Sh5rOV6ZaL5ZWf5Yqg5a+G6YO15Lu2DQoNCkRlYXJzDQoNCuS4reiPr+mbu+S/oQ0KMDkx
+MDM3NDczNCAjIOWKieWFiOeUnw0KdHN1bmdAY2h0LmNvbS50dw0KDQrkvobpm7vooajnpLrmlLbl
+iLDliqDlr4bpg7Xku7bvvIzovLjlhaUgcGluIOeivOWNu+eEoeazlemWi+WVn++8jA0K54Wp6KuL
+5L2g5YCR5Y2U5Yqp6IGv57mr5Zue6KaGDQoNCuisneisnQ0Kc3VubnkNCg==
+

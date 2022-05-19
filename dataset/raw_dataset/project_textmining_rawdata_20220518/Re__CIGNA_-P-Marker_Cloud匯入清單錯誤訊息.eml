@@ -1,0 +1,296 @@
+X-M2KSPAM: NO/-6
+Received: from 203.69.82.96
+	by asp6.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(44044:0:AUTH_NONE)
+	(envelope-from <prvs=17461366FD=p-marker@openfind.com.tw>); Mon, 04 Feb 2013 14:49:44 +0800 (CST)
+Return-Path: <prvs=17461366FD=p-marker@openfind.com.tw>
+X-M2KPolicyIP: 203.69.82.96 (N/A)
+Received: from 10.0.0.40
+	by bak7.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(88980:0:AUTH_RELAY)
+	(envelope-from <prvs=17461366FD=p-marker@openfind.com.tw>); Mon, 04 Feb 2013 14:46:15 +0800 (CST)
+Return-Path: <prvs=17461366FD=p-marker@openfind.com.tw>
+M2KForward: Yes
+Received: By OpenMail Mailer;Mon, 04 Feb 2013 14:46:15 +0800 (CST)
+Received: from 203.69.82.34
+	by m0.mail2000.com.tw with Mail2000 ESMTP Server V3.20M(37075:0:AUTH_NONE)
+	(envelope-from <prvs=17461366FD=p-marker@openfind.com.tw>); Mon, 04 Feb 2013 14:46:13 +0800 (CST)
+Return-Path: <prvs=17461366FD=p-marker@openfind.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(977:0:AUTH_NONE)
+	(envelope-from <prvs=17461366FD=p-marker@openfind.com.tw>); Mon, 04 Feb 2013 14:46:11 +0800 (CST)
+Return-Path: <prvs=17461366FD=p-marker@openfind.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (audit_rules:rules.audit_out1311132448.system#,,aDELIVER,R/
+	m2k_service@mail2000.com.tw,4)
+X-MGMilo: No
+X-MGBS: No
+Received: from 10.0.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(25870:0:AUTH_RELAY)
+	(envelope-from <p-marker@openfind.com.tw>); Mon, 04 Feb 2013 14:42:08 +0800 (CST)
+Return-Path: <p-marker@openfind.com.tw>
+Received: By OpenMail Mailer;Mon, 04 Feb 2013 14:42:04 +0800 (CST)
+Received: from 203.69.82.124
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V6.00(919:0:AUTH_RELAY)
+	(envelope-from <p-marker@openfind.com.tw>); Mon, 04 Feb 2013 14:42:02 +0800 (CST)
+Return-Path: <p-marker@openfind.com.tw>
+X-M2KPolicyIP: 203.69.82.124 (#NOT FOUND)
+X-MailGates: (RBL:2,PASS,0.000000e+00)(flag:1,RELAY:PASS)(IPF:2,PASS)(ba
+	yesian:SCORE-38,0.00,2)(commtouch:PASS,1,str=0001.0A150203.510F5839.0033
+	:SCFMA4218066,ss=1,re=-4.000,fgs=0,2)(header_match_any:pattern.fromtrust
+	.system,,HAM,*@openfind.com.tw,0)
+X-MGMilo: No
+X-MGBS: No
+Received: from 203.69.82.96
+	by mg.openfind.com.tw with MailGates ESMTP Server V4.0(1134:0:AUTH_NONE)
+	(envelope-from <p-marker@openfind.com.tw>); Mon, 04 Feb 2013 14:41:58 +0800 (CST)
+Return-Path: <p-marker@openfind.com.tw>
+Received: from 10.0.0.41
+	by bak7.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(88970:0:AUTH_LOGIN)
+	(envelope-from <p-marker@openfind.com.tw>); Mon, 04 Feb 2013 14:34:15 +0800 (CST)
+Return-Path: <p-marker@openfind.com.tw>
+Received: By OpenMail Mailer;Mon, 04 Feb 2013 14:34:12 +0800 (CST)
+From: "=?utf-8?B?UC1NYXJrZXIg5YCL6LOH55uk6bue5pyN5YuZ?=" <p-marker@openfind.com.tw>
+Reply-To: p-marker@openfind.com.tw
+Subject: =?utf-8?B?UmU6IENJR05BIC1QLU1hcmtlciBDbG91ZOWMrw==?=
+	=?utf-8?B?5YWl5riF5Zau6Yyv6Kqk6KiK5oGv?=
+Message-ID: <1359959652.15494.p-marker@openfind.com.tw>
+In-Reply-To: <DDE70FFE5AFA5F4D864C6CAC1FDD669E4C56B4E3AB@HKIE7M002.asia.intl.cigna.com>
+References: <DDE70FFE5AFA5F4D864C6CAC1FDD669E4C56B4E3AB@HKIE7M002.asia.intl.cigna.com>
+To: "Ju, Orange      TWNRC" <Orange.Ju@Cigna.com>
+Cc: "silvia_chen@openfind.com.tw" <silvia_chen@openfind.com.tw>,
+	"Kao, Tim K      TWNRC" <Tim.Kao@Cigna.com>,
+	"billy_chueh@openfind.com.tw" <billy_chueh@openfind.com.tw>,
+	"mario_wang@openfind.com.tw" <mario_wang@openfind.com.tw>,
+	"p-marker" <p-marker@openfind.com.tw>
+Date: Mon, 04 Feb 2013 14:34:12 +0800 (CST)
+MIME-Version: 1.0
+Return-Path: p-marker@openfind.com.tw
+Content-Type: multipart/alternative;
+	boundary="---pFPbdV5yn,3WzT)hhixoKRHpJid"
+
+-----pFPbdV5yn,3WzT)hhixoKRHpJid
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Hi,=20Orange,
+
+error=2081=20=E6=87=89=E6=98=AF=E5=9B=A0=E7=82=BA=E6=82=A8=E4=B8=8A=E5=82=B3=
+=E7=9A=84=E6=AA=94=E6=A1=88=E7=9A=84=E7=B7=A8=E7=A2=BC=20(charset)=20=E4=B8=A6=
+=E9=9D=9E=E6=88=91=E5=80=91=E9=A0=90=E6=9C=9F=E7=9A=84=20unicode=20=E6=A0=BC=
+=E5=BC=8F=EF=BC=8C
+=E5=8F=AF=E8=83=BD=E6=98=AF=E5=9B=A0=E7=82=BA=E6=82=A8=E6=89=93=E9=96=8B=20c=
+sv=20=E4=B9=8B=E5=BE=8C=E6=9C=89=E5=8F=A6=E5=AD=98=E6=96=B0=E6=AA=94=EF=BC=8C=
+
+Excel=20=E6=9C=83=E9=A0=90=E8=A8=AD=E7=94=A8=20big5=20=E7=B7=A8=E7=A2=BC=E4=BE=
+=86=E5=84=B2=E5=AD=98=EF=BC=8C=E4=B8=8A=E5=82=B3=E5=BE=8C=E5=B0=B1=E6=9C=83=E9=
+=81=AD=E9=81=87=E7=B7=A8=E7=A2=BC=E4=B8=8D=E7=AC=A6=E7=9A=84=E5=95=8F=E9=A1=8C=
+=E3=80=82
+
+=E8=A6=81=E9=BA=BB=E7=85=A9=E6=82=A8=E5=86=8D=E8=87=AA=E7=B6=B2=E9=A0=81=20=E9=
+=87=8D=E6=96=B0=E4=B8=8B=E8=BC=89=20ComputerList.csv=20=EF=BC=8C
+=E8=B2=BC=E4=B8=8A=E6=82=A8=E8=A6=81=E5=8C=AF=E5=85=A5=E7=9A=84=E5=85=A7=E5=AE=
+=B9=E5=BE=8C=EF=BC=8C=E3=80=8C=E7=9B=B4=E6=8E=A5=E5=84=B2=E5=AD=98=E3=80=8D=20=
+(Ctrl=20+=20S)=EF=BC=8C=E6=87=89=E8=A9=B2=E5=B0=B1=E5=8F=AF=E4=BB=A5=E4=BF=9D=
+=E6=8C=81=E6=AA=94=E6=A1=88=E7=9A=84=E7=B7=A8=E7=A2=BC=E4=B8=8D=E8=AE=8A=EF=BC=
+=8C
+=E4=B8=8A=E5=82=B3=E6=87=89=E8=A9=B2=E5=B0=B1=E4=B8=8D=E6=9C=83=E9=81=87=E5=88=
+=B0=20error=2081=20=E7=9A=84=E5=95=8F=E9=A1=8C=E3=80=82
+
+
+=E8=8B=A5=E6=9C=89=E4=BB=BB=E4=BD=95=E5=BB=BA=E8=AD=B0=E6=88=96=E5=95=8F=E9=A1=
+=8C=EF=BC=8C=E6=AD=A1=E8=BF=8E=E9=9A=A8=E6=99=82=E5=86=8D=E8=81=AF=E7=B5=A1=E6=
+=88=91=E5=80=91=EF=BC=8C=E8=AC=9D=E8=AC=9D=EF=BC=81
+
+=E7=B6=B2=E6=93=8E=20P-Marker=20=E6=95=AC=E5=95=9F
+2013.2.4
+
+
+
+
+-----Original=20message-----
+From:Ju,=20Orange=20=20=20=20=20=20TWNRC<Orange.Ju@Cigna.com>
+To:billy_chueh@openfind.com.tw<billy_chueh@openfind.com.tw>,raul_chi@mail200=
+0.com.tw<raul_chi@mail2000.com.tw>,mario_wang@openfind.com.tw<mario_wang@ope=
+nfind.com.tw>
+Cc:silvia_chen@openfind.com.tw<silvia_chen@openfind.com.tw>,Kao,=20Tim=20K=20=
+=20=20=20=20=20TWNRC<Tim.Kao@Cigna.com>
+Date:=20Mon,=2004=20Feb=202013=2011:07:35
+Subject:=20CIGNA=20-P-Marker=20Cloud=E5=8C=AF=E5=85=A5=E6=B8=85=E5=96=AE=E9=8C=
+=AF=E8=AA=A4=E8=A8=8A=E6=81=AF
+Hi,
+=E6=88=91=E5=80=91=E4=BD=BF=E7=94=A8=E7=B3=BB=E7=B5=B1=E6=89=80=E6=8F=90=E4=BE=
+=9B=E6=A0=BC=E5=BC=8F..=E5=B0=87=E8=B3=87=E9=8D=B5=E5=85=A5=E6=AA=94=E6=A1=88=
+=E5=85=A7=E4=B8=A6=E5=8C=AF=E5=85=A5=E7=B3=BB=E7=B5=B1=E4=B8=AD=E5=BE=8C..=E6=
+=9C=83=E5=87=BA=E7=8F=BE=E4=B8=8B=E9=9D=A2=E9=8C=AF=E8=AA=A4=E8=A8=8A=E6=81=AF=
+
+=20
+=E9=BA=BB=E7=85=A9=E5=8F=AF=E4=BB=A5=E5=B9=AB=E6=88=91=E5=80=91=E6=AA=A2=E6=9F=
+=A5=E4=B8=80=E4=B8=8B!
+=20
+=E8=AC=9D=E8=AC=9D
+=20
+
+=20
+=20
+=20
+=20
+=20
+
+=20
+=20
+=20
+=20
+=20
+=20
+
+=20
+Orange=20Ju=20=E9=9E=A0=E8=88=88=E8=8F=AF
+Cigna=20Taiwan
+6F,=20No.39,=20Zhonghua=20Rd.,=20Sec.=201,
+100=20Taipei,=20Taiwan,=20R.O.C
+Phone
+:=20+886=202=206623-1511
+Fax
+:=20+886=202=206630-1210
+Email
+:=20Orange.Ju@Cigna.com
+=20
+Confidential,=20unpublished=20property=20of=20Cigna.=20Do=20not=20duplicate=20=
+or=20distribute.
+Use=20and=20distribution=20limited=20solely=20to=20authorized=20personnel.=20=
+=C2=A9=20Copyright=202013=20Cigna
+
+=20=20
+
+=20
+----------------------------------------------------------------------------=
+--
+CONFIDENTIALITY=20NOTICE:=20If=20you=20have=20received=20this=20email=20in=20=
+error,
+please=20immediately=20notify=20the=20sender=20by=20e-mail=20at=20the=20addr=
+ess=20shown.=20=20
+This=20email=20transmission=20may=20contain=20confidential=20information.=20=
+=20This=20
+information=20is=20intended=20only=20for=20the=20use=20of=20the=20individual=
+(s)=20or=20entity=20to=20
+whom=20it=20is=20intended=20even=20if=20addressed=20incorrectly.=20=20Please=
+=20delete=20it=20from=20
+your=20files=20if=20you=20are=20not=20the=20intended=20recipient.=20=20Thank=
+=20you=20for=20your=20
+compliance.=20=20Copyright=20(c)=202013=20Cigna
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+
+
+-----pFPbdV5yn,3WzT)hhixoKRHpJid
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><br>
+Hi,=20Orange,<div><br></div><div><div>error=2081=20=E6=87=89=E6=98=AF=E5=9B=A0=
+=E7=82=BA=E6=82=A8=E4=B8=8A=E5=82=B3=E7=9A=84=E6=AA=94=E6=A1=88=E7=9A=84=E7=B7=
+=A8=E7=A2=BC=20(charset)=20=E4=B8=A6=E9=9D=9E=E6=88=91=E5=80=91=E9=A0=90=E6=9C=
+=9F=E7=9A=84=20unicode=20=E6=A0=BC=E5=BC=8F=EF=BC=8C</div><div>=E5=8F=AF=E8=83=
+=BD=E6=98=AF=E5=9B=A0=E7=82=BA=E6=82=A8=E6=89=93=E9=96=8B=20csv=20=E4=B9=8B=E5=
+=BE=8C=E6=9C=89=E5=8F=A6=E5=AD=98=E6=96=B0=E6=AA=94=EF=BC=8C</div><div>Excel=
+=20=E6=9C=83=E9=A0=90=E8=A8=AD=E7=94=A8=20big5=20=E7=B7=A8=E7=A2=BC=E4=BE=86=
+=E5=84=B2=E5=AD=98=EF=BC=8C=E4=B8=8A=E5=82=B3=E5=BE=8C=E5=B0=B1=E6=9C=83=E9=81=
+=AD=E9=81=87=E7=B7=A8=E7=A2=BC=E4=B8=8D=E7=AC=A6=E7=9A=84=E5=95=8F=E9=A1=8C=E3=
+=80=82</div><div><br></div><div>=E8=A6=81=E9=BA=BB=E7=85=A9=E6=82=A8=E5=86=8D=
+=E8=87=AA=E7=B6=B2=E9=A0=81=20=E9=87=8D=E6=96=B0=E4=B8=8B=E8=BC=89=20Compute=
+rList.csv=20=EF=BC=8C</div><div>=E8=B2=BC=E4=B8=8A=E6=82=A8=E8=A6=81=E5=8C=AF=
+=E5=85=A5=E7=9A=84=E5=85=A7=E5=AE=B9=E5=BE=8C=EF=BC=8C=E3=80=8C=E7=9B=B4=E6=8E=
+=A5=E5=84=B2=E5=AD=98=E3=80=8D=20(Ctrl=20+=20S)=EF=BC=8C=E6=87=89=E8=A9=B2=E5=
+=B0=B1=E5=8F=AF=E4=BB=A5=E4=BF=9D=E6=8C=81=E6=AA=94=E6=A1=88=E7=9A=84=E7=B7=A8=
+=E7=A2=BC=E4=B8=8D=E8=AE=8A=EF=BC=8C</div><div>=E4=B8=8A=E5=82=B3=E6=87=89=E8=
+=A9=B2=E5=B0=B1=E4=B8=8D=E6=9C=83=E9=81=87=E5=88=B0=20error=2081=20=E7=9A=84=
+=E5=95=8F=E9=A1=8C=E3=80=82</div>
+<div><br></div><div><br></div><div>=E8=8B=A5=E6=9C=89=E4=BB=BB=E4=BD=95=E5=BB=
+=BA=E8=AD=B0=E6=88=96=E5=95=8F=E9=A1=8C=EF=BC=8C=E6=AD=A1=E8=BF=8E=E9=9A=A8=E6=
+=99=82=E5=86=8D=E8=81=AF=E7=B5=A1=E6=88=91=E5=80=91=EF=BC=8C=E8=AC=9D=E8=AC=9D=
+=EF=BC=81</div><div><br></div><div><div>=E7=B6=B2=E6=93=8E=20P-Marker=20=E6=95=
+=AC=E5=95=9F</div><div>2013.2.4</div></div>
+<div><br></div><br>
+<br>
+<br>
+-----Original=20message-----<br>
+From:Ju,=20Orange=20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TWNRC<span=20style=3D"colo=
+r:navy;">&lt;Orange.Ju@Cigna.com&gt;</span><br>
+To:billy_chueh@openfind.com.tw<span=20style=3D"color:navy;">&lt;billy_chueh@=
+openfind.com.tw&gt;</span>,raul_chi@mail2000.com.tw<span=20style=3D"color:na=
+vy;">&lt;raul_chi@mail2000.com.tw&gt;</span>,mario_wang@openfind.com.tw<span=
+=20style=3D"color:navy;">&lt;mario_wang@openfind.com.tw&gt;</span><br>
+Cc:silvia_chen@openfind.com.tw<span=20style=3D"color:navy;">&lt;silvia_chen@=
+openfind.com.tw&gt;</span>,Kao,=20Tim=20K=20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TW=
+NRC<span=20style=3D"color:navy;">&lt;Tim.Kao@Cigna.com&gt;</span><br>
+Date:=20Mon,=2004=20Feb=202013=2011:07:35<br>
+Subject:=20CIGNA=20-P-Marker=20Cloud=E5=8C=AF=E5=85=A5=E6=B8=85=E5=96=AE=E9=8C=
+=AF=E8=AA=A4=E8=A8=8A=E6=81=AF<br>
+Hi,<br>
+=E6=88=91=E5=80=91=E4=BD=BF=E7=94=A8=E7=B3=BB=E7=B5=B1=E6=89=80=E6=8F=90=E4=BE=
+=9B=E6=A0=BC=E5=BC=8F..=E5=B0=87=E8=B3=87=E9=8D=B5=E5=85=A5=E6=AA=94=E6=A1=88=
+=E5=85=A7=E4=B8=A6=E5=8C=AF=E5=85=A5=E7=B3=BB=E7=B5=B1=E4=B8=AD=E5=BE=8C..=E6=
+=9C=83=E5=87=BA=E7=8F=BE=E4=B8=8B=E9=9D=A2=E9=8C=AF=E8=AA=A4=E8=A8=8A=E6=81=AF=
+<br>
+&nbsp;<br>
+=E9=BA=BB=E7=85=A9=E5=8F=AF=E4=BB=A5=E5=B9=AB=E6=88=91=E5=80=91=E6=AA=A2=E6=9F=
+=A5=E4=B8=80=E4=B8=8B!<br>
+&nbsp;<br>
+=E8=AC=9D=E8=AC=9D<br>
+&nbsp;<br>
+<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+<br>
+&nbsp;<br>
+Orange=20Ju=20=E9=9E=A0=E8=88=88=E8=8F=AF<br>
+Cigna=20Taiwan<br>
+6F,=20No.39,=20Zhonghua=20Rd.,=20Sec.=201,<br>
+100=20Taipei,=20Taiwan,=20R.O.C<br>
+Phone<br>
+:=20+886=202=206623-1511<br>
+Fax<br>
+:=20+886=202=206630-1210<br>
+Email<br>
+:=20Orange.Ju@Cigna.com<br>
+&nbsp;<br>
+Confidential,=20unpublished=20property=20of=20Cigna.=20Do=20not=20duplicate=20=
+or=20distribute.<br>
+Use=20and=20distribution=20limited=20solely=20to=20authorized=20personnel.=20=
+=C2=A9=20Copyright=202013=20Cigna<br>
+<br>
+&nbsp;=20<br>
+<br>
+&nbsp;<br>
+----------------------------------------------------------------------------=
+--<br>
+CONFIDENTIALITY=20NOTICE:=20If=20you=20have=20received=20this=20email=20in=20=
+error,<br>
+please=20immediately=20notify=20the=20sender=20by=20e-mail=20at=20the=20addr=
+ess=20shown.&nbsp;=20<br>
+This=20email=20transmission=20may=20contain=20confidential=20information.&nb=
+sp;=20This=20<br>
+information=20is=20intended=20only=20for=20the=20use=20of=20the=20individual=
+(s)=20or=20entity=20to=20<br>
+whom=20it=20is=20intended=20even=20if=20addressed=20incorrectly.&nbsp;=20Ple=
+ase=20delete=20it=20from=20<br>
+your=20files=20if=20you=20are=20not=20the=20intended=20recipient.&nbsp;=20Th=
+ank=20you=20for=20your=20<br>
+compliance.&nbsp;=20Copyright=20(c)=202013=20Cigna<br>
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+</div></html>
+-----pFPbdV5yn,3WzT)hhixoKRHpJid--

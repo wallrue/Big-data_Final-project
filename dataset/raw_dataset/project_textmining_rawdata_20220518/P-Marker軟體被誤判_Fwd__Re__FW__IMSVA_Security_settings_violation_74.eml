@@ -1,0 +1,424 @@
+X-M2KSPAM: YES/100
+Received: from 210.59.162.122
+	by asp8.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(2050:0:AUTH_NONE)
+	(envelope-from <prvs=17183F087D=mclee@openfind.com.tw>); Thu, 10 Jan 2013 15:48:21 +0800 (CST)
+Return-Path: <prvs=17183F087D=mclee@openfind.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (N/A)
+Received: from 10.0.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(18241:0:AUTH_RELAY)
+	(envelope-from <prvs=17183F087D=mclee@openfind.com.tw>); Thu, 10 Jan 2013 15:45:07 +0800 (CST)
+Return-Path: <prvs=17183F087D=mclee@openfind.com.tw>
+Received: By OpenMail Mailer;Thu, 10 Jan 2013 15:45:03 +0800 (CST)
+Received: from 203.69.82.124
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V6.00(70595:0:AUTH_RELAY)
+	(envelope-from <prvs=17183F087D=mclee@openfind.com.tw>); Thu, 10 Jan 2013 15:45:02 +0800 (CST)
+Return-Path: <prvs=17183F087D=mclee@openfind.com.tw>
+X-M2KPolicyIP: 203.69.82.124 (#NOT FOUND)
+X-MailGates: (RBL:2,PASS,0.000000e+00)(flag:1,RELAY:PASS)(IPF:2,PASS)(ba
+	yesian:SCORE-38,0.00,2)(commtouch:PASS,1,str=0001.0A150204.50EE717D.03F2
+	:SCFMA4218066,ss=1,re=-4.000,fgs=0,2)(header_match_any:pattern.fromtrust
+	.system,,HAM,*@openfind.com.tw,0)
+X-MGMilo: No
+X-MGBS: No
+Received: from 203.69.82.69
+	by mg.openfind.com.tw with MailGates ESMTP Server V4.0(1120:0:AUTH_NONE)
+	(envelope-from <prvs=17183F087D=mclee@openfind.com.tw>); Thu, 10 Jan 2013 15:44:57 +0800 (CST)
+Return-Path: <prvs=17183F087D=mclee@openfind.com.tw>
+Received: from 10.0.0.40
+	by bak1.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(78588:0:AUTH_RELAY)
+	(envelope-from <prvs=17183F087D=mclee@openfind.com.tw>); Thu, 10 Jan 2013 15:42:24 +0800 (CST)
+Return-Path: <prvs=17183F087D=mclee@openfind.com.tw>
+M2KForward: Yes
+Received: By OpenMail Mailer;Thu, 10 Jan 2013 15:42:24 +0800 (CST)
+Received: from 203.69.82.34
+	by m0.mail2000.com.tw with Mail2000 ESMTP Server V3.20M(37074:0:AUTH_NONE)
+	(envelope-from <prvs=17183F087D=mclee@openfind.com.tw>); Thu, 10 Jan 2013 15:42:21 +0800 (CST)
+Return-Path: <prvs=17183F087D=mclee@openfind.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(75376:1:AUTH_NONE)
+	(envelope-from <prvs=17183F087D=mclee@openfind.com.tw>); Thu, 10 Jan 2013 15:42:21 +0800 (CST)
+Return-Path: <prvs=17183F087D=mclee@openfind.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (audit_rules:rules.audit_out1311132448.system#,,aDELIVER,R/
+	m2k_service@mail2000.com.tw,4)
+X-MGMilo: No
+X-MGBS: No
+Received: from 10.0.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(18256:0:AUTH_RELAY)
+	(envelope-from <mclee@openfind.com.tw>); Thu, 10 Jan 2013 15:36:53 +0800 (CST)
+Return-Path: <mclee@openfind.com.tw>
+Received: By OpenMail Mailer;Thu, 10 Jan 2013 15:36:48 +0800 (CST)
+Received: from 10.0.55.8
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V6.00(70595:0:AUTH_LOGIN)
+	(envelope-from <mclee@openfind.com.tw>); Thu, 10 Jan 2013 15:36:46 +0800 (CST)
+Return-Path: <mclee@openfind.com.tw>
+X-M2KPolicyIP: 10.0.55.8 (#NOT FOUND)
+Message-ID: <50EE6F8B.8030509@openfind.com.tw>
+Date: Thu, 10 Jan 2013 15:36:43 +0800
+From: mclee <mclee@openfind.com.tw>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Thunderbird/17.0
+MIME-Version: 1.0
+To: mario_wang@openfind.com.tw, phantom_weng@openfind.com.tw
+CC: p-marker@openfind.com.tw, online_se@openfind.com.tw
+Subject: =?Big5?B?UC1NYXJrZXKzbsXps1G7fqdQIEZ3ZDogUmU6IEZXOiBJTVNWQSBTZWN1?=
+ =?Big5?B?cml0eSBzZXR0aW5ncyB2aW9sYXRpb24=?=
+References: <1357287894.2446.mclee@openfind.com.tw>
+In-Reply-To: <1357287894.2446.mclee@openfind.com.tw>
+X-Forwarded-Message-Id: <1357287894.2446.mclee@openfind.com.tw>
+Content-Type: multipart/alternative;
+ boundary="------------070808010307010007040204"
+
+This is a multi-part message in MIME format.
+--------------070808010307010007040204
+Content-Type: text/plain; charset=Big5
+Content-Transfer-Encoding: 8bit
+
+Dear Phantom & Mario,
+
+鍾顧問有提到 google chrome 下載 p-marker 用戶端軟體時會被瀏覽器警告有安
+全問題，
+這我昨天從官網下載 No UI 的時候有重製出來。
+
+之前工業局也有回報過，不過不是瀏覽器而看來是郵件過濾的軟體會阻擋，
+當時我有把整個 zip 拿上 www.virustotal.com 掃描，一個問題都沒有、相當安全
+
+但因為已經有回報而且也可以重製，可能要找人研究一下這個問題才行?
+
+Thanks!
+孟秋
+
+-------- Original Message --------
+Subject: 	Re: FW: IMSVA Security settings violation
+Date: 	Fri, 04 Jan 2013 16:24:54 +0800 (CST)
+From: 	李孟秋 <mclee@openfind.com.tw>
+Reply-To: 	李孟秋 <mclee@openfind.com.tw>
+To: 	紀姿吟 <tychi@moeaidb.gov.tw>
+CC: 	林彥廷 <ytlin3@moeaidb.gov.tw>
+
+
+
+紀小姐您好，
+
+將傳給各位的檔案上傳到 www.virustotal.com 經由45個不同掃毒引擎，
+確認都沒有掃描到病毒，請見下圖~ 敬請放心使用
+
+
+
+網擎 孟秋 敬啟
+
+※ 引述《"紀姿吟" <tychi@moeaidb.gov.tw>》 之郵件內容：
+>Dear 李協理,
+>
+>請確認附件是否有病毒
+>謝謝。
+>
+>-----Original Message-----
+>From: postmaster@imsva.trendmicro.com
+>[mailto:postmaster@imsva.trendmicro.com]
+>Sent: Friday, January 04, 2013 3:00 PM
+>To: NotificationRecipients
+>Subject: IMSVA Security settings violation
+>
+>InterScan Messaging Security Virtual Appliance has detected a message which
+>violated the security settings configured in Policy > Scanning Exceptions.
+>The message was quarantined. You can find out more about this event by
+>querying the Policy Event logs for Scanning exceptions.
+>
+>Message details:
+>Sender: prvs=1711BF9EB2=mclee@openfind.com.tw
+>Recipient: tychi@moeaidb.gov.tw
+>Subject: P-Marker 提供貴局P-Marker客製內容 (121224-2.pdf) 用戶端軟體部分
+>Message ID: 3AD7C2EB-D271-1A04-8E95-E0D8ACAA1965
+>Attachment:
+>
+>
+
+
+--------------070808010307010007040204
+Content-Type: multipart/related;
+ boundary="------------020203040000010702070602"
+
+
+--------------020203040000010702070602
+Content-Type: text/html; charset=Big5
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=Big5">
+  </head>
+  <body text="#000000" bgcolor="#FFFFFF">
+    Dear Phantom &amp; Mario,<br>
+    <br>
+    鍾顧問有提到 google chrome 下載 p-marker 用戶端軟體時會被瀏覽器警告有安全問題，<br>
+    這我昨天從官網下載 No UI 的時候有重製出來。<br>
+    <br>
+    <div class="moz-forward-container">之前工業局也有回報過，不過不是瀏覽器而看來是郵件過濾的軟體會阻擋，<br>
+      當時我有把整個 zip 拿上 <a class="moz-txt-link-abbreviated" href="http://www.virustotal.com">www.virustotal.com</a> 掃描，一個問題都沒有、相當安全<br>
+      <br>
+      但因為已經有回報而且也可以重製，可能要找人研究一下這個問題才行?<br>
+      <br>
+      Thanks!<br>
+      孟秋<br>
+      <br>
+      -------- Original Message --------
+      <table class="moz-email-headers-table" border="0" cellpadding="0"
+        cellspacing="0">
+        <tbody>
+          <tr>
+            <th nowrap="nowrap" valign="BASELINE" align="RIGHT">Subject:
+            </th>
+            <td>Re: FW: IMSVA Security settings violation</td>
+          </tr>
+          <tr>
+            <th nowrap="nowrap" valign="BASELINE" align="RIGHT">Date: </th>
+            <td>Fri, 04 Jan 2013 16:24:54 +0800 (CST)</td>
+          </tr>
+          <tr>
+            <th nowrap="nowrap" valign="BASELINE" align="RIGHT">From: </th>
+            <td>李孟秋 <a class="moz-txt-link-rfc2396E" href="mailto:mclee@openfind.com.tw">&lt;mclee@openfind.com.tw&gt;</a></td>
+          </tr>
+          <tr>
+            <th nowrap="nowrap" valign="BASELINE" align="RIGHT">Reply-To:
+            </th>
+            <td>李孟秋 <a class="moz-txt-link-rfc2396E" href="mailto:mclee@openfind.com.tw">&lt;mclee@openfind.com.tw&gt;</a></td>
+          </tr>
+          <tr>
+            <th nowrap="nowrap" valign="BASELINE" align="RIGHT">To: </th>
+            <td>紀姿吟 <a class="moz-txt-link-rfc2396E" href="mailto:tychi@moeaidb.gov.tw">&lt;tychi@moeaidb.gov.tw&gt;</a></td>
+          </tr>
+          <tr>
+            <th nowrap="nowrap" valign="BASELINE" align="RIGHT">CC: </th>
+            <td>林彥廷 <a class="moz-txt-link-rfc2396E" href="mailto:ytlin3@moeaidb.gov.tw">&lt;ytlin3@moeaidb.gov.tw&gt;</a></td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <br>
+      紀小姐您好，<br>
+      <br>
+      將傳給各位的檔案上傳到 <a class="moz-txt-link-abbreviated" href="http://www.virustotal.com">www.virustotal.com</a> 經由45個不同掃毒引擎，<br>
+      確認都沒有掃描到病毒，請見下圖~ 敬請放心使用<br>
+      <br>
+      <img src="cid:part1.08040801.02040806@openfind.com.tw"><br>
+      <br>
+      網擎 孟秋 敬啟<br>
+      <br>
+      ※ 引述《"紀姿吟" <span style="color:navy;"><a class="moz-txt-link-rfc2396E" href="mailto:tychi@moeaidb.gov.tw">&lt;tychi@moeaidb.gov.tw&gt;</a></span>》
+      之郵件內容： <br>
+      &gt;Dear 李協理,<br>
+      &gt;<br>
+      &gt;請確認附件是否有病毒<br>
+      &gt;謝謝。<br>
+      &gt;<br>
+      &gt;-----Original Message-----<br>
+      &gt;From: <a class="moz-txt-link-abbreviated" href="mailto:postmaster@imsva.trendmicro.com">postmaster@imsva.trendmicro.com</a><br>
+      &gt;[<a class="moz-txt-link-freetext" href="mailto:postmaster@imsva.trendmicro.com">mailto:postmaster@imsva.trendmicro.com</a>] <br>
+      &gt;Sent: Friday, January 04, 2013 3:00 PM<br>
+      &gt;To: NotificationRecipients<br>
+      &gt;Subject: IMSVA Security settings violation<br>
+      &gt;<br>
+      &gt;InterScan Messaging Security Virtual Appliance has detected a
+      message which<br>
+      &gt;violated the security settings configured in Policy &gt;
+      Scanning Exceptions.<br>
+      &gt;The message was quarantined. You can find out more about this
+      event by<br>
+      &gt;querying the Policy Event logs for Scanning exceptions.<br>
+      &gt;<br>
+      &gt;Message details:<br>
+      &gt;Sender: <a class="moz-txt-link-abbreviated" href="mailto:prvs=1711BF9EB2=mclee@openfind.com.tw">prvs=1711BF9EB2=mclee@openfind.com.tw</a><br>
+      &gt;Recipient: <a class="moz-txt-link-abbreviated" href="mailto:tychi@moeaidb.gov.tw">tychi@moeaidb.gov.tw</a><br>
+      &gt;Subject: P-Marker 提供貴局P-Marker客製內容 (121224-2.pdf) 用戶端軟體部分<br>
+      &gt;Message ID: 3AD7C2EB-D271-1A04-8E95-E0D8ACAA1965<br>
+      &gt;Attachment: <br>
+      &gt;<br>
+      &gt;
+      <br>
+    </div>
+    <br>
+  </body>
+</html>
+
+--------------020203040000010702070602
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-ID: <part1.08040801.02040806@openfind.com.tw>
+
+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
+gA//HxIacLMJMJEqAAAAAElFTkSuQmCC
+--------------020203040000010702070602--
+
+--------------070808010307010007040204--

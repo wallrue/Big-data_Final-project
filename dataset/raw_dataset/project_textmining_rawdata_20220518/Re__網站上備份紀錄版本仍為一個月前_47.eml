@@ -1,0 +1,258 @@
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 220.130.127.161
+	by ms3.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(5571:0:AUTH_NONE)
+	(envelope-from <janny.lin@pie.com.tw>); Tue, 21 Jun 2016 15:45:22 +0800 (CST)
+Return-Path: <janny.lin@pie.com.tw>
+X-M2KSPAM: YES/100
+Received: from 220.130.127.161
+	by asp6.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(86564:0:AUTH_NONE)
+	(envelope-from <janny.lin@pie.com.tw>); Tue, 21 Jun 2016 15:45:22 +0800 (CST)
+Return-Path: <janny.lin@pie.com.tw>
+X-M2KPolicyIP: 220.130.127.161 (p5.mail2000.com.tw)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=pie.com.tw;
+	s=1404202314.pie; t=1466495122; bh=XKSQ8+KEeIPj8fTxKVysNLRuzVo=;
+	h=Received:Return-Path:Received:Received:Return-Path:X-M2KSPAM:
+	 Received:Return-Path:X-M2KPolicyIP:DKIM-Signature:X-ADIFSPAM:
+	 X-ADIFSPAM-CT:Received:Return-Path:X-ADIFSPAM:X-ADIFSPAM-CT:
+	 Received:Received:Return-Path:X-M2KSPAM:Received:Return-Path:
+	 X-M2KPolicyIP:DKIM-Signature:X-ADIFSPAM:X-ADIFSPAM-CT:Received:
+	 Return-Path:Received:From:Reply-To:Subject:Message-ID:In-Reply-To:
+	 References:To:Date:MIME-Version:Return-Path:
+	 Disposition-Notification-To:Content-Type;
+	b=VuZkmNQSZRKI9v8OcfaKjkKy/ZObhD05lPYbravF4DFHUevOqhYAl0NzUy2Ukex3z
+	 EPVPpkvcp5Mrw+Y23VFnFuep6Kx2CKlqP43b3P2YBnGKLBmwAGnX2QZzG6kssQptgc
+	 XtXporzQZUWds/t/69t9LcMnDX9HHf2WGOKt6Wr0=
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(31064:0:AUTH_RELAY)
+	(envelope-from <janny.lin@pie.com.tw>); Tue, 21 Jun 2016 15:45:21 +0800 (CST)
+Return-Path: <janny.lin@pie.com.tw>
+Received: By OpenMail Mailer;Tue, 21 Jun 2016 15:45:21 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(17909:0:AUTH_NONE)
+	(envelope-from <janny.lin@pie.com.tw>); Tue, 21 Jun 2016 15:45:19 +0800 (CST)
+Return-Path: <janny.lin@pie.com.tw>
+X-M2KSPAM: YES/100
+Received: from 220.130.127.162
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(42362:1:AUTH_NONE)
+	(envelope-from <janny.lin@pie.com.tw>); Tue, 21 Jun 2016 15:45:16 +0800 (CST)
+Return-Path: <janny.lin@pie.com.tw>
+X-M2KPolicyIP: 220.130.127.162 (p6.mail2000.com.tw)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=pie.com.tw;
+	s=1404202314.pie; t=1466495116; bh=XKSQ8+KEeIPj8fTxKVysNLRuzVo=;
+	h=Received:Return-Path:X-ADIFSPAM:X-ADIFSPAM-CT:Received:Received:
+	 Return-Path:X-M2KSPAM:Received:Return-Path:X-M2KPolicyIP:
+	 DKIM-Signature:X-ADIFSPAM:X-ADIFSPAM-CT:Received:Return-Path:
+	 Received:From:Reply-To:Subject:Message-ID:In-Reply-To:References:
+	 To:Date:MIME-Version:Return-Path:Disposition-Notification-To:
+	 Content-Type;
+	b=hkO3wJuY/WknONyxBEkC3II4yb5TztUIXfS2DK1bzY4XtJ7DDyWIxldVyVkoxlkL3
+	 OPYPaEVwCKbLJFseKKHIKXixV+ZHpS9hYRFLivTYJMqxqYSUJid6bnVmpIQB8NQm0Z
+	 Yu8knVmT/Sl+I1Sd3zy2OpYQh9eA0rD6Chj/rBLs=
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.13
+	by p2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(15503:0:AUTH_RELAY)
+	(envelope-from <janny.lin@pie.com.tw>); Tue, 21 Jun 2016 15:45:16 +0800 (CST)
+Return-Path: <janny.lin@pie.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: By OpenMail Mailer;Tue, 21 Jun 2016 15:45:15 +0800 (CST)
+Received: from 220.130.127.161
+	by ms1.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(16255:1:AUTH_NONE)
+	(envelope-from <janny.lin@pie.com.tw>); Tue, 21 Jun 2016 15:45:12 +0800 (CST)
+Return-Path: <janny.lin@pie.com.tw>
+X-M2KSPAM: YES/100
+Received: from 220.130.127.161
+	by asp6.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(10596:0:AUTH_NONE)
+	(envelope-from <janny.lin@pie.com.tw>); Tue, 21 Jun 2016 15:45:11 +0800 (CST)
+Return-Path: <janny.lin@pie.com.tw>
+X-M2KPolicyIP: 220.130.127.161 (p5.mail2000.com.tw)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=pie.com.tw;
+	s=1404202314.pie; t=1466495111; bh=XKSQ8+KEeIPj8fTxKVysNLRuzVo=;
+	h=Received:Return-Path:Received:From:Reply-To:Subject:Message-ID:
+	 In-Reply-To:References:To:Date:MIME-Version:Return-Path:
+	 Disposition-Notification-To:Content-Type;
+	b=jTUmWDsRVTYFfwttC1iAx4pTXsNs1AUIeEfhVZGCmpORztTXzHftjFdzpi5oM0ZB7
+	 4JFBymFfS1NWPJfLy+UV4r84g6ssAlilEJ2g6k7zaU+ytY8ZCTMsgS36+Wu1m1y9ge
+	 K1el6X/fWroSUmG2lMNL1zeQpFqzAag7nSFEkHdg=
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/0
+Received: from 10.0.0.50
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(31054:0:AUTH_LOGIN)
+	(envelope-from <janny.lin@pie.com.tw>); Tue, 21 Jun 2016 15:45:11 +0800 (CST)
+Return-Path: <janny.lin@pie.com.tw>
+Received: By OpenMail Mailer;Tue, 21 Jun 2016 15:45:09 +0800 (CST)
+From: "Janny Lin" <janny.lin@pie.com.tw>
+Reply-To: "Janny Lin" <janny.lin@pie.com.tw>
+Subject: =?big5?B?UmU6ILr0r7ikV7PGpfes9r/9qqmlu6S0rLCkQK3T?=
+	=?big5?B?pOurZQ==?=
+Message-ID: <1466495109.16965.janny.lin@pie.com.tw>
+In-Reply-To: <1466493624.15977.service@keepeverything.com>
+References: <1466490635.20820.janny.lin@pie.com.tw>
+	<1466493624.15977.service@keepeverything.com>
+To: "KE Service" <service@keepeverything.com>
+Date: Tue, 21 Jun 2016 15:45:09 +0800 (CST)
+MIME-Version: 1.0
+Return-Path: janny.lin@pie.com.tw
+Disposition-Notification-To: "Janny Lin" <janny.lin@pie.com.tw>
+Content-Type: multipart/alternative;
+	boundary="---q:-VmqU7VhrYJYTvG)fGpC4w6Xt"
+
+-----q:-VmqU7VhrYJYTvG)fGpC4w6Xt
+Content-Type: text/plain; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+=B1z=A6n,
+
+=A6]kelog=B8=EA=AE=C6=A7=A8=C0=C9=AE=D7=AC=F9100=A6hmb,=20=ACG=A5=CEdropbox=A4=
+=C0=A8=C9=B3s=B5=B2=BD=D0=B1z=A4U=B8=FC=A5i=A5H=B6=DC=A1H
+
+https://www.dropbox.com/s/58bk564ah4yu9gj/KeLog.zip?dl=3D0
+
+-----Original=20message-----
+From:KE=20Service<service@keepeverything.com>
+To:Janny=20Lin<janny.lin@pie.com.tw>
+Date:=20Tue,=2021=20Jun=202016=2015:20:24
+Subject:=20Re:=20=BA=F4=AF=B8=A4W=B3=C6=A5=F7=AC=F6=BF=FD=AA=A9=A5=BB=A4=B4=AC=
+=B0=A4@=AD=D3=A4=EB=ABe
+
+=B1z=A6n=A1A
+
+=C3=F6=A9=F3=B1z=B4=A3=A8=EC=AA=BA=B0=DD=C3D=A1A
+=AF=E0=A7_=BD=D0=B1z=B1N=20Keep=20Everything=20=AA=BA=B0O=BF=FD=C0=C9=A4]=B4=
+=A3=A8=D1=B5=B9=A7=DA=AD=CC=A1A
+=A5H=ABK=A4u=B5{=A4H=AD=FB=B8=D4=B2=D3=A4=F1=B9=EF=A1B=B0l=ACd=B0=DD=C3D=AD=EC=
+=A6]=A1C
+=20
+=A5H=A4U=ACO=B4=A3=A8=D1=B0O=BF=FD=C0=C9=AA=BA=A4=E8=A6=A1=A1G
+=20
+1=A1B=A4U=B8=FC=AA=FE=C0=C9=A8=D6=B8=D1=C0=A3=C1Y=AA=FE=C0=C9=20zip=20(=B1K=BD=
+X:=20openfind123)=A1C
+2=A1B=A6b=C0=C9=AE=D7=A1uDumpKeLog_20141230.bat=A1v=A4W=AB=F6=A5k=C1=E4=A5H=A8=
+t=B2=CE=BA=DE=B2z=AA=CC=A8=AD=A4=C0=B0=F5=A6=E6=A1C
+3=A1B=A9=D2=A6=B3=20Keep=20Everything=20=AA=BA=B0O=BF=FD=C0=C9=B7|=A6=DB=B0=CA=
+=BD=C6=BBs=A8=EC=B1z=AE=E0=AD=B1=AA=BA=A1uKeLog=A1v=B8=EA=AE=C6=A7=A8=A4=A4=A1=
+C
+4=A1B=BD=D0=B1z=C0=A3=C1Y=A1uKeLog=A1v=B8=EA=AE=C6=A7=A8=A8=C3=B1H=A8=D3=B5=B9=
+=A7=DA=AD=CC=A7Y=A5i=A1C
+
+
+
+=C1=C2=C1=C2=B1z=AA=BA=B7R=A5=CE=BBP=AD@=A4=DF=B0t=A6X=A1A
+=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6A=A6=B8=AC=A2=B8=DF=A1C
+
+Keep=20Everything=20=AAA=B0=C8=B9=CE=B6=A4=20=B7q=A4W
+---------------------------------------------------------------------------
+Keep=20Everything=20=B3=C6=A5=F7=B6=B3
+=B4=BF=B8g=A6=B3=B3=C6=A5=F7=B9q=B8=A3=AA=BA=A9=C0=C0Y=A1A=ABo=A4=A3=AA=BE=B8=
+=D3=A6p=A6=F3=B5=DB=A4=E2=A1H
+=B4=BF=B8g=A6]=AC=B0=A4@=AAM=A9@=B0=D8=C5x=A4F=A1A=C5=FD=A7A=AA=BA=B5=A7=B9q=
+=A4@=BA=CE=A4=A3=B0_=A1H
+=BA=F4=C0=BA=B1=C0=A5X=A7K=B6O=AD=D3=A4H=B9q=B8=A3=B3=C6=A5=F7=AAA=B0=C8=20K=
+eep=20Everything=20=B3=C6=A5=F7=B6=B3
+----------------------------------------------------------------------------=
+
+
+
+-----Original=20message-----
+From:Janny=20Lin<janny.lin@pie.com.tw>
+To:service<service@keepeverything.com>
+Date:=20Tue,=2021=20Jun=202016=2014:30:35
+Subject:=20=BA=F4=AF=B8=A4W=B3=C6=A5=F7=AC=F6=BF=FD=AA=A9=A5=BB=A4=B4=AC=B0=A4=
+@=AD=D3=A4=EB=ABe
+=B1z=A6n,
+
+=A7=DA=B1q=AE=E0=AD=B1=BA=DD=AA=BA=B3=C6=A5=F7=B0O=BF=FD=AC=DD=B0_=A8=D3=B3=A3=
+=A6=B3=A5=BF=B1`=B3=C6=A5=F7
+
+=A6=FD=B5n=A4J=BA=F4=AF=B8=AB=E1=ACd=B8=DF=A8=EC=AA=BA=B3=C6=A5=F7=C0=C9=AE=D7=
+=A1A=B3=C6=A5=F7=A4=E9=B4=C1=ABo=ACO3/15=A1H=BD=D0=B0=DD=ADn=AB=E7=BB=F2=B3B=
+=B2z=A1H
+
+-----q:-VmqU7VhrYJYTvG)fGpC4w6Xt
+Content-Type: text/html; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+<html><div>=B1z=A6n,</div><div><br></div><div>=A6]kelog=B8=EA=AE=C6=A7=A8=C0=
+=C9=AE=D7=AC=F9100=A6hmb,=20=ACG=A5=CEdropbox=A4=C0=A8=C9=B3s=B5=B2=BD=D0=B1=
+z=A4U=B8=FC=A5i=A5H=B6=DC=A1H</div><div><br></div><div>https://www.dropbox.c=
+om/s/58bk564ah4yu9gj/KeLog.zip?dl=3D0</div><br>
+-----Original=20message-----<br>
+
+
+
+
+<b>From:</b>KE=20Service&lt;service@keepeverything.com&gt;<br>
+<b>To:</b>Janny=20Lin&lt;janny.lin@pie.com.tw&gt;<br>
+<b>Date:=20</b>=20Tue,=2021=20Jun=202016=2015:20:24<br>
+<b>Subject:</b>=20Re:=20=BA=F4=AF=B8=A4W=B3=C6=A5=F7=AC=F6=BF=FD=AA=A9=A5=BB=
+=A4=B4=AC=B0=A4@=AD=D3=A4=EB=ABe<br>
+<div><font=20face=3D"=B7L=B3n=A5=BF=B6=C2=C5=E9,=20sans-serif">=B1z=A6n=A1A<=
+/font></div><div><font=20face=3D"=B7L=B3n=A5=BF=B6=C2=C5=E9,=20sans-serif"><=
+div><br></div><div>=C3=F6=A9=F3=B1z=B4=A3=A8=EC=AA=BA=B0=DD=C3D=A1A</div><di=
+v>=AF=E0=A7_=BD=D0=B1z=B1N=20Keep=20Everything=20=AA=BA=B0O=BF=FD=C0=C9=A4]=B4=
+=A3=A8=D1=B5=B9=A7=DA=AD=CC=A1A</div><div>=A5H=ABK=A4u=B5{=A4H=AD=FB=B8=D4=B2=
+=D3=A4=F1=B9=EF=A1B=B0l=ACd=B0=DD=C3D=AD=EC=A6]=A1C</div><div>&nbsp;</div><d=
+iv>=A5H=A4U=ACO=B4=A3=A8=D1=B0O=BF=FD=C0=C9=AA=BA=A4=E8=A6=A1=A1G</div><div>=
+&nbsp;</div><div>1=A1B=A4U=B8=FC=AA=FE=C0=C9=A8=D6=B8=D1=C0=A3=C1Y=AA=FE=C0=C9=
+=20zip=20(=B1K=BDX:=20openfind123)=A1C</div><div>2=A1B=A6b=C0=C9=AE=D7=A1uDu=
+mpKeLog_20141230.bat=A1v=A4W=AB=F6=A5k=C1=E4=A5H=A8t=B2=CE=BA=DE=B2z=AA=CC=A8=
+=AD=A4=C0=B0=F5=A6=E6=A1C</div><div>3=A1B=A9=D2=A6=B3=20Keep=20Everything=20=
+=AA=BA=B0O=BF=FD=C0=C9=B7|=A6=DB=B0=CA=BD=C6=BBs=A8=EC=B1z=AE=E0=AD=B1=AA=BA=
+=A1uKeLog=A1v=B8=EA=AE=C6=A7=A8=A4=A4=A1C</div><div>4=A1B=BD=D0=B1z=C0=A3=C1=
+Y=A1uKeLog=A1v=B8=EA=AE=C6=A7=A8=A8=C3=B1H=A8=D3=B5=B9=A7=DA=AD=CC=A7Y=A5i=A1=
+C</div><div><br></div><br><br>=C1=C2=C1=C2=B1z</font><font=20face=3D"=B7L=B3=
+n=A5=BF=B6=C2=C5=E9,=20sans-serif">=AA=BA=B7R=A5=CE=BBP=AD@=A4=DF=B0t=A6X=A1=
+A</font></div><div><font=20face=3D"=B7L=B3n=A5=BF=B6=C2=C5=E9,=20sans-serif"=
+>=ADY=A6=B3=A5=F4=A6=F3=B0=DD=C3D=A1A=C5w=AA=EF=A6A=A6=B8=AC=A2=B8=DF=A1C</f=
+ont></div><div><font=20face=3D"=B7L=B3n=A5=BF=B6=C2=C5=E9,=20sans-serif"><br=
+></font></div><div><span=20style=3D"font-family:=20=B7L=B3n=A5=BF=B6=C2=C5=E9=
+,=20sans-serif;">Keep=20Everything=20=AAA=B0=C8=B9=CE=B6=A4=20=B7q=A4W</span=
+></div><div><font=20face=3D"=B7L=B3n=A5=BF=B6=C2=C5=E9,=20sans-serif">------=
+---------------------------------------------------------------------<br></f=
+ont><b><span=20lang=3D"EN-US"=20style=3D"font-size:=2011.5pt;=20font-family:=
+=20=B7L=B3n=A5=BF=B6=C2=C5=E9,=20sans-serif;=20color:=20red;">Keep=20Everyth=
+ing&nbsp;</span></b><b><span=20style=3D"font-size:=2011.5pt;"><font=20color=3D=
+"#ff0000"=20face=3D"=B7L=B3n=A5=BF=B6=C2=C5=E9,=20sans-serif">=B3=C6=A5=F7=B6=
+=B3<br></font></span></b><span=20style=3D"font-family:=20=B7L=B3n=A5=BF=B6=C2=
+=C5=E9,=20sans-serif;=20font-size:=2011.5pt;">=B4=BF=B8g=A6=B3=B3=C6=A5=F7=B9=
+q=B8=A3=AA=BA=A9=C0=C0Y=A1A=ABo=A4=A3=AA=BE=B8=D3=A6p=A6=F3=B5=DB=A4=E2=A1H<=
+br></span><span=20style=3D"font-family:=20=B7L=B3n=A5=BF=B6=C2=C5=E9,=20sans=
+-serif;=20font-size:=2011.5pt;">=B4=BF=B8g=A6]=AC=B0=A4@=AAM=A9@=B0=D8=C5x=A4=
+F=A1A=C5=FD=A7A=AA=BA=B5=A7=B9q=A4@=BA=CE=A4=A3=B0_=A1H<br></span><span=20st=
+yle=3D"font-family:=20=B7L=B3n=A5=BF=B6=C2=C5=E9,=20sans-serif;=20font-size:=
+=2011.5pt;">=BA=F4=C0=BA=B1=C0=A5X=A7K=B6O=AD=D3=A4H=B9q=B8=A3=B3=C6=A5=F7=AA=
+A=B0=C8&nbsp;</span><b=20style=3D"font-family:=20=B7L=B3n=A5=BF=B6=C2=C5=E9,=
+=20sans-serif;"><span=20lang=3D"EN-US"><a=20href=3D"http://www.keepeverythin=
+g.com/"=20style=3D"font-size:=2011.5pt;"><span=20style=3D"font-size:=2011.5p=
+t;=20color:=20blue;">Keep=20Everything&nbsp;</span><span=20lang=3D"EN-US"=20=
+style=3D"font-size:=2011.5pt;=20color:=20blue;"><span=20lang=3D"EN-US">=B3=C6=
+=A5=F7=B6=B3</span></span></a><font=20color=3D"#0000ff"><br></font></span></=
+b><span=20style=3D"font-family:=20=B7L=B3n=A5=BF=B6=C2=C5=E9,=20sans-serif;"=
+>---------------------------------------------------------------------------=
+-</span></div><div><span=20style=3D"font-family:=20=B7L=B3n=A5=BF=B6=C2=C5=E9=
+,=20sans-serif;"><br></span></div><br>
+-----Original=20message-----<br>
+
+
+
+
+
+<b>From:</b>Janny=20Lin&lt;janny.lin@pie.com.tw&gt;<br>
+<b>To:</b>service&lt;service@keepeverything.com&gt;<br>
+<b>Date:=20</b>=20Tue,=2021=20Jun=202016=2014:30:35<br>
+<b>Subject:</b>=20=BA=F4=AF=B8=A4W=B3=C6=A5=F7=AC=F6=BF=FD=AA=A9=A5=BB=A4=B4=
+=AC=B0=A4@=AD=D3=A4=EB=ABe<br>
+=B1z=A6n,<br>
+<br>
+=A7=DA=B1q=AE=E0=AD=B1=BA=DD=AA=BA=B3=C6=A5=F7=B0O=BF=FD=AC=DD=B0_=A8=D3=B3=A3=
+=A6=B3=A5=BF=B1`=B3=C6=A5=F7<br>
+<br>
+=A6=FD=B5n=A4J=BA=F4=AF=B8=AB=E1=ACd=B8=DF=A8=EC=AA=BA=B3=C6=A5=F7=C0=C9=AE=D7=
+=A1A=B3=C6=A5=F7=A4=E9=B4=C1=ABo=ACO3/15=A1H=BD=D0=B0=DD=ADn=AB=E7=BB=F2=B3B=
+=B2z=A1H<br>
+</html>
+-----q:-VmqU7VhrYJYTvG)fGpC4w6Xt--

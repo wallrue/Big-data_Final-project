@@ -1,0 +1,342 @@
+X-M2KSPAM: NO/-6
+Received: from 3.3.3.3
+	by asp7.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(5246:1:AUTH_RELAY)
+	(envelope-from <prvs=1963FDA158=p-marker@openfind.com.tw>); Mon, 09 Sep 2013 15:56:39 +0800 (CST)
+Return-Path: <prvs=1963FDA158=p-marker@openfind.com.tw>
+Received: from 10.0.0.40
+	by bak1.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(81298:0:AUTH_RELAY)
+	(envelope-from <prvs=1963FDA158=p-marker@openfind.com.tw>); Mon, 09 Sep 2013 15:56:26 +0800 (CST)
+Return-Path: <prvs=1963FDA158=p-marker@openfind.com.tw>
+M2KForward: Yes
+Received: By OpenMail Mailer;Mon, 09 Sep 2013 15:56:26 +0800 (CST)
+Received: from 203.69.82.34
+	by m0.mail2000.com.tw with Mail2000 ESMTP Server V3.20M(53391:0:AUTH_NONE)
+	(envelope-from <prvs=1963FDA158=p-marker@openfind.com.tw>); Mon, 09 Sep 2013 15:56:23 +0800 (CST)
+Return-Path: <prvs=1963FDA158=p-marker@openfind.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(72765:5:AUTH_NONE)
+	(envelope-from <prvs=1963FDA158=p-marker@openfind.com.tw>); Mon, 09 Sep 2013 15:56:23 +0800 (CST)
+Return-Path: <prvs=1963FDA158=p-marker@openfind.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (audit_rules:rules.audit_out1311132448.system#,,aDELIVER,R/
+	m2k_service@mail2000.com.tw,4,ou)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+X-MGADT: rules.audit_out1311132448.system#,R/m2k_service@mail2000.com.tw
+Received: from 10.0.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(30449:0:AUTH_RELAY)
+	(envelope-from <p-marker@openfind.com.tw>); Mon, 09 Sep 2013 15:52:15 +0800 (CST)
+Return-Path: <p-marker@openfind.com.tw>
+Received: By OpenMail Mailer;Mon, 09 Sep 2013 15:52:10 +0800 (CST)
+Received: from 10.0.0.96
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V6.00(98652:0:AUTH_RELAY)
+	(envelope-from <p-marker@openfind.com.tw>); Mon, 09 Sep 2013 15:52:08 +0800 (CST)
+Return-Path: <p-marker@openfind.com.tw>
+X-M2KPolicyIP: 10.0.0.96 (#NOT FOUND)
+X-MailGates: (RBL:2,PASS,0.000000e+00)(BATV:2,PASS,sender not empty)(fla
+	g:1,RELAY:PASS)(IPF:2,PASS)(bayesian:SCORE-38,0.00,2)(commtouch:PASS,1,s
+	tr=0001.0A150204.522D7E28.0147:SCFMA4218066,ss=1,re=-4.000,fgs=0,2)(head
+	er_match_any:pattern.fromtrust.system,,HAM,*@openfind.com.tw,0)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 203.69.82.69
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(30428:0:AUTH_NONE)
+	(envelope-from <p-marker@openfind.com.tw>); Mon, 09 Sep 2013 15:52:09 +0800 (CST)
+Return-Path: <p-marker@openfind.com.tw>
+Received: from 10.0.0.41
+	by bak1.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(81279:0:AUTH_LOGIN)
+	(envelope-from <p-marker@openfind.com.tw>); Mon, 09 Sep 2013 15:51:58 +0800 (CST)
+Return-Path: <p-marker@openfind.com.tw>
+Received: By OpenMail Mailer;Mon, 09 Sep 2013 15:51:56 +0800 (CST)
+From: "=?big5?B?UC1NYXJrZXIgrdO46r1MwkmqQbDI?=" <p-marker@openfind.com.tw>
+Reply-To: "=?big5?B?UC1NYXJrZXIgrdO46r1MwkmqQbDI?=" <p-marker@openfind.com.tw>
+Subject: =?big5?B?UmU6IKXNxF+lzaqrrOyn3rFNpc4gUC1NYXJrZXIg?=
+	=?big5?B?pc6k4brdvUzCSQ==?=
+Message-ID: <1378713116.80488.p-marker@openfind.com.tw>
+In-Reply-To: <003001cead26$9b696060$d23c2120$@com.tw>
+References: <1366168577.49828.p-marker@openfind.com.tw>
+	<003001cead26$9b696060$d23c2120$@com.tw>
+To: "=?big5?B?s9Oxb2FsYmVydA==?=" <albert@healthbanks.com.tw>
+Cc: "'jeli.chiu'" <jeli.chiu@healthbanks.com.tw>,
+	"p-marker" <p-marker@openfind.com.tw>,
+	"a8813q" <a8813q@healthbanks.com.tw>
+Date: Mon, 09 Sep 2013 15:51:56 +0800 (CST)
+MIME-Version: 1.0
+Return-Path: p-marker@openfind.com.tw
+Content-Type: multipart/alternative;
+	boundary="---+4-0:yrjO(,WH:CTFQv8FzvutDH"
+
+-----+4-0:yrjO(,WH:CTFQv8FzvutDH
+Content-Type: text/plain; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+
+Albert=20=B1z=A6n=A1A
+
+=B8=F2=B6Q=A4=BD=A5q=B3=AF=A5=FD=A5=CD=BDT=BB{=AB=E1=A1A
+=B6Q=A4=BD=A5q=20client=20=BA=DD=20AD=20=AC=A3=B0e=AB=E1=A8S=A6=B3=B0=F5=A6=E6=
+=BDL=C2I=C0=B3=B8=D3=ACO=A5D=BE=F7=A5=BC=B1=D2=B0=CA=B3y=A6=A8=AA=BA=A1A
+=A4w=BD=D0=B3=AF=A5=FD=A5=CD=BDT=BB{=B6Q=A4=BD=A5q=20P-Marker=20=A5D=BE=F7=AA=
+=BA=B9B=A7@=B1=A1=A7=CE=A1C
+
+
+=ADY=A6=B3=A5=F4=A6=F3=AB=D8=C4=B3=A9=CE=B0=DD=C3D=A1A=C5w=AA=EF=C0H=AE=C9=A6=
+A=C1p=B5=B8=A7=DA=AD=CC=A1A=C1=C2=C1=C2=A1I
+
+P-Marker=20=AB=C8=AAA=A4=A4=A4=DF=20=B7q=A4W
+-----------------------------------------------------------------------
+P-Marker=20=AB=C8=AAA=A4=A4=A4=DF
+=AB=C8=AAA=B1M=BDu=A1G02-2553-7272
+=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956
+=AB=C8=AAA=ABH=BDc=A1Gp-marker@openfind.com.tw
+Mail2000=B9q=A4l=ABH=BDc=20http://mail2000.com.tw/
+=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8=20http://www.mailcloud.com.tw
+=BA=F4=C0=BA=20Openfind=20=A5=F8=B7~=BA=F4=AF=B8=20http://www.openfind.com/t=
+aiwan
+-----------------------------------------------------------------------
+
+
+-----Original=20message-----
+From:=B3=D3=B1oalbert<albert@healthbanks.com.tw>
+To:raul_chi<raul_chi@openfind.com>
+Cc:'jeli.chiu'<jeli.chiu@healthbanks.com.tw>,a8813q<a8813q@healthbanks.com.t=
+w>
+Date:=20Mon,=2009=20Sep=202013=2014:34:16
+Subject:=20=A5=CD=C4_=A5=CD=AA=AB=AC=EC=A7=DE=B1M=A5=CE=20P-Marker=20=A5=CE=A4=
+=E1=BA=DD=BDL=C2I
+dear=20=AC=F6'R
+=A7A=A6n.=A7=DA=B3o=ACO=A5=CD=C4_=A5=CD=AA=AB=AC=EC=A7=DE.=ACI'R
+=A6]=AC=B0=A6w=B8=CB=A6=DC=A4=B5=A1A=A5=D8=ABe=B1=BD=BA=CB=B8=EA=A6w=B5{=A6=A1=
+=A4=B4=B0=F5=A6=E6=A4=A3=B0_=A8=D3=B3=C2=B7=D0=A8=F3=A7U=C1=C2=C1=C2=A1I
+=20
+=A5H=A4W
+=20
+=20
+=20
+From:=20P-Marker=20=AD=D3=B8=EA=BDL=C2I=AAA=B0=C8=20[mailto:p-marker@openfin=
+d.com.tw]=20
+Sent:=20Wednesday,=20April=2017,=202013=2011:16=20AM
+To:=20albert
+Subject:=20[P-Marker]=20=A5=CD=C4_=A5=CD=AA=AB=AC=EC=A7=DE=B1M=A5=CE=20P-Mar=
+ker=20=A5=CE=A4=E1=BA=DD=BDL=C2I=B3n=C5=E9=A4U=B8=FC=B8=EA=B0T
+
+=20
+=20
+=ACI=A5=FD=A5=CD=B1z=A6n=A1A
+
+=20
+
+=B6Q=A4=BD=A5q=B1M=A5=CE=AA=BA=20P-Marker=20=A5=CE=A4=E1=BA=DD=BDL=C2I=B3n=C5=
+=E9=A4U=B8=FC=B8=EA=B0T=A6p=A4U=A1G
+
+1.=20=B5L=20UI=20=AA=A9=A5=BB(for=20=A6=DB=B0=CA=AC=A3=B0e=A8=CF=A5=CE)
+
+=20=20=20=20URL:=20http://www.p-marker.com.tw/download/healthbanks/P-Marker_=
+2003Build_NoUI.zip
+
+=20=20=20=20MD5:=201710d3596a9423e1eef667ea7d8973e6
+
+2.=20=A6=B3=20UI=20=AA=A9=A5=BB
+
+=20=20=20=20=20URL:=20http://www.p-marker.com.tw/download/healthbanks/P-Mark=
+er_2003Build.zip
+
+=20=20=20=20=20MD5:=2046a734986616b3ec99b5ac666e1128ff
+
+=20
+
+=A4U=B8=FC=B1b=B8=B9=A1Ghealthbanks
+
+=A4U=B8=FC=B1K=BDX=A1G=B6Q=A4=BD=A5q=B2=CE=BDs=A4K=BDX(12xxxx05)
+
+=20
+
+=A6=DB=B0=CA=AC=A3=B0e=A8=CF=A5=CE=BB=A1=A9=FA=A4=E5=A5=F3=BD=D0=A8=A3=20P-M=
+arker_2003Build_NoUI.zip=20=B8=D1=C0=A3=C1Y=AB=E1=AA=BA
+Openfind_P-Marker_=A6=DB=B0=CA=AC=A3=B0e=BE=DE=A7@=BB=A1=A9=FA.pdf
+
+=20
+
+=20
+
+=ADY=A6=B3=A5=F4=A6=F3=AB=D8=C4=B3=A9=CE=B0=DD=C3D=A1A=C5w=AA=EF=C0H=AE=C9=A6=
+A=C1p=B5=B8=A7=DA=AD=CC=A1A=C1=C2=C1=C2=A1I
+
+=20
+
+=BA=F4=C0=BA=20P-Marker=20=B7q=B1=D2
+
+2013.4.17
+
+
+-----+4-0:yrjO(,WH:CTFQv8FzvutDH
+Content-Type: text/html; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+<html><br>Albert=20=B1z=A6n=A1A<div><br></div><div>=B8=F2=B6Q=A4=BD=A5q=B3=AF=
+=A5=FD=A5=CD=BDT=BB{=AB=E1=A1A</div><div>=B6Q=A4=BD=A5q=20client=20=BA=DD=20=
+AD=20=AC=A3=B0e=AB=E1=A8S=A6=B3=B0=F5=A6=E6=BDL=C2I=C0=B3=B8=D3=ACO=A5D=BE=F7=
+=A5=BC=B1=D2=B0=CA=B3y=A6=A8=AA=BA=A1A</div><div>=A4w=BD=D0=B3=AF=A5=FD=A5=CD=
+=BDT=BB{=B6Q=A4=BD=A5q=20P-Marker=20=A5D=BE=F7=AA=BA=B9B=A7@=B1=A1=A7=CE=A1C=
+<br><br>
+<br><div>=ADY=A6=B3=A5=F4=A6=F3=AB=D8=C4=B3=A9=CE=B0=DD=C3D=A1A=C5w=AA=EF=C0=
+H=AE=C9=A6A=C1p=B5=B8=A7=DA=AD=CC=A1A=C1=C2=C1=C2=A1I</div><div><br></div><d=
+iv><div>P-Marker=20=AB=C8=AAA=A4=A4=A4=DF=20=B7q=A4W</div><div>-------------=
+----------------------------------------------------------</div><div>P-Marke=
+r=20=AB=C8=AAA=A4=A4=A4=DF</div><div>=AB=C8=AAA=B1M=BDu=A1G02-2553-7272</div=
+><div>=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956</div><div>=AB=C8=AAA=ABH=BDc=A1Gp=
+-marker@openfind.com.tw</div><div>Mail2000=B9q=A4l=ABH=BDc=20http://mail2000=
+.com.tw/</div><div>=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8=20http://www=
+.mailcloud.com.tw</div><div>=BA=F4=C0=BA=20Openfind=20=A5=F8=B7~=BA=F4=AF=B8=
+=20http://www.openfind.com/taiwan</div><div>--------------------------------=
+---------------------------------------</div></div>
+<br>
+<br>
+-----Original=20message-----<br>
+
+<b>From:</b>=B3=D3=B1oalbert&lt;albert@healthbanks.com.tw&gt;<br>
+<b>To:</b>raul_chi&lt;raul_chi@openfind.com&gt;<br>
+<b>Cc:</b>'jeli.chiu'&lt;jeli.chiu@healthbanks.com.tw&gt;,a8813q&lt;a8813q@h=
+ealthbanks.com.tw&gt;<br>
+<b>Date:=20</b>=20Mon,=2009=20Sep=202013=2014:34:16<br>
+<b>Subject:</b>=20=A5=CD=C4_=A5=CD=AA=AB=AC=EC=A7=DE=B1M=A5=CE=20P-Marker=20=
+=A5=CE=A4=E1=BA=DD=BDL=C2I<br>
+<meta=20http-equiv=3D"Content-Type"=20content=3D"text/html;=20charset=3Dbig5=
+"><meta=20name=3D"Generator"=20content=3D"Microsoft=20Word=2012=20(filtered=20=
+medium)"><style><!--
+/*=20Font=20Definitions=20*/
+@font-face
+=09{font-family:=B7s=B2=D3=A9=FA=C5=E9;
+=09panose-1:2=202=205=200=200=200=200=200=200=200;}
+@font-face
+=09{font-family:"Cambria=20Math";
+=09panose-1:2=204=205=203=205=204=206=203=202=204;}
+@font-face
+=09{font-family:Calibri;
+=09panose-1:2=2015=205=202=202=202=204=203=202=204;}
+@font-face
+=09{font-family:"\@=B7s=B2=D3=A9=FA=C5=E9";
+=09panose-1:2=202=205=200=200=200=200=200=200=200;}
+@font-face
+=09{font-family:Tahoma;
+=09panose-1:2=2011=206=204=203=205=204=204=202=204;}
+@font-face
+=09{font-family:=BC=D0=B7=A2=C5=E9;
+=09panose-1:3=200=205=209=200=200=200=200=200=200;}
+@font-face
+=09{font-family:"\@=BC=D0=B7=A2=C5=E9";
+=09panose-1:3=200=205=209=200=200=200=200=200=200;}
+/*=20Style=20Definitions=20*/
+p.MsoNormal,=20li.MsoNormal,=20div.MsoNormal
+=09{margin:0cm;
+=09margin-bottom:.0001pt;
+=09font-size:12.0pt;
+=09font-family:"=B7s=B2=D3=A9=FA=C5=E9","serif";}
+a:link,=20span.MsoHyperlink
+=09{mso-style-priority:99;
+=09color:blue;
+=09text-decoration:underline;}
+a:visited,=20span.MsoHyperlinkFollowed
+=09{mso-style-priority:99;
+=09color:purple;
+=09text-decoration:underline;}
+span.EmailStyle17
+=09{mso-style-type:personal-reply;
+=09font-family:"Calibri","sans-serif";
+=09color:#1F497D;}
+.MsoChpDefault
+=09{mso-style-type:export-only;}
+@page=20WordSection1
+=09{size:612.0pt=20792.0pt;
+=09margin:72.0pt=2090.0pt=2072.0pt=2090.0pt;}
+div.WordSection1
+=09{page:WordSection1;}
+--></style><!--[if=20gte=20mso=209]><xml>
+<o:shapedefaults=20v:ext=3D"edit"=20spidmax=3D"1026"=20/>
+</xml><![endif]--><!--[if=20gte=20mso=209]><xml>
+<o:shapelayout=20v:ext=3D"edit">
+<o:idmap=20v:ext=3D"edit"=20data=3D"1"=20/>
+</o:shapelayout></xml><![endif]--><div=20class=3D"WordSection1"><p=20class=3D=
+"MsoNormal"><span=20lang=3D"EN-US"=20style=3D"font-family:=BC=D0=B7=A2=C5=E9=
+;color:red">dear=20</span><span=20style=3D"font-family:=BC=D0=B7=A2=C5=E9;co=
+lor:red">=AC=F6<span=20lang=3D"EN-US">'R<o:p></o:p></span></span></p><p=20cl=
+ass=3D"MsoNormal"><span=20style=3D"font-family:=BC=D0=B7=A2=C5=E9;color:red"=
+>=A7A=A6n<span=20lang=3D"EN-US">.</span>=A7=DA=B3o=ACO=A5=CD=C4_=A5=CD=AA=AB=
+=AC=EC=A7=DE<span=20lang=3D"EN-US">.</span>=ACI<span=20lang=3D"EN-US">'R<o:p=
+></o:p></span></span></p><p=20class=3D"MsoNormal"><span=20style=3D"font-fami=
+ly:=BC=D0=B7=A2=C5=E9;color:red">=A6]=AC=B0=A6w=B8=CB=A6=DC=A4=B5=A1A=A5=D8=AB=
+e=B1=BD=BA=CB=B8=EA=A6w=B5{=A6=A1=A4=B4=B0=F5=A6=E6=A4=A3=B0_=A8=D3=B3=C2=B7=
+=D0=A8=F3=A7U=C1=C2=C1=C2=A1I<span=20lang=3D"EN-US"><o:p></o:p></span></span=
+></p><p=20class=3D"MsoNormal"><span=20lang=3D"EN-US"=20style=3D"font-family:=
+=BC=D0=B7=A2=C5=E9;color:red"><o:p>&nbsp;</o:p></span></p><p=20class=3D"MsoN=
+ormal"><span=20style=3D"font-family:=BC=D0=B7=A2=C5=E9;color:red">=A5H=A4W<s=
+pan=20lang=3D"EN-US"><o:p></o:p></span></span></p><p=20class=3D"MsoNormal"><=
+span=20lang=3D"EN-US"=20style=3D"font-family:=BC=D0=B7=A2=C5=E9;color:red"><=
+o:p>&nbsp;</o:p></span></p><p=20class=3D"MsoNormal"><span=20lang=3D"EN-US"=20=
+style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497=
+D"><o:p>&nbsp;</o:p></span></p><p=20class=3D"MsoNormal"><span=20lang=3D"EN-U=
+S"=20style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#=
+1F497D"><o:p>&nbsp;</o:p></span></p><div=20style=3D"border:none;border-top:s=
+olid=20#B5C4DF=201.0pt;padding:3.0pt=200cm=200cm=200cm"><p=20class=3D"MsoNor=
+mal"><b><span=20lang=3D"EN-US"=20style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span=20lang=3D"EN-US"=
+=20style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif=
+&quot;">=20P-Marker=20</span><span=20style=3D"font-size:10.0pt">=AD=D3=B8=EA=
+=BDL=C2I=AAA=B0=C8</span><span=20lang=3D"EN-US"=20style=3D"font-size:10.0pt;=
+font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">=20[mailto:p-marker@o=
+penfind.com.tw]=20<br><b>Sent:</b>=20Wednesday,=20April=2017,=202013=2011:16=
+=20AM<br><b>To:</b>=20albert<br><b>Subject:</b>=20[P-Marker]=20</span><span=20=
+style=3D"font-size:10.0pt">=A5=CD=C4_=A5=CD=AA=AB=AC=EC=A7=DE=B1M=A5=CE</spa=
+n><span=20lang=3D"EN-US"=20style=3D"font-size:10.0pt;font-family:&quot;Tahom=
+a&quot;,&quot;sans-serif&quot;">=20P-Marker=20</span><span=20style=3D"font-s=
+ize:10.0pt">=A5=CE=A4=E1=BA=DD=BDL=C2I=B3n=C5=E9=A4U=B8=FC=B8=EA=B0T</span><=
+span=20lang=3D"EN-US"=20style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,&quot;sans-serif&quot;"><o:p></o:p></span></p></div><p=20class=3D"MsoNo=
+rmal"><span=20lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p><p=20class=3D"MsoNo=
+rmal"><span=20lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p><div><p=20class=3D"=
+MsoNormal">=ACI=A5=FD=A5=CD=B1z=A6n=A1A<span=20lang=3D"EN-US"><o:p></o:p></s=
+pan></p></div><div><p=20class=3D"MsoNormal"><span=20lang=3D"EN-US"><o:p>&nbs=
+p;</o:p></span></p></div><div><p=20class=3D"MsoNormal">=B6Q=A4=BD=A5q=B1M=A5=
+=CE=AA=BA<span=20lang=3D"EN-US">=20P-Marker=20</span>=A5=CE=A4=E1=BA=DD=BDL=C2=
+I=B3n=C5=E9=A4U=B8=FC=B8=EA=B0T=A6p=A4U=A1G<span=20lang=3D"EN-US"><o:p></o:p=
+></span></p></div><div><p=20class=3D"MsoNormal"><span=20lang=3D"EN-US">1.=20=
+</span>=B5L<span=20lang=3D"EN-US">=20UI=20</span>=AA=A9=A5=BB<span=20lang=3D=
+"EN-US">(for=20</span>=A6=DB=B0=CA=AC=A3=B0e=A8=CF=A5=CE<span=20lang=3D"EN-U=
+S">)<o:p></o:p></span></p></div><div><p=20class=3D"MsoNormal"><span=20lang=3D=
+"EN-US">&nbsp;=20&nbsp;=20URL:=20<a=20href=3D"http://www.p-marker.com.tw/dow=
+nload/healthbanks/P-Marker_2003Build_NoUI.zip">http://www.p-marker.com.tw/do=
+wnload/healthbanks/P-Marker_2003Build_NoUI.zip</a><o:p></o:p></span></p></di=
+v><div><p=20class=3D"MsoNormal"><span=20lang=3D"EN-US">&nbsp;=20&nbsp;=20MD5=
+:&nbsp;1710d3596a9423e1eef667ea7d8973e6<o:p></o:p></span></p></div><div><p=20=
+class=3D"MsoNormal"><span=20lang=3D"EN-US">2.=20</span>=A6=B3<span=20lang=3D=
+"EN-US">=20UI=20</span>=AA=A9=A5=BB<span=20lang=3D"EN-US"><o:p></o:p></span>=
+</p></div><div><p=20class=3D"MsoNormal"><span=20lang=3D"EN-US">&nbsp;=20&nbs=
+p;=20&nbsp;URL:=20<a=20href=3D"http://www.p-marker.com.tw/download/healthban=
+ks/P-Marker_2003Build.zip">http://www.p-marker.com.tw/download/healthbanks/P=
+-Marker_2003Build.zip</a><o:p></o:p></span></p></div><div><p=20class=3D"MsoN=
+ormal"><span=20lang=3D"EN-US">&nbsp;=20&nbsp;=20&nbsp;MD5:&nbsp;46a734986616=
+b3ec99b5ac666e1128ff<o:p></o:p></span></p></div><div><p=20class=3D"MsoNormal=
+"><span=20lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p></div><div><p=20class=3D=
+"MsoNormal">=A4U=B8=FC=B1b=B8=B9=A1G<span=20lang=3D"EN-US">healthbanks<o:p><=
+/o:p></span></p></div><div><p=20class=3D"MsoNormal">=A4U=B8=FC=B1K=BDX=A1G=B6=
+Q=A4=BD=A5q=B2=CE=BDs=A4K=BDX<span=20lang=3D"EN-US">(12xxxx05)<o:p></o:p></s=
+pan></p></div><div><p=20class=3D"MsoNormal"><span=20lang=3D"EN-US"><o:p>&nbs=
+p;</o:p></span></p></div><div><p=20class=3D"MsoNormal">=A6=DB=B0=CA=AC=A3=B0=
+e=A8=CF=A5=CE=BB=A1=A9=FA=A4=E5=A5=F3=BD=D0=A8=A3<span=20lang=3D"EN-US">&nbs=
+p;P-Marker_2003Build_NoUI.zip=20</span>=B8=D1=C0=A3=C1Y=AB=E1=AA=BA<span=20l=
+ang=3D"EN-US"><br>Openfind_P-Marker_</span>=A6=DB=B0=CA=AC=A3=B0e=BE=DE=A7@=BB=
+=A1=A9=FA<span=20lang=3D"EN-US">.pdf<o:p></o:p></span></p></div><div><p=20cl=
+ass=3D"MsoNormal"><span=20lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p></div><=
+div><p=20class=3D"MsoNormal"><span=20lang=3D"EN-US"><o:p>&nbsp;</o:p></span>=
+</p></div><div><div><p=20class=3D"MsoNormal">=ADY=A6=B3=A5=F4=A6=F3=AB=D8=C4=
+=B3=A9=CE=B0=DD=C3D=A1A=C5w=AA=EF=C0H=AE=C9=A6A=C1p=B5=B8=A7=DA=AD=CC=A1A=C1=
+=C2=C1=C2=A1I<span=20lang=3D"EN-US"><o:p></o:p></span></p></div><div><p=20cl=
+ass=3D"MsoNormal"><span=20lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p></div><=
+div><p=20class=3D"MsoNormal">=BA=F4=C0=BA<span=20lang=3D"EN-US">=20P-Marker=20=
+</span>=B7q=B1=D2<span=20lang=3D"EN-US"><o:p></o:p></span></p></div><div><p=20=
+class=3D"MsoNormal"><span=20lang=3D"EN-US">2013.4.17<o:p></o:p></span></p></=
+div></div></div></div></html>
+-----+4-0:yrjO(,WH:CTFQv8FzvutDH--

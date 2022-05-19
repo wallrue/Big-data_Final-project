@@ -1,0 +1,160 @@
+X-M2K-MATCHED-RULE: SPAM_FILTER-InADB
+X-M2K-MATCHED-RESULT: Mail Header From In ADB/kate_lin@openfind.com.tw
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 210.59.162.122
+	by ms2.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(6766:1:AUTH_NONE)
+	(envelope-from <prvs=109727CC1B=kate_lin@openfind.com.tw>); Thu, 20 Oct 2016 12:07:39 +0800 (CST)
+Return-Path: <prvs=109727CC1B=kate_lin@openfind.com.tw>
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)(FROMBW:2,PASS)(FROMBW:2,
+	PASS)
+Received: from 172.16.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V5.0(28708:0:AUTH_RELAY)
+	(envelope-from <prvs=109727CC1B=kate_lin@openfind.com.tw>); Thu, 20 Oct 2016 12:03:49 +0800 (CST)
+Return-Path: <prvs=109727CC1B=kate_lin@openfind.com.tw>
+Received: By OpenMail Mailer;Thu, 20 Oct 2016 12:03:49 +0800 (CST)
+Received: from 172.16.0.96
+	by mail2.office.openfind.com.tw with Mail2000 ESMTP Server V7.00(15460:0:AUTH_RELAY)
+	(envelope-from <prvs=109727CC1B=kate_lin@openfind.com.tw>); Thu, 20 Oct 2016 12:03:47 +0800 (CST)
+Return-Path: <prvs=109727CC1B=kate_lin@openfind.com.tw>
+X-M2KPolicyIP: 172.16.0.96 (#NOT FOUND)
+X-MailGates: (flag:1,DYNAMIC,RELAY,NOHOST,LAN:PASS)(IPF:0,HAM,220.130.12
+	7.157)(FROMBW:0,HAM,*@openfind.com.tw)(FROMBW:2,PASS)(ipmatch:pattern.ip
+	trust.system,,HAM,220.130.127.157,0)
+Received: from 220.130.127.157
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V5.0(28705:0:AUTH_NONE)
+	(envelope-from <prvs=109727CC1B=kate_lin@openfind.com.tw>); Thu, 20 Oct 2016 12:03:43 +0800 (CST)
+Return-Path: <prvs=109727CC1B=kate_lin@openfind.com.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(31054:0:AUTH_RELAY)
+	(envelope-from <prvs=109727CC1B=kate_lin@openfind.com.tw>); Thu, 20 Oct 2016 12:03:40 +0800 (CST)
+Return-Path: <prvs=109727CC1B=kate_lin@openfind.com.tw>
+Received: By OpenMail Mailer;Thu, 20 Oct 2016 12:03:40 +0800 (CST)
+Received: from 203.69.82.34
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(14648:0:AUTH_NONE)
+	(envelope-from <prvs=109727CC1B=kate_lin@openfind.com.tw>); Thu, 20 Oct 2016 12:03:40 +0800 (CST)
+Return-Path: <prvs=109727CC1B=kate_lin@openfind.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(88628:0:AUTH_NONE)
+	(envelope-from <prvs=109727CC1B=kate_lin@openfind.com.tw>); Thu, 20 Oct 2016 12:03:39 +0800 (CST)
+Return-Path: <prvs=109727CC1B=kate_lin@openfind.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)(FROMBW:2,PASS)(FROMBW:2,
+	PASS)(audit_rules:rules.audit_out1311132448.system#,,,aDELIVER,R/m2k_ser
+	vice@mail2000.com.tw,4,ou)
+X-MGADT: rules.audit_out1311132448.system#,R/m2k_service@mail2000.com.tw
+Received: from 172.16.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V5.0(28724:0:AUTH_RELAY)
+	(envelope-from <kate_lin@openfind.com.tw>); Thu, 20 Oct 2016 12:00:56 +0800 (CST)
+Return-Path: <kate_lin@openfind.com.tw>
+Received: from 172.16.14.51
+	by mail2.office.openfind.com.tw with Mail2000 ESMTPSA Server V7.00(17005:0:AUTH_LOGIN)
+	(envelope-from <kate_lin@openfind.com.tw>)
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256/256); Thu, 20 Oct 2016 12:00:55 +0800 (CST)
+Return-Path: <kate_lin@openfind.com.tw>
+X-M2KPolicyIP: 172.16.14.51 (#NOT FOUND)
+Message-ID: <9F50EADE2B874E81A5E44D440AA49E67@tp.office.openfind.com.tw>
+From: =?big5?B?uvTAurjqsFQvqkyrYadE?= <kate_lin@openfind.com.tw>
+To: "m2k_noc" <m2k_noc@openfind.com.tw>
+Cc: <m2k_service@mail2000.com.tw>
+Subject: =?big5?B?q+YhIE1HILKjq34gLSCkpLDqsbSwdyAtIKRqs7CquqtIsUiko6jspXilXw==?=
+Date: Thu, 20 Oct 2016 11:57:59 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0076_01D22AC9.341BB5B0"
+X-Priority: 1
+X-MSMail-Priority: High
+Importance: High
+X-Mailer: Microsoft Windows Live Mail 16.4.3528.331
+X-MimeOLE: Produced By Microsoft MimeOLE V16.4.3528.331
+
+這是 MIME 格式的 Multipart 郵件。
+
+------=_NextPart_000_0076_01D22AC9.341BB5B0
+Content-Type: text/plain;
+	charset="big5"
+Content-Transfer-Encoding: quoted-printable
+
+=B1z=A6n=A1A
+
+=A4=A4=B0=EA=B1=B4=B0w
+=A7d=A5=FD=A5=CD
+29612525-233
+paul_wu@pccp.com.tw
+
+=B0=DD=C3D=A1G
+=A4j=B3=B0=AA=BA=ABH=B1H=A4=A3=A8=EC=A5x=A5_=A1A
+=B9=EF=A4=E8=B1H=ABH=B9L=A8=D3=A5=FE=B3=A1=B3=A3=B7|=B3Q=B0h=A1C
+
+=A7d=A5=FD=A5=CD=BB=A1=ABD=B1`=BA=F2=AB=E6=A1A
+=BD=D0=B1z=A8=F3=A7U=A1A=B7P=C1=C2=A1C
+
+
+Best Regards,
+Kate
+
+
+=AAL=ABa=A7D Kate Lin
+=BA=F4=C0=BA=B8=EA=B0T=B3n=C5=E9=AA=D1=A5=F7=A6=B3=AD=AD=A4=BD=A5q / =
+=B6=B3=BA=DD=AAA=B0=C8
+Online Service Dept., Openfind Information Technology, Inc.
+=A5x=A5_=A5=AB=A4j=A6P=B0=CF=AD=AB=BCy=A5_=B8=F4=A4G=ACq 243 =B8=B9 7 =
+=BC=D3
+Email: kate_lin@openfind.com.tw
+TEL:+886 2 25532000 ext.745
+
+=BA=F4=C0=BA=A5=F8=B7~=B6l=A5=F3=A5N=BA=DE http://www.mailasp.com.tw/
+Mail2000 =B9q=A4l=ABH=BDc http://mail2000.com.tw/
+Openfind =BA=F4=C0=BA=B8=EA=B0T http://www.openfind.com/
+------=_NextPart_000_0076_01D22AC9.341BB5B0
+Content-Type: text/html;
+	charset="big5"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: =
+'=B7L=B3n=A5=BF=B6=C2=C5=E9'; COLOR: #000000">
+<DIV=20
+style=3D'FONT-SIZE: small; TEXT-DECORATION: none; FONT-FAMILY: =
+"Calibri"; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+DISPLAY: inline'>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: =
+'=B7L=B3n=A5=BF=B6=C2=C5=E9'; COLOR: #000000">
+<DIV>=B1z=A6n=A1A</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=A4=A4=B0=EA=B1=B4=B0w</DIV>
+<DIV>=A7d=A5=FD=A5=CD</DIV>
+<DIV>29612525-233</DIV>
+<DIV><A =
+href=3D"mailto:paul_wu@pccp.com.tw">paul_wu@pccp.com.tw</A></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=B0=DD=C3D=A1G</DIV>
+<DIV>=A4j=B3=B0=AA=BA=ABH=B1H=A4=A3=A8=EC=A5x=A5_=A1A</DIV>
+<DIV>=B9=EF=A4=E8=B1H=ABH=B9L=A8=D3=A5=FE=B3=A1=B3=A3=B7|=B3Q=B0h=A1C</DI=
+V>
+<DIV>&nbsp;</DIV>
+<DIV>=A7d=A5=FD=A5=CD=BB=A1=ABD=B1`=BA=F2=AB=E6=A1A</DIV>
+<DIV=20
+style=3D"FONT-SIZE: 12pt; FONT-FAMILY: '=B7L=B3n=A5=BF=B6=C2=C5=E9'; =
+COLOR: #000000">=BD=D0=B1z=A8=F3=A7U=A1A=B7P=C1=C2=A1C<BR><BR><BR>Best=20
+Regards,<BR>Kate<BR><BR><BR>=AAL=ABa=A7D Kate =
+Lin<BR>=BA=F4=C0=BA=B8=EA=B0T=B3n=C5=E9=AA=D1=A5=F7=A6=B3=AD=AD=A4=BD=A5q=
+ / =B6=B3=BA=DD=AAA=B0=C8<BR>Online=20
+Service Dept., Openfind Information Technology, =
+Inc.<BR>=A5x=A5_=A5=AB=A4j=A6P=B0=CF=AD=AB=BCy=A5_=B8=F4=A4G=ACq 243 =
+=B8=B9 7=20
+=BC=D3<BR>Email: kate_lin@openfind.com.tw<BR>TEL:+886 2 25532000=20
+ext.745<BR><BR>=BA=F4=C0=BA=A5=F8=B7~=B6l=A5=F3=A5N=BA=DE =
+http://www.mailasp.com.tw/<BR>Mail2000 =B9q=A4l=ABH=BDc=20
+http://mail2000.com.tw/<BR>Openfind =BA=F4=C0=BA=B8=EA=B0T=20
+http://www.openfind.com/</DIV></DIV></DIV></DIV></DIV></DIV></BODY></HTML=
+>
+
+------=_NextPart_000_0076_01D22AC9.341BB5B0--
+

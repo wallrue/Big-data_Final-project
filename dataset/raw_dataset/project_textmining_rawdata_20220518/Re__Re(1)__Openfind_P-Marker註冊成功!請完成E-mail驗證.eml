@@ -1,0 +1,393 @@
+X-M2KSPAM: NO/-6
+Received: from 3.3.3.3
+	by asp8.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(78689:0:AUTH_RELAY)
+	(envelope-from <prvs=1907C9F369=p-marker@openfind.com.tw>); Wed, 17 Jul 2013 10:05:37 +0800 (CST)
+Return-Path: <prvs=1907C9F369=p-marker@openfind.com.tw>
+Received: from 10.0.0.40
+	by bak1.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(81296:0:AUTH_RELAY)
+	(envelope-from <prvs=1907C9F369=p-marker@openfind.com.tw>); Wed, 17 Jul 2013 10:05:31 +0800 (CST)
+Return-Path: <prvs=1907C9F369=p-marker@openfind.com.tw>
+M2KForward: Yes
+Received: By OpenMail Mailer;Wed, 17 Jul 2013 10:05:31 +0800 (CST)
+Received: from 203.69.82.34
+	by m0.mail2000.com.tw with Mail2000 ESMTP Server V3.20M(47924:0:AUTH_NONE)
+	(envelope-from <prvs=1907C9F369=p-marker@openfind.com.tw>); Wed, 17 Jul 2013 10:05:29 +0800 (CST)
+Return-Path: <prvs=1907C9F369=p-marker@openfind.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(96397:0:AUTH_NONE)
+	(envelope-from <prvs=1907C9F369=p-marker@openfind.com.tw>); Wed, 17 Jul 2013 10:05:29 +0800 (CST)
+Return-Path: <prvs=1907C9F369=p-marker@openfind.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (audit_rules:rules.audit_out1311132448.system#,,aDELIVER,R/
+	m2k_service@mail2000.com.tw,4,ou)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+X-MGADT: rules.audit_out1311132448.system#,R/m2k_service@mail2000.com.tw
+Received: from 10.0.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(5329:0:AUTH_RELAY)
+	(envelope-from <p-marker@openfind.com.tw>); Wed, 17 Jul 2013 10:01:07 +0800 (CST)
+Return-Path: <p-marker@openfind.com.tw>
+Received: By OpenMail Mailer;Wed, 17 Jul 2013 10:00:57 +0800 (CST)
+Received: from 203.69.82.124
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V6.00(8531:0:AUTH_RELAY)
+	(envelope-from <p-marker@openfind.com.tw>); Wed, 17 Jul 2013 10:00:54 +0800 (CST)
+Return-Path: <p-marker@openfind.com.tw>
+X-M2KPolicyIP: 203.69.82.124 (#NOT FOUND)
+X-MailGates: (RBL:2,PASS,0.000000e+00)(flag:1,RELAY:PASS)(IPF:2,PASS)(ba
+	yesian:SCORE-38,0.00,2)(commtouch:PASS,1,str=0001.0A150208.51E5FAD5.00A6
+	:SCFMA4218066,ss=1,re=-4.000,fgs=0,2)(header_match_any:pattern.fromtrust
+	.system,,HAM,*@openfind.com.tw,0)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+Received: from 203.69.82.69
+	by mg.openfind.com.tw with MailGates ESMTP Server V4.0(16997:0:AUTH_NONE)
+	(envelope-from <p-marker@openfind.com.tw>); Wed, 17 Jul 2013 10:00:47 +0800 (CST)
+Return-Path: <p-marker@openfind.com.tw>
+Received: from 10.0.0.41
+	by bak1.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(81306:0:AUTH_LOGIN)
+	(envelope-from <p-marker@openfind.com.tw>); Wed, 17 Jul 2013 10:00:32 +0800 (CST)
+Return-Path: <p-marker@openfind.com.tw>
+Received: By OpenMail Mailer;Wed, 17 Jul 2013 10:00:32 +0800 (CST)
+From: "=?utf-8?B?UC1NYXJrZXIg5YCL6LOH55uk6bue5pyN5YuZ?=" <p-marker@openfind.com.tw>
+Reply-To: "=?utf-8?B?UC1NYXJrZXIg5YCL6LOH55uk6bue5pyN5YuZ?=" <p-marker@openfind.com.tw>
+Subject: =?utf-8?B?UmU6IFJlKDEpOiBPcGVuZmluZCBQLU1hcmtlciA=?=
+	=?utf-8?B?6Ki75YaK5oiQ5YqfIeiri+WujOaIkEUtbWFpbA==?=
+	=?utf-8?B?6amX6K2J?=
+Message-ID: <1374026432.62784.p-marker@openfind.com.tw>
+In-Reply-To: <OFFE5E7969.817DD642-ON48257BAA.00455C12-48257BAA.0045B49B@shangri-la.com>
+References: <7DFBE3ED3ZS1304598-01@EMF_shangri-la.com>
+	<OFFE5E7969.817DD642-ON48257BAA.00455C12-48257BAA.0045B49B@shangri-la.com>
+To: "richard.lin" <richard.lin@shangri-la.com>
+Cc: "=?utf-8?B?T3BlbmZpbmQgUC1NYXJrZXIg57O757Wx6YCa55+l?=" <p-marker@openfind.com.tw>
+Date: Wed, 17 Jul 2013 10:00:32 +0800 (CST)
+MIME-Version: 1.0
+Return-Path: p-marker@openfind.com.tw
+Content-Type: multipart/alternative;
+	boundary="---N?Wh/nZP)lz,ftbPtfpkzEjflZC"
+
+-----N?Wh/nZP)lz,ftbPtfpkzEjflZC
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+=E6=82=A8=E5=A5=BD=EF=BC=8C
+
+=E7=9B=AE=E5=89=8D=E7=84=A1=E3=80=8C=E8=87=AA=E8=A8=82=E5=80=8B=E8=B3=87=E9=A1=
+=9E=E5=9E=8B=E3=80=8D=E6=AD=A4=E5=8A=9F=E8=83=BD=EF=BC=8C=E4=BD=86=E5=8F=AF=E6=
+=A0=B9=E6=93=9A=E9=9C=80=E6=B1=82=E6=8F=90=E4=BE=9B=E5=AE=A2=E8=A3=BD=E3=80=82=
+
+=E8=8B=A5=E6=9C=89=E4=BB=BB=E4=BD=95=E5=BB=BA=E8=AD=B0=E6=88=96=E5=95=8F=E9=A1=
+=8C=EF=BC=8C=E6=AD=A1=E8=BF=8E=E9=9A=A8=E6=99=82=E5=86=8D=E8=81=AF=E7=B5=A1=E6=
+=88=91=E5=80=91=EF=BC=8C=E8=AC=9D=E8=AC=9D=EF=BC=81
+
+
+P-Marker=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83=20=E6=95=AC=E4=B8=8A
+-----------------------------------------------------------------------
+P-Marker=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83
+=E5=AE=A2=E6=9C=8D=E5=B0=88=E7=B7=9A=EF=BC=9A02-2553-7272
+=E5=AE=A2=E6=9C=8D=E5=82=B3=E7=9C=9F=EF=BC=9A02-2553-5956
+=E5=AE=A2=E6=9C=8D=E4=BF=A1=E7=AE=B1=EF=BC=9Ap-marker@openfind.com.tw
+Mail2000=E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1=20http://mail2000.com.tw/
+=E7=B6=B2=E6=93=8E=E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99=20h=
+ttp://www.mailcloud.com.tw
+=E7=B6=B2=E6=93=8E=20Openfind=20=E4=BC=81=E6=A5=AD=E7=B6=B2=E7=AB=99=20http:=
+//www.openfind.com/taiwan
+-----------------------------------------------------------------------
+
+
+-----Original=20message-----
+From:richard.lin<richard.lin@shangri-la.com>
+To:Openfind=20P-Marker=20=E7=B3=BB=E7=B5=B1=E9=80=9A=E7=9F=A5<p-marker@openf=
+ind.com.tw>
+Date:=20Tue,=2016=20Jul=202013=2020:40:56
+Subject:=20Re(1):=20Openfind=20P-Marker=20=E8=A8=BB=E5=86=8A=E6=88=90=E5=8A=9F=
+!=E8=AB=8B=E5=AE=8C=E6=88=90E-mail=E9=A9=97=E8=AD=89
+=E8=AB=8B=E5=95=8F=EF=BC=8C=E6=AD=A3=E5=BC=8F=E7=89=88=E5=8F=AF=E4=BB=A5=E8=87=
+=AA=E8=A8=82=E5=80=8B=E8=B3=87=E9=A1=9E=E5=9E=8B=E5=97=8E=EF=BC=9F=E4=BE=8B=E5=
+=A6=82=E6=9C=83=E5=93=A1=E7=B7=A8=E8=99=9F=E3=80=82
+
+
+RichardLin,=20IT=20Manager=20
+Shangri-La'sFar=20Eastern=20Plaza=20Hotel,=20Taipei
+201=20Tun=20Hwa=20South=20Road,=20Section=202,=20Taipei=20106,=20Taiwan,=20R=
+.O.C.=20
+(8862=202378=208888=20Extn=205093=20=2078862=202378=208052=20=20+richard.lin=
+@shangri-la.com=20"www.shangri-la.com/taipei"www.shangri-la.com.tw
+
+Discoverwhat's=20in=20our=20nature=20at=20www.shangri-la.com/ournature
+
+PPlease=20consider=20the=20environmentbefore=20printing=20this=20e-mail.=20
+
+
+
+From:=20=20=20=20=20=20=20Openfind=20P-Marker=20=E7=B3=BB=E7=B5=B1=E9=80=9A=E7=
+=9F=A5<p-marker@openfind.com.tw>
+To:=20=20=20=20=20=20=20richard.lin@shangri-la.com,
+Date:=20=20=20=20=20=20=202013/07/16=2008:27=20PM
+Subject:=20=20=20=20=20=20=20Openfind=20P-Marker=E8=A8=BB=E5=86=8A=E6=88=90=E5=
+=8A=9F!=E8=AB=8B=E5=AE=8C=E6=88=90E-mail=E9=A9=97=E8=AD=89
+
+
+
+
+
+
+
+
+=E9=BC=8E=E9=BC=8E=E5=A4=A7=E9=A3=AF=E5=BA=97=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=
+=90=E5=85=AC=E5=8F=B8=EF=BC=8C=E6=82=A8=E5=A5=BD=EF=BC=9A
+
+=E6=AD=A1=E8=BF=8E=E6=82=A8=E4=BD=BF=E7=94=A8=20P-Mark=20Cloud=20Service=20=E5=
+=80=8B=E8=B3=87=E7=9B=A4=E9=BB=9E=E6=9C=8D=E5=8B=99=EF=BC=8C=E8=AB=8B=E9=BB=9E=
+=E9=81=B8=E4=B8=8B=E6=96=B9=E6=9C=8D=E5=8B=99=E8=AA=8D=E8=AD=89=E9=80=A3=E7=B5=
+=90=EF=BC=8C=E5=B7=B2=E6=AD=A3=E5=BC=8F=E5=95=9F=E7=94=A8=E6=AD=A4=E6=9C=8D=E5=
+=8B=99=E3=80=82
+
+=E8=AA=8D=E8=AD=89=E9=80=A3=E7=B5=90=EF=BC=9Ahttps://www.p-marker.com.tw/cus=
+tomer_verify.php?vcode=3DTf63dd2df48890e031d298913f63d&cmd=3DVERIFY
+
+=E6=9C=AC=E6=9C=8D=E5=8B=99=E4=BD=BF=E7=94=A8=E8=AA=AA=E6=98=8E=E8=AB=8B=E5=8F=
+=83=E8=80=83=E5=AE=98=E6=96=B9=E7=B6=B2=E7=AB=99=E4=B8=AD=E7=9A=84=E4=BD=BF=E7=
+=94=A8=E6=95=99=E5=AD=B8=EF=BC=9A
+https://www.p-marker.com.tw/intro_admin.html
+
+=E9=96=8B=E5=A7=8B=E4=BD=BF=E7=94=A8P-Mark=20Cloud=20Service=E5=BE=8C=EF=BC=8C=
+=E8=8B=A5=E5=9C=A8=E6=93=8D=E4=BD=9C=E3=80=81=E4=BD=BF=E7=94=A8=E4=B8=8A=E6=9C=
+=89=E4=BD=95=E7=96=91=E5=95=8F=EF=BC=8C=E8=AB=8B=E9=9A=A8=E6=99=82=E8=B7=9F=E6=
+=88=91=E5=80=91=E8=81=AF=E7=B5=A1=EF=BC=8C=E6=88=91=E5=80=91=E5=B0=87=E7=9B=A1=
+=E5=BF=AB=E5=8D=94=E5=8A=A9=E6=82=A8=E7=96=91=E9=9B=A3=E7=9A=84=E6=8E=92=E9=99=
+=A4=E3=80=82
+
+=E8=8B=A5=E6=82=A8=E6=9C=89=E4=BB=BB=E4=BD=95=E6=83=B3=E6=B3=95=E6=88=96=E5=BB=
+=BA=E8=AD=B0=EF=BC=8C=E4=B9=9F=E9=9D=9E=E5=B8=B8=E6=AD=A1=E8=BF=8E=E6=82=A8=E9=
+=9A=A8=E6=99=82=E8=B7=9F=E6=88=91=E5=80=91=E8=81=AF=E7=B5=A1=EF=BC=8C
+
+=E8=AC=9D=E8=AC=9D=EF=BC=81
+
+Openfind=20P-Marker=20Cloud=20Service=20=E6=95=AC=E4=B8=8A
+
+
+
+=E6=A5=AD=E5=8B=99=E8=81=AF=E7=B5=A1=EF=BC=9A(02)=202553-2000=20#888=E5=AE=A2=
+=E6=9C=8D=E4=BF=A1=E7=AE=B1=EF=BC=9Ap-marker@openfind.com.tw=E5=AE=A2=E6=9C=8D=
+=E5=B0=88=E7=B7=9A=EF=BC=9A(02)=202553-7272
+(=E6=9C=8D=E5=8B=99=E6=99=82=E9=96=93=EF=BC=9A=E9=80=B1=E4=B8=80=E8=87=B3=E9=
+=80=B1=E4=BA=94=EF=BC=8C=E4=B8=8A=E5=8D=88=209=20=E6=99=82=E8=87=B3=E4=B8=8B=
+=E5=8D=88=206=20=E6=99=82=E3=80=82)
+
+****************************************************************************=
+**The=20information=20contained=20in=20this=20message=20may=20be=20privilege=
+d=20and=20confidential=20and=20protected=20from=20disclosure.=20Any=20dissem=
+ination,=20distribution,=20copying=20of=20or=20taking=20of=20any=20action=20=
+in=20reliance=20upon=20this=20message,=20other=20than=20to/by=20the=20addres=
+see,=20is=20strictly=20prohibited.If=20you=20have=20received=20this=20in=20e=
+rror,=20please=20destroy=20it=20and=20notify=20us=20immediately.=20Opinions,=
+=20conclusions=20and=20other=20information=20in=20this=20message=20that=20do=
+=20not=20relate=20to=20the=20official=20business=20of=20our=20company=20shal=
+l=20be=20understood=20as=20neither=20given=20nor=20endorsed=20by=20it=20and=20=
+we=20disclaim=20all=20liability=20for=20any=20such=20statements.************=
+******************************************************************
+
+
+
+-----N?Wh/nZP)lz,ftbPtfpkzEjflZC
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><br><div>=E6=82=A8=E5=A5=BD=EF=BC=8C</div><div><br></div><div>=E7=9B=AE=
+=E5=89=8D=E7=84=A1=E3=80=8C=E8=87=AA=E8=A8=82=E5=80=8B=E8=B3=87=E9=A1=9E=E5=9E=
+=8B=E3=80=8D=E6=AD=A4=E5=8A=9F=E8=83=BD=EF=BC=8C=E4=BD=86=E5=8F=AF=E6=A0=B9=E6=
+=93=9A=E9=9C=80=E6=B1=82=E6=8F=90=E4=BE=9B=E5=AE=A2=E8=A3=BD=E3=80=82</div><=
+div>=E8=8B=A5=E6=9C=89=E4=BB=BB=E4=BD=95=E5=BB=BA=E8=AD=B0=E6=88=96=E5=95=8F=
+=E9=A1=8C=EF=BC=8C=E6=AD=A1=E8=BF=8E=E9=9A=A8=E6=99=82=E5=86=8D=E8=81=AF=E7=B5=
+=A1=E6=88=91=E5=80=91=EF=BC=8C=E8=AC=9D=E8=AC=9D=EF=BC=81</div><div><br></di=
+v><div><br></div><div>P-Marker=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83=20=E6=95=
+=AC=E4=B8=8A</div><div>-----------------------------------------------------=
+------------------</div><div>P-Marker=20=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83=
+</div><div>=E5=AE=A2=E6=9C=8D=E5=B0=88=E7=B7=9A=EF=BC=9A02-2553-7272</div><d=
+iv>=E5=AE=A2=E6=9C=8D=E5=82=B3=E7=9C=9F=EF=BC=9A02-2553-5956</div><div>=E5=AE=
+=A2=E6=9C=8D=E4=BF=A1=E7=AE=B1=EF=BC=9Ap-marker@openfind.com.tw</div><div>Ma=
+il2000=E9=9B=BB=E5=AD=90=E4=BF=A1=E7=AE=B1=20http://mail2000.com.tw/</div><d=
+iv>=E7=B6=B2=E6=93=8E=E4=BC=81=E6=A5=AD=E9=9B=B2=E7=AB=AF=E6=9C=8D=E5=8B=99=20=
+http://www.mailcloud.com.tw</div><div>=E7=B6=B2=E6=93=8E=20Openfind=20=E4=BC=
+=81=E6=A5=AD=E7=B6=B2=E7=AB=99=20http://www.openfind.com/taiwan</div><div>--=
+---------------------------------------------------------------------</div><=
+br>
+<br>
+-----Original=20message-----<br>
+
+<b>From:</b>richard.lin&lt;richard.lin@shangri-la.com&gt;<br>
+<b>To:</b>Openfind=20P-Marker=20=E7=B3=BB=E7=B5=B1=E9=80=9A=E7=9F=A5&lt;p-ma=
+rker@openfind.com.tw&gt;<br>
+<b>Date:=20</b>=20Tue,=2016=20Jul=202013=2020:40:56<br>
+<b>Subject:</b>=20Re(1):=20Openfind=20P-Marker=20=E8=A8=BB=E5=86=8A=E6=88=90=
+=E5=8A=9F!=E8=AB=8B=E5=AE=8C=E6=88=90E-mail=E9=A9=97=E8=AD=89<br>
+<font=20size=3D"2"=20face=3D"sans-serif">=E8=AB=8B=E5=95=8F=EF=BC=8C=E6=AD=A3=
+=E5=BC=8F=E7=89=88=E5=8F=AF=E4=BB=A5=E8=87=AA=E8=A8=82=E5=80=8B=E8=B3=87=E9=A1=
+=9E=E5=9E=8B=E5=97=8E=EF=BC=9F=E4=BE=8B=E5=A6=82=E6=9C=83=E5=93=A1=E7=B7=A8=E8=
+=99=9F=E3=80=82</font>
+<br>
+<br>
+<br>
+<table=20width=3D"1200"=20style=3D"border-collapse:collapse;">
+<tbody><tr=20height=3D"8">
+<td=20width=3D"1198"=20style=3D"border-style:solid;border-color:#000000;bord=
+er-width:0px=200px=200px=200px;padding:1px=201px;"><font=20size=3D"2"=20face=
+=3D"sans-serif"><b>Richard
+Lin</b>,=20IT=20Manager=20</font>
+</td></tr><tr=20height=3D"8">
+<td=20width=3D"1198"=20style=3D"border-style:solid;border-color:#000000;bord=
+er-width:0px=200px=200px=200px;padding:1px=201px;"><font=20size=3D"2"=20face=
+=3D"sans-serif"><b>Shangri-La's
+Far=20Eastern=20Plaza=20Hotel,=20Taipei</b><br>
+201=20Tun=20Hwa=20South=20Road,=20Section=202,=20Taipei=20106,=20Taiwan,=20R=
+.O.C.=20</font>
+</td></tr><tr=20height=3D"8">
+<td=20width=3D"1198"=20style=3D"border-style:solid;border-color:#000000;bord=
+er-width:0px=200px=200px=200px;padding:1px=201px;"><font=20size=3D"2"=20face=
+=3D"Wingdings">(</font><font=20size=3D"2"=20face=3D"sans-serif">886
+2=202378=208888=20Extn=205093=20&nbsp;</font><font=20size=3D"2"=20face=3D"Wi=
+ngdings=202">7</font><font=20size=3D"2"=20face=3D"sans-serif">886
+2=202378=208052=20&nbsp;</font><font=20size=3D"2"=20face=3D"Wingdings">+</fo=
+nt><font=20size=3D"2"=20face=3D"sans-serif">richard.lin@shangri-la.com
+&nbsp;</font><font=20size=3D"2"=20face=3D"Webdings">"</font><a=20href=3D"htt=
+p://www.shangri-la.com/taipei"><font=20size=3D"2"=20color=3D"blue"=20face=3D=
+"sans-serif"><u>www.shangri-la.com/taipei</u></font></a><font=20size=3D"2"=20=
+face=3D"sans-serif">
+</font><font=20size=3D"2"=20face=3D"Webdings">"</font><a=20href=3D"http://ww=
+w.shangri-la.com.tw/"><font=20size=3D"2"=20color=3D"blue"=20face=3D"sans-ser=
+if"><u>www.shangri-la.com.tw</u></font></a>
+</td></tr><tr=20height=3D"8">
+<td=20width=3D"1198"=20style=3D"border-style:solid;border-color:#000000;bord=
+er-width:0px=200px=200px=200px;padding:1px=201px;">
+</td></tr><tr=20height=3D"8">
+<td=20width=3D"1198"=20style=3D"border-style:solid;border-color:#000000;bord=
+er-width:0px=200px=200px=200px;padding:1px=201px;"><font=20size=3D"2"=20face=
+=3D"sans-serif"><b>Discover
+what's=20in=20our=20nature=20at=20</b></font><a=20href=3D"http://www.shangri=
+-la.com/ournature"><font=20size=3D"2"=20color=3D"blue"=20face=3D"sans-serif"=
+><b><u>www.shangri-la.com/ournature</u></b></font></a>
+</td></tr><tr=20height=3D"8">
+<td=20width=3D"1198"=20style=3D"border-style:solid;border-color:#000000;bord=
+er-width:0px=200px=200px=200px;padding:1px=201px;">
+</td></tr><tr=20height=3D"8">
+<td=20width=3D"1198"=20style=3D"border-style:solid;border-color:#000000;bord=
+er-width:0px=200px=200px=200px;padding:1px=201px;"><font=20size=3D"5"=20colo=
+r=3D"#008000"=20face=3D"Webdings">P</font><font=20size=3D"3">
+</font><font=20size=3D"1"=20color=3D"#008000"=20face=3D"Verdana">Please=20co=
+nsider=20the=20environment
+before=20printing=20this=20e-mail.</font><font=20size=3D"3">=20</font></td><=
+/tr></tbody></table>
+<br>
+<br>
+<br><font=20size=3D"1"=20color=3D"#5f5f5f"=20face=3D"sans-serif">From:=20&nb=
+sp;=20&nbsp;=20&nbsp;
+&nbsp;</font><font=20size=3D"1"=20face=3D"sans-serif">Openfind=20P-Marker=20=
+=E7=B3=BB=E7=B5=B1=E9=80=9A=E7=9F=A5
+&lt;p-marker@openfind.com.tw&gt;</font>
+<br><font=20size=3D"1"=20color=3D"#5f5f5f"=20face=3D"sans-serif">To:=20&nbsp=
+;=20&nbsp;=20&nbsp;
+&nbsp;</font><font=20size=3D"1"=20face=3D"sans-serif">richard.lin@shangri-la=
+.com,
+</font>
+<br><font=20size=3D"1"=20color=3D"#5f5f5f"=20face=3D"sans-serif">Date:=20&nb=
+sp;=20&nbsp;=20&nbsp;
+&nbsp;</font><font=20size=3D"1"=20face=3D"sans-serif">2013/07/16=2008:27=20P=
+M</font>
+<br><font=20size=3D"1"=20color=3D"#5f5f5f"=20face=3D"sans-serif">Subject:=20=
+&nbsp;=20&nbsp;
+&nbsp;=20&nbsp;</font><font=20size=3D"1"=20face=3D"sans-serif">Openfind=20P-=
+Marker
+=E8=A8=BB=E5=86=8A=E6=88=90=E5=8A=9F!=E8=AB=8B=E5=AE=8C=E6=88=90E-mail=E9=A9=
+=97=E8=AD=89</font>
+<br>
+<hr=20noshade=3D"">
+<br>
+<br>
+<br>
+<table=20width=3D"650"=20align=3D"center"=20style=3D"border-collapse:collaps=
+e;">
+<tbody><tr=20height=3D"8">
+<td=20width=3D"650"=20style=3D"border-style:solid;border-color:#000000;borde=
+r-width:0px=200px=200px=200px;padding:0px=200px;">
+<br>
+<br></td></tr></tbody></table>
+<br>
+<table=20width=3D"836"=20align=3D"center"=20style=3D"border-collapse:collaps=
+e;">
+<tbody><tr=20height=3D"8">
+<td=20width=3D"836"=20style=3D"border-style:solid;border-color:#000000;borde=
+r-width:0px=200px=200px=200px;padding:0px=200px;">
+<p><font=20size=3D"2"=20face=3D"Verdana"><b>=E9=BC=8E=E9=BC=8E=E5=A4=A7=E9=A3=
+=AF=E5=BA=97=E8=82=A1=E4=BB=BD=E6=9C=89=E9=99=90=E5=85=AC=E5=8F=B8=EF=BC=8C=E6=
+=82=A8=E5=A5=BD=EF=BC=9A</b><br>
+<br>
+=E6=AD=A1=E8=BF=8E=E6=82=A8=E4=BD=BF=E7=94=A8=20P-Mark=20Cloud=20Service=20=E5=
+=80=8B=E8=B3=87=E7=9B=A4=E9=BB=9E=E6=9C=8D=E5=8B=99=EF=BC=8C=E8=AB=8B=E9=BB=9E=
+=E9=81=B8=E4=B8=8B=E6=96=B9=E6=9C=8D=E5=8B=99=E8=AA=8D=E8=AD=89=E9=80=A3=E7=B5=
+=90=EF=BC=8C=E5=B7=B2=E6=AD=A3=E5=BC=8F=E5=95=9F=E7=94=A8=E6=AD=A4=E6=9C=8D=E5=
+=8B=99=E3=80=82<br>
+<br>
+=E8=AA=8D=E8=AD=89=E9=80=A3=E7=B5=90=EF=BC=9A</font><a=20href=3D"https://www=
+.p-marker.com.tw/customer_verify.php?vcode=3DTf63dd2df48890e031d298913f63d&a=
+mp;cmd=3DVERIFY"><font=20size=3D"2"=20color=3D"#0082bf"=20face=3D"Verdana"><=
+u>https://www.p-marker.com.tw/customer_verify.php?vcode=3DTf63dd2df48890e031=
+d298913f63d&amp;cmd=3DVERIFY</u></font></a>
+</p><p><font=20size=3D"2"=20face=3D"Verdana">=E6=9C=AC=E6=9C=8D=E5=8B=99=E4=BD=
+=BF=E7=94=A8=E8=AA=AA=E6=98=8E=E8=AB=8B=E5=8F=83=E8=80=83=E5=AE=98=E6=96=B9=E7=
+=B6=B2=E7=AB=99=E4=B8=AD=E7=9A=84=E4=BD=BF=E7=94=A8=E6=95=99=E5=AD=B8=EF=BC=9A=
+<br>
+</font><a=20href=3D"https://www.p-marker.com.tw/intro_admin.html"><font=20si=
+ze=3D"2"=20face=3D"Verdana">https://www.p-marker.com.tw/intro_admin.html</fo=
+nt></a><font=20size=3D"2"=20face=3D"Verdana"><br>
+<br>
+=E9=96=8B=E5=A7=8B=E4=BD=BF=E7=94=A8P-Mark=20Cloud=20Service=E5=BE=8C=EF=BC=8C=
+=E8=8B=A5=E5=9C=A8=E6=93=8D=E4=BD=9C=E3=80=81=E4=BD=BF=E7=94=A8=E4=B8=8A=E6=9C=
+=89=E4=BD=95=E7=96=91=E5=95=8F=EF=BC=8C=E8=AB=8B=E9=9A=A8=E6=99=82=E8=B7=9F=E6=
+=88=91=E5=80=91=E8=81=AF=E7=B5=A1=EF=BC=8C=E6=88=91=E5=80=91=E5=B0=87=E7=9B=A1=
+=E5=BF=AB=E5=8D=94=E5=8A=A9=E6=82=A8=E7=96=91=E9=9B=A3=E7=9A=84=E6=8E=92=E9=99=
+=A4=E3=80=82</font>
+</p><p><font=20size=3D"2"=20face=3D"Verdana">=E8=8B=A5=E6=82=A8=E6=9C=89=E4=BB=
+=BB=E4=BD=95=E6=83=B3=E6=B3=95=E6=88=96=E5=BB=BA=E8=AD=B0=EF=BC=8C=E4=B9=9F=E9=
+=9D=9E=E5=B8=B8=E6=AD=A1=E8=BF=8E=E6=82=A8=E9=9A=A8=E6=99=82=E8=B7=9F=E6=88=91=
+=E5=80=91=E8=81=AF=E7=B5=A1=EF=BC=8C</font>
+</p><p><font=20size=3D"2"=20face=3D"Verdana">=E8=AC=9D=E8=AC=9D=EF=BC=81<br>=
+
+</font><font=20size=3D"2"=20color=3D"#3f803f"=20face=3D"Verdana"><b><br>
+Openfind=20P-Marker=20Cloud=20Service=20=E6=95=AC=E4=B8=8A</b></font><font=20=
+size=3D"2"=20face=3D"Verdana">
+</font>
+</p><p></p></td></tr></tbody></table>
+<ul>
+<li><font=20size=3D"2"=20face=3D"Verdana">=E6=A5=AD=E5=8B=99=E8=81=AF=E7=B5=A1=
+=EF=BC=9A(02)=202553-2000=20#888</font>
+</li><li><font=20size=3D"2"=20face=3D"Verdana">=E5=AE=A2=E6=9C=8D=E4=BF=A1=E7=
+=AE=B1=EF=BC=9A</font><a=20href=3D"mailto:p-marker@openfind.com.tw"><font=20=
+size=3D"2"=20color=3D"#0082bf"=20face=3D"Verdana"><u>p-marker@openfind.com.t=
+w</u></font></a>
+</li><li><font=20size=3D"2"=20face=3D"Verdana">=E5=AE=A2=E6=9C=8D=E5=B0=88=E7=
+=B7=9A=EF=BC=9A(02)=202553-7272<br>
+(=E6=9C=8D=E5=8B=99=E6=99=82=E9=96=93=EF=BC=9A=E9=80=B1=E4=B8=80=E8=87=B3=E9=
+=80=B1=E4=BA=94=EF=BC=8C=E4=B8=8A=E5=8D=88=209=20=E6=99=82=E8=87=B3=E4=B8=8B=
+=E5=8D=88=206=20=E6=99=82=E3=80=82)</font></li></ul>
+
+<p></p><pre=20wrap=3D"">****************************************************=
+**************************
+The=20information=20contained=20in=20this=20message=20may=20be=20privileged=20=
+and=20confidential=20and=20protected=20from=20disclosure.=20Any=20disseminat=
+ion,=20distribution,=20copying=20of=20or=20taking=20of=20any=20action=20in=20=
+reliance=20upon=20this=20message,=20other=20than=20to/by=20the=20addressee,=20=
+is=20strictly=20prohibited.
+If=20you=20have=20received=20this=20in=20error,=20please=20destroy=20it=20an=
+d=20notify=20us=20immediately.=20Opinions,=20conclusions=20and=20other=20inf=
+ormation=20in=20this=20message=20that=20do=20not=20relate=20to=20the=20offic=
+ial=20business=20of=20our=20company=20shall=20be=20understood=20as=20neither=
+=20given=20nor=20endorsed=20by=20it=20and=20we=20disclaim=20all=20liability=20=
+for=20any=20such=20statements.
+****************************************************************************=
+**
+</pre><p></p></html>
+-----N?Wh/nZP)lz,ftbPtfpkzEjflZC--

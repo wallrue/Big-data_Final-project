@@ -1,0 +1,225 @@
+X-M2K-MATCHED-RULE: USER_FILTER
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 3.3.3.3
+	by ms1.mailcloud.com.tw with Mail2000 ESMTP Server V6.00(10865:0:AUTH_NONE)
+	(envelope-from <oidcservice@mail.edu.tw>); Tue, 27 Nov 2018 09:58:50 +0800 (CST)
+Return-Path: <oidcservice@mail.edu.tw>
+X-M2K-MSG-ID: Q69PVDB2K9N3H2RS
+X-M2K-DINF: v=1;em=2;eh=1c343546/bSRusa;ec=74a22bc8;m=gZtQwo1kFx64PJNgtEODeO/h
+   0RZCtfNTsEmv5Mr/o7EBc4XpRScIbR2Oxa/ftvrngVjas41NPqBprrDLSfOnFMatFdXPaNHia/Eh
+   7Dy6xkMXu3shd0Zj00tG5d5qnrdUTJMLc+2cMYsjNQwJsSvqZUeoYz4jSMjyZrxSeoWj5r0aBzcm
+   DWgevTSYS/k3NO4MS7OCWcPAIXfd15GyKVIWscNVPeK2ws6EFMamCY34HlPv8xpK1AI5aiYNfTH8
+   6mOX
+X-MailGates: (RBL:2,PASS,0.000000e+00)(SPF:2,PASS,softfail)(BATV:2,PASS,
+	sender not empty)(DKIM:2,PASS,No signature(2))(DMARC:2,PASS,Looked up do
+	main lacked a DMARC record(9))(flag:1,RELAY:PASS)(IPF:2,PASS)(FROMBW:2,P
+	ASS)(FROMBW:2,PASS)(FROMBW:2,PASS)(FROMBW:2,PASS)(FROMBW:2,PASS)(FROMBW:
+	2,PASS)(ipmatch:pattern.iptrust.system,,HAM,3.3.3.3,0)
+Received: from 220.130.127.157
+	by mxs.mailcloud.com.tw with MailAudit ESMTP Server V5.0(5175:1:AUTH_NONE)
+	(envelope-from <oidcservice@mail.edu.tw>); Tue, 27 Nov 2018 09:58:48 +0800 (CST)
+Return-Path: <oidcservice@mail.edu.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: from 10.0.0.43
+	by p1.mail2000.com.tw with Mail2000 ESMTP Server V6.00(1812:0:AUTH_RELAY)
+	(envelope-from <oidcservice@mail.edu.tw>); Tue, 27 Nov 2018 09:58:38 +0800 (CST)
+Return-Path: <oidcservice@mail.edu.tw>
+X-ADIFSPAM: NO/0
+X-ADIFSPAM-CT: NO/1
+Received: By OpenMail Mailer;Tue, 27 Nov 2018 09:58:30 +0800 (CST)
+Received: from 203.69.82.35
+	by ms2.mail2000.com.tw with Mail2000 ESMTP Server V6.00(11021:0:AUTH_NONE)
+	(envelope-from <oidcservice@mail.edu.tw>); Tue, 27 Nov 2018 09:58:20 +0800 (CST)
+Return-Path: <oidcservice@mail.edu.tw>
+X-M2KSPAM: NO/0
+Received: from 10.0.1.6
+	by mx3.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(1164:0:AUTH_NONE)
+	(envelope-from <oidcservice@mail.edu.tw>); Tue, 27 Nov 2018 09:58:11 +0800 (CST)
+Return-Path: <oidcservice@mail.edu.tw>
+X-M2KPolicyIP: 10.0.1.6 (#NOT FOUND)
+Received: from spamfilter1.mailcloud.com.tw (localhost [127.0.0.1])
+	by spamfilter1.mailcloud.com.tw (Postfix) with ESMTP id 37140540A9C
+	for <m2k_service@mail2000.com.tw>; Tue, 27 Nov 2018 09:58:11 +0800 (CST)
+Received: from l4.mailcloud.com.tw (mta.mailcloud.com.tw [10.0.0.4])
+	by spamfilter1.mailcloud.com.tw (Postfix) with ESMTP
+	for <m2k_service@mail2000.com.tw>; Tue, 27 Nov 2018 09:58:11 +0800 (CST)
+X-M2K-DINF: v=1;em=2;eh=1c343546/LLQGsE;ec=bb9e6a77;m=B8DSAn+1ougP5LLwtPInx3j8
+   L+ViagqLM9tiOweqlpH2z0gSavnyI+n/8w1uzmsxXiL//Np1AsTQN8vjEBoZTTNttxoC363DbbjL
+   ejuBC0l6XP1XNMxAZ6crf3RUGRU8EeJQvE0JlwVA94ndWVZExJQ7QnHEHEe5glXmP0nAJkMdAGdj
+   XPd+MA34NE3Wsvy/PyYJ1zWI0p1jrsDT9wk79AXJR1E1WVyyl7Z2v2yQ/bv7Lm04mr8+QJIkcSnK
+   tEhL
+X-MailGates: (DK:2,PASS,no signature)(DKIM:2,PASS,No signature(2))(flag:
+	3,DYNAMIC,RELAY,NOHOST:PASS)(IPF:0,HAM,3.3.3.3)(FROMBW:2,PASS)(FROMBW:2,
+	PASS)(ipmatch:pattern.iptrust.system,,HAM,3.3.3.3,0)
+Received: from 3.3.3.3
+	by mta.mailcloud.com.tw with MailAudit ESMTP Server V5.0(31701:1:AUTH_NONE)
+	(envelope-from <oidcservice@mail.edu.tw>); Tue, 27 Nov 2018 09:58:09 +0800 (CST)
+X-MailGates: (flag:3,DYNAMIC,RELAY,NOHOST:PASS)
+Received: from 172.16.0.95
+	by mg1.office.openfind.com.tw with MailGates ESMTP Server V5.0(10815:0:AUTH_RELAY)
+	(envelope-from <oidcservice@mail.edu.tw>); Tue, 27 Nov 2018 09:58:06 +0800 (CST)
+Received: By OpenMail Mailer;Tue, 27 Nov 2018 09:58:01 +0800 (CST)
+Received: from 10.0.1.115
+	by mail2.office.openfind.com.tw with Mail2000 ESMTP Server V7.00(29168:0:AUTH_RELAY)
+	(envelope-from <oidcservice@mail.edu.tw>); Tue, 27 Nov 2018 09:58:00 +0800 (CST)
+X-M2K-MSG-ID: 5BFCA4A85FF00A08
+X-M2K-DINF: v=1;em=2;eh=45c0a1e9/CpY3Uu;ec=208c08de;m=ABEUUgoTnruPkZdQy11kiB5r
+   6GnUdeL+whH6HfzQeLF9FgXMd25uAlZKYQegY/SXGNmJgqqf9Xf4Jgt+O8T8wPK10MtqxpQINgdy
+   uDs7TVa9OV2T/96MWGD7PLxb8pCk0vRCrYs5YSpgDbDb2FpJgPy9T1MnWdM5tGr67aqXZRgmwQBl
+   nvLelvUZOrcMIbO15ApiyQTY49akO8KOlvIMy4yq+rUT2hFkOcNHaCcKsQ5Eu7PR54CDkM8ldlTP
+   VCpn
+X-MailGates: (RBL:2,PASS,0.000000e+00)(SPF:2,PASS,pass)(BATV:2,PASS,send
+	er not empty)(DKIM:2,PASS,No signature(2))(DMARC:2,PASS,Looked up domain
+	 lacked a DMARC record(9))(flag:0,LAN:PASS)(IPF:2,PASS)(FROMBW:2,PASS)(F
+	ROMBW:2,PASS)(bayesian:SCORE-38,0.00,2)(commtouch:PASS,1,str=0001.0A0902
+	04.5BFCA4A8.0016,ss=1,re=0.000,recu=0.000,reip=0.000,cl=1,cld=1,fgs=0,2)
+	(localsimi:PASS,2)(mail_charset:PASS,2)(compute_score:HAM,2,0)
+Received: from 163.28.10.61
+	by mg1.office.openfind.com.tw with MailGates ESMTP Server V5.0(10791:0:AUTH_NONE)
+	(envelope-from <oidcservice@mail.edu.tw>); Tue, 27 Nov 2018 09:57:58 +0800 (CST)
+Received: from 60.249.27.199
+	by mail61.edu.tw with Mail2000 ESMTP Server V6.00(32478:0:AUTH_LOGIN)
+	(envelope-from <oidcservice@mail.edu.tw>); Tue, 27 Nov 2018 09:57:50 +0800 (CST)
+From: "oidcservice" <oidcservice@mail.edu.tw>
+To: <ronnd001@pyes.chc.edu.tw>,
+	=?big5?B?J7HQqHyzoa7Vtum2s7rduXGkbLZspfMn?= <edu@openfind.com.tw>,
+	<keyboard@mail.moe.gov.tw>
+Subject: =?big5?B?rtW26bazut25cbZssXqmbiEgwuCqvqjPpc6qzKdpqr61TKprpqyrSLDdw0Q=?=
+Date: Tue, 27 Nov 2018 09:57:49 +0800
+Message-ID: <00c301d485f4$99cd73c0$cd685b40$@mail.edu.tw>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00C4_01D48637.A7F15000"
+X-Mailer: Microsoft Outlook 16.0
+Content-Language: zh-tw
+Thread-Index: AdSF8+xySaLEvQg/R6qA324OnjzRKg==
+X-DCC-Body-Count: 1
+X-DCC-Fuz1-Count: 1
+X-DCC-Fuz2-Count: 1000000
+X-DCC--Metrics: spamfilter1.mailcloud.com.tw 1325; Body=1 Fuz1=1 Fuz2=many
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_00C4_01D48637.A7F15000
+Content-Type: text/plain;
+	charset="big5"
+Content-Transfer-Encoding: base64
+
+rtW26bazut25cbZsq8iqQbF6pm4hDQoNCiANCg0KwuCqvrn8pMa/pK5IxlGw6qRwptGudrNxqr6+
+x67VsdCudqTOvselzajPpc6u1bbptrO63blxtmy1TKprpqyrSKq6qqyqcA0KDQqsSbJRtESm0a52
+qu2l3LVupEqoU6azsN3DRKFBpv22aaRKrtW26blxtmyr4bVMqmumrKjsq0il8w0KDQqm0a52qrqx
+Yri5pnCkVToNCg0Kcm9ubmQ2NnNpQG1haWwuZWR1LnR3IDxtYWlsdG86cm9ubmQ2NnNpQG1haWwu
+ZWR1LnR3PiANCg0KIA0KDQqm0a52s3O1uLlxuNw6DQoNCjA5MjA1Mzk1NDANCg0KIA0KDQqzwrfQ
+sXqo86dVrGS43w0KDQogDQoNCrHQqHy2s7rdsWK4ubr7uUKkcLLVICC3caRXDQoNCg==
+
+------=_NextPart_000_00C4_01D48637.A7F15000
+Content-Type: text/html;
+	charset="big5"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dbig5"><meta =
+name=3DGenerator content=3D"Microsoft Word 15 (filtered =
+medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:=B7s=B2=D3=A9=FA=C5=E9;
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@=B7s=B2=D3=A9=FA=C5=E9";
+	panose-1:2 1 6 1 0 1 1 1 1 1;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+/* Page Definitions */
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DZH-TW =
+link=3D"#0563C1" vlink=3D"#954F72" =
+style=3D'text-justify-trim:punctuation'><div class=3DWordSection1><p =
+class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;font-family:"=B7s=B2=D3=A9=FA=C5=E9",serif'>=AE=
+=D5=B6=E9=B6=B3=BA=DD=B9q=B6l=AB=C8=AAA=B1z=A6n</span><span lang=3DEN-US =
+style=3D'font-size:14.0pt'>!<o:p></o:p></span></p><p =
+class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:14.0pt'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;font-family:"=B7s=B2=D3=A9=FA=C5=E9",serif'>=C2=
+=E0=AA=BE=B9=FC=A4=C6=BF=A4=AEH=C6Q=B0=EA=A4p=A6=D1=AEv=B3q=AA=BE=BE=C7=AE=
+=D5=B1=D0=AEv=A4=CE=BE=C7=A5=CD=A8=CF=A5=CE=AE=D5=B6=E9=B6=B3=BA=DD=B9q=B6=
+l=B5L=AAk=A6=AC=ABH=AA=BA=AA=AC=AAp</span><span lang=3DEN-US =
+style=3D'font-size:14.0pt'><o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;font-family:"=B7s=B2=D3=A9=FA=C5=E9",serif'>=AC=
+I=B2Q=B4D=A6=D1=AEv=AA=ED=A5=DC=B5n=A4J=A8S=A6=B3=B0=DD=C3D=A1A=A6=FD=B6i=
+=A4J=AE=D5=B6=E9=B9q=B6l=AB=E1=B5L=AAk=A6=AC=A8=EC=ABH=A5=F3</span><span =
+lang=3DEN-US style=3D'font-size:14.0pt'><o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;font-family:"=B7s=B2=D3=A9=FA=C5=E9",serif'>=A6=
+=D1=AEv=AA=BA=B1b=B8=B9=A6p=A4U</span><span lang=3DEN-US =
+style=3D'font-size:14.0pt'>:<o:p></o:p></span></p><p =
+class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:14.0pt'><a =
+href=3D"mailto:ronnd66si@mail.edu.tw">ronnd66si@mail.edu.tw</a><o:p></o:p=
+></span></p><p class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:14.0pt'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;font-family:"=B7s=B2=D3=A9=FA=C5=E9",serif'>=A6=
+=D1=AEv=B3s=B5=B8=B9q=B8=DC</span><span lang=3DEN-US =
+style=3D'font-size:14.0pt'>:<o:p></o:p></span></p><p =
+class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:14.0pt'>0920539540<o:p></o:p></span></p><p =
+class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:14.0pt'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;font-family:"=B7s=B2=D3=A9=FA=C5=E9",serif'>=B3=
+=C2=B7=D0=B1z=A8=F3=A7U=ACd=B8=DF</span><span lang=3DEN-US =
+style=3D'font-size:14.0pt'><o:p></o:p></span></p><p =
+class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:14.0pt'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;font-family:"=B7s=B2=D3=A9=FA=C5=E9",serif'>=B1=
+=D0=A8|=B6=B3=BA=DD=B1b=B8=B9=BA=FB=B9B=A4p=B2=D5</span><span =
+lang=3DEN-US style=3D'font-size:14.0pt'>&nbsp; </span><span =
+style=3D'font-size:14.0pt;font-family:"=B7s=B2=D3=A9=FA=C5=E9",serif'>=B7=
+q=A4W</span><span lang=3DEN-US =
+style=3D'font-size:14.0pt'><o:p></o:p></span></p></div></body></html>
+------=_NextPart_000_00C4_01D48637.A7F15000--
+

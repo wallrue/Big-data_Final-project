@@ -1,0 +1,270 @@
+X-M2KSPAM: NO/-6
+Received: from 3.3.3.3
+	by asp6.mail2000.com.tw with Mail2000 ESMTP Server V4.00S(4527:1:AUTH_RELAY)
+	(envelope-from <prvs=18866070E5=p-marker@openfind.com.tw>); Wed, 26 Jun 2013 15:50:02 +0800 (CST)
+Return-Path: <prvs=18866070E5=p-marker@openfind.com.tw>
+Received: from 10.0.0.40
+	by bak1.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(81302:0:AUTH_RELAY)
+	(envelope-from <prvs=18866070E5=p-marker@openfind.com.tw>); Wed, 26 Jun 2013 15:49:56 +0800 (CST)
+Return-Path: <prvs=18866070E5=p-marker@openfind.com.tw>
+M2KForward: Yes
+Received: By OpenMail Mailer;Wed, 26 Jun 2013 15:49:56 +0800 (CST)
+Received: from 203.69.82.34
+	by m0.mail2000.com.tw with Mail2000 ESMTP Server V3.20M(47925:0:AUTH_NONE)
+	(envelope-from <prvs=18866070E5=p-marker@openfind.com.tw>); Wed, 26 Jun 2013 15:49:55 +0800 (CST)
+Return-Path: <prvs=18866070E5=p-marker@openfind.com.tw>
+X-M2KSPAM: NO/-6
+Received: from 210.59.162.122
+	by mx2.mail2000.com.tw with Mail2000 ESMTP Server V4.00M(96422:0:AUTH_NONE)
+	(envelope-from <prvs=18866070E5=p-marker@openfind.com.tw>); Wed, 26 Jun 2013 15:49:53 +0800 (CST)
+Return-Path: <prvs=18866070E5=p-marker@openfind.com.tw>
+X-M2KPolicyIP: 210.59.162.122 (mg.office.openfind.com.tw)
+X-MailGates: (audit_rules:rules.audit_out1311132448.system#,,aDELIVER,R/
+	m2k_service@mail2000.com.tw,4,ou)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+X-MGNN: No/-442142444
+X-MGADT: rules.audit_out1311132448.system#,R/m2k_service@mail2000.com.tw
+Received: from 10.0.0.95
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(29035:0:AUTH_RELAY)
+	(envelope-from <p-marker@openfind.com.tw>); Wed, 26 Jun 2013 15:44:43 +0800 (CST)
+Return-Path: <p-marker@openfind.com.tw>
+Received: By OpenMail Mailer;Wed, 26 Jun 2013 15:44:38 +0800 (CST)
+Received: from 10.0.0.96
+	by mail.office.openfind.com.tw with Mail2000 ESMTP Server V6.00(8531:0:AUTH_RELAY)
+	(envelope-from <p-marker@openfind.com.tw>); Wed, 26 Jun 2013 15:44:37 +0800 (CST)
+Return-Path: <p-marker@openfind.com.tw>
+X-M2KPolicyIP: 10.0.0.96 (#NOT FOUND)
+X-MailGates: (RBL:2,PASS,0.000000e+00)(BATV:2,PASS,sender not empty)(fla
+	g:1,RELAY:PASS)(IPF:2,PASS)(bayesian:SCORE-38,0.00,2)(commtouch:PASS,1,s
+	tr=0001.0A150204.51CA9BE5.0068:SCFMA4218066,ss=1,re=-4.000,fgs=0,2)(head
+	er_match_any:pattern.fromtrust.system,,HAM,*@openfind.com.tw,0)
+X-MGMilo: No
+X-MGCT: No
+X-MGBS: No
+X-MGNN: No/2
+Received: from 203.69.82.69
+	by mg.office.openfind.com.tw with MailGates ESMTP Server V4.0(29045:0:AUTH_NONE)
+	(envelope-from <p-marker@openfind.com.tw>); Wed, 26 Jun 2013 15:44:32 +0800 (CST)
+Return-Path: <p-marker@openfind.com.tw>
+Received: from 10.0.0.41
+	by bak1.mail2000.com.tw with Mail2000 ESMTP Server V4.50S(81303:0:AUTH_LOGIN)
+	(envelope-from <p-marker@openfind.com.tw>); Wed, 26 Jun 2013 15:44:15 +0800 (CST)
+Return-Path: <p-marker@openfind.com.tw>
+Received: By OpenMail Mailer;Wed, 26 Jun 2013 15:44:14 +0800 (CST)
+From: "=?big5?B?UC1NYXJrZXIgrdO46r1MwkmqQbDI?=" <p-marker@openfind.com.tw>
+Reply-To: p-marker@openfind.com.tw
+Subject: =?big5?B?UmU6IEZ3ZDogpXi/faS9pXGleKSksM+zQrLOrXA=?=
+	=?big5?B?sb20eaV4vMams7t+KMHCqkbF77FIKQ==?=
+Message-ID: <1372232654.71289.p-marker@openfind.com.tw>
+In-Reply-To: <9B815B0F-7128-441B-8E3D-1981DD9D2238@radiant-tech.com.tw>
+References: <C8F2DC6A62174BACB89DC536B7FF6A85@310061030195>
+	<9B815B0F-7128-441B-8E3D-1981DD9D2238@radiant-tech.com.tw>
+To: "=?big5?B?us2p+rjqs3Ffwem6Yb+r?=" <barbet@radiant-tech.com.tw>,
+	"p-marker" <p-marker@openfind.com.tw>
+Date: Wed, 26 Jun 2013 15:44:14 +0800 (CST)
+MIME-Version: 1.0
+Return-Path: p-marker@openfind.com.tw
+Content-Type: multipart/alternative;
+	boundary="---,8V1PrfsaM--)dMEASYeQ2XSxi("
+
+-----,8V1PrfsaM--)dMEASYeQ2XSxi(
+Content-Type: text/plain; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+
+=C1=E9=C5U=B0=DD=B1z=A6n=A1A
+
+=A4w=C1p=B5=B8=A5x=BF}=C1=C2=AAF=C5=EF=A5=FD=A5=CD=B3B=B2z=A1C
+
+P-Marker=20=AB=C8=AAA=A4=A4=A4=DF=20=B7q=A4W
+-----------------------------------------------------------------------
+P-Marker=20=AB=C8=AAA=A4=A4=A4=DF
+=AB=C8=AAA=B1M=BDu=A1G02-2553-7272
+=AB=C8=AAA=B6=C7=AFu=A1G02-2553-5956
+=AB=C8=AAA=ABH=BDc=A1Gp-marker@openfind.com.tw
+Mail2000=B9q=A4l=ABH=BDc=20http://mail2000.com.tw/
+=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8=20http://www.mailcloud.com.tw=20=
+
+=BA=F4=C0=BA=20Openfind=20=A5=F8=B7~=BA=F4=AF=B8=20http://www.openfind.com/t=
+aiwan
+-----------------------------------------------------------------------
+
+
+
+-----Original=20message-----
+From:=BA=CD=A9=FA=B8=EA=B3q_=C1=E9=BAa=BF=AB<barbet@radiant-tech.com.tw>
+To:online_se@openfind.com.tw<online_se@openfind.com.tw>
+Date:=20Tue,=2025=20Jun=202013=2022:54:08
+Subject:=20Fwd:=20=A5x=BF}=A4=BD=A5q=A5x=A4=A4=B0=CF=B3B=B2=CE=ADp=B1=BD=B4y=
+=A5x=BC=C6=A6=B3=BB~(=C1=C2=AAF=C5=EF=B1H)
+Dear=A1G
+
+=A5x=BF}=A4=BD=A5q=B0=DD=C3D=A1A=BD=D0=A8=F3=A7U=B3B=B2z=A1I
+
+
+****************************
+=AD=D3=B8=EA=BDL=ACd=A4=A3=A5J=B2=D3=20=20=ABO=C5@=A7@=AC=B0=A5=D5=B6O=A4O
+
+=BA=CD=A9=FA=B8=EA=B3q=AA=D1=A5=F7=A6=B3=AD=AD=A4=BD=A5q
+Radiant-Tech=20Co.=20Ltd.
+=AD=BA=AEu=C5U=B0=DD=A1G=C1=E9=BAa=BF=AB
+Mobile:=200932-391-546
+TEL:=2002-23659482
+Email:=20barbet=A2Iradiant-tech.com.tw
+****************************
+
+
+=B6}=A9l=C2=E0=B1H=B6l=A5=F3=A1G
+=B1H=A5=F3=A4H:=20=C1=C2=AAF=C5=EF=20<a61030@taisugar.com.tw>
+
+=BC=D0=C3D:=20=A5x=BF}=A4=BD=A5q=A5x=A4=A4=B0=CF=B3B=B2=CE=ADp=B1=BD=B4y=A5x=
+=BC=C6=A6=B3=BB~(=C1=C2=AAF=C5=EF=B1H)
+
+=A4=E9=B4=C1:=202013=A6~6=A4=EB25=A4=E9=20=A4U=A4=C812:46:40=20[GMT+08:00]
+
+=A6=AC=A5=F3=A4H:=20=BA=CD=A9=FA=B8=EA=B3q=20=C1=E9=BAa=BF=AB=20=AD=BA=AEu=C5=
+U=B0=DD=20<barbet@radiant-tech.com.tw>
+
+
+=20
+
+
+-----,8V1PrfsaM--)dMEASYeQ2XSxi(
+Content-Type: text/html; charset=big5
+Content-Transfer-Encoding: quoted-printable
+
+<html><br>=C1=E9=C5U=B0=DD=B1z=A6n=A1A<br>
+<br>=A4w=C1p=B5=B8=A5x=BF}=C1=C2=AAF=C5=EF=A5=FD=A5=CD=B3B=B2z=A1C<div><br>
+<br><div>P-Marker=20=AB=C8=AAA=A4=A4=A4=DF=20=B7q=A4W</div><div><font=20size=
+=3D"2">---------------------------------------------------------------------=
+--<br>P-Marker=20=AB=C8=AAA=A4=A4=A4=DF</font></div><div><font=20size=3D"2">=
+=AB=C8=AAA=B1M=BDu=A1G02-2553-7272</font></div><div><font=20size=3D"2">=AB=C8=
+=AAA=B6=C7=AFu=A1G02-2553-5956</font></div><div><font=20size=3D"2">=AB=C8=AA=
+A=ABH=BDc=A1G<font=20color=3D"#0000ff">p-marker@openfind.com.tw</font><br>Ma=
+il2000=B9q=A4l=ABH=BDc&nbsp;<a=20target=3D"_blank"=20href=3D"http://mail2000=
+.com.tw/"=20style=3D"color:=20purple;">http://mail2000.com.tw/</a><br></font=
+><font=20size=3D"2">=BA=F4=C0=BA=A5=F8=B7~=B6=B3=BA=DD=AAA=B0=C8&nbsp;</font=
+><a=20target=3D"_blank"=20href=3D"http://www.mailcloud.com.tw/"=20style=3D"c=
+olor:=20purple;"><font=20size=3D"2"></font></a><font=20size=3D"2"><a=20targe=
+t=3D"_blank"=20href=3D"http://www.mailasp.com.tw/"=20style=3D"color:=20purpl=
+e;">http://</a></font><font=20size=3D"2"><a=20target=3D"_blank"=20href=3D"ht=
+tp://www.mailcloud.com.tw/"=20style=3D"color:=20purple;">www.mailcloud.com.t=
+w</a>&nbsp;</font><br><font=20size=3D"2">=BA=F4=C0=BA=20Openfind=20=A5=F8=B7=
+~=BA=F4=AF=B8&nbsp;<a=20target=3D"_blank"=20href=3D"http://www.openfind.com/=
+taiwan"=20style=3D"color:=20purple;">http://www.openfind.com/taiwan</a></fon=
+t></div><div><font=20size=3D"2">--------------------------------------------=
+---------------------------</font></div>
+<br>
+<br><br>
+-----Original=20message-----<br>
+
+
+
+
+
+
+
+
+<b>From:</b>=BA=CD=A9=FA=B8=EA=B3q_=C1=E9=BAa=BF=AB&lt;barbet@radiant-tech.c=
+om.tw&gt;<br>
+<b>To:</b>online_se@openfind.com.tw&lt;online_se@openfind.com.tw&gt;<br>
+<b>Date:=20</b>=20Tue,=2025=20Jun=202013=2022:54:08<br>
+<b>Subject:</b>=20Fwd:=20=A5x=BF}=A4=BD=A5q=A5x=A4=A4=B0=CF=B3B=B2=CE=ADp=B1=
+=BD=B4y=A5x=BC=C6=A6=B3=BB~(=C1=C2=AAF=C5=EF=B1H)<br>
+<meta=20http-equiv=3D"Content-Type"=20content=3D"text/html=20charset=3Dbig5"=
+><div>Dear=A1G</div><div><br></div>=A5x=BF}=A4=BD=A5q=B0=DD=C3D=A1A=BD=D0=A8=
+=F3=A7U=B3B=B2z=A1I<br><div=20apple-content-edited=3D"true">
+<br><br>****************************<br>=AD=D3=B8=EA=BDL=ACd=A4=A3=A5J=B2=D3=
+=20&nbsp;=ABO=C5@=A7@=AC=B0=A5=D5=B6O=A4O<br><br>=BA=CD=A9=FA=B8=EA=B3q=AA=D1=
+=A5=F7=A6=B3=AD=AD=A4=BD=A5q<br>Radiant-Tech=20Co.=20Ltd.<br>=AD=BA=AEu=C5U=B0=
+=DD=A1G=C1=E9=BAa=BF=AB<br>Mobile:=200932-391-546<br>TEL:=2002-23659482<br>E=
+mail:&nbsp;<a=20href=3D"mailto:barbet@radiant-tech.com.tw">barbet=A2Iradiant=
+-tech.com.tw</a><br>****************************<br><span=20style=3D"color:=20=
+rgb(0,=200,=200);=20font-family:=20Helvetica;=20font-size:=20medium;=20font-=
+style:=20normal;=20font-variant:=20normal;=20font-weight:=20normal;=20letter=
+-spacing:=20normal;=20line-height:=20normal;=20orphans:=202;=20text-align:=20=
+-webkit-auto;=20text-indent:=200px;=20text-transform:=20none;=20white-space:=
+=20normal;=20widows:=202;=20word-spacing:=200px;=20-webkit-text-size-adjust:=
+=20auto;=20-webkit-text-stroke-width:=200px;=20"><div=20style=3D"word-wrap:=20=
+break-word;=20-webkit-nbsp-mode:=20space;=20-webkit-line-break:=20after-whit=
+e-space;=20"><span=20class=3D"Apple-style-span"=20style=3D"border-collapse:=20=
+separate;=20border-spacing:=200px;"><span><br=20class=3D"Apple-interchange-n=
+ewline"=20style=3D"color:=20rgb(0,=200,=200);=20font-family:=20Helvetica;=20=
+font-size:=20medium;=20font-style:=20normal;=20font-variant:=20normal;=20fon=
+t-weight:=20normal;=20letter-spacing:=20normal;=20line-height:=20normal;=20o=
+rphans:=202;=20text-align:=20-webkit-auto;=20text-indent:=200px;=20text-tran=
+sform:=20none;=20white-space:=20normal;=20widows:=202;=20word-spacing:=200px=
+;=20-webkit-text-size-adjust:=20auto;=20-webkit-text-stroke-width:=200px;=20=
+"><span=20style=3D"color:=20rgb(0,=200,=200);=20font-family:=20Helvetica;=20=
+font-size:=20medium;=20font-style:=20normal;=20font-variant:=20normal;=20fon=
+t-weight:=20normal;=20letter-spacing:=20normal;=20line-height:=20normal;=20o=
+rphans:=202;=20text-align:=20-webkit-auto;=20text-indent:=200px;=20text-tran=
+sform:=20none;=20white-space:=20normal;=20widows:=202;=20word-spacing:=200px=
+;=20-webkit-text-size-adjust:=20auto;=20-webkit-text-stroke-width:=200px;=20=
+"><span><span><span><span><span><span><span><span><span><span><span><span><s=
+pan></span></span></span></span></span></span></span></span></span></span></=
+span></span></span></span></span></span></div></span></div><meta=20http-equi=
+v=3D"Content-Type"=20content=3D"text/html=20charset=3Dbig5"><div=20apple-con=
+tent-edited=3D"true"><span=20style=3D"color:=20rgb(0,=200,=200);=20font-fami=
+ly:=20Helvetica;=20font-size:=20medium;=20font-style:=20normal;=20font-varia=
+nt:=20normal;=20font-weight:=20normal;=20letter-spacing:=20normal;=20line-he=
+ight:=20normal;=20orphans:=202;=20text-align:=20-webkit-auto;=20text-indent:=
+=200px;=20text-transform:=20none;=20white-space:=20normal;=20widows:=202;=20=
+word-spacing:=200px;=20-webkit-text-size-adjust:=20auto;=20-webkit-text-stro=
+ke-width:=200px;=20"><div=20style=3D"word-wrap:=20break-word;=20-webkit-nbsp=
+-mode:=20space;=20-webkit-line-break:=20after-white-space;=20"><span=20class=
+=3D"Apple-style-span"=20style=3D"border-collapse:=20separate;=20color:=20rgb=
+(0,=200,=200);=20font-family:=20Helvetica;=20font-style:=20normal;=20font-va=
+riant:=20normal;=20font-weight:=20normal;=20letter-spacing:=20normal;=20line=
+-height:=20normal;=20orphans:=202;=20text-align:=20-webkit-auto;=20text-inde=
+nt:=200px;=20text-transform:=20none;=20white-space:=20normal;=20widows:=202;=
+=20word-spacing:=200px;=20border-spacing:=200px;=20-webkit-text-decorations-=
+in-effect:=20none;=20-webkit-text-size-adjust:=20auto;=20-webkit-text-stroke=
+-width:=200px;=20font-size:=20medium;=20"><span><span=20style=3D"color:=20rg=
+b(0,=200,=200);=20font-family:=20Helvetica;=20font-size:=20medium;=20font-st=
+yle:=20normal;=20font-variant:=20normal;=20font-weight:=20normal;=20letter-s=
+pacing:=20normal;=20line-height:=20normal;=20orphans:=202;=20text-align:=20-=
+webkit-auto;=20text-indent:=200px;=20text-transform:=20none;=20white-space:=20=
+normal;=20widows:=202;=20word-spacing:=200px;=20-webkit-text-size-adjust:=20=
+auto;=20-webkit-text-stroke-width:=200px;=20"><span><span><span><span><span>=
+<span><span><span><span><span><span><span><span></span>
+</span></span></span></span></span></span></span></span></span></span></span=
+></span></span></span></span></div>
+</span></div><div><br><div>=B6}=A9l=C2=E0=B1H=B6l=A5=F3=A1G</div><br=20class=
+=3D"Apple-interchange-newline"><blockquote=20type=3D"cite"><div=20style=3D"m=
+argin-top:=200px;=20margin-right:=200px;=20margin-bottom:=200px;=20margin-le=
+ft:=200px;"><span=20style=3D"font-family:'Helvetica';=20font-size:medium;=20=
+color:rgba(0,=200,=200,=201.0);"><b>=B1H=A5=F3=A4H:=20</b></span><span=20sty=
+le=3D"font-family:'Helvetica';=20font-size:medium;">=C1=C2=AAF=C5=EF=20&lt;<=
+a=20href=3D"mailto:a61030@taisugar.com.tw">a61030@taisugar.com.tw</a>&gt;<br=
+></span></div><div=20style=3D"margin-top:=200px;=20margin-right:=200px;=20ma=
+rgin-bottom:=200px;=20margin-left:=200px;"><span=20style=3D"font-family:'Hel=
+vetica';=20font-size:medium;=20color:rgba(0,=200,=200,=201.0);"><b>=BC=D0=C3=
+D:=20</b></span><span=20style=3D"font-family:'Helvetica';=20font-size:medium=
+;"><b>=A5x=BF}=A4=BD=A5q=A5x=A4=A4=B0=CF=B3B=B2=CE=ADp=B1=BD=B4y=A5x=BC=C6=A6=
+=B3=BB~(=C1=C2=AAF=C5=EF=B1H)</b><br></span></div><div=20style=3D"margin-top=
+:=200px;=20margin-right:=200px;=20margin-bottom:=200px;=20margin-left:=200px=
+;"><span=20style=3D"font-family:'Helvetica';=20font-size:medium;=20color:rgb=
+a(0,=200,=200,=201.0);"><b>=A4=E9=B4=C1:=20</b></span><span=20style=3D"font-=
+family:'Helvetica';=20font-size:medium;">2013=A6~6=A4=EB25=A4=E9=20=A4U=A4=C8=
+12:46:40=20[GMT+08:00]<br></span></div><div=20style=3D"margin-top:=200px;=20=
+margin-right:=200px;=20margin-bottom:=200px;=20margin-left:=200px;"><span=20=
+style=3D"font-family:'Helvetica';=20font-size:medium;=20color:rgba(0,=200,=20=
+0,=201.0);"><b>=A6=AC=A5=F3=A4H:=20</b></span><span=20style=3D"font-family:'=
+Helvetica';=20font-size:medium;">=BA=CD=A9=FA=B8=EA=B3q=20=C1=E9=BAa=BF=AB=20=
+=AD=BA=AEu=C5U=B0=DD=20&lt;<a=20href=3D"mailto:barbet@radiant-tech.com.tw">b=
+arbet@radiant-tech.com.tw</a>&gt;<br></span></div><br>
+<div=20dir=3D"ltr">
+<div=20dir=3D"ltr">
+<div=20style=3D"font-size:=2012pt;=20font-family:=20Calibri;=20">
+<div>&nbsp;</div></div></div></div>
+</blockquote></div><meta=20http-equiv=3D"Content-Type"=20content=3D"text/htm=
+l=20charset=3Dbig5"><div=20class=3D"AppleOriginalContents"><blockquote=20typ=
+e=3D"cite"></blockquote></div><meta=20http-equiv=3D"Content-Type"=20content=3D=
+"text/html=20charset=3Dbig5"><div=20class=3D"AppleOriginalContents"><blockqu=
+ote=20type=3D"cite"></blockquote></div><meta=20http-equiv=3D"Content-Type"=20=
+content=3D"text/html=20charset=3Dbig5"><div><blockquote=20type=3D"cite"></bl=
+ockquote></div><br></div></html>
+-----,8V1PrfsaM--)dMEASYeQ2XSxi(--
