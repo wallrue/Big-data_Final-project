@@ -10,7 +10,7 @@ This is repository for final project of Big data analysis course. Topic of final
 
 2. <strong>Organized dataset:</strong>
 
-  [Organized dataset](dataset/orgaized_dataset/) is result of converting raw dataset into compuatable format. In detail, 2,526 emails from raw dataset were allocated in an CSV file. This CSV file consists of 2,526 tuples corresponding to 2,526 emails and 3 attributes (sender, topic, content) of each email.
+  [Organized dataset](dataset/organized_dataset/) is result of converting raw dataset into compuatable format. In detail, 2,526 emails from raw dataset were allocated in an CSV file. This CSV file consists of 2,526 tuples corresponding to 2,526 emails and 3 attributes (sender, topic, content) of each email.
 
   <strong>* Overview Dataset</strong>: The organized dataset is described as below image.
   
