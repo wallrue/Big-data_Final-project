@@ -6,10 +6,12 @@ This is repository for final project of Big data analysis course. Topic of final
 ## Dataset Description
 1. <strong>Raw dataset:</strong>
 
-  [Raw dataset](https://github.com/wallrue/NTUST_Big-data_Final-project/dataset/raw_dataset/project_textmining_rawdata_20220518) includes 2,526 eml files which imply 2,526 emails sent from customers. Those emails were gathered in the period from 2015 - 2018. The records from various sources such as Mail2000, MailCloud, MailGates, Green Edm.
+  [Raw dataset](https://github.com/wallrue/NTUST_Big-data_Final-project/dataset/project_textmining_rawdata_20220518) includes 2,526 eml files which imply 2,526 emails sent from customers. Those emails were gathered in the period from 2015 - 2018. The records from various sources such as Mail2000, MailCloud, MailGates, Green Edm.
+
 2. <strong>Organized dataset:</strong>
 
   [Organized dataset](https://github.com/wallrue/NTUST_Big-data_Final-project/dataset/orgaized_dataset/) is result of converting raw dataset into compuatable format. In detail, 2,526 emails from raw dataset were allocated in an CSV file. This CSV file consists of 2,526 tuples corresponding to 2,526 emails and 3 attributes (sender, topic, content) of each email.
+
   <strong>* Overview Dataset</strong>: The organized dataset is described as below image.
   
   <img src="https://github.com/wallrue/NTUST_Big-data_Final-project/dataset/orgaized_dataset/dataset_img.png" alt="1" width = auto height = auto>
