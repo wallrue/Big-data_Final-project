@@ -8,13 +8,17 @@ This is repository for final project of Big data analysis course. Topic of final
 
   [Raw dataset](dataset/project_textmining_rawdata_20220518) includes 2,526 eml files which imply 2,526 emails sent from customers. Those emails were gathered in the period from 2015 - 2018. The records from various sources such as Mail2000, MailCloud, MailGates, Green Edm.
 
+  <strong>* Overview Dataset</strong>: The raw dataset is described as below image.
+  
+  <img src="dataset/raw_dataset_img.png" alt="1" width = auto height = auto>
+
 2. <strong>Organized dataset:</strong>
 
-  [Organized dataset](dataset/organized_dataset/) is result of converting raw dataset into compuatable format. In detail, 2,526 emails from raw dataset were allocated in an CSV file. This CSV file consists of 2,526 tuples corresponding to 2,526 emails and 3 attributes (sender, topic, content) of each email.
+  [Organized dataset](dataset/organized_dataset/) is result of converting raw dataset into compuatable format. In detail, 2,526 emails from raw dataset were allocated in an CSV file. This CSV file consists of 2,526 tuples corresponding to 2,526 emails and 7 attributes (﻿Date, Subject, From, From Email, To, Cc, Bcc, Body) of each email.
 
   <strong>* Overview Dataset</strong>: The organized dataset is described as below image.
   
-  <img src="dataset/organized_dataset/dataset_img.png" alt="1" width = auto height = auto>
+  <img src="dataset/organized_dataset/organized_dataset_img.png" alt="1" width = auto height = auto>
 
 ## Architecture
 1. <strong>Problem definition:</strong>
