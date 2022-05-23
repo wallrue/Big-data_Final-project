@@ -18,7 +18,7 @@ This is repository for final project of Big data analysis course. Topic of final
 
   <strong>* Overview Dataset</strong>: The organized dataset is described as below image.
   
-  <img src="dataset/organized_dataset/organized_dataset_img.png" alt="1" width = auto height = auto>
+  <img src="dataset/organized_dataset_img.png" alt="1" width = auto height = auto>
 
 ## Architecture
 1. <strong>Problem definition:</strong>
