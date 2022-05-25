@@ -20,26 +20,28 @@ This is repository for final project of Big data analysis course. Topic of final
   
   <img src="dataset/organized_dataset_img.png" alt="1" width = auto height = auto>
 
-## Architecture
+## Architecture  
 
-**Project statement**: find the topics and sentiment from unlabeled emails.
-**Project description**: the dataset contains 2,526 Outlook email without label. Therefore, the main process should be contained steps
-1. Data convert and prepocessing
-2. Using topic modeling to find the main topics of the dataset and in each email
-3. Finding the sentiments expressed in the dataset and in each email
-4. (if possible) verify the result of step 2 and 3 and labeling quality to decide futher classification model for new email coming.
-**Approach**
-Using unsuperised model (and Semi-superviased if step 4 above is feasible)
-- **Topics** using pretrained Bert Embedding to embedd text and visuliaze embedding to find appropriate cluster number (number of topics)
-- **Sentiment** ....
-**Evaluation** as no labeled data to compute the accuracy so the human varification is proposed
+**Project statement**: find the topics and sentiment from unlabeled emails.  
+**Project description**: the dataset contains 2,526 Outlook email without label. Therefore, the main process should be contained steps  
+1. Data convert and prepocessing  
+2. Using topic modeling to find the main topics of the dataset and in each email  
+3. Finding the sentiments expressed in the dataset and in each email  
+4. (if possible) verify the result of step 2 and 3 and labeling quality to decide futher classification model for new email coming.  
+**Approach**  
+Using unsuperised model (and Semi-superviased if step 4 above is feasible)  
+- **Topics** using pretrained Bert Embedding to embedd text and visuliaze embedding to find appropriate cluster number (number of topics)  
+- **Sentiment** ....  
+**Evaluation** as no labeled data to compute the accuracy so the human varification is proposed  
 
 2. <strong>Methodology:</strong> 
   
   From organized dataset, we manipulate some pre-processing steps to get sentences which are corresponding to each email. Then, each sentence will be taken to model for classify unsupervisedly. 
   
-  <img src="materials/architecture.png" alt="1" width = auto height = auto>
+  <img src="materials/architecture.png" alt="1" width = auto height = auto>  
+  
   **tobeupdated**
+  
 ## Task division:
   
   * **Vo Van Truc**: Data handling (review data, organise data, clean dataset)
