@@ -21,21 +21,30 @@ This is repository for final project of Big data analysis course. Topic of final
   <img src="dataset/organized_dataset_img.png" alt="1" width = auto height = auto>
 
 ## Architecture
-1. <strong>Problem definition:</strong>
- 
-  * There are two problems that need to be solved. The first thing, **topic analysis** for classifying topic of email. The second thing, **sentiment analysis** for classifying emotions of customers.  
-  * Learning type: The dataset with 2,526 files is a tough challenge for anyone to label each data in this dataset by hand. Moreover, dataset may increase up to hundred thousands in the future since 2,5s26 samples are not enough to build a model with the good performance. Therefore, **unsupervised learning type** is such the best choice for the problem.
+
+**Project statement**: find the topics and sentiment from unlabeled emails.
+**Project description**: the dataset contains 2,526 Outlook email without label. Therefore, the main process should be contained steps
+1. Data convert and prepocessing
+2. Using topic modeling to find the main topics of the dataset and in each email
+3. Finding the sentiments expressed in the dataset and in each email
+4. (if possible) verify the result of step 2 and 3 and labeling quality to decide futher classification model for new email coming.
+**Approach**
+Using unsuperised model (and Semi-superviased if step 4 above is feasible)
+- **Topics** using pretrained Bert Embedding to embedd text and visuliaze embedding to find appropriate cluster number (number of topics)
+- **Sentiment** ....
+**Evaluation** as no labeled data to compute the accuracy so the human varification is proposed
+
 2. <strong>Methodology:</strong> 
   
   From organized dataset, we manipulate some pre-processing steps to get sentences which are corresponding to each email. Then, each sentence will be taken to model for classify unsupervisedly. 
   
   <img src="materials/architecture.png" alt="1" width = auto height = auto>
-  
+  **tobeupdated**
 ## Task division:
   
   * **Vo Van Truc**: Data handling (review data, organise data, clean dataset)
   * **洪郡澤 (Nick)**: Explore dataset, process data for training (topic analysis)
-  * **Trinh TT Quynh**: Propose Idea, Train LDA model for training, Experiment
+  * **Trinh TT Quynh**: Propose Idea, topic modeling, Experiment
   * **Le Minh Tuong**: Propose Idea, process data for training (sentiment analysis), manage project
   * **Nguyen PT Nguyen**: Decision making (visualization, conclusion, making decision)
   
