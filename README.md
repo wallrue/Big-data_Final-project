@@ -36,7 +36,7 @@ III. <strong>Approaches:</strong> Using unsuperised model (and Semi-supervised i
 
 2. **Sentiment Analysis (sentiment labeling):**
 
-  <img src="materials/sentiment-architecture.png" alt="1" width = auto height = auto>  
+  <img src="materials/sentiment-architecture.PNG" alt="1" width = auto height = auto>  
 
 -   From organized dataset, we manipulate some pre-processing steps to get sentences which are corresponding to each email. Then, each sentence will be taken to model for labeling unsupervisedly.
 
@@ -46,11 +46,11 @@ III. <strong>Approaches:</strong> Using unsuperised model (and Semi-supervised i
 
 3. **Prediction:**
 
-  <img src="materials/main-architecture.png" alt="1" width = auto height = auto>  
+  <img src="materials/main-architecture.PNG" alt="1" width = auto height = auto>  
 
 - For prediction application, we build a model for training dataset with labels of sentiment and topic. 
 
-  <img src="materials/bilstm-architecture.png" alt="1" width = auto height = auto> 
+  <img src="materials/bilstm-architecture.PNG" alt="1" width = auto height = auto> 
 
 - We build an archiecture based on Bi-LSTM classifier for predicting both sentiment and topic at the same time.
 
