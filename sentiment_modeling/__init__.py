@@ -26,12 +26,6 @@ class Sentiment_classfifier(object):
         
         self.vocab_dict = self.classifier.get_vocab()['vocab']
         
-    def save(self, file_path):
-        self.lda_model.save(file_path)
-        
-    def load(self, file_path):
-        self.lda_model = gensim.models.ldamodel.LdaModel.load(file_path, mmap='r')
-        
     def handle(self, doc):
         han_text = normal.zh2hans(doc) #Conver Traditional chinese to simplfied chinese
         words = seg.seg(han_text) #segment the sentences
