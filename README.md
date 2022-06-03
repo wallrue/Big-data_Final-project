@@ -21,7 +21,7 @@ II. <strong>Organized dataset:</strong>
   <img src="dataset/organized_dataset_img.png" alt="1" width = auto height = auto>
 
 ## <strong>Architecture and Methodology:</strong> 
-I. <strong>Project statement:</strong> Find the topics and sentiment from unlabeled emails. Then, building a model for predictn 
+I. <strong>Project statement:</strong> Find the topics and sentiment from unlabeled emails. Then, building a model for predicton.
 
 II. <strong>Project description:</strong> The dataset contains 2,526 Outlook email without label. Therefore, the main process should be contained steps  
 
@@ -32,32 +32,41 @@ II. <strong>Project description:</strong> The dataset contains 2,526 Outlook ema
 
 III. <strong>Approaches:</strong> Using unsuperised model (and Semi-supervised if step 4 above is feasible)  
 
-1. **Topics Analysis:** Using LDA (Latent Dirichlet Allocation) to find appropriate cluster number (number of topics) . Output: csv file of emails and their possible topics  
+1. **Topics Analysis (topic labeling):** 
 
-2. **Sentiment Analysis:**
+2. **Sentiment Analysis (sentiment labeling):**
+
+  <img src="materials/sentiment-architecture.png" alt="1" width = auto height = auto>  
+
+-   From organized dataset, we manipulate some pre-processing steps to get sentences which are corresponding to each email. Then, each sentence will be taken to model for labeling unsupervisedly.
 
 - We explored  a sentiment dataset from Snownlp includes 16,548 samples for positive and 18,576 samples for negative. Then, we train a bayes-based model for giving sentiment score for input words as known as a sentiment classifier.
 
 - We assessed content of an email is positive or negative by sentiment scores of words in this email from sentiment classifier. If the sentiment score is higher than 0.5, the content will be positive and vice verse.
 
+3. **Prediction:**
+
+  <img src="materials/main-architecture.png" alt="1" width = auto height = auto>  
+
+- For prediction application, we build a model for training dataset with labels of sentiment and topic. 
+
+  <img src="materials/bilstm-architecture.png" alt="1" width = auto height = auto> 
+
+- We build an archiecture based on Bi-LSTM classifier for predicting both sentiment and topic at the same time.
+
+- For conclusion about the relation of content and emotion on dataset. The attribute of topic will be displayed by shape of points and attribute of sentiment will be displayed by color. Thorughout the graph, we can conclude the relation between sentiment and topic of each email. 
+
+
 IV. **Evaluation**   
 
-Based on the result from sentient model and topic model. Each email will be demonstrated on a graph. The attribute of sentiment will be displayed by shape of points and attribute of topic will be displayed by color. Thorughout the graph, we can conclude the relation between sentiment and topic of each email. 
-
-## <strong>Architecture and Methodology:</strong> 
-  
-  From organized dataset, we manipulate some pre-processing steps to get sentences which are corresponding to each email. Then, each sentence will be taken to model for classify unsupervisedly. 
-  
-  <img src="materials/architecture.png" alt="1" width = auto height = auto>  
-  
-  **tobeupdated**
+- To be updated
   
 ## <strong>Task division:</strong> 
   
   * **Vo Van Truc**: Data handling (review data, organise data, clean dataset)
-  * **洪郡澤 (Nick)**: Explore dataset, process data for training (topic analysis)
-  * **Trinh TT Quynh**: Propose Idea, topic modeling, Experiment
-  * **Le Minh Tuong**: Propose Idea, process data for training (sentiment analysis), manage project
+  * **洪郡澤 (Nick)**: Explore dataset, process data for topic labeling 
+  * **Trinh TT Quynh**: Propose Idea, topic labeling
+  * **Le Minh Tuong**: Propose Idea, sentiment labeling, building model for predition, manage project
   * **Nguyen PT Nguyen**: Decision making (visualization, conclusion, making decision)
   
   <img src="materials/workload.png" alt="1" width = auto height = auto>
