@@ -66,7 +66,7 @@ IV. **Evaluation**
   * **Vo Van Truc**: Data handling (review data, organise data, clean dataset)
   * **洪郡澤 (Nick)**: Explore dataset, process data for topic labeling 
   * **Trinh TT Quynh**: Propose Idea, topic labeling
-  * **Le Minh Tuong**: Propose Idea, sentiment labeling, building model for predition, manage project
+  * **Le Minh Tuong**: Propose Idea, sentiment labeling, building model for predition
   * **Nguyen PT Nguyen**: Decision making (visualization, conclusion, making decision)
   
   <img src="materials/workload.png" alt="1" width = auto height = auto>
